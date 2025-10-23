@@ -1,0 +1,319 @@
+
+
+
+
+
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Global Medieval Sourcebook</title>
+<link rel="stylesheet" type="text/css" href="/assets/css/styles_feeling_responsive.css">
+<script src="/assets/js/modernizr.min.js "></script>
+<meta name="description" content="">
+<link rel="icon" type="image/png" href="/assets/img/favicon.png">
+
+
+
+<body id="top-of-page" class="">
+  
+  <div class="title-surround">
+    <a href="/"><img src="/assets/img/LogoPrint_trans.png" id="main-logo"></a>
+    <h1 class="site_title">Global Medieval Sourcebook
+      <small>A Digital Repository of Medieval Texts</small>
+    </h1>
+  </div>
+  <div id="navigation" class="">
+  <nav class="top-bar" role="navigation" data-topbar>
+    <ul class="title-area">
+      <li class="name"><a href="/" title="home"><img src="/assets/img/gms_topright.png" class="dhlg-menu-logo"></a></li>
+      <li class="toggle-topbar menu-icon"><a href="#"><span>&nbsp;</span></a></li>
+    </ul>
+    <section class="top-bar-section">
+      <ul class="right">
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      </ul>
+      <ul class="left">
+        
+          
+            
+              <li class="has-dropdown ">
+                <a href="collections/" class=" a-pseudo ">Collections</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/collections/cross-cultural-encounters/">Cross-Cultural Encounters in the Premodern World</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/facetiae-jokes/">Facetiae: Jokes from the Italian Renaissance</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/fantastic-fables/">Fantastic Fables: A 14th-Century Book of Moral Tales and Dialogues</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/gender-sex-sensuality/">Gender, Sex and Sensuality: Writings on Women, Men and Desire</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/hymns-and-histories/">Hymns and Histories: Early German Writings, 800-1000 CE</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/love-songs/">Love Songs of the Medieval World: Lyrics from Europe and Asia</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/love-lust-longing/">Lyrics of Love, Lust, and Longing: Selected Poetry from Song Dynasty China</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/making-history/">Making History: Chronicles, Legends and Anecdotes</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/prank-or-be-pranked/">Prank or Be Pranked: Comedy, Wit and Satire</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/prayer-spirituality/">Prayer, Spirituality, and Life after Death: Global Medieval Perspectives</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/good-life/">What Makes A Good Life? Poetic Reflections from Imperial China</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+            
+              <li class="has-dropdown ">
+                <a class=" a-pseudo ">By Century</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/_periods/7th_century/">7th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/8th_century/">8th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/9th_century/">9th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/10th_century/">10th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/11th_century/">11th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/12th_century/">12th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/13th_century/">13th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/14th_century/">14th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/15th_century/">15th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/16th_century/">16th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+        
+          
+            
+              <li class="has-dropdown ">
+                <a class=" a-pseudo ">About</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/about/">About this project</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/how-we-made-it/">How we made it</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/contributors/">Contributors</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+            
+              <li class=" alternateprefix"><a  href="/search/">Search</a></li>
+              <li class="divider"></li>
+            
+          
+        
+      </ul>
+    </section>
+  </nav>
+</div>
+
+  
+  
+  <div class="row" id="main">
+  
+  <div class="large-4 columns">
+    <div class="panel">
+  <h3 id="tocheader">Text Information</h3>
+  <ul id="toc">
+    
+    <li><strong>Author:</strong> Anonymous</li>
+    
+
+    <li><strong>Period:</strong>
+      
+        
+        
+      
+    </li>
+
+    <li><a href="/assets/tei/besom_devotion.xml">Download TEI</a></li>
+    <li><a href="/assets/pdf/besom_devotion.pdf">Download formatted PDF</a></li>
+    <li><a href="https://purl.stanford.edu/druid">View in Stanford Digital Repository</a></li>
+  </ul>
+</div>
+
+  </div>
+  <div class="large-8 columns">
+  
+    <article itemscope itemtype="http://schema.org/Article">
+      <header class="row">
+        <div itemprop="name" class="large-12 columns">
+          <h1 id="pagetitle" class="landing">The Besom of Devotion | Idbraim duit, a Athair
+</h1>
+        </div>
+      </header>
+
+      <div itemprop="articleSection">
+        
+<div itemprop="image" class="large-4 columns" style="float:right;">
+  <img src="/assets/img/text/besom_devotion" alt="The Besom of Devotion | Idbraim duit, a Athair
+" />
+  
+</div>
+
+
+        <h3><a href="/assets/pdf/besom_devotion.pdf">Read the text (PDF)</a></h3>
+        <h2>Introduction to the Source</h2>
+<p>The “Litany of Creation” is preserved in Dublin RIA Manuscript 23 N 10 (formerly Betham 145, Catalog 967). This manuscript was produced by three principal scribes, who signed their names simply as Aodh, Dubthach and Torna. They worked for or belonged to the Ó Maoil Chonaire, a family of professional poets and historians from Connacht. At a conference at the Royal Irish Academy in 2019, this manuscript was given a new name by scholars: the Book of Ballycummin (<em>Baile in Chuimine</em>).</p>
+## Introduction to the Text 
+<p>This Old Irish prayer comes from an early Irish text known as the “Litany of Creation”, which is preserved in a single manuscript. The “Litany of Creation” is comprised of two distinct sections.1 The first consists of numerous entreaties to God, the Trinity, and Saint Michael, and makes reference to various aspects of Creation. The second section, which is presented here, includes prayers and entreaties related to elements of the created world. It refers to a life of religious devotion aided by the powers of this prayer, which is referred to as a “Besom (or Broom) of Devotion.” The lines of the prayer describe its own powerful attributes, such as connection with and communication with the divine; spiritual comfort; beauty and awe; as well as the many forms of assistance and protection bestowed upon a person as a result of its recitation.</p> <p>The image of the broom appears in several medieval Irish literary contexts. In the <em>Life of St. Molua of Clonfertmulloe</em> (d. circa 609), St. Molua states that unless a person has confessed their sins, they cannot obtain pardon from the Lord; for just as the floor of a house is cleaned daily with a broom, so too does the soul require the daily confession of sins in order to be made clean. The association of the broom with the cleansing of the soul is found elsewhere in the Christian literature of the Middle Ages, including the work of Theodulf of Orléans (d. 821), Bernard of Clairvaux (d. 1153) and Peter Cantor (d. c. 1197).</p> <p>The symbol of the besom or broom was also mentioned by the prominent Irish scholar Colcu Ua Duinechda of Clonmacnoise (d. circa 795), who is credited with writing two litanies with similarities to our own. The earliest surviving manuscript which contains them was produced around 1400, in the codex now known as the Yellow Book of Lecan (Dublin TCD 1318). From this, we can discern that the image of the besom of devotion played a part in a number of early Irish manuscripts, including our intriguing text.</p>
+## Further Reading 
+<p>Meyer, Kuno [ed.][tr.], 'Stories and songs from Irish manuscripts: VI. Colcu ua Duinechda's <em>Scúap Chrábaid</em> or 'Besom of Devotion,' <em>Otia Merseiana</em> 2 (1900-1901), 75-105.</p> <ul> <li>An early edition and translation of early Irish materials, some of which are associated with prayers and litanies like those under discussion.</li> </ul> <p>O'Loughlin, T., <em>Celtic Theology: Humanity, World and God in Early Irish Writings</em> (London: Continuum, 2000).</p> <ul> <li>A discussion of the historical context of early Irish Christianity and the theological ideas and writings that emanated from it.</li> </ul> <p>O' Cróinín, Dáibhi, ed., <em>A New History of Ireland, Vol. 1: Prehistoric and Early Ireland</em> (Oxford, UK: Clarendon Press: 2008).</p> <ul> <li>A definitive and indispensable volume treating many aspects of early Irish history, culture, literature and religion.</li> </ul> <p>O'Sullivan, Tomás, "Texts and transmissions of the <em>Scúap Chrábaid</em>: an Old-Irish litany in its manuscript context," Studia Celtica Fennica 7 (2010): 26-47.</p> <ul> <li>An in-depth and up-to-date discussion of the complex series of texts and processes associated with the imagery of the <em>Scúap Chrábaid</em> (besom of devotion).</li> </ul> <p>Plummer, Charles [ed.][tr.], <em>Irish Litanies: Text and Translation</em>, Henry Bradshaw Society 62, London: Henry Bradshaw Society, 1925.</p> <ul> <li>Early twentieth-century edition and translation of a variety of Irish litanies.</li> </ul>
+## Credits
+
+      </div>
+    </article>
+  </div>
+</div>
+
+  
+  
+  <div id="pagebottom" class="row">
+  <div id="up-to-top" class="large-2 columns" style="text-align: right;">
+    <a class="iconfont" href="#top-of-page">&#xf108;</a>
+  </div>
+</div>
+<footer id="footer-content" class="bg-grau">
+  <div id="footer">
+    <div class="row">
+      <div id="dhlogobox" class="large-12 columns">
+        <img src="/assets/img/neh-dlcl.png" id="dhlg-logo" style="max-height:200px; max-width:400px">
+        <img src="/assets/img/cesta-stanford.png" id="dhlg-logo" style="max-height:200px; max-width:400px">
+        <h5>Permissions and License</h5>
+        <p></p>
+        <p></p>
+      </div>
+    </div>
+  </div>
+</footer>
+<footer id="footer">
+  <div class="container">
+    <p>&copy; Medieval Source Book</p>
+  </div>
+</footer>
+
+  
+  <script src="/assets/js/javascript.min.js"></script>
+<script src="/assets/js/morse.js"></script>
+<script>
+// Initialize Foundation top-bar with dropdowns
+$(document).foundation();
+
+// Basic DOM helpers used by templates
+$(function(){
+  $('.morse').each(function(){
+    var str=$(this).text();
+    // encodeMorse defined in morse.js
+    if (typeof encodeMorse === 'function') $(this).text(encodeMorse(str));
+  });
+});
+</script>
+
+</body>

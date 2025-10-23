@@ -1,0 +1,320 @@
+
+
+
+
+
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Global Medieval Sourcebook</title>
+<link rel="stylesheet" type="text/css" href="/assets/css/styles_feeling_responsive.css">
+<script src="/assets/js/modernizr.min.js "></script>
+<meta name="description" content="">
+<link rel="icon" type="image/png" href="/assets/img/favicon.png">
+
+
+
+<body id="top-of-page" class="">
+  
+  <div class="title-surround">
+    <a href="/"><img src="/assets/img/LogoPrint_trans.png" id="main-logo"></a>
+    <h1 class="site_title">Global Medieval Sourcebook
+      <small>A Digital Repository of Medieval Texts</small>
+    </h1>
+  </div>
+  <div id="navigation" class="">
+  <nav class="top-bar" role="navigation" data-topbar>
+    <ul class="title-area">
+      <li class="name"><a href="/" title="home"><img src="/assets/img/gms_topright.png" class="dhlg-menu-logo"></a></li>
+      <li class="toggle-topbar menu-icon"><a href="#"><span>&nbsp;</span></a></li>
+    </ul>
+    <section class="top-bar-section">
+      <ul class="right">
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      </ul>
+      <ul class="left">
+        
+          
+            
+              <li class="has-dropdown ">
+                <a href="collections/" class=" a-pseudo ">Collections</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/collections/cross-cultural-encounters/">Cross-Cultural Encounters in the Premodern World</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/facetiae-jokes/">Facetiae: Jokes from the Italian Renaissance</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/fantastic-fables/">Fantastic Fables: A 14th-Century Book of Moral Tales and Dialogues</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/gender-sex-sensuality/">Gender, Sex and Sensuality: Writings on Women, Men and Desire</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/hymns-and-histories/">Hymns and Histories: Early German Writings, 800-1000 CE</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/love-songs/">Love Songs of the Medieval World: Lyrics from Europe and Asia</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/love-lust-longing/">Lyrics of Love, Lust, and Longing: Selected Poetry from Song Dynasty China</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/making-history/">Making History: Chronicles, Legends and Anecdotes</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/prank-or-be-pranked/">Prank or Be Pranked: Comedy, Wit and Satire</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/prayer-spirituality/">Prayer, Spirituality, and Life after Death: Global Medieval Perspectives</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/good-life/">What Makes A Good Life? Poetic Reflections from Imperial China</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+            
+              <li class="has-dropdown ">
+                <a class=" a-pseudo ">By Century</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/_periods/7th_century/">7th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/8th_century/">8th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/9th_century/">9th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/10th_century/">10th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/11th_century/">11th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/12th_century/">12th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/13th_century/">13th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/14th_century/">14th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/15th_century/">15th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/16th_century/">16th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+        
+          
+            
+              <li class="has-dropdown ">
+                <a class=" a-pseudo ">About</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/about/">About this project</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/how-we-made-it/">How we made it</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/contributors/">Contributors</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+            
+              <li class=" alternateprefix"><a  href="/search/">Search</a></li>
+              <li class="divider"></li>
+            
+          
+        
+      </ul>
+    </section>
+  </nav>
+</div>
+
+  
+  
+  <div class="row" id="main">
+  
+  <div class="large-4 columns">
+    <div class="panel">
+  <h3 id="tocheader">Text Information</h3>
+  <ul id="toc">
+    
+    <li><strong>Author:</strong> Rabanus Maurus</li>
+    
+
+    <li><strong>Period:</strong>
+      
+        
+        
+      
+    </li>
+
+    <li><a href="/assets/tei/rabanus_maurus_honor_holy_cross.xml">Download TEI</a></li>
+    <li><a href="/assets/pdf/rabanus_maurus_honor_holy_cross.pdf">Download formatted PDF</a></li>
+    <li><a href="https://purl.stanford.edu/druid">View in Stanford Digital Repository</a></li>
+  </ul>
+</div>
+
+  </div>
+  <div class="large-8 columns">
+  
+    <article itemscope itemtype="http://schema.org/Article">
+      <header class="row">
+        <div itemprop="name" class="large-12 columns">
+          <h1 id="pagetitle" class="landing">In Honor of the Holy Cross | In honorem sanctae crucis
+</h1>
+        </div>
+      </header>
+
+      <div itemprop="articleSection">
+        
+<div itemprop="image" class="large-4 columns" style="float:right;">
+  <img src="/assets/img/text/rabanus_maurus_honor_holy_cross.png" alt="In Honor of the Holy Cross | In honorem sanctae crucis
+" />
+  
+</div>
+
+
+        <h3><a href="/assets/pdf/rabanus_maurus_honor_holy_cross.pdf">Read the text (PDF)</a></h3>
+        <p>Copyright Biblioteca Apostolica Vaticana. http://digi.vatlib.it/view/MSS_Reg.lat.124/0078</p>
+<p>In honorem sanctae crucis In Honor of the Holy Cross Omnipotens virtus, majestas alta, Sabaoth All powerful strength, high majesty, heavenly host, Excelsus Dominus, virtutum summe creator, Exalted Lord, greatest creator of angels, Formator mundi: hominum tu vere Redemptor. fashioner of the world: you truly are redeemer of men. Tu mea laus, virtus, tu gloria cuncta, salusque, You are my praise, my virtue, you are all glory and salvation, Tu rex, tu doctor, tu es rector, care magister, You are king, you are teacher, you are leader and dear master, Tu pastor pascens, protector verus ovilis. You are our feeding shepherd, true protector of your sheepfold. Portio tuque mea, sancte salvator et auctor, You are my earnings, my sacred savior and founder (auctor), Dux, via, lux, vita, merces bona, janua regni es, You are Lord, way, light, life, valuable reward, door to the kingdom; Vox, sensus, verbum, virtutum laeta propago. Voice, perception, word, joyful offspring of heaven. Ad te direxi, et cumulans nunc dirigo verba: To you have I directed and now do I direct my words, piling them up: Mens mea te loquitur, mentis intentio tota, My mind speaks you, the whole extent of my mind, Quicquid lingua, manus orat et bucca beate Whatever tongue, hand, and mouth happily pray, Cor humile, et vita justa, sacrata voluntas. Humble heart, just life, and sacred will, Omnia te laudant et cantant, Christe serene. All praise and sing you, fair Christ. Namque ego te Dominum pronus et laetus adoro, For I worship you, Lord, prone and happy,  Atque cruci demisse tuae hinc dico salutans: and this I say meekly to your cross in greeting: Spem oro te ramus aram ara sumar, et oro hinc. I pray to you, hope, branch and altar, that I may be taken to the altar, and I pray for this.  Hoc meus est ardor clarus, hoc ignis amoris, This is my bright/loud clarus ardor, this is the fire of my love,  Hoc mea mens poscit primum, hoc famen et ora, This my mind asks first, this utterance and speech, Hoc sitis est animi, mandendi magna cupido: This is my mind’s thirst, the great appetite for a bite: Ut me tu pie suscipias, bone Christe, per aram So that you might piously receive me, noble Christ, Oblatum famulum, quod victima sim tua, Hiesus. a servant offered on your altar, that I may be your sacrifice, Jesus. Hostia quod tua sim: memet crucifixio totum So that I may be your victim: your crucifixion Jam tua consumat; et passio mitiget aestum Now consumes me whole, and your passion soothes Carnalem, vitia confringat, deprimat iram, Worldly agitation, destroys sins, suppresses anger, Refrenet linguam, pietatis verba reponat. Restrains speech, restores words of piety. Mentem pacificet: vitam deducat honestam. It pacifies the mind: it encourages honorable life. Namque tuus quando toto fulgescet Olympo For when from the whole heaven/Olympus your Igneus adventus, torrebit et ardor iniquos, fiery approach will glitter, its heat will scorch the unjust, Tempestas stridet, cornu iam mugit et orbe a storm will shriek, then bellow with its horn, and before the world Ante apparebit quando crucis aere signum: in the air the sign of the cross will appear: Tum rogo me eripiat flammis ultricibus ipsa: then I ask [the cross] itself to rescue me from vengeful flames  Atque poetam agni proprium defendat ab ira, and defend its own poet from the anger of the lamb, Cui cano: iure canam Hrabanus versibus ore, to whom I sing: rightly will I, Hrabanus, sing with verses from my mouth, Corde, manu, semper donum memorabile cantu: my heart, my hand, from my memorable song always a gift: Quod dederat vitae memet clementer in ara. which had mercifully given me to the altar of life. Quando ipsa Hiesus clemens rogo ab eruit imo When merciful Jesus from on top of his pyre dug out Inferni requiem, nunc, o Christe, arce polorum relief from hell, now, O Christ, in the arc of the heavens, Da mihi, hoc posco, spero, et vera omnia credo, give me what I ask and hope for, and all the true things which I trust, Quae promisisti, hoc teneo pietate fideque. which you have promised: this I preserve with piety and faith. Quod verax facis ordine judicio omnia vera. You are truthful; you do all true things according to order and justice. I nunc ad superos, in coelis rite triumphas. Now go to the heavens; you triumph well in the sky. O laus alma crucis semper sine fine valeto. O kind praise of the cross, always and endless, farewell.   Hrabanus memet clemens rogo, Christe tuere, o pie iudicio. I ask that you, O pious and merciful in judgment, keep me, Rabanus, safe.   Oro te ramus aram, ara sumar et oro. I pray to you, branch and altar, that I may be taken to the altar, and I pray.  = transcription  = translation</p>
+<h2>Introduction to the Source</h2>
+<p>The manuscript source is Vatican. Reg. Lat. 124. f.35v and is available to view <a href="http://digi.vatlib.it/view/MSS_Reg.lat.124/0078">here</a>. All images of the text displayed on this site are copyright Biblioteca Apostolica Vaticana.</p>
+## Introduction to the Text 
+<p>This text is one of a series of figure poems by Rabanus Maurus (c.780-856 CE), a Benedictine monk and prolific writer who rose to become archbishop of Mainz (in what is now western Germany). The speaker in the poem is a Christian kneeling before the cross, praying to the crucified Christ, and this is mirrored by the shape of the poem on the page of the manuscript: words surrounding - and forming - the shape of a cross.</p>
+## Credits
+Translation by May Peterson, Encoded in TEI P5 XML by Jordan Rosen-Kaplan
+
+      </div>
+    </article>
+  </div>
+</div>
+
+  
+  
+  <div id="pagebottom" class="row">
+  <div id="up-to-top" class="large-2 columns" style="text-align: right;">
+    <a class="iconfont" href="#top-of-page">&#xf108;</a>
+  </div>
+</div>
+<footer id="footer-content" class="bg-grau">
+  <div id="footer">
+    <div class="row">
+      <div id="dhlogobox" class="large-12 columns">
+        <img src="/assets/img/neh-dlcl.png" id="dhlg-logo" style="max-height:200px; max-width:400px">
+        <img src="/assets/img/cesta-stanford.png" id="dhlg-logo" style="max-height:200px; max-width:400px">
+        <h5>Permissions and License</h5>
+        <p></p>
+        <p></p>
+      </div>
+    </div>
+  </div>
+</footer>
+<footer id="footer">
+  <div class="container">
+    <p>&copy; Medieval Source Book</p>
+  </div>
+</footer>
+
+  
+  <script src="/assets/js/javascript.min.js"></script>
+<script src="/assets/js/morse.js"></script>
+<script>
+// Initialize Foundation top-bar with dropdowns
+$(document).foundation();
+
+// Basic DOM helpers used by templates
+$(function(){
+  $('.morse').each(function(){
+    var str=$(this).text();
+    // encodeMorse defined in morse.js
+    if (typeof encodeMorse === 'function') $(this).text(encodeMorse(str));
+  });
+});
+</script>
+
+</body>

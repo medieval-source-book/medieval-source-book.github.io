@@ -1,0 +1,321 @@
+
+
+
+
+
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Global Medieval Sourcebook</title>
+<link rel="stylesheet" type="text/css" href="/assets/css/styles_feeling_responsive.css">
+<script src="/assets/js/modernizr.min.js "></script>
+<meta name="description" content="">
+<link rel="icon" type="image/png" href="/assets/img/favicon.png">
+
+
+
+<body id="top-of-page" class="">
+  
+  <div class="title-surround">
+    <a href="/"><img src="/assets/img/LogoPrint_trans.png" id="main-logo"></a>
+    <h1 class="site_title">Global Medieval Sourcebook
+      <small>A Digital Repository of Medieval Texts</small>
+    </h1>
+  </div>
+  <div id="navigation" class="">
+  <nav class="top-bar" role="navigation" data-topbar>
+    <ul class="title-area">
+      <li class="name"><a href="/" title="home"><img src="/assets/img/gms_topright.png" class="dhlg-menu-logo"></a></li>
+      <li class="toggle-topbar menu-icon"><a href="#"><span>&nbsp;</span></a></li>
+    </ul>
+    <section class="top-bar-section">
+      <ul class="right">
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      </ul>
+      <ul class="left">
+        
+          
+            
+              <li class="has-dropdown ">
+                <a href="collections/" class=" a-pseudo ">Collections</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/collections/cross-cultural-encounters/">Cross-Cultural Encounters in the Premodern World</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/facetiae-jokes/">Facetiae: Jokes from the Italian Renaissance</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/fantastic-fables/">Fantastic Fables: A 14th-Century Book of Moral Tales and Dialogues</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/gender-sex-sensuality/">Gender, Sex and Sensuality: Writings on Women, Men and Desire</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/hymns-and-histories/">Hymns and Histories: Early German Writings, 800-1000 CE</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/love-songs/">Love Songs of the Medieval World: Lyrics from Europe and Asia</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/love-lust-longing/">Lyrics of Love, Lust, and Longing: Selected Poetry from Song Dynasty China</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/making-history/">Making History: Chronicles, Legends and Anecdotes</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/prank-or-be-pranked/">Prank or Be Pranked: Comedy, Wit and Satire</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/prayer-spirituality/">Prayer, Spirituality, and Life after Death: Global Medieval Perspectives</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/good-life/">What Makes A Good Life? Poetic Reflections from Imperial China</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+            
+              <li class="has-dropdown ">
+                <a class=" a-pseudo ">By Century</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/_periods/7th_century/">7th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/8th_century/">8th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/9th_century/">9th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/10th_century/">10th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/11th_century/">11th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/12th_century/">12th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/13th_century/">13th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/14th_century/">14th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/15th_century/">15th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/16th_century/">16th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+        
+          
+            
+              <li class="has-dropdown ">
+                <a class=" a-pseudo ">About</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/about/">About this project</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/how-we-made-it/">How we made it</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/contributors/">Contributors</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+            
+              <li class=" alternateprefix"><a  href="/search/">Search</a></li>
+              <li class="divider"></li>
+            
+          
+        
+      </ul>
+    </section>
+  </nav>
+</div>
+
+  
+  
+  <div class="row" id="main">
+  
+  <div class="large-4 columns">
+    <div class="panel">
+  <h3 id="tocheader">Text Information</h3>
+  <ul id="toc">
+    
+    <li><strong>Author:</strong> Eifuku Mon'in 永福門院</li>
+    
+
+    <li><strong>Period:</strong>
+      
+        
+        
+      
+    </li>
+
+    <li><a href="/assets/tei/eifuku_monin_poem_979.xml">Download TEI</a></li>
+    <li><a href="/assets/pdf/eifuku_monin_poem_979.pdf">Download formatted PDF</a></li>
+    <li><a href="https://purl.stanford.edu/druid">View in Stanford Digital Repository</a></li>
+  </ul>
+</div>
+
+  </div>
+  <div class="large-8 columns">
+  
+    <article itemscope itemtype="http://schema.org/Article">
+      <header class="row">
+        <div itemprop="name" class="large-12 columns">
+          <h1 id="pagetitle" class="landing">From the 1st Book of Love. Poem 979. | 戀歌一、９７９
+</h1>
+        </div>
+      </header>
+
+      <div itemprop="articleSection">
+        
+<div itemprop="image" class="large-4 columns" style="float:right;">
+  <img src="/assets/img/text/eifuku_monin_poem_979.jpg" alt="From the 1st Book of Love. Poem 979. | 戀歌一、９７９
+" />
+  
+</div>
+
+
+        <h3><a href="/assets/pdf/eifuku_monin_poem_979.pdf">Read the text (PDF)</a></h3>
+        <p>Detail from &quot;Reeds and Geese&quot;, Tesshū Tokusai, Dated 11th Month 1343. One of a pair of hanging scrolls; ink on silk. Metropolitan Museum of Art, Purchase, Mrs. Jackson Burke Gift, 1977. 1977.172. [Public Domain]</p>
+<h2>Introduction to the Source</h2>
+<p dir="ltr" id="docs-internal-guid-9a502122-7fff-fcf1-b66b-aee185b43d2a">The<em> Fūga wakashū</em> imperial anthology was commissioned and compiled between 1344 and 1346 by retired Emperor Hanazono (1297-1348), the son of Eifuku Mon’in. The <em>Fūga wakashū</em> contains twenty volumes with a total of 2,210 poems. The anthology is the second and final imperial anthology to prominently feature Kyōgoku school poetry, the first being the <em>Gyokuyō wakashū</em> (c. 1313-14). It also features many poets from the Reizei poetry school. </p> <p dir="ltr">It is notable that Hanazono involved himself to such an extent in the creation of the anthology. Normally, the emperor commissioning the work would have several compilers gather the poems, arrange them into sections, and make decisions on how to transcribe the poems, after which the emperor would inspect the final draft. Hanazono was trained by his mother Eifuku in the Kyōgoku style and personally knew many of the poets included in the collection. It is unsurprising, then, that Honazono compiled the anthology himself, not to mention his writing the Chinese and Japanese prefaces to the anthology.</p> <p>Two of the earliest surviving manuscripts of the <em>Fūga wakashū </em>date back to a time roughly contemporary with the compilation of the text. One is a fragment <a href="http://library.tsurumi-u.ac.jp/opac/opac_link/bibid/1000064153">stored in Tsurumi University’s Special Collections</a>; the other is a partial manuscript containing the seventeenth volume, which was transcribed by the Buddhist poet Ton’a, and which is <a href="https://core.ac.uk/download/pdf/235263481.pdf">stored at the Itsuō Art Museum</a> in Ōsaka. A later manuscript, produced in the late Muromachi period, containing the tenth volume of <em>Fūga wakashū</em> (Love Book One) has been digitized and is <a href="http://www.archives.kyoto.jp/websearchpe/detail?cls=152_old_books_catalog&pkey=0000000144">viewable at the Kyoto Institute, Library, and Archives</a>. An example of a digitized manuscript containing all volumes of the text can be found <a href="https://kotenseki.nijl.ac.jp/biblio/200006882/viewer/115">here</a>. There are many examples of the text reproduced in woodblock print form during the Edo Period, such as <a href="http://dl.ndl.go.jp/info:ndljp/pid/2579178">this</a> beautiful digitized book. Although the transmission of the text is fairly stable, variants between manuscripts exist. A list of <em>Fūga wakashū</em> manuscripts containing variants can be found on page iv of Iwasa Miyoko’s edition of the text (2004).</p>
+## Introduction to the Text 
+<p dir="ltr">Eifuku Mon’in (1271-1342), or Ex-empress Eifuku (also known as Saionji Kyōko), was born into the noble Saionji family. Along with her husband, Emperor Fushimi (1265-1317), she would prove to be one of the most important leaders in the development of <em>waka</em> poetry in the late Kamakura (1185-1333) and Nanbokuchō periods (1336-1392). The term <em>waka</em> (meaning literally “Japanese poem”) once described a variety of sub-forms of Japanese poetry, but, by the time Eifuku Mon’in was writing, it had come to primarily refer to the sub-form <em>tanka</em>, which consists of syllables in a pattern of 5-7-5-7-7.</p> <p dir="ltr">The <em>waka</em> in the <em>Global Medieval Sourcebook</em> are all by Eifuku Mon’in and were taken from the “Love” sections of the <em>Fūga wakashū</em> (c. 1344-1346), an anthology of waka from various poets commissioned by Emperor Hanazono. The periodic commissioning of imperial poetry anthologies (or <em>chokusen wakashū</em>) was an important element in the development of a poetic canon in premodern Japan. Each anthology was organized into sections related to a specific topic, such as “Spring,” “Travel,” “Winter,” or “Love.”</p> <p dir="ltr" id="docs-internal-guid-853df79a-7fff-5a7a-57da-c38b98a79986">These waka give us insight into how deeply medieval Japanese poetry was tied to the public, political world, as well as how women found ways to participate in that public world. Waka in the aristocratic court had come to be dominated by the Nijō school, which advocated for a conservative approach to poetry. In the 1270s, sister and brother Kyōgoku Tameko and Tamekane trail-blazed a new style of writing waka, a style shorn of the rhetorical and allusive flourishes characteristic of Nijō writing in favor of more direct, even conversational, expressions of feeling. A poetry group known as the Kyōgoku school grew around this style. The two siblings became Emperor Fushimi’s tutors in 1280, forever cementing the bond between the Kyōgoku school and Fushimi’s side of the imperial family, the Jimyōin line. This line was one half of a struggle between two branches of the imperial family claiming the throne; thus, the prestige of the Kyōgoku school and the presence of their poems in the imperial poetry anthologies would rise and fall with the fate of the Jimyōin emperors.</p> <p dir="ltr">Eifuku Mon’in, having married into this imperial line, found herself the defender of both the Jimyōin line and the Kyōgoku school after its earlier members, including her husband, had died or been exiled. By personally training a large number of future emperors and empresses, noblemen and noblewomen, Eifuku Mon’in led the Kyōgoku school and secured its legacy, all while producing some of the best poetry of the period. The indispensability of her leadership for the Kyōgoku school is attested by her being the poet with the second highest number of poems in the <em>Fūga wakashū</em>, the highest number reserved for the Fushimi out of traditional reverence for the emperor.</p> <p dir="ltr">The speaker in poem #979 comments on the beginning stages of a love affair. Present here is a typical Kyōgoku-school commitment to meditating on individual psychology and tracking subtle changes in emotion. The speaker’s apprehension of the affair’s outcome is laced with a deeper question: how does ruminating on one’s emotions affect the natural evolution of those emotions?</p>
+## Further Reading 
+<p>Mulhern, Chieko I. “Eifuku Mon’in.” <em>Japanese Women Writers: A Bio- Critical Sourcebook</em>, edited by Chieko I. Mulhern, Greenwood Press, 1994.</p> <ul> <li>This article gives an overview of Eifuku Mon’in’s biography and an introduction to her career as a poet. The book is an equally useful introduction to many other Japanese women writing in various time periods.</li> </ul> <p>Brower, Robert H, and Earl R. Miner. “The Late Classical Period.” <em>Japanese Court Poetry,</em> Stanford University Press, 1961.</p> <ul> <li>Introduction to Japanese court poetry and waka.</li> </ul> <p>Shirane, Haruo. <em>Traditional Japanese Literature: An Anthology, Beginnings to 1600.</em> Columbia University Press, 2012.</p> <ul> <li>Introduction to premodern Japanese literature in general, excellent reference for those unfamiliar with the subject.</li> </ul> <p>Huey, Robert N. <em>Kyōgoku Tamekane: Poetry and Politics in Late Kamakura Japan</em>. Stanford University Press, 1989.</p> <ul> <li>Explores the social and aesthetic world in which Eifuku Mon’in and the Kyōgoku poets were writing. The perspective of the study is from Eifuku’s contemporary Kyōgoku Tamekane, tutor to Emperor Fushimi and co-founder of the Kyōgoku school</li> </ul> <p>Iwasa, Miyoko.<em> Eifuku Mon'in: sono sei to uta.</em> Kasama Shoin, 1976.</p> <ul> <li>Extensive biography of Eifuku Mon’in as well as rich commentary on her works. Contains her poems from the <em>Fūga Wakashū</em>,<em> Gyokuyō Wakashū</em>, and other collections that include her poetry. In Japanese.</li> </ul> <p>Iwasa, Miyoko.<em> Fūga wakashū zenchūshaku.</em> Kasama Shoin, 2004.</p> <ul> <li>Full text of the <em>Fūga Wakashū</em> and commentary. In Japanese.</li> </ul>
+## Credits
+Text based on 国歌大観 : 五句索引 歌集部 (Kokka taikan: goku sakuin); Kyōbunsha; Date published: 1918, Translation by Scott Stevens, Encoded in TEI P5 XML by Danny Smith
+
+      </div>
+    </article>
+  </div>
+</div>
+
+  
+  
+  <div id="pagebottom" class="row">
+  <div id="up-to-top" class="large-2 columns" style="text-align: right;">
+    <a class="iconfont" href="#top-of-page">&#xf108;</a>
+  </div>
+</div>
+<footer id="footer-content" class="bg-grau">
+  <div id="footer">
+    <div class="row">
+      <div id="dhlogobox" class="large-12 columns">
+        <img src="/assets/img/neh-dlcl.png" id="dhlg-logo" style="max-height:200px; max-width:400px">
+        <img src="/assets/img/cesta-stanford.png" id="dhlg-logo" style="max-height:200px; max-width:400px">
+        <h5>Permissions and License</h5>
+        <p></p>
+        <p></p>
+      </div>
+    </div>
+  </div>
+</footer>
+<footer id="footer">
+  <div class="container">
+    <p>&copy; Medieval Source Book</p>
+  </div>
+</footer>
+
+  
+  <script src="/assets/js/javascript.min.js"></script>
+<script src="/assets/js/morse.js"></script>
+<script>
+// Initialize Foundation top-bar with dropdowns
+$(document).foundation();
+
+// Basic DOM helpers used by templates
+$(function(){
+  $('.morse').each(function(){
+    var str=$(this).text();
+    // encodeMorse defined in morse.js
+    if (typeof encodeMorse === 'function') $(this).text(encodeMorse(str));
+  });
+});
+</script>
+
+</body>

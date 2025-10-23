@@ -1,0 +1,322 @@
+
+
+
+
+
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Global Medieval Sourcebook</title>
+<link rel="stylesheet" type="text/css" href="/assets/css/styles_feeling_responsive.css">
+<script src="/assets/js/modernizr.min.js "></script>
+<meta name="description" content="">
+<link rel="icon" type="image/png" href="/assets/img/favicon.png">
+
+
+
+<body id="top-of-page" class="">
+  
+  <div class="title-surround">
+    <a href="/"><img src="/assets/img/LogoPrint_trans.png" id="main-logo"></a>
+    <h1 class="site_title">Global Medieval Sourcebook
+      <small>A Digital Repository of Medieval Texts</small>
+    </h1>
+  </div>
+  <div id="navigation" class="">
+  <nav class="top-bar" role="navigation" data-topbar>
+    <ul class="title-area">
+      <li class="name"><a href="/" title="home"><img src="/assets/img/gms_topright.png" class="dhlg-menu-logo"></a></li>
+      <li class="toggle-topbar menu-icon"><a href="#"><span>&nbsp;</span></a></li>
+    </ul>
+    <section class="top-bar-section">
+      <ul class="right">
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      </ul>
+      <ul class="left">
+        
+          
+            
+              <li class="has-dropdown ">
+                <a href="collections/" class=" a-pseudo ">Collections</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/collections/cross-cultural-encounters/">Cross-Cultural Encounters in the Premodern World</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/facetiae-jokes/">Facetiae: Jokes from the Italian Renaissance</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/fantastic-fables/">Fantastic Fables: A 14th-Century Book of Moral Tales and Dialogues</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/gender-sex-sensuality/">Gender, Sex and Sensuality: Writings on Women, Men and Desire</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/hymns-and-histories/">Hymns and Histories: Early German Writings, 800-1000 CE</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/love-songs/">Love Songs of the Medieval World: Lyrics from Europe and Asia</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/love-lust-longing/">Lyrics of Love, Lust, and Longing: Selected Poetry from Song Dynasty China</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/making-history/">Making History: Chronicles, Legends and Anecdotes</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/prank-or-be-pranked/">Prank or Be Pranked: Comedy, Wit and Satire</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/prayer-spirituality/">Prayer, Spirituality, and Life after Death: Global Medieval Perspectives</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/good-life/">What Makes A Good Life? Poetic Reflections from Imperial China</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+            
+              <li class="has-dropdown ">
+                <a class=" a-pseudo ">By Century</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/_periods/7th_century/">7th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/8th_century/">8th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/9th_century/">9th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/10th_century/">10th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/11th_century/">11th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/12th_century/">12th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/13th_century/">13th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/14th_century/">14th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/15th_century/">15th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/16th_century/">16th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+        
+          
+            
+              <li class="has-dropdown ">
+                <a class=" a-pseudo ">About</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/about/">About this project</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/how-we-made-it/">How we made it</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/contributors/">Contributors</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+            
+              <li class=" alternateprefix"><a  href="/search/">Search</a></li>
+              <li class="divider"></li>
+            
+          
+        
+      </ul>
+    </section>
+  </nav>
+</div>
+
+  
+  
+  <div class="row" id="main">
+  
+  <div class="large-4 columns">
+    <div class="panel">
+  <h3 id="tocheader">Text Information</h3>
+  <ul id="toc">
+    
+    <li><strong>Author:</strong> Anonymous</li>
+    
+
+    <li><strong>Period:</strong>
+      
+        
+        
+      
+    </li>
+
+    <li><a href="/assets/tei/song_peter.xml">Download TEI</a></li>
+    <li><a href="/assets/pdf/song_peter.pdf">Download formatted PDF</a></li>
+    <li><a href="https://purl.stanford.edu/druid">View in Stanford Digital Repository</a></li>
+  </ul>
+</div>
+
+  </div>
+  <div class="large-8 columns">
+  
+    <article itemscope itemtype="http://schema.org/Article">
+      <header class="row">
+        <div itemprop="name" class="large-12 columns">
+          <h1 id="pagetitle" class="landing">The Song of Peter | Petruslied
+</h1>
+        </div>
+      </header>
+
+      <div itemprop="articleSection">
+        
+<div itemprop="image" class="large-4 columns" style="float:right;">
+  <img src="/assets/img/text/song_peter.png" alt="The Song of Peter | Petruslied
+" />
+  
+</div>
+
+
+        <h3><a href="/assets/pdf/song_peter.pdf">Read the text (PDF)</a></h3>
+        <p>Detail from BSB MS Clm 6260, fol.158v</p>
+<p>Petruslied The Song of Peter ﻿Unsar trohtin hat farsalt sancte petre giuualt daz er mac ginerian Our Lord gave Saint Peter the power to save ze imo dingenten man. kyrie eleyson christe eleyson. those entrusted to him. Kyrie eleison. Christe eleison. Er hapet ouh mit vuortun himriches portun. dar in mach er skerian With words, he also guards the gates of heaven through which he admits den er uuili nerian. kirie eleison criste [eleyson] those whom he wishes to save. Kyrie eleison. Christe eleison. Pittemes den gotes trut alla samant uparlut. daz er uns firtanen giuuer Let us entreat God’s disciple, loudly and in unison, so that he grants do ginaden  mercy to us sinners. Kyrie eleison. Christe eleison.</p>
+<h2>Introduction to the Source</h2>
+<p>The song survives in only one manuscript, Bayerische Staatsbibliothek Clm 6260, now held in Munich. The manuscript originally stems from the Freising Cathedral library and was written in the second half of the ninth century CE. It contains discussions, in Latin, of religious texts. The <em>Song of Peter</em> was written down later, on the very last page below the end of Hrabanus’s Maurus Commentary on Genesis (f.158v).</p>
+## Introduction to the Text 
+<p>The <em>Song of Peter</em> is the oldest surviving hymn in the German language. Hymns are a form of religious poetry sung in praise of God, often during religious ceremonies such as the Mass celebrated by medieval Christians. The tradition of Christian hymns was popularised in the West by Ambrose of Milan (c.340 –397 CE), who wrote hymns in Latin (though some claim that Hilary of Poitiers was the first composer of Latin hymns). Hymns in the <span style="font-family:"Times New Roman",serif">“</span>Ambrosian<span style="font-family:"Times New Roman",serif">”</span> style remained a very popular part of Christian worship until the Council of Trent (1545-63 CE), when most hymns were abolished from Catholic liturgical practice. The <em>Song of Peter</em> is transmitted with neumes, an early medieval form of musical notation, which suggests that it was supposed to be sung, possibly during religious processions.</p> <p>Written down in the first third of the tenth century CE in a Bavarian dialect of the Old High German language, it is one of the earliest examples of end rhyme in a German text. This was a change from the Germanic alliterative verse which dominated earlier, where the same consonants were repeated within the same line. It is unknown whether the author of the <em>Song of Peter</em> was influenced by the end rhymes of Otfrid of Weißenburg's Gospel Harmony (composed c.870 CE) or whether the <em>Song of Peter</em> predates Otfrid’s work.</p> <p>The song calls upon St. Peter the Apostle in three strophes of three lines. Each strophe ends with the refrain, <span style="font-family:"Times New Roman",serif">“</span>Kyrie eleyson. Christe eleyson<span style="font-family:"Times New Roman",serif">”</span>, which is Greek for <span style="font-family:"Times New Roman",serif">“</span>God, have mercy. Christ, have mercy.<span style="font-family:"Times New Roman",serif">”</span> The refrain points to Peter's special role in the Christian faith as the overseer of admission into Heaven (see, for example, the Biblical passage Matthew 16:19: “I will give you the keys of the kingdom of heaven; whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven<span style="font-family:"Times New Roman",serif">”</span>).</p>
+## Further Reading 
+<p><span data-sheets-formula-bar-text-style="font-size:15px;color:#000000;font-weight:normal;text-decoration:none;font-family:'docs-Calibri';font-style:normal;text-decoration-skip-ink:none;">Bostock, John Knight, Kenneth Charles King, and D. R. McLintock. <em>A Handbook on Old High German Literature</em>. Clarendon Press, 1976.</span></p> <p>Haug, Walter and Benedikt Konrad Vollmann<em>.</em> <em>Frühe Deutsche Literatur und Lateinische Literatur in Deutschland 800-1150</em>. Deutscher Klassiker Verlag, 1991.</p> <ul> <li>Old High German text and modern German translation: pp.130-131</li> <li>Commentary and extensive bibliography: pp.1117-1120</li> </ul> <p>Liberman, Anatoly. <span style="font-family:"Times New Roman",serif">“</span>Petruslied.<span style="font-family:"Times New Roman",serif">”</span> <em>German Writers and Works of the Early Middle Ages: 800 – 1170</em>, edited by Will Hasty and James Hardin. Gale Research, 1995, pp. 252-254.</p> <p>McLintock, David R. <span style="font-family:"Times New Roman",serif">“</span>Petruslied.<span style="font-family:"Times New Roman",serif">”</span> <em>Dictionary of the Middle Ages, v</em>ol. 9, edited by Joseph Reese Strayer. Charles Scribners Sons, 1987, p. 546.</p> <ul></ul>
+## Credits
+Transcription by Robert Forke, Translation by Robert Forke, Encoded in TEI P5 XML by Mae Velloso-Lyons
+
+      </div>
+    </article>
+  </div>
+</div>
+
+  
+  
+  <div id="pagebottom" class="row">
+  <div id="up-to-top" class="large-2 columns" style="text-align: right;">
+    <a class="iconfont" href="#top-of-page">&#xf108;</a>
+  </div>
+</div>
+<footer id="footer-content" class="bg-grau">
+  <div id="footer">
+    <div class="row">
+      <div id="dhlogobox" class="large-12 columns">
+        <img src="/assets/img/neh-dlcl.png" id="dhlg-logo" style="max-height:200px; max-width:400px">
+        <img src="/assets/img/cesta-stanford.png" id="dhlg-logo" style="max-height:200px; max-width:400px">
+        <h5>Permissions and License</h5>
+        <p></p>
+        <p></p>
+      </div>
+    </div>
+  </div>
+</footer>
+<footer id="footer">
+  <div class="container">
+    <p>&copy; Medieval Source Book</p>
+  </div>
+</footer>
+
+  
+  <script src="/assets/js/javascript.min.js"></script>
+<script src="/assets/js/morse.js"></script>
+<script>
+// Initialize Foundation top-bar with dropdowns
+$(document).foundation();
+
+// Basic DOM helpers used by templates
+$(function(){
+  $('.morse').each(function(){
+    var str=$(this).text();
+    // encodeMorse defined in morse.js
+    if (typeof encodeMorse === 'function') $(this).text(encodeMorse(str));
+  });
+});
+</script>
+
+</body>

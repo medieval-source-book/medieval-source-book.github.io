@@ -1,0 +1,324 @@
+
+
+
+
+
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Global Medieval Sourcebook</title>
+<link rel="stylesheet" type="text/css" href="/assets/css/styles_feeling_responsive.css">
+<script src="/assets/js/modernizr.min.js "></script>
+<meta name="description" content="">
+<link rel="icon" type="image/png" href="/assets/img/favicon.png">
+
+
+
+<body id="top-of-page" class="">
+  
+  <div class="title-surround">
+    <a href="/"><img src="/assets/img/LogoPrint_trans.png" id="main-logo"></a>
+    <h1 class="site_title">Global Medieval Sourcebook
+      <small>A Digital Repository of Medieval Texts</small>
+    </h1>
+  </div>
+  <div id="navigation" class="">
+  <nav class="top-bar" role="navigation" data-topbar>
+    <ul class="title-area">
+      <li class="name"><a href="/" title="home"><img src="/assets/img/gms_topright.png" class="dhlg-menu-logo"></a></li>
+      <li class="toggle-topbar menu-icon"><a href="#"><span>&nbsp;</span></a></li>
+    </ul>
+    <section class="top-bar-section">
+      <ul class="right">
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      </ul>
+      <ul class="left">
+        
+          
+            
+              <li class="has-dropdown ">
+                <a href="collections/" class=" a-pseudo ">Collections</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/collections/cross-cultural-encounters/">Cross-Cultural Encounters in the Premodern World</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/facetiae-jokes/">Facetiae: Jokes from the Italian Renaissance</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/fantastic-fables/">Fantastic Fables: A 14th-Century Book of Moral Tales and Dialogues</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/gender-sex-sensuality/">Gender, Sex and Sensuality: Writings on Women, Men and Desire</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/hymns-and-histories/">Hymns and Histories: Early German Writings, 800-1000 CE</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/love-songs/">Love Songs of the Medieval World: Lyrics from Europe and Asia</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/love-lust-longing/">Lyrics of Love, Lust, and Longing: Selected Poetry from Song Dynasty China</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/making-history/">Making History: Chronicles, Legends and Anecdotes</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/prank-or-be-pranked/">Prank or Be Pranked: Comedy, Wit and Satire</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/prayer-spirituality/">Prayer, Spirituality, and Life after Death: Global Medieval Perspectives</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/good-life/">What Makes A Good Life? Poetic Reflections from Imperial China</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+            
+              <li class="has-dropdown ">
+                <a class=" a-pseudo ">By Century</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/_periods/7th_century/">7th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/8th_century/">8th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/9th_century/">9th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/10th_century/">10th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/11th_century/">11th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/12th_century/">12th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/13th_century/">13th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/14th_century/">14th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/15th_century/">15th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/16th_century/">16th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+        
+          
+            
+              <li class="has-dropdown ">
+                <a class=" a-pseudo ">About</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/about/">About this project</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/how-we-made-it/">How we made it</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/contributors/">Contributors</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+            
+              <li class=" alternateprefix"><a  href="/search/">Search</a></li>
+              <li class="divider"></li>
+            
+          
+        
+      </ul>
+    </section>
+  </nav>
+</div>
+
+  
+  
+  <div class="row" id="main">
+  
+  <div class="large-4 columns">
+    <div class="panel">
+  <h3 id="tocheader">Text Information</h3>
+  <ul id="toc">
+    
+    <li><strong>Author:</strong> von Schondoch</li>
+    
+
+    <li><strong>Period:</strong>
+      
+        
+        &nbsp;
+      
+        
+        
+      
+    </li>
+
+    <li><a href="/assets/tei/von_schondoch_queen_france.xml">Download TEI</a></li>
+    <li><a href="/assets/pdf/von_schondoch_queen_france.pdf">Download formatted PDF</a></li>
+    <li><a href="https://purl.stanford.edu/druid">View in Stanford Digital Repository</a></li>
+  </ul>
+</div>
+
+  </div>
+  <div class="large-8 columns">
+  
+    <article itemscope itemtype="http://schema.org/Article">
+      <header class="row">
+        <div itemprop="name" class="large-12 columns">
+          <h1 id="pagetitle" class="landing">The Queen of France | Die Königin von Frankreich
+</h1>
+        </div>
+      </header>
+
+      <div itemprop="articleSection">
+        
+<div itemprop="image" class="large-4 columns" style="float:right;">
+  <img src="/assets/img/text/von_schondoch_queen_france.jpg" alt="The Queen of France | Die Königin von Frankreich
+" />
+  
+</div>
+
+
+        <h3><a href="/assets/pdf/von_schondoch_queen_france.pdf">Read the text (PDF)</a></h3>
+        <p>Heidelberg Hs. 1012 (olim Ashburnham Place, Cod. 486) ff. 249r [Public Domain]</p>
+<h2>Introduction to the Source</h2>
+<p>Heid. Hs. 1012, the version of <em>The Queen of France</em> that was used for this transcription and translation, was written around or before 1460 in the Moselle Franconian/Rhenish Franconian region (Siegen-Luxembourg/Kassel-Saarbrücken). <em>The Queen of France</em> is the final text of three in that manuscript. It is preceded by <em>The Duke of Brunswick</em>, a German rhymed couplet narrative; and by <em>Loher and Maller</em>, which is a German prose translation by Elisabeth von Nassau-Saarbrücken (or someone at her court) from a chanson de geste, an Old French heroic epic.</p> <p>Heid. Hs. 1012 tells <em>The Queen of France</em> in a manner focused on the queen's steadfastness and virtue. By adding lines and by expanding on specific themes (e.g. a comparison between the queen and the Virgin Mary and the king's explicit joy at discovering that the queen has lived a virtuous and pious life without him), this version emphasizes the "good wife" theme more than other versions, and in some cases suggests parallels with religious stories of martyrs and saints.</p>
+## Introduction to the Text 
+<p><em>The Queen of France</em> was composed in the late 14th century somewhere in the Alemannic region (what is today Southern Germany or Austria). Two of 24 surviving manuscripts name one “von Schondoch” as the author of <em>The Queen of France</em>. Aside from the name, nothing else is known about this person. <em>The Queen of France</em> is a prototypical melodramatic tale. There are similar texts in the medieval German tradition, but they are usually shorter. This verse narrative, composed in rhymed couplets, is also unique because of its wide transmission. The large number of textual witnesses and adaptations of the story, among them Elisabeth von Nassau-Saarbrücken’s famous prose novel <em>Sibille</em> (after 1437), suggest that <em>The Queen of France</em> was very popular in late medieval Germany.</p> <p><em>The Queen of France</em> tells the story of a queen, a good and faithful wife, who is banished for alleged adultery by her husband, the king. Falsely accused by the king’s marshal, whose advances she had turned down earlier, the pregnant queen is saved from death by the intercession of the king’s nephew, the Duke of Austria. The queen is escorted away under the protection of a noble knight, who is assassinated by the villainous marshal. The queen, however, manages to elude the murderer, fleeing into the forest where she is sheltered by a virtuous, poor man. The story takes a turn for the better when the virtuous knight’s faithful dog persistently pursues his master’s murderer. The Duke of Austria sees to it that the dog and the marshal engage in a judicial ordeal whose outcome–the dog is victorious–exposes the marshal’s guilt. Ashamed and shocked by his error of judgement, the king bitterly regrets his actions and searches unsuccessfully for the queen for three and a half years. At last, a female merchant recognizes the queen’s exquisite needlework, which leads to the discovery of the queen and her three-year-old son, and the king and queen are reconciled.</p> <p>In <em>The Queen of France</em> medieval honor emerges as a core concept at multiple points throughout the story: as a commodity that can be both acquired and lost, and as a matter of reputation and respect, which was the basis of the rule of elites. This translation makes <em>The Queen of France</em> available to scholars who are working on topics such as popular tales, on the prototypes of modern melodrama, or on depictions of animals in literature.</p>
+## Further Reading 
+<p>Jefferis, Sibylle. “Die Neuaufgefundene Heidelberger Handschrift von Schondochs ‘Königin von Frankreich und der Ungetreue Marschall’: Ihre Einordnung in die Übrige Handschriftenüberlieferung.” <em>New Texts, Methodologies, and Interpretations in Medieval German Literature</em> (Kalamazoo Papers 1992-1995), Kümmerle, 1999, pp. 209–27.</p> <ul> <li>Transmission history</li> </ul> <p dir="ltr" id="docs-internal-guid-a9a9cba3-7fff-cf22-ef17-335c652b5768">Jefferis, Sibylle. “Schondochs Märe ‘Die Königin von Frankreich und der Ungetreue Marschall’ im Vergleich mit dem ‘Sibillenroman’ von Elisabeth von Nassau-Saarbrücken.”<em> Text Analyses and Interpretations: In Memory of Joachim Bumke</em> (Kalamazoo Papers 2012-2013), Kümmerle, 2013, pp. 105-24.</p> <p>Jefferis, Sibylle. “The ‘Cronica von der Königin von Frankreich’: The Prose Adaptation of Schondoch’s Novella.” <em>Nu lôn' ich iu der gâbe: Festschrift for Francis G. Gentry</em>, Kümmerle, 2003, pp. 159–72.</p> <ul> <li>Adaptations of the story</li> </ul> <p>Strippel, Jutta. <em>Schondochs 'Königin von Frankreich': Untersuchungen zur Handschriftlichen Überlieferung und Kritischer Text. </em>Kümmerle, 1978.</p> <ul> <li>Transmission history and historical-critical text edition</li> </ul> <p>Werner, Wilfried. <em>Cimelia Heidelbergensia: 30 Illustrierte Handschriften der Universitätsbibliothek Heidelberg.</em> Reichert, 1975.</p> <ul> <li>Manuscript version and its features</li> </ul>
+## Credits
+Transcribed by Jana Koepcke, Translation by Jana Koepcke, Encoded in TEI P5 XML by Danny Smith
+
+      </div>
+    </article>
+  </div>
+</div>
+
+  
+  
+  <div id="pagebottom" class="row">
+  <div id="up-to-top" class="large-2 columns" style="text-align: right;">
+    <a class="iconfont" href="#top-of-page">&#xf108;</a>
+  </div>
+</div>
+<footer id="footer-content" class="bg-grau">
+  <div id="footer">
+    <div class="row">
+      <div id="dhlogobox" class="large-12 columns">
+        <img src="/assets/img/neh-dlcl.png" id="dhlg-logo" style="max-height:200px; max-width:400px">
+        <img src="/assets/img/cesta-stanford.png" id="dhlg-logo" style="max-height:200px; max-width:400px">
+        <h5>Permissions and License</h5>
+        <p></p>
+        <p></p>
+      </div>
+    </div>
+  </div>
+</footer>
+<footer id="footer">
+  <div class="container">
+    <p>&copy; Medieval Source Book</p>
+  </div>
+</footer>
+
+  
+  <script src="/assets/js/javascript.min.js"></script>
+<script src="/assets/js/morse.js"></script>
+<script>
+// Initialize Foundation top-bar with dropdowns
+$(document).foundation();
+
+// Basic DOM helpers used by templates
+$(function(){
+  $('.morse').each(function(){
+    var str=$(this).text();
+    // encodeMorse defined in morse.js
+    if (typeof encodeMorse === 'function') $(this).text(encodeMorse(str));
+  });
+});
+</script>
+
+</body>

@@ -1,0 +1,324 @@
+
+
+
+
+
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Global Medieval Sourcebook</title>
+<link rel="stylesheet" type="text/css" href="/assets/css/styles_feeling_responsive.css">
+<script src="/assets/js/modernizr.min.js "></script>
+<meta name="description" content="">
+<link rel="icon" type="image/png" href="/assets/img/favicon.png">
+
+
+
+<body id="top-of-page" class="">
+  
+  <div class="title-surround">
+    <a href="/"><img src="/assets/img/LogoPrint_trans.png" id="main-logo"></a>
+    <h1 class="site_title">Global Medieval Sourcebook
+      <small>A Digital Repository of Medieval Texts</small>
+    </h1>
+  </div>
+  <div id="navigation" class="">
+  <nav class="top-bar" role="navigation" data-topbar>
+    <ul class="title-area">
+      <li class="name"><a href="/" title="home"><img src="/assets/img/gms_topright.png" class="dhlg-menu-logo"></a></li>
+      <li class="toggle-topbar menu-icon"><a href="#"><span>&nbsp;</span></a></li>
+    </ul>
+    <section class="top-bar-section">
+      <ul class="right">
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      </ul>
+      <ul class="left">
+        
+          
+            
+              <li class="has-dropdown ">
+                <a href="collections/" class=" a-pseudo ">Collections</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/collections/cross-cultural-encounters/">Cross-Cultural Encounters in the Premodern World</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/facetiae-jokes/">Facetiae: Jokes from the Italian Renaissance</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/fantastic-fables/">Fantastic Fables: A 14th-Century Book of Moral Tales and Dialogues</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/gender-sex-sensuality/">Gender, Sex and Sensuality: Writings on Women, Men and Desire</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/hymns-and-histories/">Hymns and Histories: Early German Writings, 800-1000 CE</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/love-songs/">Love Songs of the Medieval World: Lyrics from Europe and Asia</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/love-lust-longing/">Lyrics of Love, Lust, and Longing: Selected Poetry from Song Dynasty China</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/making-history/">Making History: Chronicles, Legends and Anecdotes</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/prank-or-be-pranked/">Prank or Be Pranked: Comedy, Wit and Satire</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/prayer-spirituality/">Prayer, Spirituality, and Life after Death: Global Medieval Perspectives</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/good-life/">What Makes A Good Life? Poetic Reflections from Imperial China</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+            
+              <li class="has-dropdown ">
+                <a class=" a-pseudo ">By Century</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/_periods/7th_century/">7th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/8th_century/">8th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/9th_century/">9th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/10th_century/">10th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/11th_century/">11th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/12th_century/">12th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/13th_century/">13th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/14th_century/">14th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/15th_century/">15th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/16th_century/">16th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+        
+          
+            
+              <li class="has-dropdown ">
+                <a class=" a-pseudo ">About</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/about/">About this project</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/how-we-made-it/">How we made it</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/contributors/">Contributors</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+            
+              <li class=" alternateprefix"><a  href="/search/">Search</a></li>
+              <li class="divider"></li>
+            
+          
+        
+      </ul>
+    </section>
+  </nav>
+</div>
+
+  
+  
+  <div class="row" id="main">
+  
+  <div class="large-4 columns">
+    <div class="panel">
+  <h3 id="tocheader">Text Information</h3>
+  <ul id="toc">
+    
+    <li><strong>Author:</strong> Guillaume de Nangis</li>
+    
+
+    <li><strong>Period:</strong>
+      
+        
+        &nbsp;
+      
+        
+        
+      
+    </li>
+
+    <li><a href="/assets/tei/guillaume_de_nangis_john_acre.xml">Download TEI</a></li>
+    <li><a href="/assets/pdf/guillaume_de_nangis_john_acre.pdf">Download formatted PDF</a></li>
+    <li><a href="https://purl.stanford.edu/druid">View in Stanford Digital Repository</a></li>
+  </ul>
+</div>
+
+  </div>
+  <div class="large-8 columns">
+  
+    <article itemscope itemtype="http://schema.org/Article">
+      <header class="row">
+        <div itemprop="name" class="large-12 columns">
+          <h1 id="pagetitle" class="landing">How Sir John of Acre, butler of France, who was on guard, was deceived by some Saracens who requested baptism | Comment mesire Jehan d'Acre, bouteillier de France qui faisait le guet fu deceus d'aucuns Sarrazins qui requéraient le baptesme
+</h1>
+        </div>
+      </header>
+
+      <div itemprop="articleSection">
+        
+<div itemprop="image" class="large-4 columns" style="float:right;">
+  <img src="/assets/img/text/guillaume_de_nangis_john_acre.jpg" alt="How Sir John of Acre, butler of France, who was on guard, was deceived by some Saracens who requested baptism | Comment mesire Jehan d'Acre, bouteillier de France qui faisait le guet fu deceus d'aucuns Sarrazins qui requéraient le baptesme
+" />
+  
+</div>
+
+
+        <h3><a href="/assets/pdf/guillaume_de_nangis_john_acre.pdf">Read the text (PDF)</a></h3>
+        <p>London, British Library Royal MS 16 G VI, f.442r</p>
+<h2>Introduction to the Source</h2>
+<p>This version of Guillaume de Nangis’s text is included in the <em>Grandes Chroniques de France</em> made for John II of France (<a href="http://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_fs001r">British Library-Royal MS 16 G VI</a>). These royal chronicles blend historical and mythological elements, functioning as a source of political legitimacy for both the Capetian and Valois dynasties of French monarchs.</p>
+## Introduction to the Text 
+<p dir="ltr" id="docs-internal-guid-cc367274-7fff-8ecb-8e18-aaf3a4059544">This translated excerpt comes from Guillaume de Nangis’s <em>Life of St. Louis</em> produced near Paris around 1300 CE. Pre-dating Louis’s more famous biography by Jean de Joinville, the chronicle celebrates the life, accomplishments and sometimes miraculous abilities of the famous king who was canonized in 1297. The version presented here recounts an episode during the French king’s final crusade, an expedition into Tunisia as part of the Eighth Crusade (1270).</p> <p dir="ltr">According to the text, King Louis IX had been invited to Tunisia by the “king of Tunis”—the Hafsid ruler al-Mustansir, who promised to convert to Christianity. However, upon the arrival of Louis’s forces, the Islamic leader reneges on his word. After sacking Carthage, the crusader army returns and sets up camp. Three “Saracens” (a medieval pejorative term that racialized Muslims) approach John of Acre, the butler of France, claiming that they want to convert to Christianity. Suddenly, a different, larger group of Muslims conducts a surprise attack, killing many Christians. John drags the first group before King Louis where their leader claims that he had no part in the ambush, insisting that his political rival committed this treachery. The king does not believe their story but releases them and orders the construction of defenses around the camp to prevent future assaults. The “Saracen commander” is received by his own camp with a warm welcome, suggesting that conversion was never really his intention.</p> <p>While scholars agree that al-Mustansir may have considered converting for his own political purposes, there remains discussion about how to read the relationship between the text and the image that accompanies it on Royal MS 16 G VI f.442r (see icon image; a larger resolution image can be viewed <a href="http://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f442r">here</a>). I have recently argued that this section of the manuscript serves as an allegory of al-Mustansir’s actions, as well as a Latin Christian polemic on the duplicity of “Saracens” writ large. It is notable that the Hafsid Muslims depicted on 440v and 442r are the only “shoeless Saracens” in the entirety of the manuscript, suggesting that illuminators wanted to cast these figures as particularly barbarous for their inadvertent role in Louis’s death. Indeed, the heraldic motifs on the “Saracen” shield further dehumanize the Muslims by affiliating them with either pigs or dogs.</p>
+## Further Reading 
+<p>Viard, Jules. <em>Les Grandes Chroniques de France, </em>vol. 10. Société De L'Histoire De France, 1920.</p> <ul> <li>Edition used for this translation.</li> </ul> <p>Hedeman, Anne D. <em>The Royal Image: Illustrations of the Grandes Chroniques de France: 1274-1422.</em> U of California P, 1991.</p> <ul> <li>Discussion of the manuscript tradition of the <em>Grandes Chroniques</em>.</li> </ul> <p>Heng, Geraldine. <em>The Invention of Race in the European Middle Ages</em>. Cambridge UP, 2018.</p> <ul> <li>New perspectives on studying medieval racializations.</li> </ul> <p>Wollesen, Jens T. “East meets West and the Problem with those Picture.” <em>East meets West in the Middle Ages and Early Modern Times: Transcultural Experiences in the Premodern World</em>, edited by Albrecht Classen, Walter de Gruyter, 2013, pp. 341-388.</p> <ul> <li>Offers an interpretation of the illumination on 442r as a conversion narrative.</li> </ul> <p>Narayanan, Tirumular. “White Saracens, Black Muslims, Brown Hafsids: Imaginations of the “Saracen Prince” in Les Grandes Chroniques de France (Royal MS 16 G VI). 2019.” California State University, Chico, M.A. Thesis.</p> <ul> <li>Introduces an opposing interpretation of 442r as an anti-Islamic Latin Christian polemic.</li> </ul> <p>Lower, Michael. <em>The Tunis Crusade of 1270: A Mediterranean History.</em> Oxford UP, 2018.</p> <ul> <li>Historical analysis of the Eighth Crusade.</li> </ul> <p>Jordan, William Chester. <em>Apple o</em><em>f His Eye: Converts from Islam in the Reign of Louis IX</em>. Princeton UP, 2020.</p> <ul> <li>Discussion of Louis IX’s conversion efforts in Tunisia.</li> </ul> <p dir="ltr" id="docs-internal-guid-0b63770f-7fff-c7a2-836d-007fb2212a05">Rajabzadeh, Shokoofeh. “The Depoliticized Saracen and Muslim Erasure.” <em>Literature Compass</em>, vol. 16, no. 9-10, 2019.</p> <ul dir="ltr"> <li role="presentation">Critique of using the term “Saracen” in contemporary scholarship.</li> </ul>
+## Credits
+Text based on Viard, Jules. Les Grandes Chroniques De France. Vol. 10, Société De L'Histoire De France, 1920., Translation by Tirumular (Drew) Narayanan, Encoded in TEI P5 XML by Danny Smith
+
+      </div>
+    </article>
+  </div>
+</div>
+
+  
+  
+  <div id="pagebottom" class="row">
+  <div id="up-to-top" class="large-2 columns" style="text-align: right;">
+    <a class="iconfont" href="#top-of-page">&#xf108;</a>
+  </div>
+</div>
+<footer id="footer-content" class="bg-grau">
+  <div id="footer">
+    <div class="row">
+      <div id="dhlogobox" class="large-12 columns">
+        <img src="/assets/img/neh-dlcl.png" id="dhlg-logo" style="max-height:200px; max-width:400px">
+        <img src="/assets/img/cesta-stanford.png" id="dhlg-logo" style="max-height:200px; max-width:400px">
+        <h5>Permissions and License</h5>
+        <p></p>
+        <p></p>
+      </div>
+    </div>
+  </div>
+</footer>
+<footer id="footer">
+  <div class="container">
+    <p>&copy; Medieval Source Book</p>
+  </div>
+</footer>
+
+  
+  <script src="/assets/js/javascript.min.js"></script>
+<script src="/assets/js/morse.js"></script>
+<script>
+// Initialize Foundation top-bar with dropdowns
+$(document).foundation();
+
+// Basic DOM helpers used by templates
+$(function(){
+  $('.morse').each(function(){
+    var str=$(this).text();
+    // encodeMorse defined in morse.js
+    if (typeof encodeMorse === 'function') $(this).text(encodeMorse(str));
+  });
+});
+</script>
+
+</body>

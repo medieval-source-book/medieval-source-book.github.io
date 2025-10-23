@@ -1,0 +1,20 @@
+<p>Eleventy port of medieval-source-book</p>
+<p>This folder contains a minimal Eleventy (11ty) scaffold intended to help port templates from the repository's Jekyll site into an 11ty site.</p>
+<p>What is included</p>
+<ul>
+<li><code>package.json</code> with scripts to build Sass and run Eleventy</li>
+<li><code>.eleventy.js</code> minimal config (passthroughs for <code>assets/</code> and <code>html/</code>)</li>
+<li><code>_layouts/</code> and <code>_includes/</code> with minimal templates</li>
+<li><code>_data/navigation.json</code> small navigation example</li>
+<li><code>index.md</code> sample page</li>
+</ul>
+<p>How to run</p>
+<pre><code class="language-bash">cd 11ty
+npm install
+npm start
+</code></pre>
+<p>Notes and next steps</p>
+<ul>
+<li>This scaffold compiles Sass from the repo's <code>_sass/</code> directory into <code>11ty/dist/css</code>. The filenames used in the layout are minimal; you may want to assemble a single compiled CSS file or adapt the styles to 11ty's build pipeline.</li>
+<li>Port additional includes/layouts from <code>_includes/</code> and <code>_layouts/</code> in the root repo as needed. Data files in <code>_data/</code> can be copied or referenced directly.</li>
+</ul>

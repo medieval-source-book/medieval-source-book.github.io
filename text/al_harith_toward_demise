@@ -1,0 +1,325 @@
+
+
+
+
+
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Global Medieval Sourcebook</title>
+<link rel="stylesheet" type="text/css" href="/assets/css/styles_feeling_responsive.css">
+<script src="/assets/js/modernizr.min.js "></script>
+<meta name="description" content="">
+<link rel="icon" type="image/png" href="/assets/img/favicon.png">
+
+
+
+<body id="top-of-page" class="">
+  
+  <div class="title-surround">
+    <a href="/"><img src="/assets/img/LogoPrint_trans.png" id="main-logo"></a>
+    <h1 class="site_title">Global Medieval Sourcebook
+      <small>A Digital Repository of Medieval Texts</small>
+    </h1>
+  </div>
+  <div id="navigation" class="">
+  <nav class="top-bar" role="navigation" data-topbar>
+    <ul class="title-area">
+      <li class="name"><a href="/" title="home"><img src="/assets/img/gms_topright.png" class="dhlg-menu-logo"></a></li>
+      <li class="toggle-topbar menu-icon"><a href="#"><span>&nbsp;</span></a></li>
+    </ul>
+    <section class="top-bar-section">
+      <ul class="right">
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      </ul>
+      <ul class="left">
+        
+          
+            
+              <li class="has-dropdown ">
+                <a href="collections/" class=" a-pseudo ">Collections</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/collections/cross-cultural-encounters/">Cross-Cultural Encounters in the Premodern World</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/facetiae-jokes/">Facetiae: Jokes from the Italian Renaissance</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/fantastic-fables/">Fantastic Fables: A 14th-Century Book of Moral Tales and Dialogues</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/gender-sex-sensuality/">Gender, Sex and Sensuality: Writings on Women, Men and Desire</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/hymns-and-histories/">Hymns and Histories: Early German Writings, 800-1000 CE</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/love-songs/">Love Songs of the Medieval World: Lyrics from Europe and Asia</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/love-lust-longing/">Lyrics of Love, Lust, and Longing: Selected Poetry from Song Dynasty China</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/making-history/">Making History: Chronicles, Legends and Anecdotes</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/prank-or-be-pranked/">Prank or Be Pranked: Comedy, Wit and Satire</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/prayer-spirituality/">Prayer, Spirituality, and Life after Death: Global Medieval Perspectives</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/good-life/">What Makes A Good Life? Poetic Reflections from Imperial China</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+            
+              <li class="has-dropdown ">
+                <a class=" a-pseudo ">By Century</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/_periods/7th_century/">7th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/8th_century/">8th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/9th_century/">9th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/10th_century/">10th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/11th_century/">11th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/12th_century/">12th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/13th_century/">13th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/14th_century/">14th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/15th_century/">15th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/16th_century/">16th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+        
+          
+            
+              <li class="has-dropdown ">
+                <a class=" a-pseudo ">About</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/about/">About this project</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/how-we-made-it/">How we made it</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/contributors/">Contributors</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+            
+              <li class=" alternateprefix"><a  href="/search/">Search</a></li>
+              <li class="divider"></li>
+            
+          
+        
+      </ul>
+    </section>
+  </nav>
+</div>
+
+  
+  
+  <div class="row" id="main">
+  
+  <div class="large-4 columns">
+    <div class="panel">
+  <h3 id="tocheader">Text Information</h3>
+  <ul id="toc">
+    
+    <li><strong>Author:</strong> al-Ḥārith ibn ʿUbād</li>
+    
+
+    <li><strong>Period:</strong>
+      
+        
+        &nbsp;
+      
+        
+        
+      
+    </li>
+
+    <li><a href="/assets/tei/al_harith_toward_demise.xml">Download TEI</a></li>
+    <li><a href="/assets/pdf/al_harith_toward_demise.pdf">Download formatted PDF</a></li>
+    <li><a href="https://purl.stanford.edu/druid">View in Stanford Digital Repository</a></li>
+  </ul>
+</div>
+
+  </div>
+  <div class="large-8 columns">
+  
+    <article itemscope itemtype="http://schema.org/Article">
+      <header class="row">
+        <div itemprop="name" class="large-12 columns">
+          <h1 id="pagetitle" class="landing">Everything's destined toward demise | كل شيء مصيره للزوال
+</h1>
+        </div>
+      </header>
+
+      <div itemprop="articleSection">
+        
+<div itemprop="image" class="large-4 columns" style="float:right;">
+  <img src="/assets/img/text/al_harith_toward_demise.jpg" alt="Everything's destined toward demise | كل شيء مصيره للزوال
+" />
+  
+</div>
+
+
+        <h3><a href="/assets/pdf/al_harith_toward_demise.pdf">Read the text (PDF)</a></h3>
+        <p>Horseman brandishing a sword, from Manual on the Arts of Horsemanship (Nihayat al-su’l wa al-umniya fi ta‘allum ‘amal al-furusiyya) by al-Aqsara'i. Dublin, Chester Beatty Library, Ar 5655.146, f.146r</p>
+<p>كل شيءٍ مصيره للزوالغير ربي وصالح الأعمال Everything’s destined toward demiseBesides my MasterAllah. and good works. وترى الناس ينظرون جميعاليس فيهم لذاك بعض احتيال You see the people, all looking,Unable to cheat their demise. قل لأم الأغرِّ تبكي بُجَيْراًحيل بين الرجال والأموال Tell the highborn’s mother,Bujayr’s mother. mourning Bujayr,A barrier’s set between men and their wealth. ولعمري لأبكينَّ بُجَيْراًما أتى الماء من رؤوس الجبال I’ll mourn Bujayr, by my life,As water runs from mountaintops. لهف نفسي على بُجيْرٍ إذا ماجالت الخيلُ يوم حربٍ عُضال My misery, Bujayr, whenHorses coursed, intractable war day. وتساقى الكُماةُ سُمًّا نقيعاًوبدا البيضُ من قباب الحِجَال The courageous exchanged fatal raids.Whites appeared from canopies’ bellies,“Whites” here perhaps refers to the warriors’ unsheathed, shining weapons, or more likely to the faces of the Banī Bakr’s women, peeking out of their enclosures. This latter reading lends itself to the verse that follows, as it does the legend of al-Ḥārith’s entrance into the fight. As medieval commentators have it, the fateful day he joined the battle would be remembered as the Day of Shearing (Yawm al-Taḥāluq), or the Day of Haircutting Past the Earlobes (Yawm Taḥlāq al-Limam), on account of Bakr’s tribesmen cutting their hair in order for their women to identify them: al-Ḥārith had ordered them to attend onto the battlefield to finish off Taghlib’s wounded and nurse their own. وسَعَتْ كلُّ حُرَّة الوجهِ تدعويا لبكرٍ غرَّاءَ كالتِّمثال While freewoman raced, calling,“Bakr!”Bakr being the name of al-Ḥārith’s tribe.—honorable as idols. يا بجيرَ الخيرات لا صُلحَ حتىنملا البيد من رؤوس الرجال O opulent Bujayr,The Arabic, “Ya Bujayr al-khayrāt”, plays on the name Bujayr, which means (of a belly) “filled with water or milk”. Here, the poet endearingly declares Bujayr full of “the best”: al-khayrāt.” no peace untilWe fill the wasteland with men’s heads. وتَقَرَّ العيونُ بعد بُكاهاحين تسقي الدّما صدورَ العوالي Eyes will smile after cryingOnce blood quenches arrowheads. صْبَحَتْ وائلٌ تَعِجُّ من الحربِ عجيجَ الجمال بالأثقال Wāʾil’s children wailed from war,Wāʾil being the parent of Taghlib and Bakr.The wailing of encumbered camels. لم أكُنْ من جُناتِها عَلِمَ اللهُوإنِّي لَحِرِّها اليوم صال I played no part in this war, Allāh knows;I feel its heat today. قد تجنّبت وائلاً كي يُفيقوافأبت تغلب عليَّ اعتزالي I avoided Wāʾil that they might come around,But Taghlib refused my seclusion.That is, al-Ḥārith’s avoidance of the war. وأشابوا ذُؤَابَتي ببجيرٍقتلوه ظُلماً بغير قتال They greyed my forelock with Bujayr,Killed him wrongly, without cause. قتلوه بِشِسْعِ نَعْلِ كُليبٍإنّ قَتْلَ الكريمِ بالشِّسْعِ غالِ Killed him in exchange for Kulayb’s lace—The noble’s killing for string’s expensive!That is, the murder of Bujayr for a shoelace is unacceptably disproportionate. يا بني تغلبٍ خذوا الحِذر إنَّاقد شربنا بكأس موتٍ زُلال Children of TaghlibThat is, the Taghlib tribe, named after Taghlib, son of Wāʾil.! Take heed:We drank pure Death indeed. يا بني تغلبٍ قتلتُم قتيلاًما سمعنا بمثله في الخوالي Children of Taghlib! You killed a precious one, now slain,We haven’t heard the likes of him! قرِّبا مربَطَ النَّعامة منّيلقِحَتْ حرْبُ وائلٍ عن حِيالِ Draw Naʿāmah’sal-Naʿāmah: al-Ḥārith’s formidable horse. harness near—In the original Arabic, the repeated command verb employed, “qarribā,” takes the dual form, although a plural audience is targeted. Classical Arabic poets rely on this addressing of two imaginary bystanders for dramatic effect, most famously Imruʾ al-Qays (d.c.545) in his ode’s opening, “Qifā nabki min dhikrā ḥabīb wa-manzili” (“Stop! Let’s weep, recalling lover and lodge”).Wāʾil’s war bore fruit, after infertility. قرِّبا مربَطَ النَّعامة منّيليس قولي يُرادُ لكنْ فِعَالي Draw Naʿāmah’s harness near—I don’t intend words, but deeds. قرِّبا مربَطَ النَّعامة منّيجَدَّ نَوْحُ النِّساءِ بالأعوالِ Draw Naʿāmah’s harness near—The women’s wails turned earnest. قرِّبا مربَطَ النَّعامة منّيشابَ رأسي وأنكرتني القوالي Draw Naʿāmah’s harness near—My head greyed; haters knew me not. قرِّبا مربَطَ النَّعامة منّيللسُّرى والغُدُوِّ والآصال Draw Naʿāmah’s harness near—For riding: nighttime, morning, afternoon. قرِّبا مربَطَ النَّعامة منّيطال لَيْلي على اللّيالي الطِّوال Draw Naʿāmah’s harness near—My night’s surpassed the longest nights. قرِّبا مربَطَ النَّعامة منّيلاعتناق الأبطال بالأبطال Draw Naʿāmah’s harness near—For close embrace: Champions 'gainst Champions. قرِّبا مربَطَ النَّعامة منّيواعْدِلا عن مقالَةِ الجُهَّال Draw Naʿāmah’s harness near—Discard the words of the heedless.A general judgment on boasts unsubstantiated by action, though perhaps it refers to some specific rumors arising out of al-Ḥārith’s tribulation. قرِّبا مربَطَ النَّعامة منّيليس قلبي عن القتال بِسَال Draw Naʿāmah’s harness near—My heart will not forgo warring. قرِّبا مربَطَ النَّعامة منّيكُلَّما هبَّ ريحُ ذَيْلِ الشَّمال Draw Naʿāmah’s harness near—Even as Boreas’ tailwind roared.Literally, whenever the north wind’s tail stirred. قرِّبا مربَطَ النَّعامة منّيلبجيرٍ مُفَكِّك الأغلال Draw Naʿāmah’s harness near—For Bujayr, Breaker of the chains. قرِّبا مربَطَ النَّعامة منّيلكريمٍ مُتَوَّجٍ بالجمال Draw Naʿāmah’s harness near—For a noble, Beauty-crowned قرِّبا مربَطَ النَّعامة منّيلا نَبيعُ الرِّجال بيْعَ النِّعال Draw Naʿāmah’s harness near—We don’t sell men for shoes.See Introduction and note 8 above. قرِّبا مربَطَ النَّعامة منّيلبجيرٍ فداهُ عَمِّي وخالي Draw Naʿāmah’s harness near—For Bujayr, my uncles be ransomed! قرِّباها لِحَيِّ تغلِبَ شُوساًلاعتناق الكُماةِ يوم القتال Bring itThat is, the harness.— to haughty Taghlib,For the warriors’ embrace the day of battle. قرِّباها وقرِّبا لَأْمَتي دِرْعاً دِلاصاً تَرُدُّ حَدَّ النِّبال Bring it— and bring my breastplate,A sleek cuirass, blunts arrows’ edge. قرِّباها بِمُرْهفاتٍ حدادٍلِقِراعِ الأبطال يوم النِّزال Bring it— with slashing swords,For the clash of champions on battle day. رُبَّ جيشٍ لَقِيتُهُ يَمطُرُ المَوْتَ على هيْكَلٍ خفيفِ الجِلال Often I faced an army,An instance of meiosis (understatement for rhetorical effect). The term “rubba” (“perhaps”), in the line “rubba jaysh laqītuhu” (“perhaps I faced an army”), signals not uncertainty or infrequency but their opposites. See Ibn Manẓur, Lisan al-ʿArab, s.v. ر ب ب .Death from lightly-armored chargers. سائِلوا كِنْدَةَ الكِرامَ وبكراًواسألوا مَذْحِجاً وحيَّ هلال Ask noble Kinda, inquire into Bakr,Interrogate Madhḥij and Hilāl.Kinda, Bakr, Madhḥij, Hilāl: notable Arabian tribes. إذ أتَوْنا بعسْكَرٍ ذي زُههاءٍمُكْفَهِرِّ الأذى شديدِ المَصال When they reached us with a massive troop,Ready to attack, severe in their seizure; فَقَرَيْناه حين رام قِراناكُلَّ ماضي الذُّبابِ عضْبِ الصِّقال When they craved congress we met them,Welcomed every keen sword’s edge.</p>
+<h2>Introduction to the Source</h2>
+<p>In the following <em>rithāʾ</em>, or elegy, al-Ḥārith laments the disrespectful slaying of Bujayr, rehearses the many hard feelings the father endured in its wake, and presents images and moods from his day in the battle. The poem is best known by its famous refrain, “Qarribā marbaṭ al-Naʿāmah minnī,” (“Bring me al-Naʿāmah’s harness”), al-Naʿāmah being his unrivaled horse. The poem as it survives exists in multiple versions, though none live up to the claim that al-Ḥārith repeated this call over 50 times.</p>
+## Introduction to the Text 
+<p>The advent of Islam precipitated a breakthrough in historiography. In the centuries that followed the religion’s arrival, linguists, lexicographers, and chroniclers spared no effort to write all they knew of the Arabs’ pre-Islamic days, much of it preserved in verse. This poetry commemorated landmarks of the past—events not so much faithfully recorded as artistically imagined to drive home their import.</p> <p>One such event, the Basūs War (ca. 494-534), comes to us by way of several poems. This legendary 40-year war between the sibling tribes of Taghlib and Bakr (two sons of Wāʾil ibn Hind) broke out with the murder of the Taghlibs’ leader, Wāʾil ibn Rabīʿah, better known as Kulayb. Not long before, Kulayb’s aunt-in-law, al-Basūs bint Munqidh, hosted Saʿd ibn Shumays as a resident under her protection. Saʿd’s she-camel, al-Sarāb, was pastured with those of Jassās ibn Murrah, her nephew and Kulayb’s brother-in-law. According to medieval transmitters of this story, the expressions “<em>ashʾam min al-Sarāb</em>” (“worse omened than al-Sarāb”) and “<em>ashʾam min al-Basūs</em>” (“worse omened than al-Basūs”) derive from what ensues.</p> <p>Noticing the unfamiliar camel among his herd, Kulayb warned Jassās that al-Sarāb was not welcome to pasture near his land. Jassās responded in kind that none of his camels would pasture without her. Kulayb then threatened that if he saw her again, he’d stick an arrow in her breast. If he did so, said Jassās, he’d stick an arrow in his (Kulayb's) neck. Despite this threat, Kulayb fatally struck al-Sarāb when again encountering her. al-Basūs wailed her humiliation to her nephew, vowing to kill Kulayb’s most prized camel, Ghilāl, in retaliation. Jassās set his mind to killing Kulayb, and did.</p> <p>Following Kulayb’s murder, Taghlib leadership transferred to his brother, ʿAdiyy ibn Rab īʿah, styled “al-Muhalhil” (“The Refiner”) on account of the refinement of his poetry. He maintained a killing streak for several decades that eventually resulted in the deaths of Jassās and his half-brother, Hammām. A third half-brother, al-Ḥārith ibn ʿUbād (or ʿAbbād), who had avoided the conflict entirely until this point, now intervened, dispatching a letter to al-Muhalhil. The message, sent with al-Ḥārith’s son, Bujayr, offered al-Muhalhil the choice of either slaying Bujayr and finally ending the bloodshed, or releasing him to likewise establish peace. al-Muhalhil chose a third option, proclaiming “buʾ bi-shisʿ naʿl Kulayb!” (“Take payback for Kulayb’s shoelace!”) before slaying the emissary.</p> <p>al-Ḥārith initially accepted this awesome sacrifice, but when it reached him, al-Muhalhil’s taunt incensed the grieving father. He entered the battle not long after, killing many that day, conclusively defeating the Taghlibs and capturing their leader. Failing to recognize him, al-Ḥārith commanded his prisoner to lead him to al-Muhalhil; the latter promised to do so on the condition that he would not harm him. al-Ḥārith acquiesced. When the prisoner identified himself, his captor, a man of his word, cut al-Muhalhil’s forelock off but otherwise left him alone.</p>
+## Further Reading 
+<p>Fück, J.W., “al-Basūs”, <em>Encyclopaedia of Islam</em>, edited by P. Bearman, Th. Bianquis, C.E. Bosworth, E. van Donzel, W.P. Heinrichs, 2nd ed., Brill, 2012. <a href="http://dx.doi.org/10.1163/1573-3912_islam_SIM_1273">http://dx.doi.org/10.1163/1573-3912_islam_SIM_1273</a>.</p> <p>Ibn al-Athīr. A.<em> al-Kāmil fī al-Tārīkh</em>, edited by ʿU. Tadmurī, vol. 1, Dār al-Kitāb al-ʿArabī, 2017, pp. 427-85.</p> <p>Khalidi, T. <em>Arabic Historical Thought in the Classical Period. </em>Cambridge UP, 1994.</p> <p>Nabawī, ʿA. <em>Dīwān Banī Bakr fī al-Jāhiliyyah.</em> Dār al-Zahrāʾ li-al-Nashr bi-al-Qāhirah, 1989.</p> <p>al-Nuwayrī, A.<em> Nihāyat al-Arab fī Funūn al-Adab</em>, edited by M. Qumayḥah and Ḥ. Nūr al-Dīn, Vol. 15, Dar Al-Kotob Al-ilmiyah, 2004, pp. 303-10.</p> <p>Rosenthal, F. <em>A History of Muslim Historiography</em>. 2nd rev. ed., Brill, 1968.</p>
+## Credits
+Text based on Cheikho, L. 1890. Kitāb Shuʿarāʾ al-Naṣrāniyyah. Vol. 1. Beirut: Maṭbaʿat al-Ābāʾ al-Mursilīn al-Yasūʿiyyīn fī Bayrūt, pages 271-273., Translation by Sherif Abdelkarim, Encoded in TEI P5 XML by Danny Smith
+
+      </div>
+    </article>
+  </div>
+</div>
+
+  
+  
+  <div id="pagebottom" class="row">
+  <div id="up-to-top" class="large-2 columns" style="text-align: right;">
+    <a class="iconfont" href="#top-of-page">&#xf108;</a>
+  </div>
+</div>
+<footer id="footer-content" class="bg-grau">
+  <div id="footer">
+    <div class="row">
+      <div id="dhlogobox" class="large-12 columns">
+        <img src="/assets/img/neh-dlcl.png" id="dhlg-logo" style="max-height:200px; max-width:400px">
+        <img src="/assets/img/cesta-stanford.png" id="dhlg-logo" style="max-height:200px; max-width:400px">
+        <h5>Permissions and License</h5>
+        <p></p>
+        <p></p>
+      </div>
+    </div>
+  </div>
+</footer>
+<footer id="footer">
+  <div class="container">
+    <p>&copy; Medieval Source Book</p>
+  </div>
+</footer>
+
+  
+  <script src="/assets/js/javascript.min.js"></script>
+<script src="/assets/js/morse.js"></script>
+<script>
+// Initialize Foundation top-bar with dropdowns
+$(document).foundation();
+
+// Basic DOM helpers used by templates
+$(function(){
+  $('.morse').each(function(){
+    var str=$(this).text();
+    // encodeMorse defined in morse.js
+    if (typeof encodeMorse === 'function') $(this).text(encodeMorse(str));
+  });
+});
+</script>
+
+</body>

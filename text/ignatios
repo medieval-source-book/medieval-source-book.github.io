@@ -1,0 +1,323 @@
+
+
+
+
+
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Global Medieval Sourcebook</title>
+<link rel="stylesheet" type="text/css" href="/assets/css/styles_feeling_responsive.css">
+<script src="/assets/js/modernizr.min.js "></script>
+<meta name="description" content="">
+<link rel="icon" type="image/png" href="/assets/img/favicon.png">
+
+
+
+<body id="top-of-page" class="">
+  
+  <div class="title-surround">
+    <a href="/"><img src="/assets/img/LogoPrint_trans.png" id="main-logo"></a>
+    <h1 class="site_title">Global Medieval Sourcebook
+      <small>A Digital Repository of Medieval Texts</small>
+    </h1>
+  </div>
+  <div id="navigation" class="">
+  <nav class="top-bar" role="navigation" data-topbar>
+    <ul class="title-area">
+      <li class="name"><a href="/" title="home"><img src="/assets/img/gms_topright.png" class="dhlg-menu-logo"></a></li>
+      <li class="toggle-topbar menu-icon"><a href="#"><span>&nbsp;</span></a></li>
+    </ul>
+    <section class="top-bar-section">
+      <ul class="right">
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      </ul>
+      <ul class="left">
+        
+          
+            
+              <li class="has-dropdown ">
+                <a href="collections/" class=" a-pseudo ">Collections</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/collections/cross-cultural-encounters/">Cross-Cultural Encounters in the Premodern World</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/facetiae-jokes/">Facetiae: Jokes from the Italian Renaissance</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/fantastic-fables/">Fantastic Fables: A 14th-Century Book of Moral Tales and Dialogues</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/gender-sex-sensuality/">Gender, Sex and Sensuality: Writings on Women, Men and Desire</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/hymns-and-histories/">Hymns and Histories: Early German Writings, 800-1000 CE</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/love-songs/">Love Songs of the Medieval World: Lyrics from Europe and Asia</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/love-lust-longing/">Lyrics of Love, Lust, and Longing: Selected Poetry from Song Dynasty China</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/making-history/">Making History: Chronicles, Legends and Anecdotes</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/prank-or-be-pranked/">Prank or Be Pranked: Comedy, Wit and Satire</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/prayer-spirituality/">Prayer, Spirituality, and Life after Death: Global Medieval Perspectives</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/good-life/">What Makes A Good Life? Poetic Reflections from Imperial China</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+            
+              <li class="has-dropdown ">
+                <a class=" a-pseudo ">By Century</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/_periods/7th_century/">7th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/8th_century/">8th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/9th_century/">9th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/10th_century/">10th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/11th_century/">11th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/12th_century/">12th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/13th_century/">13th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/14th_century/">14th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/15th_century/">15th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/16th_century/">16th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+        
+          
+            
+              <li class="has-dropdown ">
+                <a class=" a-pseudo ">About</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/about/">About this project</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/how-we-made-it/">How we made it</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/contributors/">Contributors</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+            
+              <li class=" alternateprefix"><a  href="/search/">Search</a></li>
+              <li class="divider"></li>
+            
+          
+        
+      </ul>
+    </section>
+  </nav>
+</div>
+
+  
+  
+  <div class="row" id="main">
+  
+  <div class="large-4 columns">
+    <div class="panel">
+  <h3 id="tocheader">Text Information</h3>
+  <ul id="toc">
+    
+    <li><strong>Author:</strong> Anonymous</li>
+    
+
+    <li><strong>Period:</strong>
+      
+        
+        &nbsp;
+      
+        
+        
+      
+    </li>
+
+    <li><a href="/assets/tei/memorial_father_ignatios.xml">Download TEI</a></li>
+    <li><a href="/assets/pdf/memorial_father_ignatios.pdf">Download formatted PDF</a></li>
+    <li><a href="https://purl.stanford.edu/druid">View in Stanford Digital Repository</a></li>
+  </ul>
+</div>
+
+  </div>
+  <div class="large-8 columns">
+  
+    <article itemscope itemtype="http://schema.org/Article">
+      <header class="row">
+        <div itemprop="name" class="large-12 columns">
+          <h1 id="pagetitle" class="landing">Memorial of our father Ignatios, Patriarch of Constantinople | μνήμη τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰγατίου πατριάρχου Κωνσταντινουπόλεως
+</h1>
+        </div>
+      </header>
+
+      <div itemprop="articleSection">
+        
+<div itemprop="image" class="large-4 columns" style="float:right;">
+  <img src="/assets/img/text/memorial_father_ignatios.jpg" alt="Memorial of our father Ignatios, Patriarch of Constantinople | μνήμη τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰγατίου πατριάρχου Κωνσταντινουπόλεως
+" />
+  
+</div>
+
+
+        <h3><a href="/assets/pdf/memorial_father_ignatios.pdf">Read the text (PDF)</a></h3>
+        <p>Ignatios from Tympanum Mosaics, Hagia Sophia, Istanbul, Mosaic [Public Domain]</p>
+<p>τῆ αὐτῆ ἡμέρα μνήμη τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰγατίου πατριάρχου Κωνσταντινουπόλεως· On the same day, the memorial of our father Ignatios, patriarch of Constantinople.The manuscript lists consecutively all saints commemorated on the same day. Ignatios’ feast day is October 23. Ὁ ἐν ἀγίοις πατὴρ ἡμῶν Ἰγνάτιος. γέγονε μὲν υἱὸς Μιχαὴλ βασιλέως· ἀδελφὸς δὲ Θεοφίλου καὶ ἔγγωνMinge transcribes ἒκγονος, grandson; &quot;Menologium Basilianum, ex editione cardinalis Albani, pars I,&quot; in Leontos Diakonou Historia, edited by Jacques Paul Migne, Patrologiæ cursus completus, Series Græca (Turnhout: Typographi Brepols Editores Pontificii), ch 138, pg. 123-124.Νικηφόρου τῶν βασιλέων· Our father among the saints Ignatios was born son of emperor Michael;This refers to Michael I Rangabe (r. 811-13) and [was] brother of emperor TheophilosProbably Theophylact, eldest son of Michael I Rangabe.and grandson of emperor Nikephoros.Nikephoros I (r. 802-11) εὐνοῦχοσ δὲ γεγονώς·  εἶτα καὶ μοναχός. γέγονε καὶ ἡγούμενος τῆς μονῆς τοῦ Ἀρχαγγέλου τοῦ τότε μὲν ἐπιλεγομένου Ἀνατέλλοντος· νῦν δὲ Σατύρου· Having become a eunuch and then a monk, he also became hegoumenosThis refers to the abbot; head of the monasteryof the monastery of the Archangel, the one at that time called Anatellon (The Rising),This refers to Michael the Archangelnow, [the monastery] of Satyros.Just outside of Constantinople; See Barsanti and Alessandra Ricci, &quot;The road from Baghdad to Byzantium and the case of the Bryas palace in Istanbul,&quot; in Byzantium in the Ninth Century: Dead or Alive?: Papers from the Thirtieth Spring Symposium of Byzantine Studies, Birmingham, March 1996, ed. Leslie Brubaker (Aldershot and Bookfield: Ashgate, 1998). εἶτα προεχειρίσθη και πατριάρχης Κωνσταντινουπόλεως· καὶ ἐκράτησεν ἔτη ἔνδεκα μῆνας πέντε· καὶ μετὰ ταῦτα ἐξεβλήθη ὑπὸ Μιχαὴλ βασιλέως·Barsanti transcribes this as βασι λεώς; C. Barsanti, &quot;Le architetture ‘ad limitem’ del Menologio di Basilio II (Cod. Vat. Greco 1613) e la miniatura con la commemorazione del Patriarca Ignazio,&quot; Commentari: rivista di critica e storia dell' arte 28(1977): n. 67.ἀντ᾽ἀυτοῦ πατριάρχην ποιήσαντος. Φώτιον γενόμενον πρότερον μοναχόν· Then he was appointed patriarch of Constantinople, and he held the position for eleven years and five months; and after these things he was expelled by emperor Michael;This refers to Michael III (r. 842-67)in his place he made Photios, having first become a monk, patriarch.This is not the typical narrative for Ignatios; see intro. εἶτα ἐξεβλήθη καὶ αὐτὸς ὑπὸ Βασιλείου βασιλέως· καὶ ἀντικατέστη Ἰγνάτιος πάλιν· καὶ ἐπεσκόπησεν ἔτη ἔνδεκα· καὶ πάλιν ἐξεβλήθη. Then, he [Photios], too, was exiled by emperor Basil;This refers to Basil I (r. 867-86)and Ignatios was brought back again and held the office for eleven years and was overthrown again. καὶ ἐγένετο πατριάρχης Στέφανωος ὁ ἐν ἁγίοις υἱὸς Βασιλείου βασιλέως· And holy Stephen, the son of the emperor Basil, became patriarch. ὁ δὲ ἅγιος Ἰγάτιος ἀπελθὼν ἐν τῶ τοῦ Σατύρου μοναστηρίω καὶ καλῶς βιώσας ἐν εἰρήνη ἐτελειώθη: Thus, holy Ignatios went away to the monastery of Satyros, and living well, rested in peace.</p>
+<h2>Introduction to the Text</h2>
+<p>The <i>Menologion of Basil II </i>(<a href="https://digi.vatlib.it/view/MSS_Vat.gr.1613">Vat. ms. gr. 1613</a>) is one of the treasures of Byzantine manuscript production. The dedicatory poem tells us that it was made for the emperor Basil II (r. 976-1025), possibly early in his reign. Made in the waning years of the Macedonian dynasty, which was known for producing encyclopedic collections on various topics, the manuscript is a collection of illustrated saints’ lives arranged according to the church calendar. The <i>Menologion </i>contains entries for September through February. The consistent layout of each page comprises a title naming the saint to be commemorated and the day, an image of the saint, and brief account of their life. Befitting its imperial recipient, the richly detailed miniatures of the manuscript are all on golden ground (meaning that gold leaf has been applied to the page). They are also important as one of the few instances of medieval art where we know the artist’s name. Each miniature is accompanied by the name of one of eight artists, presumably the person who painted it.</p> <p>Contrary to its name, the book is more properly a synaxarion. Both <i>synaxaria</i> and <i>menologia</i> collect and list saints according to their celebration in the church calendar, but <i>menologia </i>generally have longer lives and often include prayers or other relevant texts for the celebration of each saint. <i>Synaxaria</i> contain much shorter notices, varying from a simple line of remembrance up to the paragraph length of this manuscript.</p> <p>This particular entry, which is found on page 134 of the <a href="https://digi.vatlib.it/view/MSS_Vat.gr.1613">manuscript</a>, tells the story of the patriarch Ignatios who is commemorated on October 23 in the <i>Menologion</i> and in the present-day Eastern Orthodox and Roman churches. Ignatios, who also has his own full-length <i>vita</i>, was the son of the emperor Michael I (r. 811-13) and was castrated when his father abdicated. The castration of young boys was a relatively common phenomenon in the Byzantine world. Eunuchs held powerful positions in the imperial court, so castration offered a pathway for social mobility. In contrast, Ignatios is a rare example of a politically motivated castration meant to destroy his claim to the throne as eunuchs could not be emperor. Further, Ignatios was made a eunuch in his teens, which was relatively late for the operation. Nevertheless, the image that accompanies his <i>vita</i> in the <i>Menologion </i>as well as his mosaic image in Hagia Sophia (see image on this page) accurately reflects the physiological effects of prepubertal castration: Ignatios’ hair is gray yet his face is beardless and boyish, (though in the manuscript it also is marked with deep wrinkles).</p> <p>The text differs from other accounts of Ignatios’s life in several aspects. Ignatios is probably best known for his part in the so-called Photian Schism. The political circumstances surrounding the schism are complex, but in this particular conflict the fates of the patriarchs and emperors were intertwined. Ignatios became patriarch in 847 under Theodora (r. 842–56, the wife of Theophilos, r. 829-42, and mother and regent of Michael III, r. 842-67). In 858 when Michael III was sole ruler, Ignatios was deposed and replaced by Photios, who was a learned layman, favored in the imperial bureaucracy. Ignatios’s partisans went to Rome and won the support of the pope. When Basil I (r. 867-86) murdered Michael III, he was faced with a number of political constraints, including the need for Western support, and so he restored Ignatios to office. Ignatios remained there until his death in 877 at which point Photios became patriarch once more. He served until he was deposed again in favor of another (likely castrated) imperial son, Stephen, in 886.</p> <p>The text of the <i>Menologion</i> condenses and modifies the complexity of this back and forth, especially in the last part. It erases Photios’ second term and reports that Ignatios did not die in office but retired to a monastery. Further, the entry highlights Ignatios’s imperial pedigree. In sum, as it appears in the <i>Menologion</i>, the narrative stresses the connections between the imperial family and the patriarchate. The office passes from Ignatios to Stephen, the son of the founder of the Macedonian dynasty, Basil I, and the great, great grandfather of the original recipient, Basil II.</p>
+## Further Reading 
+<p>Barsanti, C. “Le Architetture ‘Ad Limitem’ Del Menologio Di Basilio Ii (Cod. Vat. Greco 1613) E La Miniatura Con La Commemorazione Del Patriarca Ignazio.” <i>Commentari: rivista di critica e storia dell' arte</i>, vol. 28, 1977, pp. 3-25.</p> <ul> <li>Discussion of the architectural framing within the miniatures and in particular the Ignatios miniature and his architectural patronage.</li> </ul> <p>der Nersessian, Sirarpie. “Remarks on the Date of the Menologium and the Psalter Written for Basil II.” <i>Byzantion, vol. </i>15, 1940-1941, pp. 104-25.</p> <ul> <li>der Nersessian argues that the manuscript was produced near the beginning of Basil II’s rule.</li> </ul> <p>Dvornik, Francis. <i>The Photian Schism: History and Legend</i>. Cambridge UP, 1948.</p> <ul> <li>An overview on the Photian Schism and its aftermath.</li> </ul> <p>Nicetas. <i>The Life of Patriarch Ignatius, e</i>dited by Andrew Smithies and John M. Duffy. Dumbarton Oaks Research Library and Collection, 2013.</p> <ul> <li>The full life of Ignatios the Younger, patriarch of Constantinople.</li> </ul> <p>Ševčenko, Ihor. “The Illuminators of the Menologium of Basil II.” <i>Dumbarton Oaks Papers</i>, vol. 16, 1962, pp. 243-276.</p> <ul> <li>On the codicology of the manuscript.</li> </ul> <p>Ševčenko, Nancy. “The Imperial Menologia and the ‘Menologion’ of Basil II.” <i>El ‘Menologio De Basilio Ii’ Città Del Vaticano, Biblioteca Apostolica Vaticana, Vat. Gr. 1613. Libro De Estudios Con Ocasión De La Edición Facsímil</i>, edited by F. D. Aiuto. ,Testimonio Compañía Editorial, 2008, pp. 231-259.</p> <ul> <li>Overview of imperial menologia and the manuscript’s place within the tradition.</li> </ul> <p>Tougher, Shaun. <i>The Eunuch in Byzantine History and Society</i>. Routledge, 2008.</p> <ul> <li>A survey of the political and social roles of eunuchs in the Byzantine world starting from the late Roman court. It includes a prosopography of known eunuchs.</li> </ul>
+## Credits
+Transcription by Lora Webb, Translation by Lora Webb, Encoded in TEI P5 XML by Danny Smith
+
+      </div>
+    </article>
+  </div>
+</div>
+
+  
+  
+  <div id="pagebottom" class="row">
+  <div id="up-to-top" class="large-2 columns" style="text-align: right;">
+    <a class="iconfont" href="#top-of-page">&#xf108;</a>
+  </div>
+</div>
+<footer id="footer-content" class="bg-grau">
+  <div id="footer">
+    <div class="row">
+      <div id="dhlogobox" class="large-12 columns">
+        <img src="/assets/img/neh-dlcl.png" id="dhlg-logo" style="max-height:200px; max-width:400px">
+        <img src="/assets/img/cesta-stanford.png" id="dhlg-logo" style="max-height:200px; max-width:400px">
+        <h5>Permissions and License</h5>
+        <p></p>
+        <p></p>
+      </div>
+    </div>
+  </div>
+</footer>
+<footer id="footer">
+  <div class="container">
+    <p>&copy; Medieval Source Book</p>
+  </div>
+</footer>
+
+  
+  <script src="/assets/js/javascript.min.js"></script>
+<script src="/assets/js/morse.js"></script>
+<script>
+// Initialize Foundation top-bar with dropdowns
+$(document).foundation();
+
+// Basic DOM helpers used by templates
+$(function(){
+  $('.morse').each(function(){
+    var str=$(this).text();
+    // encodeMorse defined in morse.js
+    if (typeof encodeMorse === 'function') $(this).text(encodeMorse(str));
+  });
+});
+</script>
+
+</body>

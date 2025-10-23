@@ -1,0 +1,324 @@
+
+
+
+
+
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Global Medieval Sourcebook</title>
+<link rel="stylesheet" type="text/css" href="/assets/css/styles_feeling_responsive.css">
+<script src="/assets/js/modernizr.min.js "></script>
+<meta name="description" content="">
+<link rel="icon" type="image/png" href="/assets/img/favicon.png">
+
+
+
+<body id="top-of-page" class="">
+  
+  <div class="title-surround">
+    <a href="/"><img src="/assets/img/LogoPrint_trans.png" id="main-logo"></a>
+    <h1 class="site_title">Global Medieval Sourcebook
+      <small>A Digital Repository of Medieval Texts</small>
+    </h1>
+  </div>
+  <div id="navigation" class="">
+  <nav class="top-bar" role="navigation" data-topbar>
+    <ul class="title-area">
+      <li class="name"><a href="/" title="home"><img src="/assets/img/gms_topright.png" class="dhlg-menu-logo"></a></li>
+      <li class="toggle-topbar menu-icon"><a href="#"><span>&nbsp;</span></a></li>
+    </ul>
+    <section class="top-bar-section">
+      <ul class="right">
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      </ul>
+      <ul class="left">
+        
+          
+            
+              <li class="has-dropdown ">
+                <a href="collections/" class=" a-pseudo ">Collections</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/collections/cross-cultural-encounters/">Cross-Cultural Encounters in the Premodern World</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/facetiae-jokes/">Facetiae: Jokes from the Italian Renaissance</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/fantastic-fables/">Fantastic Fables: A 14th-Century Book of Moral Tales and Dialogues</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/gender-sex-sensuality/">Gender, Sex and Sensuality: Writings on Women, Men and Desire</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/hymns-and-histories/">Hymns and Histories: Early German Writings, 800-1000 CE</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/love-songs/">Love Songs of the Medieval World: Lyrics from Europe and Asia</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/love-lust-longing/">Lyrics of Love, Lust, and Longing: Selected Poetry from Song Dynasty China</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/making-history/">Making History: Chronicles, Legends and Anecdotes</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/prank-or-be-pranked/">Prank or Be Pranked: Comedy, Wit and Satire</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/prayer-spirituality/">Prayer, Spirituality, and Life after Death: Global Medieval Perspectives</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/good-life/">What Makes A Good Life? Poetic Reflections from Imperial China</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+            
+              <li class="has-dropdown ">
+                <a class=" a-pseudo ">By Century</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/_periods/7th_century/">7th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/8th_century/">8th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/9th_century/">9th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/10th_century/">10th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/11th_century/">11th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/12th_century/">12th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/13th_century/">13th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/14th_century/">14th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/15th_century/">15th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/16th_century/">16th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+        
+          
+            
+              <li class="has-dropdown ">
+                <a class=" a-pseudo ">About</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/about/">About this project</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/how-we-made-it/">How we made it</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/contributors/">Contributors</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+            
+              <li class=" alternateprefix"><a  href="/search/">Search</a></li>
+              <li class="divider"></li>
+            
+          
+        
+      </ul>
+    </section>
+  </nav>
+</div>
+
+  
+  
+  <div class="row" id="main">
+  
+  <div class="large-4 columns">
+    <div class="panel">
+  <h3 id="tocheader">Text Information</h3>
+  <ul id="toc">
+    
+    <li><strong>Author:</strong> Petrus Pictor</li>
+    
+
+    <li><strong>Period:</strong>
+      
+        
+        &nbsp;
+      
+        
+        
+      
+    </li>
+
+    <li><a href="/assets/tei/pictor_concerning_wicked_woman.xml">Download TEI</a></li>
+    <li><a href="/assets/pdf/pictor_concerning_wicked_woman.pdf">Download formatted PDF</a></li>
+    <li><a href="https://purl.stanford.edu/druid">View in Stanford Digital Repository</a></li>
+  </ul>
+</div>
+
+  </div>
+  <div class="large-8 columns">
+  
+    <article itemscope itemtype="http://schema.org/Article">
+      <header class="row">
+        <div itemprop="name" class="large-12 columns">
+          <h1 id="pagetitle" class="landing">Concerning the Wicked Woman | De Muliere Mala
+</h1>
+        </div>
+      </header>
+
+      <div itemprop="articleSection">
+        
+<div itemprop="image" class="large-4 columns" style="float:right;">
+  <img src="/assets/img/text/pictor_concerning_wicked_woman.jpg" alt="Concerning the Wicked Woman | De Muliere Mala
+" />
+  
+</div>
+
+
+        <h3><a href="/assets/pdf/pictor_concerning_wicked_woman.pdf">Read the text (PDF)</a></h3>
+        <p>British Library MS Additional 47682, f. 4 [Public Domain]</p>
+<h2>Introduction to the Source</h2>
+<p>The <em>De Muliere Mala</em> was first compiled in the <em>Liber Floridus</em>, an 1120 encyclopedia containing what Lambert, a later canon of Saint Omer, considered to be the most important knowledge in his possession. The “autograph copy,” written in Lambert’s own hand, is currently stored in the Ghent University Library as MS 92. The manuscript includes other Pictor poems, for example a satire on money narrated by the personified <em>Denarius</em> (“Dollar”). The fact that Pictor’s work was deliberately excerpted for inclusion in this collection, alongside more well-known texts such as Isidore’s <em>Etymologiae</em>, indicates that contemporaries appreciated its literary and moral value. While there are no exact duplicates, dozens of partial copies survive, including the twelfth-century French manuscript upon which this edition is based. Their proliferation suggests that Petrus Pictor, and by extension the <em>De Muliere Mala</em>, were frequently read in medieval European monasteries.</p>
+## Introduction to the Text 
+<p>Petrus Pictor, a canon (resident clergyman) at Saint-Omer in northern France, composed <em>De Muliere Mala</em> (“The Wicked Woman”) in the late eleventh or early twelfth century. In his poem, Pictor first cites a litany of historical and biblical examples on the evil of womankind before detailing the fatal vengeance of a rebuffed mother-seducer who falsely accuses her own son of rape. <em>De Muliere Mala</em> thus participates in a long tradition of misogynistic Christian writing as embodied by Tertullian, a pioneering theologian from the second and third centuries AD, who interpreted Eve’s fall from grace as a warning that women are “the Devil’s gateway” (<em>De Habitu Mulierum</em> 1.1). Nevertheless, it is far more than a mere moralising text, for its explicit treatment of incestuous lust looks to Classical models: Pictor accords a literary status to his verses by referencing ancient erotic writers such as Ovid (43BC-17/18AD) and Apuleius (c. 124-170 AD). The rhetoric of the poem is reinforced by its aggressive anaphoras (repeated phrases at the beginnings of certain lines) and pounding polysyndetons (lists of words linked only by conjunctions, typically “and...and”), which simultaneously drive home the notion that all women are malicious and evoke the eponymous Wicked Woman’s uncontrollable frenzy. Owing to these complex layers, this rarely-studied poem has the potential to please a diverse crowd. It is especially interesting to consider its portrayal of sexual aggression in the light of current debates on this topic, and to question its support of gender essentialism, that is, the notion that all women share the same malevolent characteristics. The poem is, moreover, an enjoyable read as it constitutes a thrilling psychological portrait on the extremities to which lust and pride can lead.</p>
+## Further Reading 
+<p>Carver, Robert H. F. “Apuleius in the High Middle Ages.” <em>The Protean Ass: The Metamorphoses of Apuleius from Antiquity to the Renaissance</em>. Oxford UP, 2007, pp. 61-107.</p> <ul> <li>Elaborates on how Pictor borrowed specific elements of his <em>De Muliere Mala</em> from Apuleius’ descriptions of lustful women.</li> </ul> <p>Derolez, Albert. <em>The Making and Meaning of the Liber Floridus: A Study of the Original Manuscript.</em> <em>Ghent, University Library, MS 92</em>. Brepols, 2015.</p> <ul> <li>A comprehensive introduction to the manuscript in which Pictor’s poems were first transmitted.</li> </ul> <p>Muir Tyler, Elizabeth. “Reading through the Conquest.” <em>England in Europe: English Royal Women and Literary Patronage</em>, c. 1000-1150. U of Toronto P, 2017, pp. 260-301.</p> <ul> <li>Describes the link between Pictor’s life experiences (e.g. his travels outside Flanders) and his poetic style, while also highlighting key contemporaries.</li> </ul> <p>Van Acker, Lieven, editor. Petri Pictoris Carmina.<em> Nec Non Petri de Sancto Audemaro Librum de Coloribus Faciendis</em>. CCCM 25. Brepols, 1972, pp. 103-116.</p> <ul> <li>Most recent Latin edition of Pictor’s complete works, including the <em>De Muliere Mala</em>.</li> </ul> <p>Wieser, Marie T. “Zu Petrus Pictors misogynem Carmen 14.” <em>Wiener Studien</em>, vol. 115, 2002, pp. 315-20.</p> <ul> <li>The best introduction to this text is in German. This article discusses the structure and misogynistic themes of the <em>De Muliere Mala</em>, and demonstrates that Pictor borrowed heavily from Roman declamation.</li> </ul>
+## Credits
+Transcription by Astrid Khoo, Translation by Astrid Khoo, Encoded in TEI P5 XML by Irene Han
+
+      </div>
+    </article>
+  </div>
+</div>
+
+  
+  
+  <div id="pagebottom" class="row">
+  <div id="up-to-top" class="large-2 columns" style="text-align: right;">
+    <a class="iconfont" href="#top-of-page">&#xf108;</a>
+  </div>
+</div>
+<footer id="footer-content" class="bg-grau">
+  <div id="footer">
+    <div class="row">
+      <div id="dhlogobox" class="large-12 columns">
+        <img src="/assets/img/neh-dlcl.png" id="dhlg-logo" style="max-height:200px; max-width:400px">
+        <img src="/assets/img/cesta-stanford.png" id="dhlg-logo" style="max-height:200px; max-width:400px">
+        <h5>Permissions and License</h5>
+        <p></p>
+        <p></p>
+      </div>
+    </div>
+  </div>
+</footer>
+<footer id="footer">
+  <div class="container">
+    <p>&copy; Medieval Source Book</p>
+  </div>
+</footer>
+
+  
+  <script src="/assets/js/javascript.min.js"></script>
+<script src="/assets/js/morse.js"></script>
+<script>
+// Initialize Foundation top-bar with dropdowns
+$(document).foundation();
+
+// Basic DOM helpers used by templates
+$(function(){
+  $('.morse').each(function(){
+    var str=$(this).text();
+    // encodeMorse defined in morse.js
+    if (typeof encodeMorse === 'function') $(this).text(encodeMorse(str));
+  });
+});
+</script>
+
+</body>

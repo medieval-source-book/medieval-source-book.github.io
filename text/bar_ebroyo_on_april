@@ -1,0 +1,321 @@
+
+
+
+
+
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Global Medieval Sourcebook</title>
+<link rel="stylesheet" type="text/css" href="/assets/css/styles_feeling_responsive.css">
+<script src="/assets/js/modernizr.min.js "></script>
+<meta name="description" content="">
+<link rel="icon" type="image/png" href="/assets/img/favicon.png">
+
+
+
+<body id="top-of-page" class="">
+  
+  <div class="title-surround">
+    <a href="/"><img src="/assets/img/LogoPrint_trans.png" id="main-logo"></a>
+    <h1 class="site_title">Global Medieval Sourcebook
+      <small>A Digital Repository of Medieval Texts</small>
+    </h1>
+  </div>
+  <div id="navigation" class="">
+  <nav class="top-bar" role="navigation" data-topbar>
+    <ul class="title-area">
+      <li class="name"><a href="/" title="home"><img src="/assets/img/gms_topright.png" class="dhlg-menu-logo"></a></li>
+      <li class="toggle-topbar menu-icon"><a href="#"><span>&nbsp;</span></a></li>
+    </ul>
+    <section class="top-bar-section">
+      <ul class="right">
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      </ul>
+      <ul class="left">
+        
+          
+            
+              <li class="has-dropdown ">
+                <a href="collections/" class=" a-pseudo ">Collections</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/collections/cross-cultural-encounters/">Cross-Cultural Encounters in the Premodern World</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/facetiae-jokes/">Facetiae: Jokes from the Italian Renaissance</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/fantastic-fables/">Fantastic Fables: A 14th-Century Book of Moral Tales and Dialogues</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/gender-sex-sensuality/">Gender, Sex and Sensuality: Writings on Women, Men and Desire</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/hymns-and-histories/">Hymns and Histories: Early German Writings, 800-1000 CE</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/love-songs/">Love Songs of the Medieval World: Lyrics from Europe and Asia</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/love-lust-longing/">Lyrics of Love, Lust, and Longing: Selected Poetry from Song Dynasty China</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/making-history/">Making History: Chronicles, Legends and Anecdotes</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/prank-or-be-pranked/">Prank or Be Pranked: Comedy, Wit and Satire</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/prayer-spirituality/">Prayer, Spirituality, and Life after Death: Global Medieval Perspectives</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/good-life/">What Makes A Good Life? Poetic Reflections from Imperial China</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+            
+              <li class="has-dropdown ">
+                <a class=" a-pseudo ">By Century</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/_periods/7th_century/">7th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/8th_century/">8th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/9th_century/">9th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/10th_century/">10th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/11th_century/">11th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/12th_century/">12th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/13th_century/">13th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/14th_century/">14th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/15th_century/">15th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/16th_century/">16th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+        
+          
+            
+              <li class="has-dropdown ">
+                <a class=" a-pseudo ">About</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/about/">About this project</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/how-we-made-it/">How we made it</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/contributors/">Contributors</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+            
+              <li class=" alternateprefix"><a  href="/search/">Search</a></li>
+              <li class="divider"></li>
+            
+          
+        
+      </ul>
+    </section>
+  </nav>
+</div>
+
+  
+  
+  <div class="row" id="main">
+  
+  <div class="large-4 columns">
+    <div class="panel">
+  <h3 id="tocheader">Text Information</h3>
+  <ul id="toc">
+    
+    <li><strong>Author:</strong> Bar ‘Ebroyo</li>
+    
+
+    <li><strong>Period:</strong>
+      
+        
+        
+      
+    </li>
+
+    <li><a href="/assets/tei/bar_ebroyo_on_april.xml">Download TEI</a></li>
+    <li><a href="/assets/pdf/bar_ebroyo_on_april.pdf">Download formatted PDF</a></li>
+    <li><a href="https://purl.stanford.edu/druid">View in Stanford Digital Repository</a></li>
+  </ul>
+</div>
+
+  </div>
+  <div class="large-8 columns">
+  
+    <article itemscope itemtype="http://schema.org/Article">
+      <header class="row">
+        <div itemprop="name" class="large-12 columns">
+          <h1 id="pagetitle" class="landing">On April - to the Praise of its Creator | ܥܠ ܢܝܣܢ ܫܘܒܚܐ ܠܡܟܝܢܢܗ
+</h1>
+        </div>
+      </header>
+
+      <div itemprop="articleSection">
+        
+<div itemprop="image" class="large-4 columns" style="float:right;">
+  <img src="/assets/img/text/bar_ebroyo_on_april.JPG" alt="On April - to the Praise of its Creator | ܥܠ ܢܝܣܢ ܫܘܒܚܐ ܠܡܟܝܢܢܗ
+" />
+  
+</div>
+
+
+        <h3><a href="/assets/pdf/bar_ebroyo_on_april.pdf">Read the text (PDF)</a></h3>
+        <p>Star-Shaped Tile, second half 13th–14th century, Stonepaste; molded, overglaze painted and leaf gilded (lajvardina), Metropolitan Museum of Art 40.181.16, H.O. Havemeyer Collection, Gift of Horace Havemeyer, 1940 [Public Domain]]</p>
+<h2>Introduction to the Source</h2>
+<p>Bar ‘Ebroyo’s poetry is largely undated, and relatively little has been written about it, although he wrote over 300 poems on topics as diverse as those found in his prose corpus. His poetry exists in several manuscripts, but there has been no critical edition published that includes an  apparatus and discussion of the manuscripts. Two collections have been published, the one I have used for this poem (Dolabani) and an earlier one by Augustinus Scebabi (1877). In Dolabani's collection, the poems are grouped by subject, and this poem is the first a section that focuses on the theme of nature.</p>
+## Introduction to the Text 
+<p>This poem by Maphrian Mor Gregorios Bar ‘Ebroyo (1226-1286) is from a collection of his poems (<em>musḥotho</em>) compiled by Mor Philoxenos Yuhanon Dolabani in 1929 and republished by the Mor Ephrem Monastery in Glane, Holland in 1983. Bar ‘Ebroyo (also latinized as Bar Hebraeus) was a prolific author who wrote on topics ranging from astronomy, medicine, theology, poetry, grammar, canon law, and more. He wrote in Arabic and Syriac and many of works are translations of earlier Arabic works, or at least rely heavily upon such works. As maphrian, Bar ‘Ebroyo oversaw the eastern half of the Syriac Orthodox Church, with his seat being in the Mor Matay Monastery, near Mosul, Iraq. This office was second only to the patriarch of Antioch, although in function the two were largely equal.</p> <p>The title of this poem implies that the month of April (<em>nisan</em>, in Syriac) is the subject of the author’s praise, yet the rose is really the recipient of the panegyric. The author seems to be alluding to the popular Arabic genre of the disputation poem, where two or more inanimate objects, animals, or even abstract concepts are anthropomorphized and debate their qualities. The rose and narcissus (daffodil) flowers were common interlocutors in such poems. In this poem, the rose is heralded as the most beautiful of all flowers, but is scolded by the narrator because it allows its beauty to be plucked and used by disreputable people. The Syriac text uses a 12-syllable meter with stanzas of four lines.</p>
+## Further Reading 
+<p>Bar ‘Ebroyo. <em>Bar Hebraeus's Mush'hotho Book</em>. Monastery of St. Ephrem the Syrian, 1983.</p> <ul> <li>This is the source used for this translation.</li> </ul> <p>Bar ‘Ebroyo, Gregorius Abū Al-Faraǧ, and Augustin Scebabi. <em>Gregorii Bar-Hebraei carmina a patre Augustino Scebabi monaco maronita libanensi aleppensi correcta, ac ab eodem lexicon adjunctum</em>. Ex Typographia Polyglotta S. C. De Propaganda Fide, 1877.</p> <ul> <li>Here is another earlier collection of Bar ‘Ebroyo’s poetry which includes this poem.</li> </ul> <p>Heinrichs, Wolfhart. “Rose versus Narcissus: Observations on an Arabic Literary Debate.” <em>Dispute Poems and Dialogues in the Ancient and Medieval Near East: Forms and Types of Literary Debates in Semitic and Related Literatures</em>, edited by G. J. Reinink and H. L. J. Vanstiphout. Peeters, 1991, pp. 179-198.</p> <ul> <li>This essay, from a collection on the Arabic dispute poem genre, discusses specifically the debate between the rose and narcissus flowers which Bar ‘Ebroyo alludes to.</li> </ul> <p>Takahashi, Hidemi. <em>Barhebraeus: A Bio-Bibliography</em>. Gorgias Press, 2013.</p> <ul> <li>This is a thorough biography of the author with an exhaustive bibliography of primary and secondary sources.</li> </ul> <p>Takahashi, Hidemi. “The Poems of Barhebraeus: A Preliminary Concordance.” <em>Khristianskiĭ Vostok</em> 6, no. 7, 2013, pp. 78–139.</p> <ul> <li>Further discussion of Bar ‘Ebroyo’s poetry with a list of major manuscripts.</li> </ul> <p>Taylor, C., “The Dirge of Coheleth.”<em> The Jewish Quarterly Review</em> 4, no. 4, July 1892, pp. 533-549.</p> <ul> <li>This is a discussion on the biblical book of Ecclesiastes, but contains a translation of the first two stanzas of this poem, in relation to the word ܛܺܝܛܟܘܣ (ṭēyṭkūs, “cicada”). To my knowledge, this is the only other English translation of this poem.</li> </ul>
+## Credits
+Text based on the edition compiled by Mor Philoxenos Yuhanon Dolabani in 1929 and republished by the Mor Ephrem Monastery in Glane, Holland in 1983., Translation by Patrick Conlin, Encoded in TEI P5 XML by Danny Smith
+
+      </div>
+    </article>
+  </div>
+</div>
+
+  
+  
+  <div id="pagebottom" class="row">
+  <div id="up-to-top" class="large-2 columns" style="text-align: right;">
+    <a class="iconfont" href="#top-of-page">&#xf108;</a>
+  </div>
+</div>
+<footer id="footer-content" class="bg-grau">
+  <div id="footer">
+    <div class="row">
+      <div id="dhlogobox" class="large-12 columns">
+        <img src="/assets/img/neh-dlcl.png" id="dhlg-logo" style="max-height:200px; max-width:400px">
+        <img src="/assets/img/cesta-stanford.png" id="dhlg-logo" style="max-height:200px; max-width:400px">
+        <h5>Permissions and License</h5>
+        <p></p>
+        <p></p>
+      </div>
+    </div>
+  </div>
+</footer>
+<footer id="footer">
+  <div class="container">
+    <p>&copy; Medieval Source Book</p>
+  </div>
+</footer>
+
+  
+  <script src="/assets/js/javascript.min.js"></script>
+<script src="/assets/js/morse.js"></script>
+<script>
+// Initialize Foundation top-bar with dropdowns
+$(document).foundation();
+
+// Basic DOM helpers used by templates
+$(function(){
+  $('.morse').each(function(){
+    var str=$(this).text();
+    // encodeMorse defined in morse.js
+    if (typeof encodeMorse === 'function') $(this).text(encodeMorse(str));
+  });
+});
+</script>
+
+</body>

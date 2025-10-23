@@ -1,0 +1,321 @@
+
+
+
+
+
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Global Medieval Sourcebook</title>
+<link rel="stylesheet" type="text/css" href="/assets/css/styles_feeling_responsive.css">
+<script src="/assets/js/modernizr.min.js "></script>
+<meta name="description" content="">
+<link rel="icon" type="image/png" href="/assets/img/favicon.png">
+
+
+
+<body id="top-of-page" class="">
+  
+  <div class="title-surround">
+    <a href="/"><img src="/assets/img/LogoPrint_trans.png" id="main-logo"></a>
+    <h1 class="site_title">Global Medieval Sourcebook
+      <small>A Digital Repository of Medieval Texts</small>
+    </h1>
+  </div>
+  <div id="navigation" class="">
+  <nav class="top-bar" role="navigation" data-topbar>
+    <ul class="title-area">
+      <li class="name"><a href="/" title="home"><img src="/assets/img/gms_topright.png" class="dhlg-menu-logo"></a></li>
+      <li class="toggle-topbar menu-icon"><a href="#"><span>&nbsp;</span></a></li>
+    </ul>
+    <section class="top-bar-section">
+      <ul class="right">
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      </ul>
+      <ul class="left">
+        
+          
+            
+              <li class="has-dropdown ">
+                <a href="collections/" class=" a-pseudo ">Collections</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/collections/cross-cultural-encounters/">Cross-Cultural Encounters in the Premodern World</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/facetiae-jokes/">Facetiae: Jokes from the Italian Renaissance</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/fantastic-fables/">Fantastic Fables: A 14th-Century Book of Moral Tales and Dialogues</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/gender-sex-sensuality/">Gender, Sex and Sensuality: Writings on Women, Men and Desire</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/hymns-and-histories/">Hymns and Histories: Early German Writings, 800-1000 CE</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/love-songs/">Love Songs of the Medieval World: Lyrics from Europe and Asia</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/love-lust-longing/">Lyrics of Love, Lust, and Longing: Selected Poetry from Song Dynasty China</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/making-history/">Making History: Chronicles, Legends and Anecdotes</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/prank-or-be-pranked/">Prank or Be Pranked: Comedy, Wit and Satire</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/prayer-spirituality/">Prayer, Spirituality, and Life after Death: Global Medieval Perspectives</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/good-life/">What Makes A Good Life? Poetic Reflections from Imperial China</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+            
+              <li class="has-dropdown ">
+                <a class=" a-pseudo ">By Century</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/_periods/7th_century/">7th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/8th_century/">8th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/9th_century/">9th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/10th_century/">10th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/11th_century/">11th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/12th_century/">12th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/13th_century/">13th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/14th_century/">14th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/15th_century/">15th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/16th_century/">16th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+        
+          
+            
+              <li class="has-dropdown ">
+                <a class=" a-pseudo ">About</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/about/">About this project</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/how-we-made-it/">How we made it</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/contributors/">Contributors</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+            
+              <li class=" alternateprefix"><a  href="/search/">Search</a></li>
+              <li class="divider"></li>
+            
+          
+        
+      </ul>
+    </section>
+  </nav>
+</div>
+
+  
+  
+  <div class="row" id="main">
+  
+  <div class="large-4 columns">
+    <div class="panel">
+  <h3 id="tocheader">Text Information</h3>
+  <ul id="toc">
+    
+    <li><strong>Author:</strong> Alcuin</li>
+    
+
+    <li><strong>Period:</strong>
+      
+        
+        
+      
+    </li>
+
+    <li><a href="/assets/tei/alcuin_song_4_go_quickly.xml">Download TEI</a></li>
+    <li><a href="/assets/pdf/alcuin_song_4_go_quickly.pdf">Download formatted PDF</a></li>
+    <li><a href="https://purl.stanford.edu/druid">View in Stanford Digital Repository</a></li>
+  </ul>
+</div>
+
+  </div>
+  <div class="large-8 columns">
+  
+    <article itemscope itemtype="http://schema.org/Article">
+      <header class="row">
+        <div itemprop="name" class="large-12 columns">
+          <h1 id="pagetitle" class="landing">Song IV "Go quickly, little letter" | Carmen IV "Cartula, perge cito
+</h1>
+        </div>
+      </header>
+
+      <div itemprop="articleSection">
+        
+<div itemprop="image" class="large-4 columns" style="float:right;">
+  <img src="/assets/img/text/alcuin_song_4_go_quickly.jpg" alt="Song IV "Go quickly, little letter" | Carmen IV "Cartula, perge cito
+" />
+  
+</div>
+
+
+        <h3><a href="/assets/pdf/alcuin_song_4_go_quickly.pdf">Read the text (PDF)</a></h3>
+        <p>Paris BNF MS Latin 528 f.140v [Public Domain]</p>
+<h2>Introduction to the Source</h2>
+<p>The poem is preserved in a single manuscript, <a href="https://gallica.bnf.fr/ark:/12148/btv1b9078378q/f140.item.zoom">Paris, BNF, lat. 528</a>. The manuscript is a complex compendium of poetic, grammatical and rhetorical texts, most notably including numerous epistles and poems by Paul the Deacon (d. 799). It is believed to have been compiled in Saint-Denis (near Paris) during the abbacy of Fardulf (793–806). Fardulf’s predecessor, Fulerad, is the last person addressed in Alcuin’s poem, which suggests that the “little letter” did in fact make the journey on which Alcuin sent it. It can certainly be dated to the first half of the ninth century on palaeographical grounds. By the eleventh century it had moved to the Abbey of Saint Martial in Limoges (in west-central France); it was transferred to the Bibliothèque Nationale de France at Paris in 1730.</p>
+## Introduction to the Text 
+<p>Alcuin (c.735–804 AD) was one of the leading figures in the so-called “Carolingian Renaissance” – the renewal or reinvigoration of education and literary/artistic production during the reign of Charlemagne (r.768–814) over the Frankish kingdom in Western Europe (encompassing much of modern France, Germany, the Low Countries and northern Italy). Alcuin was originally from York in Northumbria (what is now the North of England). He was educated at the Cathedral school in York, where he became known as a master of the liberal arts.</p> <p>In c.780, he traveled to Rome to receive the <em>pallium</em> (a sign of papal authority) for Eanbald, Archbishop of York, meeting Charlemagne for the first time on his return journey (later in the decade, he would be invited to move permanently to Charlemagne’s court, where he began his task of educational and literal renewal). On his return to England, he is believed to have written this short Latin poem, “Cartula perge cito” (“Go quickly, little letter”). It was likely composed no later than 782, since it addresses Bassinus, who ceased to be bishop of Speyer in this year. In this poem, he sends a letter of greetings to the people he met on the way to and/or from Rome. The central conceit of the poem is that Alcuin addresses (or “apostrophizes”) the letter itself, telling it to make its way down the Rhine river from Utrecht, through Cologne, to Charlemagne’s court (which was itinerant at this point, with no fixed capital), and on to Mainz, Speyer and finally to Saint-Denis (in an odd departure from the route). Given the detail of the description of the places on the way, it seems probable that the letter is following Alcuin’s own journey – for a traveler coming from the North of England, the Rhine would have been a relatively quick and safe route for travel into Italy and onto Rome.</p> <p>Travel literature per se is relatively rare in the early Middle Ages. As such, this poem offers remarkable insight into a major trading and pilgrimage route – the journey itself and the places and people encountered along the way. The letter’s (or Alcuin’s) arrival in Frisia is particularly striking for its treatment of the issue of lodging – the need for the traveler (in the days before travel agents and Airbnb!) to find accommodation and food on what would have been a long, uncertain journey. It is easy to imagine why Alcuin would warn travelers off the grim merchant Hrotberht in the bustling trading emporium of Dorestad – one imagines there were plenty of unwelcoming and unsavory inns and hostelries to contend with on such a journey. Elsewhere there are other charming details, like Alcuin’s fear that his gift of a grammatical manuscript might end up at the bottom of the sea.</p> <p>The poem is written in dactylic hexameters, the same meter used by Virgil, and the most common form of Latin verse in the early Middle Ages; it had previously been used by Alcuin’s great English predecessors, Aldhelm and Bede. Other Latin poets had used the conceit of a letter – most notably Sidonius Apollinaris’s Carmen 24, in which he sends his <em>liber</em> on a journey from Clermont to Narbonne. Sidonius, like Alcuin, divided his poem into a series of “frames” which fragment the letter’s <em>itinerarium</em> (journey) into a series of vignettes. In terms of style, the poem is also reminiscent of Virgil’s Eclogues, a series of relatively short pastoral pieces on a variety of subjects. Although little in the poem is “pastoral” in the strictest sense (there is no shepherd to be found, although there is a “cow-lord bishop”), Alcuin nevertheless evokes a world of rich produce, of “flower-filled fields” and calm rivers, a world in which one does not merely introduce oneself, but “knocks on the doors with Castalian lyre.” Alcuin quotes from Eclogue 8 in the poem, perhaps as a signal to learned readers that he was operating in this mode. At the same time, there are also echoes of Roman satire (especially Horace) in Alcuin’s playful, prodding addresses to his friends.</p>
+## Further Reading 
+<p>Bullough, Donald A. <em>Alcuin: Achievement and Reputation.</em> Brill, 2004.</p> <ul> <li>A useful (if slightly scattershot, having been edited posthumously from the author’s papers) introduction to Alcuin’s achievements.</li> </ul> <p>Godman, Peter. <em>Poetry of the Carolingian Renaissance</em>. Duckworth, 1985.</p> <ul> <li>A wide range of Carolingian poems in English translation (with Latin facing).</li> </ul> <p>Godman, Peter. <em>Poets and Emperors: Frankish Politics and Carolingian Poetry</em>. Clarendon Press, 1987.</p> <ul> <li>One of the only full-length studies of Carolingian Latin poetry in English.</li> </ul> <p>Sinisi, Lucia. “From York to Paris: Reinterpreting Alcuin’s Virtual Tour of the Continent.” <em>Anglo-Saxon England and the Continent</em>, edited by Hans Sauer and Joanna Story with the assistance of Gaby Waxenberger, ACMRS, 2011, pp. 275–92.</p> <ul> <li>An excellent recent study of the poem.</li> </ul> <p>Zironi, Alessandro. “An Educational Miscellany in the Carolingian Age: Paris, BNF, lat. 528.” <em>Medieval Manuscript Miscellanies: Composition, Authorship, Use</em>, edited by Lucie Dolez̆alová and Kimberley Rivers, Medium Aevum Quotidianum, 2013, pp. 168–81.</p> <ul> <li>A recent study of the manuscript in which the poem is found.</li> </ul>
+## Credits
+Transcription based on Ernst Duemmler ed., Poetae Latini Aevi Carolini, Vol. I, MGH (Berlin: Weidmann, 1881), pp. 220-3, Translation by Samuel Cardwell, Encoded in TEI P5 XML by Danny Smith
+
+      </div>
+    </article>
+  </div>
+</div>
+
+  
+  
+  <div id="pagebottom" class="row">
+  <div id="up-to-top" class="large-2 columns" style="text-align: right;">
+    <a class="iconfont" href="#top-of-page">&#xf108;</a>
+  </div>
+</div>
+<footer id="footer-content" class="bg-grau">
+  <div id="footer">
+    <div class="row">
+      <div id="dhlogobox" class="large-12 columns">
+        <img src="/assets/img/neh-dlcl.png" id="dhlg-logo" style="max-height:200px; max-width:400px">
+        <img src="/assets/img/cesta-stanford.png" id="dhlg-logo" style="max-height:200px; max-width:400px">
+        <h5>Permissions and License</h5>
+        <p></p>
+        <p></p>
+      </div>
+    </div>
+  </div>
+</footer>
+<footer id="footer">
+  <div class="container">
+    <p>&copy; Medieval Source Book</p>
+  </div>
+</footer>
+
+  
+  <script src="/assets/js/javascript.min.js"></script>
+<script src="/assets/js/morse.js"></script>
+<script>
+// Initialize Foundation top-bar with dropdowns
+$(document).foundation();
+
+// Basic DOM helpers used by templates
+$(function(){
+  $('.morse').each(function(){
+    var str=$(this).text();
+    // encodeMorse defined in morse.js
+    if (typeof encodeMorse === 'function') $(this).text(encodeMorse(str));
+  });
+});
+</script>
+
+</body>

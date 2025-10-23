@@ -1,0 +1,321 @@
+
+
+
+
+
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Global Medieval Sourcebook</title>
+<link rel="stylesheet" type="text/css" href="/assets/css/styles_feeling_responsive.css">
+<script src="/assets/js/modernizr.min.js "></script>
+<meta name="description" content="">
+<link rel="icon" type="image/png" href="/assets/img/favicon.png">
+
+
+
+<body id="top-of-page" class="">
+  
+  <div class="title-surround">
+    <a href="/"><img src="/assets/img/LogoPrint_trans.png" id="main-logo"></a>
+    <h1 class="site_title">Global Medieval Sourcebook
+      <small>A Digital Repository of Medieval Texts</small>
+    </h1>
+  </div>
+  <div id="navigation" class="">
+  <nav class="top-bar" role="navigation" data-topbar>
+    <ul class="title-area">
+      <li class="name"><a href="/" title="home"><img src="/assets/img/gms_topright.png" class="dhlg-menu-logo"></a></li>
+      <li class="toggle-topbar menu-icon"><a href="#"><span>&nbsp;</span></a></li>
+    </ul>
+    <section class="top-bar-section">
+      <ul class="right">
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      </ul>
+      <ul class="left">
+        
+          
+            
+              <li class="has-dropdown ">
+                <a href="collections/" class=" a-pseudo ">Collections</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/collections/cross-cultural-encounters/">Cross-Cultural Encounters in the Premodern World</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/facetiae-jokes/">Facetiae: Jokes from the Italian Renaissance</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/fantastic-fables/">Fantastic Fables: A 14th-Century Book of Moral Tales and Dialogues</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/gender-sex-sensuality/">Gender, Sex and Sensuality: Writings on Women, Men and Desire</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/hymns-and-histories/">Hymns and Histories: Early German Writings, 800-1000 CE</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/love-songs/">Love Songs of the Medieval World: Lyrics from Europe and Asia</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/love-lust-longing/">Lyrics of Love, Lust, and Longing: Selected Poetry from Song Dynasty China</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/making-history/">Making History: Chronicles, Legends and Anecdotes</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/prank-or-be-pranked/">Prank or Be Pranked: Comedy, Wit and Satire</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/prayer-spirituality/">Prayer, Spirituality, and Life after Death: Global Medieval Perspectives</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/good-life/">What Makes A Good Life? Poetic Reflections from Imperial China</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+            
+              <li class="has-dropdown ">
+                <a class=" a-pseudo ">By Century</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/_periods/7th_century/">7th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/8th_century/">8th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/9th_century/">9th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/10th_century/">10th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/11th_century/">11th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/12th_century/">12th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/13th_century/">13th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/14th_century/">14th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/15th_century/">15th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/16th_century/">16th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+        
+          
+            
+              <li class="has-dropdown ">
+                <a class=" a-pseudo ">About</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/about/">About this project</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/how-we-made-it/">How we made it</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/contributors/">Contributors</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+            
+              <li class=" alternateprefix"><a  href="/search/">Search</a></li>
+              <li class="divider"></li>
+            
+          
+        
+      </ul>
+    </section>
+  </nav>
+</div>
+
+  
+  
+  <div class="row" id="main">
+  
+  <div class="large-4 columns">
+    <div class="panel">
+  <h3 id="tocheader">Text Information</h3>
+  <ul id="toc">
+    
+    <li><strong>Author:</strong> Adam of St. Victor [att.]</li>
+    
+
+    <li><strong>Period:</strong>
+      
+        
+        
+      
+    </li>
+
+    <li><a href="/assets/tei/adam_st_victor_hymn_honor_augustine.xml">Download TEI</a></li>
+    <li><a href="/assets/pdf/adam_st_victor_hymn_honor_augustine.pdf">Download formatted PDF</a></li>
+    <li><a href="https://purl.stanford.edu/druid">View in Stanford Digital Repository</a></li>
+  </ul>
+</div>
+
+  </div>
+  <div class="large-8 columns">
+  
+    <article itemscope itemtype="http://schema.org/Article">
+      <header class="row">
+        <div itemprop="name" class="large-12 columns">
+          <h1 id="pagetitle" class="landing">In Honor of St. Augustine | Hymnus in honorem Sancti Augustini
+</h1>
+        </div>
+      </header>
+
+      <div itemprop="articleSection">
+        
+<div itemprop="image" class="large-4 columns" style="float:right;">
+  <img src="/assets/img/text/adam_st_victor_hymn_honor_augustine.png" alt="In Honor of St. Augustine | Hymnus in honorem Sancti Augustini
+" />
+  
+</div>
+
+
+        <h3><a href="/assets/pdf/adam_st_victor_hymn_honor_augustine.pdf">Read the text (PDF)</a></h3>
+        <p>Detail from Cambridge, Corpus Christi College, MS 253, f. 140v [Public Domain]</p>
+<h2>Introduction to the Source</h2>
+<p>This edition is based on ​​Cambridge, Corpus Christi College, MS 253. Besides “In Honor of St. Augustine”, the manuscript contains selections from Augustine’s theological works, his Confessions, and a guide to living a Christian life for soldiers by Ferrandus, deacon of Carthage (d. 546/7). The works by Augustine are in a fine hand, with exceptional illuminated initials. “In Honor of St. Augustine” is in a twelfth-century hand and appears with musical notation on a three-line stave. There are also some late medieval additions at the end of the manuscript.</p>
+## Introduction to the Text 
+<p>“<em>In Honor of St. Augustine</em>” is a 12th-century sequence attributed to Adam of St. Victor (d. 1146), who served at Notre Dame Cathedral in Paris and later at the nearby Abbey of Saint Victor. As one of the most prominent authors of hymns and sequences from this period, he was acquainted with various important theologians at the time, such as Peter Abelard and Hugh of St. Victor.</p> <p>The central feature of this sequence is the image of heaven that it provides. During its performance, two groups of singers would sing the same text, with the second group starting later than the first group, creating a layered sonic effect. In this way, the images of heaven which are present in the text would be layered over one another, generating a complexity of sound and meaning which would resonate against the walls of the church or cathedral and offer an earthly simulation of heaven's beauty. One interesting aspect of the text is that it mentions specific worries which will not exist in heaven (“enemy attacks”, “mob strikes”), giving us insight into what people in twelfth century Paris were most concerned about.</p> <p>This sequence is written to be sung at the feast day of St. Augustine (354-430 CE) on August 28th. St. Augustine was a prolific theologian and philosopher and by the High Middle Ages (c.1000-1250 CE) had become the most important thinker for medieval Christians in Western Europe. Some of his most notable works are The City of God, On Christian Doctrine, and his Confessions. The typical practice on Saints’ Days was for Christians to sing hymns, recite prayers and observe relics, such as fragments of the saint’s clothing or their bodily remains. “In Honor of St. Augustine” would have been incorporated into this kind of celebratory liturgy.</p> <p>Liturgical music of the medieval church comprised diverse forms which each served different purposes: the antiphon, the responsorium, the sequence, etc. The sequence would be performed directly before the reading of the Gospel and after the singing of “Alleluia”. As a form, it is composed of a series of rhymed, metrical couplets of varying lengths. “In Honor of St. Augustine” was probably sung in both parish churches and monastic settings; its manuscript transmission suggests that it may even have been sung in the Middle East by Christian crusaders. It seems to have been a popular hymn, as it has come down to us in many manuscripts and was translated into several other European languages during the medieval period.</p>
+## Further Reading 
+<p>Fassler, Margot E. <em>The Virgin of Chartres: Making History through Liturgy and the Arts</em>. Yale UP, 2010, pp. 151-154.</p> <ul> <li>An analysis of the liturgical usage of “In Honor of St. Augustine” and a transcription and translation of the text as transmitted in Chartres BM MS 529. Fassler discusses the presumed association of this text with the rule of St. John in the Valley.</li> </ul> <p>Brown, Peter. <em>The Cult of the Saints: Its Rise and Function in Latin Christianity</em>. U of Chicago P, 2015.</p> <ul> <li>A foundational work on the worship of saints in the Middle Ages.</li> </ul> <p>Dyer, Joseph. “The Bible in the Medieval Liturgy, c. 600–1300.” <em>The New Cambridge History of the Bible</em>, vol. 2, edited by Richard Marsden and E. Ann Matter, Cambridge UP, 2012, pp. 659–679.</p> <ul> <li>An overview of the liturgy in the medieval church, including discussion of the performance of psalms and hymns. Lyon, Elizabeth Lucia. "Affection, Attention, and the Will: Medieval Models of Devout Chant." International Review of the Aesthetics and Sociology of Music 49, no. 1, 2018, pp 3-28. Presents three possible interpretations regarding the efficacy of music and chants in medieval liturgy.</li> </ul> <p>Lyon, Elizabeth Lucia. "Affection, Attention, and the Will: Medieval Models of Devout Chant." <em>International Review of the Aesthetics and Sociology of Music</em>, vol. 49, no. 1, 2018, pp 3-28.</p> <ul> <li>Presents three possible interpretations regarding the efficacy of music and chants in medieval liturgy.</li> </ul>
+## Credits
+Transcription by Runqi Zhang, Translation by Runqi Zhang, Encoded in TEI P5 XML by Runqi Zhang
+
+      </div>
+    </article>
+  </div>
+</div>
+
+  
+  
+  <div id="pagebottom" class="row">
+  <div id="up-to-top" class="large-2 columns" style="text-align: right;">
+    <a class="iconfont" href="#top-of-page">&#xf108;</a>
+  </div>
+</div>
+<footer id="footer-content" class="bg-grau">
+  <div id="footer">
+    <div class="row">
+      <div id="dhlogobox" class="large-12 columns">
+        <img src="/assets/img/neh-dlcl.png" id="dhlg-logo" style="max-height:200px; max-width:400px">
+        <img src="/assets/img/cesta-stanford.png" id="dhlg-logo" style="max-height:200px; max-width:400px">
+        <h5>Permissions and License</h5>
+        <p></p>
+        <p></p>
+      </div>
+    </div>
+  </div>
+</footer>
+<footer id="footer">
+  <div class="container">
+    <p>&copy; Medieval Source Book</p>
+  </div>
+</footer>
+
+  
+  <script src="/assets/js/javascript.min.js"></script>
+<script src="/assets/js/morse.js"></script>
+<script>
+// Initialize Foundation top-bar with dropdowns
+$(document).foundation();
+
+// Basic DOM helpers used by templates
+$(function(){
+  $('.morse').each(function(){
+    var str=$(this).text();
+    // encodeMorse defined in morse.js
+    if (typeof encodeMorse === 'function') $(this).text(encodeMorse(str));
+  });
+});
+</script>
+
+</body>

@@ -1,0 +1,320 @@
+
+
+
+
+
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Global Medieval Sourcebook</title>
+<link rel="stylesheet" type="text/css" href="/assets/css/styles_feeling_responsive.css">
+<script src="/assets/js/modernizr.min.js "></script>
+<meta name="description" content="">
+<link rel="icon" type="image/png" href="/assets/img/favicon.png">
+
+
+
+<body id="top-of-page" class="">
+  
+  <div class="title-surround">
+    <a href="/"><img src="/assets/img/LogoPrint_trans.png" id="main-logo"></a>
+    <h1 class="site_title">Global Medieval Sourcebook
+      <small>A Digital Repository of Medieval Texts</small>
+    </h1>
+  </div>
+  <div id="navigation" class="">
+  <nav class="top-bar" role="navigation" data-topbar>
+    <ul class="title-area">
+      <li class="name"><a href="/" title="home"><img src="/assets/img/gms_topright.png" class="dhlg-menu-logo"></a></li>
+      <li class="toggle-topbar menu-icon"><a href="#"><span>&nbsp;</span></a></li>
+    </ul>
+    <section class="top-bar-section">
+      <ul class="right">
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      </ul>
+      <ul class="left">
+        
+          
+            
+              <li class="has-dropdown ">
+                <a href="collections/" class=" a-pseudo ">Collections</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/collections/cross-cultural-encounters/">Cross-Cultural Encounters in the Premodern World</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/facetiae-jokes/">Facetiae: Jokes from the Italian Renaissance</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/fantastic-fables/">Fantastic Fables: A 14th-Century Book of Moral Tales and Dialogues</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/gender-sex-sensuality/">Gender, Sex and Sensuality: Writings on Women, Men and Desire</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/hymns-and-histories/">Hymns and Histories: Early German Writings, 800-1000 CE</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/love-songs/">Love Songs of the Medieval World: Lyrics from Europe and Asia</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/love-lust-longing/">Lyrics of Love, Lust, and Longing: Selected Poetry from Song Dynasty China</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/making-history/">Making History: Chronicles, Legends and Anecdotes</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/prank-or-be-pranked/">Prank or Be Pranked: Comedy, Wit and Satire</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/prayer-spirituality/">Prayer, Spirituality, and Life after Death: Global Medieval Perspectives</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/good-life/">What Makes A Good Life? Poetic Reflections from Imperial China</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+            
+              <li class="has-dropdown ">
+                <a class=" a-pseudo ">By Century</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/_periods/7th_century/">7th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/8th_century/">8th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/9th_century/">9th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/10th_century/">10th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/11th_century/">11th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/12th_century/">12th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/13th_century/">13th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/14th_century/">14th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/15th_century/">15th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/16th_century/">16th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+        
+          
+            
+              <li class="has-dropdown ">
+                <a class=" a-pseudo ">About</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/about/">About this project</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/how-we-made-it/">How we made it</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/contributors/">Contributors</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+            
+              <li class=" alternateprefix"><a  href="/search/">Search</a></li>
+              <li class="divider"></li>
+            
+          
+        
+      </ul>
+    </section>
+  </nav>
+</div>
+
+  
+  
+  <div class="row" id="main">
+  
+  <div class="large-4 columns">
+    <div class="panel">
+  <h3 id="tocheader">Text Information</h3>
+  <ul id="toc">
+    
+    <li><strong>Author:</strong> Efrosin</li>
+    
+
+    <li><strong>Period:</strong>
+      
+        
+        
+      
+    </li>
+
+    <li><a href="/assets/tei/efrosin_solomon_kitovras.xml">Download TEI</a></li>
+    <li><a href="/assets/pdf/efrosin_solomon_kitovras.pdf">Download formatted PDF</a></li>
+    <li><a href="https://purl.stanford.edu/druid">View in Stanford Digital Repository</a></li>
+  </ul>
+</div>
+
+  </div>
+  <div class="large-8 columns">
+  
+    <article itemscope itemtype="http://schema.org/Article">
+      <header class="row">
+        <div itemprop="name" class="large-12 columns">
+          <h1 id="pagetitle" class="landing">The Tale of Solomon and Kitrovas | ѡ҆ Китоврасѣ ѿ палеи
+</h1>
+        </div>
+      </header>
+
+      <div itemprop="articleSection">
+        
+<div itemprop="image" class="large-4 columns" style="float:right;">
+  <img src="/assets/img/text/efrosin_solomon_kitovras.png" alt="The Tale of Solomon and Kitrovas | ѡ҆ Китоврасѣ ѿ палеи
+" />
+  
+</div>
+
+
+        <h3><a href="/assets/pdf/efrosin_solomon_kitovras.pdf">Read the text (PDF)</a></h3>
+        <h2>Introduction to the Source</h2>
+<p>This text has been transcribed from Kir.-Bel. 11/1088, no. 262, Russian National Library. A digitization of this manuscript may be viewed online here: <a href="http://expositions.nlr.ru/EfrosinManuscripts/_Project/page_Manuscripts.php?izo=07549CB2-ECA1-4E7C-8360-3BE1288E0ACA&nCodeList=262&nAn=60">http://expositions.nlr.ru/EfrosinManuscripts/_Project/page_Manuscripts.php?izo=07549CB2-ECA1-4E7C-8360-3BE1288E0ACA&nCodeList=262&nAn=60</a>.</p>
+## Introduction to the Text 
+<p>“The Tale of Solomon and Kitovras” is part of a collection compiled by the priest-monk Efrosin of the Kirillo-Belozersky Monastery (St. Cyril of Beloozero’s Monastery) in the late 15th century CE. The monastery is located north of Moscow and originally functioned as a place of exile for elites and clergymen in disgrace. In 1446 CE, Grand Prince Vasily II came to the monastery, where the Father Superior, Tryphon, absolved him from the oath he had taken not to fight for the Muscovite throne. Following Vasily’s victory in the Muscovite Civil War, the Kirillo-Belozerky Monastery was granted special status and received an inflow of generous donations. The monastery became a place of broad intellectual activities and its prestige within the Muscovite state made it an attractive place for monks. It retained its high status through the reign of Grand Prince Ivan III (r. 1462-1505 CE) during which Efrosin composed the present text.</p> <p>The manuscript, a book of encyclopedic content that includes writings from the <em>Paleia</em>, was part of Efrosin’s personal notebooks and may have been used for pedagogical purposes. It is absent from the book catalogue of the monastery’s library, which suggests that it was likely kept in Efrosin’s own cell.  The book is thick but compact, approximately 14 x 10 cm and covered in leather bindings.</p> <p>Efrosin is one of the most remarkable men of letters of the Grand Duchy of Moscow but information about him is sparse. One of the few references to him outside his own notebooks mentions that he departed the monastery for over a year. In addition to religious texts, Efrosin’s collections include subjects such as geography, history, medicine, astronomy, and lexicography, and this breadth is representative of an encyclopedic trend in writings of the period. (See also Efrosin’s version of the “Tale of Dracula” in this sourcebook.) While Efrosin appears to have been in good standing with the Church, he did have a particular interest in texts, such as this story, which had been denounced as “false” or “of little use.” Of the texts he copied, he edited many to his own liking, with revisions, additions, and personal notes. In rewriting the texts in this manner, Efrosin often provided his own interpretations, thus creating original versions.</p> <p>Efrosin’s creative synopsis of the “Tale of Solomon and Kitovras” is an original version of a longer tale which Efrosin had copied as part of the “Judgements of Solomon” cycle found in the <em>Paleia</em>, a major Old Russian interpretative text that retells much of the Old Testament with apocryphal additions and comments. Based on the image of the biblical king renowned for his wisdom and portrayed as a great holder of knowledge, tales of King Solomon formed a genre with a storied tradition that became a hallmark of Slavic Orthodox literary culture. Legends of Kitovras, a Slavic derivative of “Centaur”, occupy an important place in this tradition. Efrosin’s version takes considerable liberty with the tale and includes themes not present in his source, which he himself copied and included in the same book.</p> <p>In the source version, Solomon captures Kitovras to help him with the construction of the Holy of Holies in Jerusalem. While held in captivity, Kitovras exhibits the ability to know the fates of several people. He tells Solomon how to obtain the Shamir stone needed to build the temple and stays with him through its completion. When Solomon doubts Kitovras’ strength, Kitovras throws him to the edge of the promised land. Upon his return, Solomon orders sixty bodyguards around his bed for protection against Kitovras.</p> <p>In his edition, Efrosin added, for example, a description of the beast, but gave him cow legs instead of the horse legs depicted in the miniature drawn by the icon-painter Ephraim Trebes in section 127 of the same manuscript and in Nicetas of Heracleia’s commentary on Achilles and the Centaur, copied in the Kirillov <em>Mythographer</em>. The dialogue and Kitovras’s response to Solomon that, “Best of all is one’s own freedom,” is also Efrosin’s personal addition, and a deliberate choice for emphasis. Specialists have suggested that this line can be read in the context of the trend for monks, like Efrosin, to leave the monastery for extended periods of time, thereby living with a sense of independence that is reflected in the writings of the period as a whole. The modifications and additions that Efrosin made to the dialogue between Solomon and Kitovras and to the plot itself thus make his retelling stand out among other versions of this classic tale.</p>
+## Further Reading 
+<p>Likhachev, D. S, and Lev Aleksandrovich Dmitriev. <em>A History of Russian Literature, 11th-17th Centuries : A Textbook.</em> Moscow: Raduga Publishers, 1989.</p> <ul> <li>Situates the Tale, discussed on pages 323-324, in the context of the Russian literary tradition.</li> </ul> <p>Lur’e [Luria], Jakov S., “Une légende inconnue de Salomon et Kitovras dans un manuscrit du XVe siècle”, in <em>Revue des études slaves</em>, 43, fascicule 1-4, 1964. pp. 7-11.</p> <ul> <li>Translation, transcription, and discussion in French of Efrosin’s short retelling of the tale.</li> </ul> <p>Prokhorov, Gelian Mikhailovich. <a href="http://www.infoliolib.info/rlit/drl/solomon.html.">“Skazaniye o Solomone i Kitovrase” </a></p> <ul> <li>Transcription and Russian translation of the source version Efrosin had copied from the <em>Paleia.</em></li> </ul> <p>Romanchuk, Robert. Byzantine Hermeneutics and Pedagogy in the Russian North. Toronto: Toronto University Press, 2007.</p> <ul> <li>Context for the intellectual milieu at the Kirillo-Belozersky Monastery. See especially Chapter 4, pages 202-210, where Romanchuk discusses Efrosin’s editions of the Solomon and Kitovras tales.</li> </ul> <p>Russian National Library, <a href="http://expositions.nlr.ru/EfrosinManuscripts/eng/">“Euphrosynus Manuscripts - Fifteenth-Century Miscellanies of the ‘Leonardo Da Vinci of Ancient Russia.’”</a> Russian National Library, 2013.</p> <ul> <li>Critical background information in both English and Russian from the Russian National Library, host of the Efrosin manuscripts.</li> </ul>
+## Credits
+Transcription by Vito S. Acosta, Translation by Vito S. Acosta, Encoded in TEI P5 XML by Dante Zhu
+
+      </div>
+    </article>
+  </div>
+</div>
+
+  
+  
+  <div id="pagebottom" class="row">
+  <div id="up-to-top" class="large-2 columns" style="text-align: right;">
+    <a class="iconfont" href="#top-of-page">&#xf108;</a>
+  </div>
+</div>
+<footer id="footer-content" class="bg-grau">
+  <div id="footer">
+    <div class="row">
+      <div id="dhlogobox" class="large-12 columns">
+        <img src="/assets/img/neh-dlcl.png" id="dhlg-logo" style="max-height:200px; max-width:400px">
+        <img src="/assets/img/cesta-stanford.png" id="dhlg-logo" style="max-height:200px; max-width:400px">
+        <h5>Permissions and License</h5>
+        <p></p>
+        <p></p>
+      </div>
+    </div>
+  </div>
+</footer>
+<footer id="footer">
+  <div class="container">
+    <p>&copy; Medieval Source Book</p>
+  </div>
+</footer>
+
+  
+  <script src="/assets/js/javascript.min.js"></script>
+<script src="/assets/js/morse.js"></script>
+<script>
+// Initialize Foundation top-bar with dropdowns
+$(document).foundation();
+
+// Basic DOM helpers used by templates
+$(function(){
+  $('.morse').each(function(){
+    var str=$(this).text();
+    // encodeMorse defined in morse.js
+    if (typeof encodeMorse === 'function') $(this).text(encodeMorse(str));
+  });
+});
+</script>
+
+</body>

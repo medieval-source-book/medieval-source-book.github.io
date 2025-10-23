@@ -1,0 +1,324 @@
+
+
+
+
+
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Global Medieval Sourcebook</title>
+<link rel="stylesheet" type="text/css" href="/assets/css/styles_feeling_responsive.css">
+<script src="/assets/js/modernizr.min.js "></script>
+<meta name="description" content="">
+<link rel="icon" type="image/png" href="/assets/img/favicon.png">
+
+
+
+<body id="top-of-page" class="">
+  
+  <div class="title-surround">
+    <a href="/"><img src="/assets/img/LogoPrint_trans.png" id="main-logo"></a>
+    <h1 class="site_title">Global Medieval Sourcebook
+      <small>A Digital Repository of Medieval Texts</small>
+    </h1>
+  </div>
+  <div id="navigation" class="">
+  <nav class="top-bar" role="navigation" data-topbar>
+    <ul class="title-area">
+      <li class="name"><a href="/" title="home"><img src="/assets/img/gms_topright.png" class="dhlg-menu-logo"></a></li>
+      <li class="toggle-topbar menu-icon"><a href="#"><span>&nbsp;</span></a></li>
+    </ul>
+    <section class="top-bar-section">
+      <ul class="right">
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      </ul>
+      <ul class="left">
+        
+          
+            
+              <li class="has-dropdown ">
+                <a href="collections/" class=" a-pseudo ">Collections</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/collections/cross-cultural-encounters/">Cross-Cultural Encounters in the Premodern World</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/facetiae-jokes/">Facetiae: Jokes from the Italian Renaissance</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/fantastic-fables/">Fantastic Fables: A 14th-Century Book of Moral Tales and Dialogues</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/gender-sex-sensuality/">Gender, Sex and Sensuality: Writings on Women, Men and Desire</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/hymns-and-histories/">Hymns and Histories: Early German Writings, 800-1000 CE</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/love-songs/">Love Songs of the Medieval World: Lyrics from Europe and Asia</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/love-lust-longing/">Lyrics of Love, Lust, and Longing: Selected Poetry from Song Dynasty China</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/making-history/">Making History: Chronicles, Legends and Anecdotes</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/prank-or-be-pranked/">Prank or Be Pranked: Comedy, Wit and Satire</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/prayer-spirituality/">Prayer, Spirituality, and Life after Death: Global Medieval Perspectives</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/good-life/">What Makes A Good Life? Poetic Reflections from Imperial China</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+            
+              <li class="has-dropdown ">
+                <a class=" a-pseudo ">By Century</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/_periods/7th_century/">7th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/8th_century/">8th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/9th_century/">9th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/10th_century/">10th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/11th_century/">11th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/12th_century/">12th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/13th_century/">13th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/14th_century/">14th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/15th_century/">15th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/16th_century/">16th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+        
+          
+            
+              <li class="has-dropdown ">
+                <a class=" a-pseudo ">About</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/about/">About this project</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/how-we-made-it/">How we made it</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/contributors/">Contributors</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+            
+              <li class=" alternateprefix"><a  href="/search/">Search</a></li>
+              <li class="divider"></li>
+            
+          
+        
+      </ul>
+    </section>
+  </nav>
+</div>
+
+  
+  
+  <div class="row" id="main">
+  
+  <div class="large-4 columns">
+    <div class="panel">
+  <h3 id="tocheader">Text Information</h3>
+  <ul id="toc">
+    
+    <li><strong>Author:</strong> Hakim Irānshāh ebn-e Abi-l-Khayr</li>
+    
+
+    <li><strong>Period:</strong>
+      
+        
+        &nbsp;
+      
+        
+        
+      
+    </li>
+
+    <li><a href="/assets/tei/hakim_iranshah_monstrous_courtship.xml">Download TEI</a></li>
+    <li><a href="/assets/pdf/hakim_iranshah_monstrous_courtship.pdf">Download formatted PDF</a></li>
+    <li><a href="https://purl.stanford.edu/druid">View in Stanford Digital Repository</a></li>
+  </ul>
+</div>
+
+  </div>
+  <div class="large-8 columns">
+  
+    <article itemscope itemtype="http://schema.org/Article">
+      <header class="row">
+        <div itemprop="name" class="large-12 columns">
+          <h1 id="pagetitle" class="landing">A Monstrous Courtship | قطعه‌ای از بهمن‌نامه‌ی ایرانشاه بن ابی الخیر
+</h1>
+        </div>
+      </header>
+
+      <div itemprop="articleSection">
+        
+<div itemprop="image" class="large-4 columns" style="float:right;">
+  <img src="/assets/img/text/hakim_iranshah_monstrous_courtship.jpg" alt="A Monstrous Courtship | قطعه‌ای از بهمن‌نامه‌ی ایرانشاه بن ابی الخیر
+" />
+  
+</div>
+
+
+        <h3><a href="/assets/pdf/hakim_iranshah_monstrous_courtship.pdf">Read the text (PDF)</a></h3>
+        <p>Detail from “Isfandiyar's Third Course: He Slays a Dragon”, Folio from a Shahnama (Book of Kings), Abu'l Qasim Firdausi, ca. 1330–40; Ink, opaque watercolor, gold, and silver on paper; Metropolitan Museum of Art Bequest of Monroe C. Gutman, 1974 [CC]</p>
+<h2>Introduction to the Source</h2>
+<p>The text transcribed here is not medieval; rather, it is a lithograph produced in Mumbai in 1907. This is one of at least two lithographed poems—the other being a Farāmarznāma, narrating the exploits of Borzin’s father—produced under the direction of Rostam Pur-e Bahrām Sorush-e Tāfti. Sorush-e Tāfti was an Indian Parsi who traveled throughout India and Iran in search of antique manuscripts relating to the Sistāni heroes. According to Rahim ‘Afifi, editor of the only scholarly edition of the Bahmannāmeh, the lithograph is primarily based on an otherwise unidentified manuscript from 1667. At least four other manuscripts are known, the earliest dated to 1397-98 CE.</p>
+## Introduction to the Text 
+<p dir="ltr" id="docs-internal-guid-725abe16-7fff-3954-fd22-89e91a3b4740">Likely completed between 1092 and 1108 CE, the <em>Bahmannāma</em> (“Book of Bahman”) is the work of a poet so obscure that even his name is not certain. Though there is a general consensus around the form Irānshāh ebn-e Abi-l-Khayr, the first element is spelled “Irānshān” or even “Inshān” in some manuscripts. Dedications in the text to the Seljuq sultans Nāser ad-Din Mahmud ebn-e Malekshāh and Ghiyās ad-Din Mohammad ebn-e Malekshāh position him within the Seljuq Empire around the turn of the 12th century CE.  </p> <p dir="ltr">Irānshāh is credited with another epic work, the <em>Kushnāma</em> (“Book of Kush”). Both of the poems offer revisionist takes on the New Persian epic tradition established by the monumental <em>Shāhnāma</em> (“Book of Kings,” 1010 CE) of Abolqāsem Ferdowsi. This Book drew upon Persian legend, Zoroastrian religious tradition, and Arabic historiography to craft an immense saga of Iran’s pre-Islamic past, from the first king Gayomart down to the Muslim conquests of the 7th century CE. Subsequent epic poets adopted the <em>Shāhnāma</em>’s meter and diction, often situating their narratives in gaps within the earlier poem’s millennia-long scope—a practice literalized by later scribes, who often incorporated segments of these poems seamlessly into <em>Shāhnāma</em> manuscripts. </p> <p dir="ltr">In the <em>Bahmannāma</em>, Irānshāh centers not the usual epic heroes but rather a villain, the tyrannical King Bahman. Known for his bloody vengeance against the family of the Sistāni champion Rostam, Bahman is an overbearing, homicidal tyrant. Frequently defeated in battle, he is ultimately devoured by a serpentine monster, an <em>azhdahā</em>, making him the only epic character who fails to overcome such a beast. </p> <p dir="ltr">Before this shocking finale, however, the poem features another encounter with an <em>azhdahā</em>. In this excerpt, the hero Borzin-Āzar (“Exalted Flame,” usually just called Borzin), son of Farāmarz (“Beyond-the-Border”), and grandson of Rostam, takes a break from his struggle against Bahman. Together with his companions, Marzbān (“Margrave”) and Tokhāra (“The Tokharian”), he sets out on a hunting expedition. Along the way, they encounter a lion-hunting youth who directs them to a large nomadic encampment with abundant livestock. The lord of the herds is Burāsp, who in the course of a lavish welcome feast reveals that the lion-hunting youth is his daughter. This warrior maiden will only marry the man who can overcome her father’s champion wrestler, a Black African man (<em>zangi</em>), and then defeat her in a joust. Borzin accomplishes these feats, but before the wedding, Burāsp reveals the reason behind this warlike courtship. Every year, he is forced to deliver his daughter up to a sexually rapacious cloud; if he fails, his livestock will be slaughtered. Horrified, Borzin witnesses this ritual. He then pursues the cloud back to its mountain lair, where it reveals itself as a monstrous beast. Borzin kills it, and the excerpt ends with a celebratory feast at the court of Burāsp’s brother, the king of Pārs.</p> <p dir="ltr">Violence and eroticism entwine throughout this passage. One key word is <em>azhdahā</em>, a chimeric reptilian beast with anthropomorphic qualities, translated here as “dragon.” This first appears in this edition’s line 111, as a metaphor for the warrior princess; then, in 204, it describes Borzin as he overcomes her. These figurative usages are juxtaposed against the literal monster which terrorizes the young woman and her kingdom, itself killed by one final azhdahā—Borzin’s sword.</p> <p dir="ltr">Irānshāh’s poetry invests in depictions of alterity that are both denigrated and desired. The African wrestler is a key figure in this project. Denied dialogue or even a name, his portrayal is a stark example of the anti-Blackness prevalent in Persian epic literature. He exists only to be overcome, even if the text here tacitly endorses Borzin’s chivalrous smackdown over Tokhāra’s outspoken bigotry. Yet verbal echoes link all of these figures—Borzin, the princess, the wrestler, and the monster. All are enmeshed in economies of violence that complicate simplistic narratives of culture heroes triumphing over the forces of chaos. </p> <p dir="ltr">Neither of Irānshāh’s epics have been translated into English or other European languages, and scholarly discussion of them remains scant.</p>
+## Further Reading 
+<p><a href="http://www.iranicaonline.org/articles/bahman-nama-epic-poem">Hanaway, W. L. “Bahman-Nāma.” <em>Encyclopædia Iranica</em>, vol. 2, no. 5, 2011, pp. 499-500.</a></p> <ul> <li>Brief scholarly outline of the epic.</li> </ul> <p>Kuehn, Sara. <em>The Dragon in Medieval East Christian and Islamic Art</em>. Brill, 2011.</p> <ul> <li>Thorough discussion of the pre-modern Islamicate dragon, from an art-historical perspective.</li> </ul> <p>van Zutphen, Marjolijn. <em>Farāmarz, the Sistāni Hero: Texts and Traditions of the Farāmarznāme and the Persian Epic Cycle. </em>Brill, 2014.</p> <ul> <li>Extensive survey of the Persian epic tradition after the Shāhnāma.</li> </ul> <p>Sorush-e Tāfti, Rostam Pur-e Bahrām, ed. <em>Bahmannāmeh</em>. Matba’i-Fayzrasān, 1325 [1907].</p> <ul> <li>Lithograph copy of the source.</li> </ul> <p>Irānshāh ebn-e Abi-l-Khayr. <em>Bahmannāmeh.</em> Edited by Rahim ‘Afifi. Enteshārāt-e ‘Elmi va Farhangi, 1380 [2001-2002].</p> <ul> <li>Published edition of the text.</li> </ul>
+## Credits
+Translation by Sam Lasman, Transcription by Sam Lasman, Encoded in TEI P5 XML by Danny Smith
+
+      </div>
+    </article>
+  </div>
+</div>
+
+  
+  
+  <div id="pagebottom" class="row">
+  <div id="up-to-top" class="large-2 columns" style="text-align: right;">
+    <a class="iconfont" href="#top-of-page">&#xf108;</a>
+  </div>
+</div>
+<footer id="footer-content" class="bg-grau">
+  <div id="footer">
+    <div class="row">
+      <div id="dhlogobox" class="large-12 columns">
+        <img src="/assets/img/neh-dlcl.png" id="dhlg-logo" style="max-height:200px; max-width:400px">
+        <img src="/assets/img/cesta-stanford.png" id="dhlg-logo" style="max-height:200px; max-width:400px">
+        <h5>Permissions and License</h5>
+        <p></p>
+        <p></p>
+      </div>
+    </div>
+  </div>
+</footer>
+<footer id="footer">
+  <div class="container">
+    <p>&copy; Medieval Source Book</p>
+  </div>
+</footer>
+
+  
+  <script src="/assets/js/javascript.min.js"></script>
+<script src="/assets/js/morse.js"></script>
+<script>
+// Initialize Foundation top-bar with dropdowns
+$(document).foundation();
+
+// Basic DOM helpers used by templates
+$(function(){
+  $('.morse').each(function(){
+    var str=$(this).text();
+    // encodeMorse defined in morse.js
+    if (typeof encodeMorse === 'function') $(this).text(encodeMorse(str));
+  });
+});
+</script>
+
+</body>

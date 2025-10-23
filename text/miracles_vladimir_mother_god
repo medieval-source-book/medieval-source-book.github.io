@@ -1,0 +1,320 @@
+
+
+
+
+
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Global Medieval Sourcebook</title>
+<link rel="stylesheet" type="text/css" href="/assets/css/styles_feeling_responsive.css">
+<script src="/assets/js/modernizr.min.js "></script>
+<meta name="description" content="">
+<link rel="icon" type="image/png" href="/assets/img/favicon.png">
+
+
+
+<body id="top-of-page" class="">
+  
+  <div class="title-surround">
+    <a href="/"><img src="/assets/img/LogoPrint_trans.png" id="main-logo"></a>
+    <h1 class="site_title">Global Medieval Sourcebook
+      <small>A Digital Repository of Medieval Texts</small>
+    </h1>
+  </div>
+  <div id="navigation" class="">
+  <nav class="top-bar" role="navigation" data-topbar>
+    <ul class="title-area">
+      <li class="name"><a href="/" title="home"><img src="/assets/img/gms_topright.png" class="dhlg-menu-logo"></a></li>
+      <li class="toggle-topbar menu-icon"><a href="#"><span>&nbsp;</span></a></li>
+    </ul>
+    <section class="top-bar-section">
+      <ul class="right">
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      </ul>
+      <ul class="left">
+        
+          
+            
+              <li class="has-dropdown ">
+                <a href="collections/" class=" a-pseudo ">Collections</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/collections/cross-cultural-encounters/">Cross-Cultural Encounters in the Premodern World</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/facetiae-jokes/">Facetiae: Jokes from the Italian Renaissance</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/fantastic-fables/">Fantastic Fables: A 14th-Century Book of Moral Tales and Dialogues</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/gender-sex-sensuality/">Gender, Sex and Sensuality: Writings on Women, Men and Desire</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/hymns-and-histories/">Hymns and Histories: Early German Writings, 800-1000 CE</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/love-songs/">Love Songs of the Medieval World: Lyrics from Europe and Asia</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/love-lust-longing/">Lyrics of Love, Lust, and Longing: Selected Poetry from Song Dynasty China</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/making-history/">Making History: Chronicles, Legends and Anecdotes</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/prank-or-be-pranked/">Prank or Be Pranked: Comedy, Wit and Satire</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/prayer-spirituality/">Prayer, Spirituality, and Life after Death: Global Medieval Perspectives</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/good-life/">What Makes A Good Life? Poetic Reflections from Imperial China</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+            
+              <li class="has-dropdown ">
+                <a class=" a-pseudo ">By Century</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/_periods/7th_century/">7th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/8th_century/">8th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/9th_century/">9th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/10th_century/">10th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/11th_century/">11th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/12th_century/">12th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/13th_century/">13th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/14th_century/">14th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/15th_century/">15th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/16th_century/">16th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+        
+          
+            
+              <li class="has-dropdown ">
+                <a class=" a-pseudo ">About</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/about/">About this project</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/how-we-made-it/">How we made it</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/contributors/">Contributors</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+            
+              <li class=" alternateprefix"><a  href="/search/">Search</a></li>
+              <li class="divider"></li>
+            
+          
+        
+      </ul>
+    </section>
+  </nav>
+</div>
+
+  
+  
+  <div class="row" id="main">
+  
+  <div class="large-4 columns">
+    <div class="panel">
+  <h3 id="tocheader">Text Information</h3>
+  <ul id="toc">
+    
+    <li><strong>Author:</strong> Anonymous</li>
+    
+
+    <li><strong>Period:</strong>
+      
+        
+        
+      
+    </li>
+
+    <li><a href="/assets/tei/miracles_vladimir_mother_god.xml">Download TEI</a></li>
+    <li><a href="/assets/pdf/miracles_vladimir_mother_god.pdf">Download formatted PDF</a></li>
+    <li><a href="https://purl.stanford.edu/druid">View in Stanford Digital Repository</a></li>
+  </ul>
+</div>
+
+  </div>
+  <div class="large-8 columns">
+  
+    <article itemscope itemtype="http://schema.org/Article">
+      <header class="row">
+        <div itemprop="name" class="large-12 columns">
+          <h1 id="pagetitle" class="landing">The Legend of the Miracles of the Vladimir Mother of God Icon | Ꙗко бо слн҃це створи бъ҃
+</h1>
+        </div>
+      </header>
+
+      <div itemprop="articleSection">
+        
+<div itemprop="image" class="large-4 columns" style="float:right;">
+  <img src="/assets/img/text/default.png" alt="The Legend of the Miracles of the Vladimir Mother of God Icon | Ꙗко бо слн҃це створи бъ҃
+" />
+  
+</div>
+
+
+        <h3><a href="/assets/pdf/miracles_vladimir_mother_god.pdf">Read the text (PDF)</a></h3>
+        <p>Detail from <em>Silk with Griffins</em>. 1200-1250 CE. Silk and silver-gilt metal on parchment over cotton. Central Asia, Sicily, or North Africa. 69 1/4 x 38 1/4 in. (175.9 x 97.2 cm). The Cloisters Collection, 1984, at the Metropolitan Museum of Art, New York. Object Number 1984.344. <a href="https://www.metmuseum.org/art/collection/search/466119">https://www.metmuseum.org/art/collection/search/466119</a>. [Public Domain]</p>
+<h2>Introduction to the Source</h2>
+<p>The first cycle of legends regarding the Vladimir Mother of God icon was composed between 1163 and the late 1180s. According to scholars, these dates are indicated in a note in a later version of the legends, written in a menology— an ecclesiastical calendar containing biographies of Saints— by the Miliutin brothers in the 17th century. The first historical work that linked disparate legends regarding the miracles performed by the Mother of God into one cohesive narrative is the <em>Book of Royal Degrees</em> compiled in the circle of the Metropolitan Makarii of Moscow in the 1550s and 1560s. However, many earlier sources mention the icon’s history and the miracles caused by the icon’s direct intervention. For example, the <em>Laurentian Chronicle</em> compiled in the late 14th century tells of how the Mother of God icon was delivered from Constantinople to Kiev, while the 15th-century <em>Ermonlin Chronicle</em> describes the Virgin’s intercession in the battle against Tamerlane in 1395. The edition of the text of the <em>Legend</em> used for this translation comes from a late 15th-century manuscript, #637 from the Egorov Collection at the Russian State Library in Moscow (Collection 98). Egor Egorovich Egorov (1862–1917) was a Moscow merchant born into a family of Old Believers (a group of Eastern Orthodox Christians who maintain the practices of the Russian Orthodox Church as they were before the reforms of 1652 – 1666) who collected medieval manuscripts and art.</p>
+## Introduction to the Text 
+<p>The <em>Legend of the Miracles of the Vladimir Mother of God Icon</em> is a 15th-century text relating a series of ten miracles performed by the Vladimir Mother of God icon in the late 12th century. Widely regarded as one of the most sacred icons in Russian history, the Vladimir Mother of God, painted with tempera on wood in the 12th century, depicts the Virgin Mary embracing Christ the child cheek to cheek. Dressed in gold, Christ gazes up at his mother adoringly. This tender pose is emblematic of a genre of icons called an “Icon of Loving Tenderness,”— or <em>umilenie</em> in Russian — and is meant to remind the viewer of the love uniting Mary and Christ.</p> <p>The Vladimir Mother of God Icon was brought to Kiev from Byzantium in 1131-32 and remained there until 1155, when Prince Andrei Bogoliubsky decided to move the icon to his new capital city of Vladimir in the Rostov-Suzdal principality in northeastern Rus (approximately 120 miles northeast of Moscow). Prince Andrei honored the icon by decorating it with a silver <em>riza </em>— a metal covering meant to protect icons from damage— bejeweled with precious metals and stones. He then built the Dormition Cathedral in 1158 in the icon’s honor and placed it inside, where the icon served thereafter as the symbolic religious protector and benefactor of Vladimir.</p> <p>It is likely that Prince Andrei himself was involved in creating the initial cycle of legends in order to legitimize Vladimir as the new political and spiritual capital of Rus. This is especially plausible considering that Andrei is a witness to many of the miracles described in the <em>Legend</em>, one of which includes details about the birth of his own child. The <em>Legend</em> begins by comparing the Mother of God icon to the sun, stating that both have the ability to traverse and warm the entire universe, a message that suggests Prince Andrei’s ambitions to unite several principalities of northern Rus under his rule. This underlying political agenda is prevalent in the geographical scope of the <em>Legend</em>, which suggests Prince Andrei’s spreading glory since the miracles do not only occur in Prince Andrei’s capital city of Vladimir and its surrounding environs, but also in more distant cities such as Murom, Tver, and Pereiaslavl.</p> <p>In many 16th-century manuscripts, the miracles are preceded by the <em>Legend of the Victory over the Volga Bulgars</em> of 1164, the story of how Prince Andrei defeated the Volga Bulgars with the help of a miracle by the Mother of God icon, which Andrei carried throughout the campaign in the vanguard of the army. In contrast, the <em>Legend of the Vladimir Mother of God Icon</em> depicts the everyday realities of 12th-century Rus, using colloquial language and expressive dialogue. These are not miracles relating military victories, but instead empathetic vignettes of women suffering from complicated pregnancies, a teenage boy with a mysterious eye disease, and people grappling with blindness and heart disease. In each case, the intervention of the Mother of God icon cures the afflicted, bringing peace and stability to the people of Vladimir and beyond.</p> <p>The Vladimir Mother of God icon continued to serve as a symbol of Russian imperial and national destiny throughout Russia’s history. The <em>Ermolin Chronicle</em> of the 1470s attributes the Grand Prince Vasily I’s victory over the Mongol ruler Tamerlane in 1395 to the icon’s intervention. The Romanovs kept the icon in the Kremlin as a symbol of Russia’s link to the historical center of Christianity in Byzantium. Tsar Nicholas II and his family traveled to the Moscow Kremlin when the Germans invaded Russia in 1914, where they kissed the icon and asked it to protect Russia from harm. Legend has it that when German forces were approaching Moscow during World War II, Stalin ordered the icon to be put on a plane and flown around the capital city. And finally, during the 1993 Russian constitutional crisis, the icon was removed from its current home in the State Tretyakov gallery and brought to the Epiphany Cathedral at Elokohovo, where the icon was asked to prevent civil war. By reading the <em>Legend of the Vladimir Mother of God Icon</em>, we can understand the origins of this powerful national symbol, which has come to signify Russia’s complex relationship between political power and Orthodox Christianity. </p>
+## Further Reading 
+<p>Alfeyev, Hilarion. 3: Orthodox Christianity Volume III : <em>The Architecture, Icons, and Music of the Orthodox</em>. Yonkers, St. Vladimir’s Seminary Press, 2014.</p> <ul> <li>Guide to orthodox icons; see especially Chapter 8 (pp. 185–210), which is devoted to Russian icons.</li> </ul> <p>Bakatkina, Maria. <em>“Hands off that Scared Image!” The Vladimir Icon and its Power</em>. MA thesis. University of Virginia, 2017. <a href="https://libraetd.lib.virginia.edu/downloads/9306sz41b?filename=1_Bakatkina_Maria_2017_MA.pdf">https://libraetd.lib.virginia.edu/downloads/9306sz41b?filename=1_Bakatkina_Maria_2017_MA.pdf</a></p> <ul> <li>Comprehensive history of the Vladimir Icon and its significance in both medieval literature and visual art.</li> </ul> <p>Hurwitz, Ellen S. <em>Prince Andrej Bogoljubskij: The Man and the Myth</em>. Firenze, Licosa Editrice, 1980.</p> <ul> <li>Biography on Prince Andrei Bogoliubsky for additional context on his life and rule.</li> </ul> <p>Miller, David B. “Legends of the Icon of Our Lady of Vladimir: A Study of the Development of Muscovite National Consciousness.” <em>Speculum</em>, vol. 43, no. 4, 1968, pp. 657–670. JSTOR, <a href="http://www.jstor.org/stable/2855325">www.jstor.org/stable/2855325</a>.</p> <ul> <li>A study of the political significance of the Legends of the Icon of Our Lady of Vladimir.</li> </ul> <p>Tarasov, O. I︠U︡, and R. R Milner-Gulland. Icon and Devotion: <em>Sacred Spaces In Imperial Russia</em>. London: Reaktion Books, 2002.</p> <ul> <li>Extensive study of the significance of icons in Russian culture.</li> </ul>
+## Credits
+
+      </div>
+    </article>
+  </div>
+</div>
+
+  
+  
+  <div id="pagebottom" class="row">
+  <div id="up-to-top" class="large-2 columns" style="text-align: right;">
+    <a class="iconfont" href="#top-of-page">&#xf108;</a>
+  </div>
+</div>
+<footer id="footer-content" class="bg-grau">
+  <div id="footer">
+    <div class="row">
+      <div id="dhlogobox" class="large-12 columns">
+        <img src="/assets/img/neh-dlcl.png" id="dhlg-logo" style="max-height:200px; max-width:400px">
+        <img src="/assets/img/cesta-stanford.png" id="dhlg-logo" style="max-height:200px; max-width:400px">
+        <h5>Permissions and License</h5>
+        <p></p>
+        <p></p>
+      </div>
+    </div>
+  </div>
+</footer>
+<footer id="footer">
+  <div class="container">
+    <p>&copy; Medieval Source Book</p>
+  </div>
+</footer>
+
+  
+  <script src="/assets/js/javascript.min.js"></script>
+<script src="/assets/js/morse.js"></script>
+<script>
+// Initialize Foundation top-bar with dropdowns
+$(document).foundation();
+
+// Basic DOM helpers used by templates
+$(function(){
+  $('.morse').each(function(){
+    var str=$(this).text();
+    // encodeMorse defined in morse.js
+    if (typeof encodeMorse === 'function') $(this).text(encodeMorse(str));
+  });
+});
+</script>
+
+</body>

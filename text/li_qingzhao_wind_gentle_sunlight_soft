@@ -1,0 +1,320 @@
+
+
+
+
+
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Global Medieval Sourcebook</title>
+<link rel="stylesheet" type="text/css" href="/assets/css/styles_feeling_responsive.css">
+<script src="/assets/js/modernizr.min.js "></script>
+<meta name="description" content="">
+<link rel="icon" type="image/png" href="/assets/img/favicon.png">
+
+
+
+<body id="top-of-page" class="">
+  
+  <div class="title-surround">
+    <a href="/"><img src="/assets/img/LogoPrint_trans.png" id="main-logo"></a>
+    <h1 class="site_title">Global Medieval Sourcebook
+      <small>A Digital Repository of Medieval Texts</small>
+    </h1>
+  </div>
+  <div id="navigation" class="">
+  <nav class="top-bar" role="navigation" data-topbar>
+    <ul class="title-area">
+      <li class="name"><a href="/" title="home"><img src="/assets/img/gms_topright.png" class="dhlg-menu-logo"></a></li>
+      <li class="toggle-topbar menu-icon"><a href="#"><span>&nbsp;</span></a></li>
+    </ul>
+    <section class="top-bar-section">
+      <ul class="right">
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      </ul>
+      <ul class="left">
+        
+          
+            
+              <li class="has-dropdown ">
+                <a href="collections/" class=" a-pseudo ">Collections</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/collections/cross-cultural-encounters/">Cross-Cultural Encounters in the Premodern World</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/facetiae-jokes/">Facetiae: Jokes from the Italian Renaissance</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/fantastic-fables/">Fantastic Fables: A 14th-Century Book of Moral Tales and Dialogues</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/gender-sex-sensuality/">Gender, Sex and Sensuality: Writings on Women, Men and Desire</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/hymns-and-histories/">Hymns and Histories: Early German Writings, 800-1000 CE</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/love-songs/">Love Songs of the Medieval World: Lyrics from Europe and Asia</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/love-lust-longing/">Lyrics of Love, Lust, and Longing: Selected Poetry from Song Dynasty China</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/making-history/">Making History: Chronicles, Legends and Anecdotes</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/prank-or-be-pranked/">Prank or Be Pranked: Comedy, Wit and Satire</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/prayer-spirituality/">Prayer, Spirituality, and Life after Death: Global Medieval Perspectives</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/collections/good-life/">What Makes A Good Life? Poetic Reflections from Imperial China</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+            
+              <li class="has-dropdown ">
+                <a class=" a-pseudo ">By Century</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/_periods/7th_century/">7th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/8th_century/">8th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/9th_century/">9th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/10th_century/">10th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/11th_century/">11th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/12th_century/">12th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/13th_century/">13th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/14th_century/">14th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/15th_century/">15th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/_periods/16th_century/">16th Century</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+        
+          
+            
+              <li class="has-dropdown ">
+                <a class=" a-pseudo ">About</a>
+                <ul class="dropdown">
+                  
+                    
+                      <li><a  href="/about/">About this project</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/how-we-made-it/">How we made it</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                    
+                      <li><a  href="/contributors/">Contributors</a></li>
+                      <li class="divider"></li>
+                    
+                  
+                </ul>
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+          
+            
+              <li class=" alternateprefix"><a  href="/search/">Search</a></li>
+              <li class="divider"></li>
+            
+          
+        
+      </ul>
+    </section>
+  </nav>
+</div>
+
+  
+  
+  <div class="row" id="main">
+  
+  <div class="large-4 columns">
+    <div class="panel">
+  <h3 id="tocheader">Text Information</h3>
+  <ul id="toc">
+    
+    <li><strong>Author:</strong> Li Qingzhao 李清照</li>
+    
+
+    <li><strong>Period:</strong>
+      
+        
+        
+      
+    </li>
+
+    <li><a href="/assets/tei/li_qingzhao_wind_gentle_sunlight_soft.xml">Download TEI</a></li>
+    <li><a href="/assets/pdf/li_qingzhao_wind_gentle_sunlight_soft.pdf">Download formatted PDF</a></li>
+    <li><a href="https://purl.stanford.edu/druid">View in Stanford Digital Repository</a></li>
+  </ul>
+</div>
+
+  </div>
+  <div class="large-8 columns">
+  
+    <article itemscope itemtype="http://schema.org/Article">
+      <header class="row">
+        <div itemprop="name" class="large-12 columns">
+          <h1 id="pagetitle" class="landing">To the tune “Bodhisattva Barbarian”—"The wind is gentle, the sunlight soft | 菩薩蠻 · 風柔日薄春猶早
+</h1>
+        </div>
+      </header>
+
+      <div itemprop="articleSection">
+        
+<div itemprop="image" class="large-4 columns" style="float:right;">
+  <img src="/assets/img/text/li_qingzhao_wind_gentle_sunlight_soft.png" alt="To the tune “Bodhisattva Barbarian”—"The wind is gentle, the sunlight soft | 菩薩蠻 · 風柔日薄春猶早
+" />
+  
+</div>
+
+
+        <h3><a href="/assets/pdf/li_qingzhao_wind_gentle_sunlight_soft.pdf">Read the text (PDF)</a></h3>
+        <p>Detail from 宋高宗書女孝經馬和之補圖上卷(Women Gathering) 卷, 馬和之, 趙構, National Palalce Museum, Accession Number: K2A001100N000000000PBB [Public Domain]</p>
+<p>菩薩蠻 To the tune “Bodhisattva Barbarian” 風柔日薄春猶早。 The wind is gentle, the sunlight soft; it is still early spring. 夾衫乍著心情好。 Quickly putting on my double-layered coat, I am in a good mood. 睡起覺微寒。 As I rise, I feel a slight chill. 梅花鬢上殘。 The plum blossomThis refers to makeup made from plum blossoms, which would be used like foundation. is smudged into my hair. 故鄉何處是。 Where is my hometown? 忘了除非醉。 Only in drunkenness could I forget. 沈水臥時燒。 I lit the incense before I lay down. 香消酒未消。 The incense smoke has all disappeared, but the wine has not yet gone.</p>
+<h2>Introduction to the Text</h2>
+<p>This is one of Li Qingzhao's last works. She composed it when she had already moved to the south in her later life, and it captures her struggle with homesickness.</p> <p>The <em>ci</em> genre of Chinese poetry first emerged in the Sui dynasty (581-619), was further developed in the Tang dynasty (618-907) and matured in the Northern Song dynasty (960-1127). <em>Ci</em> is usually translated into English as "song lyrics". This is because <em>ci</em> were composed by poets to fit pre-existing tunes. The number of lines, the line lengths, and the tonal and rhythmic patterns of <em>ci</em> vary with the tunes, which number in the hundreds. One common occasion for composing <em>ci</em> would be a banquet: song lyrics would be scribbled down by guests and then sung by musical performers as entertainment. Other occasions for composing and enjoying <em>ci</em> would be more casual: the poet might sing the lyrics to himself at home or while travelling (many <em>ci</em> poets were civil servants of the Imperial Court and often had to travel great distances to carry out their work). Sometimes the lyrics would be sung by ordinary people in the same way as folk songs. This oral and musical quality sets it apart from other genres of poetry in China during the same period, which were largely written texts with more elevated objectives. There are two main types of <em>ci</em>: <em>wǎnyuē</em> (婉约, "graceful") and <em>háofàng</em> (豪放, "bold"). The <em>wǎnyuē</em> subgenre primarily focuses on emotion and many of its lyrics are about courtship and love, while the<em> háofàng</em> subgenre often deals with themes that were considered more profound by contemporary audiences, such as ageing and mortality, or the rewards and disappointments of public service.</p> <p>Li Qingzhao was probably one of the most prominent female poets in Imperial China. Born into an elite family of imperial bureaucrats, Li Qingzhao aspired to become a writer even though literature was considered a male domain. She quickly gained fame for her poetic talent and became not only a celebrated composer of ci but also an important critic of the genre. In her view, the male poets composing lyrics for female singers struggled to convey these women’s thoughts and voices convincingly. In her song lyrics, Li Qingzhao offers the modern reader something rare and precious: the inner world of women in medieval China, as imagined by a woman poet. Her songs are often considered to be among the most affecting of the genre.</p> <p>In 1127, when Li Qingzhao was in her forties, the capital city of the Song dynasty (present-day Kaifeng)—the city where Li Qingzhao lived—was conquered by the Jin dynasty in the Jin-Song Wars, along with the northern half of the Song dynasty’s territory. The surviving members of the dynasty consolidated their regime in the south, establishing a new capital city, first in Nanjing, then in Lin’an (present-day Hangzhou). The conquest of Kaifeng marked the end of the Northern Song dynasty and the beginning of the Southern Song dynasty: two distinct eras in the political history of China, and two distinctive periods in Li Qingzhao’s own poetry. Following the invasion of Kaifeng, she moved first to Nanjing and then to Lin’an, where she spent the remaining decades of her life; her husband died in 1129. In contrast to the love themes of her earlier ci, much of her later poetry is concerned with the sorrow of her forced migration and her personal loneliness in her new surroundings.</p>
+## Further Reading 
+<p>Chang, Kang-i Sun. <em>The Evolution of Tz’u Poetry: from Late Tang to Northern Sung</em>. Princeton UP, 1980.</p> <ul> <li>A standard survey of the early history of Chinese song lyrics (romanized as both ci and tz’u).</li> </ul> <p>Egan, Ronald. “The Song Lyric.” <em>The Cambridge History of Chinese Literature</em>, vol. 1, edited by Stephen Owen, Cambridge UP, 2010, pp. 434-452.</p> <ul> <li>An overview of the genre.</li> </ul> <p>Egan, Ronald. <em>The Works of Li Qingzhao</em>. De Gruyter, 2019, pp. 94-198.</p> <ul> <li>A bilingual edition, with Chinese and English translations on facing pages.</li> </ul> <p>Owen, Stephen. <em>Just a Song: Chinese Lyrics from the Eleventh and Early Twelfth Centuries</em>. Asia Center, Harvard UP, 2019.</p> <ul> <li>A recent new history of the genre.</li> </ul> <p>Tang, Guizhang 唐圭璋, editor. <em>Quan Song Ci 全宋詞</em>. Zhonghua shu ju, 1965. 5 vols.</p> <ul> <li>A comprehensive edition of ci from the Song dynasty and the source text for the ci in this collection (introductions and annotations are in Chinese).</li> </ul>
+## Credits
+Text based on Tang, Guizhang 唐圭璋 (ed.). Quan Song Ci 全宋詞. Vol 2. Beijing: Zhonghua shu ju, 1965, 927., Translation by Qian Jia, Notes by Nina Du,  and Runqi Zhang, Encoded in TEI P5 XML by Runqi Zhang
+
+      </div>
+    </article>
+  </div>
+</div>
+
+  
+  
+  <div id="pagebottom" class="row">
+  <div id="up-to-top" class="large-2 columns" style="text-align: right;">
+    <a class="iconfont" href="#top-of-page">&#xf108;</a>
+  </div>
+</div>
+<footer id="footer-content" class="bg-grau">
+  <div id="footer">
+    <div class="row">
+      <div id="dhlogobox" class="large-12 columns">
+        <img src="/assets/img/neh-dlcl.png" id="dhlg-logo" style="max-height:200px; max-width:400px">
+        <img src="/assets/img/cesta-stanford.png" id="dhlg-logo" style="max-height:200px; max-width:400px">
+        <h5>Permissions and License</h5>
+        <p></p>
+        <p></p>
+      </div>
+    </div>
+  </div>
+</footer>
+<footer id="footer">
+  <div class="container">
+    <p>&copy; Medieval Source Book</p>
+  </div>
+</footer>
+
+  
+  <script src="/assets/js/javascript.min.js"></script>
+<script src="/assets/js/morse.js"></script>
+<script>
+// Initialize Foundation top-bar with dropdowns
+$(document).foundation();
+
+// Basic DOM helpers used by templates
+$(function(){
+  $('.morse').each(function(){
+    var str=$(this).text();
+    // encodeMorse defined in morse.js
+    if (typeof encodeMorse === 'function') $(this).text(encodeMorse(str));
+  });
+});
+</script>
+
+</body>
