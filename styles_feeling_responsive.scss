@@ -6,43 +6,43 @@
 // To fully eliminate @import warnings would require upgrading to Foundation 6+ or refactoring
 // the entire Foundation 5 codebase to use the @use module system.
 
-@import "../_sass/01_settings_colors.scss";
-@import "../_sass/02_settings_typography.scss";
-@import "../_sass/03_settings_mixins_media_queries.scss";
-@import "../_sass/04_settings_global.scss";
-@import "../_sass/05_normalize.scss";
+@import "01_settings_colors.scss";
+@import "02_settings_typography.scss";
+@import "03_settings_mixins_media_queries.scss";
+@import "04_settings_global.scss";
+@import "05_normalize.scss";
 
-@import "../_sass/foundation-components/top-bar";
-@import "../_sass/foundation-components/accordion";
-@import "../_sass/foundation-components/alert-boxes";
-@import "../_sass/foundation-components/breadcrumbs";
-@import "../_sass/foundation-components/block-grid";
-@import "../_sass/foundation-components/button-groups";
-@import "../_sass/foundation-components/buttons";
-@import "../_sass/foundation-components/clearing";
-@import "../_sass/foundation-components/dropdown";
-@import "../_sass/foundation-components/dropdown-buttons";
-@import "../_sass/foundation-components/flex-video";
-@import "../_sass/foundation-components/forms";
-@import "../_sass/foundation-components/grid";
+@import "foundation-components/top-bar";
+@import "foundation-components/accordion";
+@import "foundation-components/alert-boxes";
+@import "foundation-components/breadcrumbs";
+@import "foundation-components/block-grid";
+@import "foundation-components/button-groups";
+@import "foundation-components/buttons";
+@import "foundation-components/clearing";
+@import "foundation-components/dropdown";
+@import "foundation-components/dropdown-buttons";
+@import "foundation-components/flex-video";
+@import "foundation-components/forms";
+@import "foundation-components/grid";
 
-@import "../_sass/foundation-components/inline-lists";
-@import "../_sass/foundation-components/keystrokes";
-@import "../_sass/foundation-components/panels";
-@import "../_sass/foundation-components/reveal";
-@import "../_sass/foundation-components/side-nav";
-@import "../_sass/foundation-components/sub-nav";
-@import "../_sass/foundation-components/tables";
-@import "../_sass/foundation-components/thumbs";
-@import "../_sass/foundation-components/type";
-@import "../_sass/foundation-components/visibility";
+@import "foundation-components/inline-lists";
+@import "foundation-components/keystrokes";
+@import "foundation-components/panels";
+@import "foundation-components/reveal";
+@import "foundation-components/side-nav";
+@import "foundation-components/sub-nav";
+@import "foundation-components/tables";
+@import "foundation-components/thumbs";
+@import "foundation-components/type";
+@import "foundation-components/visibility";
 
-@import "../_sass/06_typography.scss";
-@import "../_sass/07_layout.scss";
-@import "../_sass/09_elements.scss";
+@import "06_typography.scss";
+@import "07_layout.scss";
+@import "09_elements.scss";
 
-@import "../_sass/10_asciidoc.scss";
+@import "10_asciidoc.scss";
 
-@import "../_sass/11_syntax-highlighting.scss";
+@import "11_syntax-highlighting.scss";
 
-@import "../_sass/main.scss";
+@import "main.scss";
