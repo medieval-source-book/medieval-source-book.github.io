@@ -4,8 +4,8 @@ layout: default
 <div class="row" id="main">
   {% if sidebar == "left" %}
   <div class="large-4 columns">
-    {% include "_sidebar.html" %}
-  </div>
+    {% include "_text-metadata.html" %}
+  </div><!-- /.large-4.columns -->
   <div class="large-8 columns">
   {% else %}
   <div class="large-12 columns">
@@ -23,5 +23,5 @@ layout: default
         {{ content | safe }}
       </div>
     </article>
-  </div>
-</div>
+  </div><!-- /.large-8 or .large-12.columns -->
+</div><!-- /.row -->

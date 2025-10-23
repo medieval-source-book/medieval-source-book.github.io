@@ -20,8 +20,7 @@ textcollections: [cross-cultural-encounters, making-history]
 sdr: https://purl.stanford.edu/druid 
 iimage: /assets/img/text/bohmit_heretic.png
 thumb: /assets/img/text/bohmit_heretic-thumb.png
-imagesource: ""
+imagesource: "Russian State Library in Moscow, Manuscript РГБ, 228.162, fol. 342r."
 fulltext: ""
 ---
- Russian State Library in Moscow, Manuscript РГБ, 228.162, fol. 342r.
  

@@ -20,8 +20,7 @@ textcollections: [cross-cultural-encounters, making-history]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/barros_first_decade_asia.png
 thumb: /assets/img/text/barros_first_decade_asia-thumb.png
-imagesource: ""
+imagesource: "Detail from the title page of _Asia de Joam de Barros / dos fectos que os Portugueses fizeram no descobrimento e conquista dos mares e terras do Oriente_ (Lisbon: Germão Galharde, 1552)."
 fulltext: ""
 ---
- Detail from the title page of _Asia de Joam de Barros / dos fectos que os Portugueses fizeram no descobrimento e conquista dos mares e terras do Oriente_ (Lisbon: Germão Galharde, 1552).
  

@@ -1,7 +1,12 @@
 const { DateTime } = require("luxon");
 const MarkdownIt = require("markdown-it");
 const yaml = require("js-yaml");
-const md = new MarkdownIt({ html: true, linkify: true, typographer: true });
+const md = new MarkdownIt({ 
+  html: true, 
+  linkify: true, 
+  typographer: true,
+  breaks: false
+});
 const fs = require("fs");
 const path = require("path");
 
@@ -93,6 +98,9 @@ module.exports = function(eleventyConfig) {
     const site = (this && this.ctx && this.ctx.site) ? this.ctx.site : {};
     return (site.url || "") + (url || "");
   });
+
+  // Set the Markdown library to use the custom MarkdownIt instance
+  eleventyConfig.setLibrary("md", md);
 
   // Collections mapped to Jekyll-style folders in repo root  
   eleventyConfig.addCollection("texts", function(collectionApi) {
