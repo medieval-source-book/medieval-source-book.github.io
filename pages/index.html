@@ -1,0 +1,215 @@
+---
+layout: landing
+title: "Global Medieval Sourcebook"
+meta_title: "Global Medieval Sourcebook"
+breadcrumb: false
+permalink: "/"
+---
+
+<style>
+.filter-controls {
+  margin: 2rem 0;
+  padding: 1.5rem;
+  background: #f5f5f5;
+  border-radius: 4px;
+}
+
+.filter-controls label {
+  display: inline-block;
+  margin-right: 1rem;
+  font-weight: bold;
+}
+
+.filter-controls select {
+  display: inline-block;
+  width: auto;
+  margin-right: 2rem;
+  padding: 0.5rem;
+}
+
+.text-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 2rem;
+  margin: 2rem 0;
+}
+
+.text-card {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  overflow: hidden;
+  transition: transform 0.2s, box-shadow 0.2s;
+  background: white;
+  text-decoration: none;
+  color: inherit;
+}
+
+.text-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.text-card.hidden {
+  display: none;
+}
+
+.text-thumb {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  background: #f0f0f0;
+}
+
+.text-info {
+  padding: 1rem;
+}
+
+.text-origtitle {
+  font-style: italic;
+  color: #666;
+  font-size: 0.9rem;
+  margin: 0.25rem 0;
+  min-height: 1.2rem;
+}
+
+.text-engtitle {
+  font-weight: bold;
+  margin: 0.5rem 0;
+  min-height: 2.4rem;
+  font-size: 1rem;
+}
+
+.text-meta {
+  font-size: 0.85rem;
+  color: #888;
+  margin-top: 0.5rem;
+}
+
+.results-count {
+  margin: 1rem 0;
+  font-weight: bold;
+  color: #333;
+}
+
+.intro-text {
+  margin-bottom: 2rem;
+}
+</style>
+
+<div class="intro-text">
+  <h1>Welcome</h1>
+  <p>The Global Medieval Sourcebook (GMS) is an open access teaching and research tool. It offers a flexible online display for the parallel viewing of medieval texts in their original language and in new English translations, complemented by new introductory materials.</p>
+  <p>The GMS spans one thousand years (600-1600) of literary production around the world. It contains short texts of broad interdisciplinary interest in a variety of genres, almost all of which have not previously been translated into English.</p>
+</div>
+
+<div class="filter-controls">
+  <label for="century-filter">Century:</label>
+  <select id="century-filter">
+    <option value="">All Centuries</option>
+    <option value="7th_century">7th Century</option>
+    <option value="8th_century">8th Century</option>
+    <option value="9th_century">9th Century</option>
+    <option value="10th_century">10th Century</option>
+    <option value="11th_century">11th Century</option>
+    <option value="12th_century">12th Century</option>
+    <option value="13th_century">13th Century</option>
+    <option value="14th_century">14th Century</option>
+    <option value="15th_century">15th Century</option>
+    <option value="16th_century">16th Century</option>
+  </select>
+
+  <label for="language-filter">Language:</label>
+  <select id="language-filter">
+    <option value="">All Languages</option>
+    <option value="aljamiado">Aljamiado</option>
+    <option value="arabic">Arabic</option>
+    <option value="aramaic">Aramaic</option>
+    <option value="catalan">Catalan</option>
+    <option value="chinese">Chinese</option>
+    <option value="czech">Czech</option>
+    <option value="english">English</option>
+    <option value="french">French</option>
+    <option value="german">German</option>
+    <option value="greek">Greek</option>
+    <option value="hebrew">Hebrew</option>
+    <option value="hungarian">Hungarian</option>
+    <option value="irish">Irish</option>
+    <option value="italian">Italian</option>
+    <option value="japanese">Japanese</option>
+    <option value="latin">Latin</option>
+    <option value="occitan">Occitan</option>
+    <option value="persian">Persian</option>
+    <option value="portuguese">Portuguese</option>
+    <option value="quechua">Quechua</option>
+    <option value="russian">Russian</option>
+    <option value="ruthenian">Ruthenian</option>
+    <option value="slavonic">Slavonic</option>
+    <option value="spanish">Spanish</option>
+    <option value="syriac">Syriac</option>
+    <option value="welsh">Welsh</option>
+  </select>
+</div>
+
+<div class="results-count" id="results-count"></div>
+
+<div class="text-grid" id="text-grid">
+  {% assign texts = collections.texts | sort: "data.title" %}
+  {% for text in texts %}
+  <a href="{{ text.data.permalink }}" class="text-card" 
+     data-periods="{{ text.data.periods | join: ',' }}" 
+     data-languages="{{ text.data.languages | join: ',' }}">
+    {% if text.data.thumb %}
+    <img src="{{ text.data.thumb }}" alt="{{ text.data.engtitle }}" class="text-thumb">
+    {% elsif text.data.image %}
+    <img src="{{ text.data.image }}" alt="{{ text.data.engtitle }}" class="text-thumb">
+    {% else %}
+    <img src="/assets/img/text/placeholder.png" alt="{{ text.data.engtitle }}" class="text-thumb" onerror="this.style.display='none'">
+    {% endif %}
+    <div class="text-info">
+      <div class="text-origtitle">{{ text.data.origtitle }}</div>
+      <div class="text-engtitle">{{ text.data.engtitle | default: text.data.title }}</div>
+      <div class="text-meta">
+        {% if text.data.textauthor %}{{ text.data.textauthor }}{% endif %}
+      </div>
+    </div>
+  </a>
+  {% endfor %}
+</div>
+
+<script>
+(function() {
+  const centuryFilter = document.getElementById('century-filter');
+  const languageFilter = document.getElementById('language-filter');
+  const textCards = document.querySelectorAll('.text-card');
+  const resultsCount = document.getElementById('results-count');
+
+  function filterTexts() {
+    const selectedCentury = centuryFilter.value;
+    const selectedLanguage = languageFilter.value;
+    let visibleCount = 0;
+
+    textCards.forEach(card => {
+      const periods = card.dataset.periods ? card.dataset.periods.split(',') : [];
+      const languages = card.dataset.languages ? card.dataset.languages.split(',') : [];
+      
+      const centuryMatch = !selectedCentury || periods.includes(selectedCentury);
+      const languageMatch = !selectedLanguage || languages.includes(selectedLanguage);
+
+      if (centuryMatch && languageMatch) {
+        card.classList.remove('hidden');
+        visibleCount++;
+      } else {
+        card.classList.add('hidden');
+      }
+    });
+
+    resultsCount.textContent = `Showing ${visibleCount} of ${textCards.length} texts`;
+  }
+
+  centuryFilter.addEventListener('change', filterTexts);
+  languageFilter.addEventListener('change', filterTexts);
+
+  // Initialize count
+  filterTexts();
+})();
+</script>

@@ -1,0 +1,15 @@
+- name: "dSHARP"
+  url: "http://dsharp.library.cmu.edu/"
+  title: "dSHARP"
+
+- name: "dSHARP GitHub"
+  url: "https://github.com/dSHARP-CMU"
+  title: "dSHARP GitHub"
+
+- name: "CMU Dietrich College"
+  url: "https://www.cmu.edu/dietrich/"
+  title: "Dietrich College"
+
+- name: "CMU Libraries"
+  url: "https://www.library.cmu.edu/"
+  title: "CMU Libraries"

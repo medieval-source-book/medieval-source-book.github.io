@@ -1,0 +1,2211 @@
+<?xml-stylesheet href="../src/vmachine.xsl" type="text/xsl" ?><?xml-model href="../schema/vmachine.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!DOCTYPE TEI SYSTEM "http://www.menota.org/menotaP5.dtd"
+[
+<!ENTITY % Menota_entities SYSTEM
+'http://www.menota.org/menota-entities.txt'   >
+%Menota_entities;]
+>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Prologue to the Book of Histories</title>
+				<author>Anonymous</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name>Paul Meyer</name>
+				</respStmt>
+				<respStmt>
+					<resp>Translation by</resp>
+					<name>Mae Velloso-Lyons</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoded in TEI P5 XML by</resp>
+					<name>Mae Velloso-Lyons</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher><hi rend="italic">The Global Medieval Sourcebook</hi></publisher>
+				<availability>
+					<p><hi rend="italic">The Global Medieval Sourcebook</hi> is licensed under a Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International License.</p>
+				</availability>
+			</publicationStmt>
+			<notesStmt>
+				<p>This text is the prologue to a long work of history compiled in Northern France in the first third of the thirteenth century CE. The history was intended to be universal: spanning the creation of the world, through the ancient civilisations of Assyria, Greece and Rome, via the age of migrations in Europe, to the rise of powerful medieval kingdoms. However, the history was not completed and in fact only recounts as far as the Roman emperor Julius Caesar, hence the title commonly given to the work: Histoire ancienne jusqu’à César (“Ancient History until Caesar”). Despite being unfinished, the work was immensely popular in medieval Europe, and seventy-four copies survive of the first redaction (the first version, before the text was revised). These manuscripts were produced in places as far apart as Paris, Venice, and Acre (a crusader city in what is now Israel). It is often found in combination with another work of ancient history, the Faits des Romains (“Deeds of the Romans”), which indicates the great interest that medieval audiences had in ancient history. The prologue has been included in the Global Medieval Sourcebook because it summarises the entire work (including the unfinished parts) and shows how medieval people in Western Europe wove together Biblical stories with the histories of pre-Christian empires. Although the prologue is in rhymed verse, the main body of the history is in prose, with interspersed sections of verse offering moral lessons drawn from the historical content. However, when the text was recopied, these verse sections (including the prologue) were often omitted. This may suggest that audience expectations about works of history were changing, preferring the voice of the author - or the moral interpretation - to be less prominent.</p>
+			</notesStmt>
+			<sourceDesc>
+				<p>Paris Bibliothèque Nationale Française MS 20125, ff. 1r-2v.</p>
+				<listWit>
+					<witness xml:id="Transcription">Li prologue ou livre des estoires</witness>
+					<witness xml:id="Translation">Prologue to the Book of Histories</witness>
+				</listWit>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+		<projectDesc>
+            	<p>"The Prologue to the Book of Histories" is published by <hi rend="italic">The Global Medieval Sourcebook (GMS)</hi>, a free, open access, and open source compendium of medieval texts in their original languages and in English translation. <hi rend="italic">GMS</hi> comprises computer-readable transcriptions or editions alongside new translations of texts dating from the ninth to the sixteenth century and originating in Europe, North Africa, the Middle East, and Asia. The <hi rend="italic">GMS</hi> platform includes critical introductions as well as sources for further reading.</p>
+         	</projectDesc>
+			<editorialDecl>
+	        	<p>Transcriptions and translations are encoded in XML conforming to TEI (P5) guidelines. The original-language text is contained within &lt;lem&gt; tags and translations within &lt;rdg&gt; tags.</p>
+        		<interpretation>
+        			<p>Texts are translated into modern American English with maximum fidelity to the original text, except where it would impair comprehension or good style. Archaisms are preserved where they do not conflict with the aesthetic of the original text. Scribal errors and creative translation choices are marked and discussed in the critical notes.</p>
+        			<p>This English translation is based on the transcription by Paul Meyer of Paris Bibliothèque Nationale Française MS 20125, ff. 1r-2v (corrected using Vienna Imperial and Royal Library Lambecius MS 258). A facsimile of the Paris manuscript is available online here: [https://gallica.bnf.fr/ark:/12148/btv1b9009480h/f4.image.r=20125]. Meyer’s transcription was published in: “Les premières compilations françaises d’histoire ancienne. I. - Les Faits des Romains. II. - Histoire ancienne jusqu’à César.” Romania, vol 14, 1885, pp. 1-81. The transcription can be found on pp. 53-6. A digital version of this publication is available here: [https://gallica.bnf.fr/ark:/12148/bpt6k160238/f6.image].</p>
+				</interpretation>
+				<segmentation>
+				</segmentation>
+			</editorialDecl>
+			<variantEncoding method="parallel-segmentation" location="internal"/>
+		</encodingDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<head>
+				<title>
+					<app>
+						<lem wit="#Transcription">Ci comence li prologue ou livre des estoires, et la porsivance.</lem>
+						<rdg wit="#Translation">Here begins the prologue to the book of histories, and what follows.</rdg>
+					</app>
+				</title>
+			</head>
+		</front>
+		<body>
+			<lg n="1">
+				<l n="1">
+					<app>
+						<lem wit="#Transcription">Segnor, je ai oï retraire
+						</lem>
+						<rdg wit="#Translation">Lords, I have heard it said</rdg>
+					</app>
+				</l>
+				<l n="2">
+					<app>
+						<lem wit="#Transcription">C'on doit adès bien dire et faire
+						</lem>
+						<rdg wit="#Translation">That one must always speak and act well</rdg>
+					</app>
+				</l>
+				<l n="3">
+					<app>
+						<lem wit="#Transcription">Tant con on ou siecle demore
+						</lem>
+						<rdg wit="#Translation">For as long as one remains in the world.</rdg>
+					</app>
+				</l>
+				<l n="4">
+					<app>
+						<lem wit="#Transcription">Li hom ne vit c'une sole ore,
+						</lem>
+						<rdg wit="#Translation">A man lives but a single hour</rdg>
+					</app>
+				</l>
+				<l n="5">
+					<app>
+						<lem wit="#Transcription">Ainz trespasse et va a la fin,
+						</lem>
+						<rdg wit="#Translation">Before dying and going to his end.</rdg>
+					</app>
+				</l>
+				<l n="6">
+					<app>
+						<lem wit="#Transcription">S'il a eü vrai cuer et fin,
+						</lem>
+						<rdg wit="Translation">If he has had a true and pure heart,</rdg>
+					</app>
+				</l>
+				<l n="7">
+					<app>
+						<lem wit="#Transcription">Que s'uevre ait esté bone et fine;
+						</lem>
+						<rdg wit="Translation">And his work has been good and pure,</rdg>
+					</app>
+				</l>
+				<l n="8">
+					<app loc="l8">
+						<lem wit="#Transcription">A cel segnor qui tot afine
+						</lem>
+					</app>
+				</l>
+				<l n="8">
+					<app loc="l9">
+						<rdg wit="Translation">He has as great a reward</rdg>
+					</app>
+				</l>
+				<l n="9">
+					<app loc="l9">
+						<lem wit="#Transcription">En a la desserte si grande
+						</lem>
+					</app>
+				</l>
+				<l n="9">
+					<app loc="l10">
+						<rdg wit="Translation">As his heart wants and asks for</rdg>
+					</app>
+				</l>
+				<l n="10">
+					<app loc="l10">
+						<lem wit="#Transcription">Com ses cuers le veut e demande;
+						</lem>
+					</app>
+				</l>
+				<l n="10">
+					<app loc="l8">
+						<rdg wit="Translation">from that Lord who brings everything to its end.</rdg>
+					</app>
+				</l>
+				<l n="11">
+					<app>
+						<lem wit="#Transcription">Car c'est li sires qui tot rent
+						</lem>
+						<rdg wit="Translation">For the Lord returns everything</rdg>
+					</app>
+				</l>
+				<l n="12">
+					<app>
+						<lem wit="#Transcription">Quanc'on li fait si justement
+						</lem>
+						<rdg wit="Translation">That one does for him so fairly</rdg>
+					</app>
+				</l>
+				<l n="13">
+					<app>
+						<lem wit="#Transcription">Que ja ne s'en devra nus plaindre.
+						</lem>
+						<rdg wit="Translation">That one must never complain;</rdg>
+					</app>
+				</l>
+				<l n="14">
+					<app>
+						<lem wit="#Transcription">Por quoi ne se doit nus hom faindre
+						</lem>
+						<rdg wit="Translation">For this reason, one must not make a pretence</rdg>
+					</app>
+				</l>
+				<l n="15">
+					<app>
+						<lem wit="#Transcription">De lui servir a son pooir:
+						</lem>
+						<rdg wit="Translation">Of serving him to the best of one’s ability:</rdg>
+					</app>
+				</l>
+				<l n="16">
+					<app>
+						<lem wit="#Transcription">Metre i doit on sens et voloir.
+						</lem>
+						<rdg wit="Translation">One must put meaning and intention into it.</rdg>
+					</app>
+				</l>
+				<l n="17">
+					<app>
+						<lem wit="#Transcription">Qui si le fai sauve iert sa paine,
+						</lem>
+						<rdg wit="Translation">Whoever acts thus will have his pains guaranteed</rdg>
+					</app>
+				</l>
+				<l n="18">
+					<app>
+						<lem wit="#Transcription">Quar qui por bon segnor si paine
+						</lem>
+						<rdg wit="Translation">For whoever troubles himself for the good Lord</rdg>
+					</app>
+				</l>
+				<l n="19">
+					<app>
+						<lem wit="#Transcription">En la fin en a tel merite
+						</lem>
+						<rdg wit="Translation">Has such reward for it at the end</rdg>
+					</app>
+				</l>
+				<l n="20">
+					<app>
+						<lem wit="#Transcription">Qui mout charement li profite,
+						</lem>
+						<rdg wit="Translation">That it is greatly to his advantage;</rdg>
+					</app>
+				</l>
+				<l n="21">
+					<app>
+						<lem wit="#Transcription">Et qui siert a mauvais segnor
+						</lem>
+						<rdg wit="Translation">And whoever serves the lord badly</rdg>
+					</app>
+				</l>
+				<l n="22">
+					<app>
+						<lem wit="#Transcription">Il n'i a ni preu ni honor;
+						</lem>
+						<rdg wit="Translation">Has neither profit nor honour.</rdg>
+					</app>
+				</l>
+				<l n="23">
+					<app>
+						<lem wit="#Transcription">De ce seit sa pensée certe,
+						</lem>
+						<rdg wit="Translation">May he be certain of this:</rdg>
+					</app>
+				</l>
+				<l n="24">
+					<app>
+						<lem wit="#Transcription">Ja ne s'en tornera sanz perte.
+						</lem>
+						<rdg wit="Translation">He will never get away without a loss.</rdg>
+					</app>
+				</l>
+				<l n="25">
+					<app>
+						<lem wit="#Transcription">Li mauvais sires, c'est deables
+						</lem>
+						<rdg wit="Translation">The bad lord is the devil</rdg>
+					</app>
+				</l>
+				<l n="26">
+					<app>
+						<lem wit="#Transcription">Qui point ne nos est profitables,
+						</lem>
+						<rdg wit="Translation">Who is not useful to us at all</rdg>
+					</app>
+				</l>
+				<l n="27">
+					<app>
+						<lem wit="#Transcription">Car il het raison et mesure,
+						</lem>
+						<rdg wit="Translation">Because he hates truth and self-restraint,
+							<note type="critical" anchored="true">
+								<p>‘Raison’ can mean both what is true and what is just.</p>
+								<p>‘Mesure’ is an important virtue in medieval culture and can be variously translated as moderation, restraint, reason or good judgement.</p>
+							</note>
+						</rdg>
+					</app>
+				</l>
+				<l n="28">
+					<app>
+						<lem wit="#Transcription">Bonté, loiauté et droiture.
+						</lem>
+						<rdg wit="Translation">Goodness, loyalty and justice.
+							<note type= "critical" anchored="true">
+								<p>‘Droiture’ means moral or legal rectitude as well as fairness or justice.</p>
+							</note>
+						</rdg>
+					</app>
+				</l>
+				<l n="29">
+					<app>
+						<lem wit="#Transcription">Mout a sergans, et nequedent
+						</lem>
+						<rdg wit="Translation">He has many servants and yet</rdg>
+					</app>
+				</l>
+				<l n="30">
+					<app>
+						<lem wit="#Transcription">Qu'il le servent a son talent,
+						</lem>
+						<rdg wit="Translation">If they serve him as he desires,</rdg>
+					</app>
+				</l>
+				<l n="31">
+					<app>
+						<lem wit="#Transcription">E! las, dolent que feront ils?
+						</lem>
+						<rdg wit="Translation">Alas! what will those miserable ones do?</rdg>
+					</app>
+				</l>
+				<l n="32">
+					<app>
+						<lem wit="#Transcription">Por lor luiers avront escil,
+						</lem>
+						<rdg wit="Translation">Their prize will be exile,</rdg>
+					</app>
+				</l>
+				<l n="33">
+					<app>
+						<lem wit="#Transcription">Delor parmenable et misere.
+						</lem>
+						<rdg wit="Translation">Eternal pain and misery;</rdg>
+					</app>
+				</l>
+				<l n="34">
+					<app>
+						<lem wit="#Transcription">Damedéu laissent, le vrai pere,
+						</lem>
+						<rdg wit="Translation">They leave Lord God, the true father,</rdg>
+					</app>
+				</l>
+				<l n="35">
+					<app>
+						<lem wit="#Transcription">Si se tienent a l'enemi.
+						</lem>
+						<rdg wit="Translation">And hold fast to the Enemy.</rdg>
+					</app>
+				</l>
+				<l n="36">
+					<app>
+						<lem wit="#Transcription">S[e] il ont si mauvais ami
+						</lem>
+						<rdg wit="Translation">If they are to have such a bad friend,</rdg>
+					</app>
+				</l>
+				<l n="37">
+					<app>
+						<lem wit="#Transcription">Meaus lor venist que né ne fussent,
+						</lem>
+						<rdg wit="Translation">It would have been better for them that they hadn’t been born,</rdg>
+					</app>
+				</l>
+				<l n="38">
+					<app>
+						<lem wit="#Transcription">Car ne font pas ce qu'il deüssent.
+						</lem>
+						<rdg wit="Translation">For they are not doing what they should.</rdg>
+					</app>
+				</l>
+				<l n="39">
+					<app>
+						<lem wit="#Transcription">Crestiein furent apelé
+						</lem>
+						<rdg wit="Translation">They were called Christians</rdg>
+					</app>
+				</l>
+				<l n="40">
+					<app>
+						<lem wit="#Transcription">Quant il furent regeneré
+						</lem>
+						<rdg wit="Translation">When they were reborn</rdg>
+					</app>
+				</l>
+				<l n="41">
+					<app>
+						<lem wit="#Transcription">Ens en sains fons, si com il devrent
+						</lem>
+						<rdg wit="Translation">In the holy font, doing as they ought to,
+							<note type= "critical" anchored="true">
+								<p>This is a reference to the Christian sacrament of baptism.</p>
+							</note>
+						</rdg>
+					</app>
+				</l>
+				<l n="42">
+					<app>
+						<lem wit="#Transcription">E l'uile et la cresme recevrent
+						</lem>
+						<rdg wit="Translation">And received the oil and the chrism;
+							<note type= "critical" anchored="true">
+								<p>Chrism is a consecrated oil used in the administration of certain Catholic sacraments, including baptism.</p>
+							</note>
+						</rdg>
+					</app>
+				</l>
+				<l n="43">
+					<app>
+						<lem wit="#Transcription">La orent il a Deu covenent
+						</lem>
+						<rdg wit="Translation">There they addressed a covenant to God</rdg>
+					</app>
+				</l>
+				<l n="44">
+					<app>
+						<lem wit="#Transcription">Qu'en lui creiroient fermement,
+						</lem>
+						<rdg wit="Translation">That they would steadfastly believe in him</rdg>
+					</app>
+				</l>
+				<l n="45">
+					<app>
+						<lem wit="#Transcription">C'est qui'il adès le serviroient
+						</lem>
+						<rdg wit="Translation">And that they would always serve him</rdg>
+					</app>
+				</l>
+				<l n="46">
+					<app>
+						<lem wit="#Transcription">E ces comandamens feroient.
+						</lem>
+						<rdg wit="Translation">And follow his commands.</rdg>
+					</app>
+				</l>
+				<l n="47">
+					<app>
+						<lem wit="#Transcription">Por Deu! segnor, s'il ne le font,
+						</lem>
+						<rdg wit="Translation">By God, Lords, if they don’t do it,</rdg>
+					</app>
+				</l>
+				<l n="48">
+					<app>
+						<lem wit="#Transcription">Savés quel luier en avront?
+						</lem>
+						<rdg wit="Translation">Do you know what reward they will have?</rdg>
+					</app>
+				</l>
+				<l n="49">
+					<app>
+						<lem wit="#Transcription">Passé avront obedience;
+						</lem>
+						<rdg wit="Translation">They will have disobeyed;</rdg>
+					</app>
+				</l>
+				<l n="50">
+					<app>
+						<lem wit="#Transcription">S'amendé n'est par penitence,
+						</lem>
+						<rdg wit="Translation">If this isn't amended by penitence,</rdg>
+					</app>
+				</l>
+				<l n="51">
+					<app>
+						<lem wit="#Transcription">Perdu en avront la contrée
+						</lem>
+						<rdg wit="Translation">They will have lost the land</rdg>
+					</app>
+				</l>
+				<l n="52">
+					<app>
+						<lem wit="#Transcription">Que paradis est apellée.
+						</lem>
+						<rdg wit="Translation">Which is called Paradise.</rdg>
+					</app>
+				</l>
+				<l n="53">
+					<app>
+						<lem wit="#Transcription">Soviegne vos tostans d'Adam
+						</lem>
+						<rdg wit="Translation">May you always remember Adam,</rdg>
+					</app>
+				</l>
+				<l n="54">
+					<app>
+						<lem wit="#Transcription">Qui en dolor et en ahan
+						</lem>
+						<rdg wit="Translation">Who gave us sorrow and suffering</rdg>
+					</app>
+				</l>
+				<l n="55">
+					<app>
+						<lem wit="#Transcription">Nos mist par le mors d'une pome.
+						</lem>
+						<rdg wit="Translation">With the bite of an apple.</rdg>
+					</app>
+				</l>
+				<l n="56">
+					<app>
+						<lem wit="#Transcription">Segnor, Adan, cel premier home
+						</lem>
+						<rdg wit="Translation">Lords, Adam, this first man,</rdg>
+					</app>
+				</l>
+				<l n="57">
+					<app>
+						<lem wit="#Transcription">Aveit nostre Sires formé,
+						</lem>
+						<rdg wit="Translation">Had been formed and shaped by our Lord</rdg>
+					</app>
+				</l>
+				<l n="58">
+					<app>
+						<lem wit="#Transcription">A sa semblance et figuré,
+						</lem>
+						<rdg wit="Translation">In his image,</rdg>
+					</app>
+				</l>
+				<l n="59">
+					<app>
+						<lem wit="#Transcription">E si l'ot mis en paradis
+						</lem>
+						<rdg wit="Translation">And then he put him in Paradise</rdg>
+					</app>
+				</l>
+				<l n="60">
+					<app>
+						<lem wit="#Transcription">Ou il eüst esté toz dis
+						</lem>
+						<rdg wit="Translation">Where he would have been for evermore</rdg>
+					</app>
+				</l>
+				<l n="61">
+					<app>
+						<lem wit="#Transcription">Se passé n'eüst son comant,
+						</lem>
+						<rdg wit="Translation">If he hadn’t ignored his command,</rdg>
+					</app>
+				</l>
+				<l n="62">
+					<app>
+						<lem wit="#Transcription">Dont nos somes encor dolant.
+						</lem>
+						<rdg wit="Translation">For which reason we suffer still.</rdg>
+					</app>
+				</l>
+				<l n="63">
+					<app>
+						<lem wit="#Transcription">Par le comant qu'il trespassa
+						</lem>
+						<rdg wit="Translation">By the command that he broke</rdg>
+					</app>
+				</l>
+				<l n="64">
+					<app>
+						<lem wit="#Transcription">Ens el pas de la mort passa;
+						</lem>
+						<rdg wit="Translation">He became mortal;
+							<note type= "critical" anchored="true">
+								<p>The text literally states that he entered into proximity of death.</p>
+							</note>
+						</rdg>
+					</app>
+				</l>
+				<l n="65">
+					<app>
+						<lem wit="#Transcription">C'en fi mis ens en la paine
+						</lem>
+						<rdg wit="Translation">He was made to suffer the punishment</rdg>
+					</app>
+				</l>
+				<l n="66">
+					<app>
+						<lem wit="#Transcription">Dont chascuns et chascune paine.
+						</lem>
+						<rdg wit="Translation">Which every man and woman suffers.</rdg>
+					</app>
+				</l>
+				<l n="67">
+					<app>
+						<lem wit="#Transcription">Seignor, et puis qu'Adans fu mis
+						</lem>
+						<rdg wit="Translation">Lords, since Adam was put</rdg>
+					</app>
+				</l>
+				<l n="68">
+					<app>
+						<lem wit="#Transcription">Por el fait hors du paradis,
+						</lem>
+						<rdg wit="Translation">Out of Paradise because of this act,</rdg>
+					</app>
+				</l>
+				<l n="69">
+					<app>
+						<lem wit="#Transcription">Qu'iert il de nos qui chascun jor
+						</lem>
+						<rdg wit="Translation">How will it be for us, who every day</rdg>
+					</app>
+				</l>
+				<l n="70">
+					<app>
+						<lem wit="#Transcription">Corronssons cent foiz le Segnor
+						</lem>
+						<rdg wit="Translation">Anger the Lord a hundred times —</rdg>
+					</app>
+				</l>
+				<l n="71">
+					<app>
+						<lem wit="#Transcription">Qui a Adan se corrossa
+						</lem>
+						<rdg wit="Translation">The Lord who became angry at Adam</rdg>
+					</app>
+				</l>
+				<l n="72">
+					<app>
+						<lem wit="#Transcription">Por un comant qu'il trespassa?
+						</lem>
+						<rdg wit="Translation">For a single command that he disobeyed?</rdg>
+					</app>
+				</l>
+				<l n="73">
+					<app>
+						<lem wit="#Transcription">Bien nos en devroit sovenir,
+						</lem>
+						<rdg wit="Translation">We ought to remember this well,</rdg>
+					</app>
+				</l>
+				<l n="74">
+					<app>
+						<lem wit="#Transcription">Mès nos lessomes covenier
+						</lem>
+						<rdg wit="Translation">But we let things simply turn out</rdg>
+					</app>
+				</l>
+				<l n="75">
+					<app>
+						<lem wit="#Transcription">La choze si come puet estre:
+						</lem>
+						<rdg wit="Translation">as they are wont to do.</rdg>
+					</app>
+				</l>
+				<l n="76">
+					<app>
+						<lem wit="#Transcription">Ne creons mès ni cler ni prestre
+						</lem>
+						<rdg wit="Translation">We believe neither cleric nor priest</rdg>
+					</app>
+				</l>
+				<l n="77">
+					<app>
+						<lem wit="#Transcription">Tant no sachent verité dire.
+						</lem>
+						<rdg wit="Translation">Although they can tell us the truth.</rdg>
+					</app>
+				</l>
+				<l n="78">
+					<app>
+						<lem wit="#Transcription">Li siecles chascun jor enpire;
+						</lem>
+						<rdg wit="Translation">The world grows worse every day:
+							<note type="critical" anchored="true">
+								<p>‘Siecles’ means both the world and the age; it is sometimes also used in the Middle Ages to mean ‘century’, following the Roman usage of ‘seculum’ (and in line with the modern French usage of ‘siècle’).</p>
+							</note>
+						</rdg>
+					</app>
+				</l>
+				<l n="79">
+					<app>
+						<lem wit="#Transcription">C'est grans dolors et grans tristece.
+						</lem>
+						<rdg wit="Translation">It’s a great misery and a great sadness.</rdg>
+					</app>
+				</l>
+				<l n="80">
+					<app>
+						<lem wit="#Transcription">Chascuns de bien fere a perece,
+						</lem>
+						<rdg wit="Translation">Everyone is lazy about acting well</rdg>
+					</app>
+				</l>
+				<l n="81">
+					<app>
+						<lem wit="#Transcription">Ne nus ne redoute la mort
+						</lem>
+						<rdg wit="Translation">And does not fear the death</rdg>
+					</app>
+				</l>
+				<l n="82">
+					<app>
+						<lem wit="#Transcription">Que si aigrement pince et mort
+						</lem>
+						<rdg wit="Translation">That so painfully pinches and bites</rdg>
+					</app>
+				</l>
+				<l n="83">
+					<app>
+						<lem wit="#Transcription">Que la dolor ne puet descrire
+						</lem>
+						<rdg wit="Translation">That no saint — male or female — can describe the pain,</rdg>
+					</app>
+				</l>
+				<l n="84">
+					<app>
+						<lem wit="#Transcription">Sains ni sainte, tant sache dire.
+						</lem>
+						<rdg wit="Translation">however much they can tell us.</rdg>
+					</app>
+				</l>
+				<l n="85">
+					<app>
+						<lem wit="#Transcription">C'est merveille que ne cremons
+						</lem>
+						<rdg wit="Translation">It’s an extraordinary thing that we do not fear</rdg>
+					</app>
+				</l>
+				<l n="86">
+					<app>
+						<lem wit="#Transcription">Ce qu'a nos propres oils veons:
+						</lem>
+						<rdg wit="Translation">What we see with our own eyes:</rdg>
+					</app>
+				</l>
+				<l n="87">
+					<app>
+						<lem wit="#Transcription">C'est ce que la more aprochomes,
+						</lem>
+						<rdg wit="Translation">That we approach death</rdg>
+					</app>
+				</l>
+				<l n="88">
+					<app>
+						<lem wit="#Transcription">E nos cors acompaigneromes
+						</lem>
+						<rdg wit="Translation">And will accompany our bodies</rdg>
+					</app>
+				</l>
+				<l n="89">
+					<app>
+						<lem wit="#Transcription">As vers de terre sans orgoill.
+						</lem>
+						<rdg wit="Translation">To meet the worms without pride.</rdg>
+					</app>
+				</l>
+				<l n="90">
+					<app>
+						<lem wit="#Transcription">N'en porteros c'un soul lensuel,
+						</lem>
+						<rdg wit="Translation">We will wear but a single shroud</rdg>
+					</app>
+				</l>
+				<l n="91">
+					<app>
+						<lem wit="#Transcription">Dont nos avromes vesteüre.
+						</lem>
+						<rdg wit="Translation">As clothing.</rdg>
+					</app>
+				</l>
+				<l n="92">
+					<app>
+						<lem wit="#Transcription">Segnor, e n'esteroit mesure
+						</lem>
+						<rdg wit="Translation">Lords, wouldn’t it be reasonable
+							<note type="critical" anchored="true">
+								<p>‘Mesure’, as previously noted, is an important virtue in medieval culture and can be variously translated as moderation, restraint, reason or good judgement.</p>
+							</note>
+						</rdg>
+					</app>
+				</l>
+				<l n="93">
+					<app>
+						<lem wit="#Transcription">Que nos nos en porpensessimes.
+						</lem>
+						<rdg wit="Translation">For us to reflect on ourselves</rdg>
+					</app>
+				</l>
+				<l n="94">
+					<app>
+						<lem wit="#Transcription">E nos malisses lessesimes?
+						</lem>
+						<rdg wit="Translation">And abandon our evil ways?</rdg>
+					</app>
+				</l>
+				<l n="95">
+					<app>
+						<lem wit="#Transcription">Que vaut force, que vaut noblece?
+						</lem>
+						<rdg wit="Translation">What is strength worth? What is nobility worth?</rdg>
+					</app>
+				</l>
+				<l n="96">
+					<app>
+						<lem wit="#Transcription">Que vaut beautés, que vaut richece?
+						</lem>
+						<rdg wit="Translation">What is beauty worth? What are riches worth?</rdg>
+					</app>
+				</l>
+				<l n="97">
+					<app>
+						<lem wit="#Transcription">Que vaut hautesce ni parages?
+						</lem>
+						<rdg wit="Translation">What is high status or noble extraction worth?</rdg>
+					</app>
+				</l>
+				<l n="98">
+					<app loc="l98">
+						<lem wit="#Transcription">Certes, li hom n'est mie sages
+						</lem>
+					</app>
+				</l>
+				<l n="98">
+					<app loc="l99">
+						<rdg wit="Translation">Certainly the man who places his trust in all of these</rdg>
+					</app>
+				</l>
+				<l n="99">
+					<app loc="l99">
+						<lem wit="#Transcription">Qui en tout ce a sa fiance,
+						</lem>
+					</app>
+				</l>
+				<l n="99">
+					<app loc="l98">
+						<rdg wit="Translation">Is not wise at all,</rdg>
+					</app>
+				</l>
+				<l n="100">
+					<app>
+						<lem wit="#Transcription">Car il n'i a fors trespassance.
+						</lem>
+						<rdg wit="Translation">For there is nothing there but death.</rdg>
+					</app>
+				</l>
+				<l n="101">
+					<app>
+						<lem wit="#Transcription">N'en dirai plus: el ai a faire,
+						</lem>
+						<rdg wit="Translation">I will say no more; I have much to do,</rdg>
+					</app>
+				</l>
+				<l n="102">
+					<app>
+						<lem wit="#Transcription">Car j'ai entrepris un a faire
+						</lem>
+						<rdg wit="Translation">For I have undertaken to present a matter</rdg>
+					</app>
+				</l>
+				<l n="103">
+					<app>
+						<lem wit="#Transcription">A traitier selonc l'escriture
+						</lem>
+						<rdg wit="Translation">Following what is written</rdg>
+					</app>
+				</l>
+				<l n="104">
+					<app>
+						<lem wit="#Transcription">Ou mout avra sens et mesure.
+						</lem>
+						<rdg wit="Translation">In which there will be much meaning and good judgement.
+						<note type="critical" anchored="true">
+								<p>‘Mesure’, as previously noted, is an important virtue in medieval culture and can be variously translated as moderation, restraint, reason or good judgement.</p>
+							</note>
+						</rdg>
+					</app>
+				</l>
+				<l n="105">
+					<app>
+						<lem wit="#Transcription">Qui la matiere porsivra
+						</lem>
+						<rdg wit="Translation">Whoever follows the content</rdg>
+					</app>
+				</l>
+				<l n="106">
+					<app>
+						<lem wit="#Transcription">E de cuer i entendera
+						</lem>
+						<rdg wit="Translation">And listens from the heart</rdg>
+					</app>
+				</l>
+				<l n="107">
+					<app>
+						<lem wit="#Transcription">Oïr porra la plus haute ovre
+						</lem>
+						<rdg wit="Translation">Will be able to hear the worthiest work</rdg>
+					</app>
+				</l>
+				<l n="108">
+					<app loc="l108">
+						<lem wit="#Transcription">Qui encor pas ne si descuevre
+						</lem>
+					</app>
+				</l>
+				<l n="108">
+					<app loc="l109">
+						<rdg wit="Translation">Ever presented in our language:</rdg>
+					</app>
+				</l>
+				<l n="109">
+					<app loc="l109">
+						<lem wit="#Transcription">C'onques fust en nos lenge traite.
+						</lem>
+					</app>
+				</l>
+				<l n="109">
+					<app loc="l108">
+						<rdg wit="Translation">A work which is still unknown.</rdg>
+					</app>
+				</l>
+				<l n="110">
+					<app>
+						<lem wit="#Transcription">Mès n'ai encor mension faite
+						</lem>
+						<rdg wit="Translation">But I haven’t yet mentioned</rdg>
+					</app>
+				</l>
+				<l n="111">
+					<app>
+						<lem wit="#Transcription">Ou ne a cui comencerai.
+						</lem>
+						<rdg wit="Translation">Where, or with whom, I will begin.</rdg>
+					</app>
+				</l>
+				<l n="112">
+					<app>
+						<lem wit="#Transcription">Or fetes pais, jel vos dirai.
+						</lem>
+						<rdg wit="Translation">Now be silent and I will tell you.</rdg>
+					</app>
+				</l>
+			</lg>
+			<lg n="2">	
+				<l n="113">
+					<app>
+						<lem wit="#Transcription">De Deu est bon li comenciers:
+						</lem>
+						<rdg wit="Translation">It is right to begin with God.</rdg>
+					</app>
+				</l>
+				<l n="114">
+					<app>
+						<lem wit="#Transcription">A lui comencerai premiers,
+						</lem>
+						<rdg wit="Translation">I will start with him first:</rdg>
+					</app>
+				</l>
+				<l n="115">
+					<app>
+						<lem wit="#Transcription">Coment Adan forma e fist,
+						</lem>
+						<rdg wit="Translation">How he formed and made Adam,</rdg>
+					</app>
+				</l>
+				<l n="116">
+					<app>
+						<lem wit="#Transcription">Coment en paradis le mist,
+						</lem>
+						<rdg wit="Translation">How he put him in Paradise,</rdg>
+					</app>
+				</l>
+				<l n="117">
+					<app>
+						<lem wit="#Transcription">E com Adans entra en paine,
+						</lem>
+						<rdg wit="Translation">And why Adam began to suffer —</rdg>
+					</app>
+				</l>
+				<l n="118">
+					<app>
+						<lem wit="#Transcription">Por quoi nos vestons dras de laine,
+						</lem>
+						<rdg wit="Translation">For which reason we wear wool cloth;</rdg>
+					</app>
+				</l>
+				<l n="119">
+					<app>
+						<lem wit="#Transcription">Coment Adans ot sa lignée
+						</lem>
+						<rdg wit="Translation">How Adam had descendants</rdg>
+					</app>
+				</l>
+				<l n="120">
+					<app>
+						<lem wit="#Transcription">Dont la terre fu alignée.
+						</lem>
+						<rdg wit="Translation">Who covered the earth.</rdg>
+					</app>
+				</l>
+				<l n="121">
+					<app>
+						<lem wit="#Transcription">N'i lairai riens que d'oir en oir
+						</lem>
+						<rdg wit="Translation">I will not omit anything that</rdg>
+					</app>
+				</l>
+				<l n="122">
+					<app>
+						<lem wit="#Transcription">Ne doie dire a mon pooir,
+						</lem>
+						<rdg wit="Translation">I ought to tell to the best of my ability, without fault,</rdg>
+					</app>
+				</l>
+				<l n="123">
+					<app>
+						<lem wit="#Transcription">Trosqu'al doloive sans faillance.
+						</lem>
+						<rdg wit="Translation">Going from generation to generation until the flood.</rdg>
+					</app>
+				</l>
+				<l n="124">
+					<app>
+						<lem wit="#Transcription">Après n'iere je en doutance
+						</lem>
+						<rdg wit="Translation">After that I will not be in any doubt;</rdg>
+					</app>
+				</l>
+				<l n="125">
+					<app>
+						<lem wit="#Transcription">De Noé ne doie retraire
+						</lem>
+						<rdg wit="Translation">I must tell of Noah:</rdg>
+					</app>
+				</l>
+				<l n="126">
+					<app>
+						<lem wit="#Transcription">Quels hom il fu, de quel afaire,
+						</lem>
+						<rdg wit="Translation">What kind of man he was, what he did,</rdg>
+					</app>
+				</l>
+				<l n="127">
+					<app>
+						<lem wit="#Transcription">De ses enfans, de lor lignage
+						</lem>
+						<rdg wit="Translation">About his children, and their lineage,</rdg>
+					</app>
+				</l>
+				<l n="128">
+					<app>
+						<lem wit="#Transcription">Ou il out maint prodome e sage
+						</lem>
+						<rdg wit="Translation">Of which many were noble and wise</rdg>
+					</app>
+				</l>
+				<l n="129">
+					<app>
+						<lem wit="#Transcription">E maint felon e maint mauvais.
+						</lem>
+						<rdg wit="Translation">And many cruel, and many bad.</rdg>
+					</app>
+				</l>
+				<l n="130">
+					<app>
+						<lem wit="#Transcription">Avant sera li livres fais
+						</lem>
+						<rdg wit="Translation">Before the book is done [I will tell]:</rdg>
+					</app>
+				</l>
+				<l n="131">
+					<app>
+						<lem wit="#Transcription">Coment les terres devisent
+						</lem>
+						<rdg wit="Translation">How the lands divided</rdg>
+					</app>
+				</l>
+				<l n="132">
+					<app>
+						<lem wit="#Transcription">E departirent e sevrerent,
+						</lem>
+						<rdg wit="Translation">And moved apart and separated,</rdg>
+					</app>
+				</l>
+				<l n="133">
+					<app>
+						<lem wit="#Transcription">E qui funda la tor Babel,
+						</lem>
+						<rdg wit="Translation">And who built the Tower of Babel;</rdg>
+					</app>
+				</l>
+				<l n="134">
+					<app>
+						<lem wit="#Transcription">De Babiloine et dou roi Bel,
+						</lem>
+						<rdg wit="Translation">About Babylon and King Bel,</rdg>
+					</app>
+				</l>
+				<l n="135">
+					<app>
+						<lem wit="#Transcription">Des autres cités renomées,
+						</lem>
+						<rdg wit="Translation">About other famous cities;</rdg>
+					</app>
+				</l>
+				<l n="136">
+					<app>
+						<lem wit="#Transcription">Des provinses et des contrées
+						</lem>
+						<rdg wit="Translation">About the regions and countries</rdg>
+					</app>
+				</l>
+				<l n="137">
+					<app>
+						<lem wit="#Transcription">E des isles qui sunt en mer.
+						</lem>
+						<rdg wit="Translation">And the islands in the sea.</rdg>
+					</app>
+				</l>
+				<l n="138">
+					<app>
+						<lem wit="#Transcription">Pou en i lairai a nomer,
+						</lem>
+						<rdg wit="Translation">There is little I will refrain from saying about them</rdg>
+					</app>
+				</l>
+				<l n="139">
+					<app>
+						<lem wit="#Transcription">S'on en doit fere mension,
+						</lem>
+						<rdg wit="Translation">If it should be mentioned;</rdg>
+					</app>
+				</l>
+				<l n="140">
+					<app>
+						<lem wit="#Transcription">Que n'en doie dire le non,
+						</lem>
+						<rdg wit="Translation">I must say the names</rdg>
+					</app>
+				</l>
+				<l n="141">
+					<app>
+						<lem wit="#Transcription">E quel roi es terres regnerent,
+						</lem>
+						<rdg wit="Translation">And which kings ruled in the lands</rdg>
+					</app>
+				</l>
+				<l n="142">
+					<app>
+						<lem wit="#Transcription">Quant eles crivrent e puplerent.
+						</lem>
+						<rdg wit="Translation">When they grew and became populated.</rdg>
+					</app>
+				</l>
+				<l n="143">
+					<app loc="l143">
+						<lem wit="#Transcription">Des gens de diverses figures
+						</lem>
+					</app>
+				</l>
+				<l n="143">
+					<app loc="l144">
+						<rdg wit="Translation">I will tell you everything about</rdg>
+					</app>
+				</l>
+				<l n="144">
+					<app loc="l144">
+						<lem wit="#Transcription">Vos dirai totes les natures.
+						</lem>
+					</app>
+				</l>
+				<l n="144">
+					<app loc="l143">
+						<rdg wit="Translation">Peoples with different appearances.</rdg>
+					</app>
+				</l>
+				<l n="145">
+					<app>
+						<lem wit="#Transcription">Après l'estoire porsivrai
+						</lem>
+						<rdg wit="Translation">After that, I will continue the history</rdg>
+					</app>
+				</l>
+				<l n="146">
+					<app>
+						<lem wit="#Transcription">E tot en ordene vos dirai,
+						</lem>
+						<rdg wit="Translation">And tell you everything in order:</rdg>
+					</app>
+				</l>
+				<l n="147">
+					<app>
+						<lem wit="#Transcription">Coment Ninive fu fondée
+						</lem>
+						<rdg wit="Translation">How Nineveh was founded</rdg>
+					</app>
+				</l>
+				<l n="148">
+					<app>
+						<lem wit="#Transcription">E Babilonie restorée
+						</lem>
+						<rdg wit="Translation">And Babylon rebuilt</rdg>
+					</app>
+				</l>
+				<l n="149">
+					<app>
+						<lem wit="#Transcription">Qui dont fu la dame dou monde;
+						</lem>
+						<rdg wit="Translation">Which was, at that time, mistress of the world;</rdg>
+					</app>
+				</l>
+				<l n="150">
+					<app>
+						<lem wit="#Transcription">De Babilonie la secunde
+						</lem>
+						<rdg wit="Translation">Of the second Babylon</rdg>
+					</app>
+				</l>
+				<l n="151">
+					<app>
+						<lem wit="#Transcription">Qui or est Damiete dite,
+						</lem>
+						<rdg wit="Translation">Which is now called Damiete</rdg>
+					</app>
+				</l>
+				<l n="152">
+					<app>
+						<lem wit="#Transcription">Sor le flum siet qui vient d'Egypte,
+						</lem>
+						<rdg wit="Translation">And lies on the river which comes from Egypt,</rdg>
+					</app>
+				</l>
+				<l n="153">
+					<app>
+						<lem wit="#Transcription">E qui funda Ebbatanin.
+						</lem>
+						<rdg wit="Translation">And who founded Ebbatanin.</rdg>
+					</app>
+				</l>
+				<l n="154">
+					<app loc="l154">
+						<lem wit="#Transcription">Si com je le truis ou latin
+						</lem>
+					</app>
+				</l>
+				<l n="154">
+					<app loc="l155">
+						<rdg wit="Translation">I will tell it to the best of my ability</rdg>
+					</app>
+				</l>
+				<l n="155">
+					<app loc="l155">
+						<lem wit="#Transcription">Le vos dirai a mon pooir.
+						</lem>
+					</app>
+				</l>
+				<l n="155">
+					<app loc="l154">
+						<rdg wit="Translation">Just as I found it in Latin.
+							<note type="critical" anchored="true">
+								<p>This is a reference to the sources used by the author to compile this history.</p>
+							</note></rdg>
+					</app>
+				</l>
+				<l n="156">
+					<app>
+						<lem wit="#Transcription">E après vos ferai savoir
+						</lem>
+						<rdg wit="Translation">And after I will let you know</rdg>
+					</app>
+				</l>
+				<l n="157">
+					<app>
+						<lem wit="#Transcription">De Tebes tote la devise;
+						</lem>
+						<rdg wit="Translation">Everything about Thebes;</rdg>
+					</app>
+				</l>
+				<l n="158">
+					<app>
+						<lem wit="#Transcription">Ou Jherusalem est assise
+						</lem>
+						<rdg wit="Translation">I will tell you where Jerusalem is situated,</rdg>
+					</app>
+				</l>
+				<l n="159">
+					<app>
+						<lem wit="#Transcription">Ce dirai je e en quel terre,
+						</lem>
+						<rdg wit="Translation">And in which land;</rdg>
+					</app>
+				</l>
+				<l n="160">
+					<app>
+						<lem wit="#Transcription">Qui le funda, qui li fist guerre.
+						</lem>
+						<rdg wit="Translation">Who founded it, and who made war against it.</rdg>
+					</app>
+				</l>
+				<l n="161">
+					<app>
+						<lem wit="#Transcription">E après ce voudrai retraire
+						</lem>
+						<rdg wit="Translation">And after this I would like to describe</rdg>
+					</app>
+				</l>
+				<l n="162">
+					<app>
+						<lem wit="#Transcription">De Troies tot le grant afaire,
+						</lem>
+						<rdg wit="Translation">All the great events of Troy:</rdg>
+					</app>
+				</l>
+				<l n="163">
+					<app>
+						<lem wit="#Transcription">Qui le funda, en quel contrée
+						</lem>
+						<rdg wit="Translation">Who founded it, in which land,</rdg>
+					</app>
+				</l>
+				<l n="164">
+					<app>
+						<lem wit="#Transcription">E por quoi fu Troie apelée,
+						</lem>
+						<rdg wit="Translation">And why it was called Troy;</rdg>
+					</app>
+				</l>
+				<l n="165">
+					<app>
+						<lem wit="#Transcription">Qui le destruist et que devindrent
+						</lem>
+						<rdg wit="Translation">Who destroyed it and what became</rdg>
+					</app>
+				</l>
+				<l n="166">
+					<app>
+						<lem wit="#Transcription">Cil qui la vile grant tens tindrent.
+						</lem>
+						<rdg wit="Translation">Of those who held the city for so long.</rdg>
+					</app>
+				</l>
+				<l n="167">
+					<app>
+						<lem wit="#Transcription">Après vos redirai la some
+						</lem>
+						<rdg wit="Translation">Afterwards I will tell you the whole</rdg>
+					</app>
+				</l>
+				<l n="168">
+					<app>
+						<lem wit="#Transcription">De la veraie estoire de Rome,
+						</lem>
+						<rdg wit="Translation">Of the true history of Rome:</rdg>
+					</app>
+				</l>
+				<l n="169">
+					<app>
+						<lem wit="#Transcription">Qui les murs en funda e fist
+						</lem>
+						<rdg wit="Translation">Who founded and built the walls</rdg>
+					</app>
+				</l>
+				<l n="170">
+					<app>
+						<lem wit="#Transcription">E les lois premerains i mist.
+						</lem>
+						<rdg wit="Translation">And imposed the first laws;</rdg>
+					</app>
+				</l>
+				<l n="171">
+					<app loc="l171">
+						<lem wit="#Transcription">Des haus barons, des jugeors,
+						</lem>
+					</app>
+				</l>
+				<l n="171">
+					<app loc="l173">
+						<rdg wit="Translation">I will tell you all the work</rdg>
+					</app>
+				</l>
+				<l n="172">
+					<app loc="l172">
+						<lem wit="#Transcription">Des contes et des senators
+						</lem>
+					</app>
+				</l>
+				<l n="172">
+					<app loc="l171">
+						<rdg wit="Translation">Of the great barons, the judges,</rdg>
+					</app>
+				</l>
+				<l n="173">
+					<app loc="l171">
+						<lem wit="#Transcription">Vos sera toute l'uevre dite.
+						</lem>
+					</app>
+				</l>
+				<l n="173">
+					<app loc="l172">
+						<rdg wit="Translation">The consuls and the senators.</rdg>
+					</app>
+				</l>
+				<l n="174">
+					<app>
+						<lem wit="#Transcription">Après, n'iert pas l'uevre petite,
+						</lem>
+						<rdg wit="Translation">After that the work won’t be small</rdg>
+					</app>
+				</l>
+				<l n="175">
+					<app>
+						<lem wit="#Transcription">Quant vendra as empereors
+						</lem>
+						<rdg wit="Translation">When it comes to the emperors</rdg>
+					</app>
+				</l>
+				<l n="176">
+					<app>
+						<lem wit="#Transcription">Qui conquisent les grans honors
+						</lem>
+						<rdg wit="Translation">Who achieved great honours,</rdg>
+					</app>
+				</l>
+				<l n="177">
+					<app>
+						<lem wit="#Transcription">Par quoi la cités fu cremue
+						</lem>
+						<rdg wit="Translation">On account of which the city was feared</rdg>
+					</app>
+				</l>
+				<l n="178">
+					<app>
+						<lem wit="#Transcription">E en grant orgoill embatue,
+						</lem>
+						<rdg wit="Translation">And fell into great pride.</rdg>
+					</app>
+				</l>
+				<l n="179">
+					<app>
+						<lem wit="#Transcription">Car, ce tesmoine le latins,
+						</lem>
+						<rdg wit="Translation">For, the Latin attests to this,</rdg>
+					</app>
+				</l>
+				<l n="180">
+					<app>
+						<lem wit="#Transcription">Toz li mons fu a Rome aclins,
+						</lem>
+						<rdg wit="Translation">All the world bowed to Rome</rdg>
+					</app>
+				</l>
+				<l n="181">
+					<app>
+						<lem wit="#Transcription">Quant Cesar Augustus regna.
+						</lem>
+						<rdg wit="Translation">When Caesar Augustus ruled.</rdg>
+					</app>
+				</l>
+				<l n="182">
+					<app>
+						<lem wit="#Transcription">Après l'estoire porsivra
+						</lem>
+						<rdg wit="Translation">Afterwards the history will continue</rdg>
+					</app>
+				</l>
+				<l n="183">
+					<app>
+						<lem wit="#Transcription">Tot si com France fu puplée
+						</lem>
+						<rdg wit="Translation">With how France was populated</rdg>
+					</app>
+				</l>
+				<l n="184">
+					<app>
+						<lem wit="#Transcription">E de quel gent fu abitée;
+						</lem>
+						<rdg wit="Translation">And which people inhabited it.</rdg>
+					</app>
+				</l>
+				<l n="185">
+					<app>
+						<lem wit="#Transcription">Puis vos voudrai le tens descrire
+						</lem>
+						<rdg wit="Translation">Then I would like to describe for you the time</rdg>
+					</app>
+				</l>
+				<l n="186">
+					<app>
+						<lem wit="#Transcription">Qu'en terre nasqui nostre Sire
+						</lem>
+						<rdg wit="Translation">In which Our Lord was born on earth,</rdg>
+					</app>
+				</l>
+				<l n="187">
+					<app>
+						<lem wit="#Transcription">E coment crucifiez fu,
+						</lem>
+						<rdg wit="Translation">And how he was crucified —</rdg>
+					</app>
+				</l>
+				<l n="188">
+					<app>
+						<lem wit="#Transcription">Ce n'i sera mie teü;
+						</lem>
+						<rdg wit="Translation">That will not be passed over in silence —</rdg>
+					</app>
+				</l>
+				<l n="189">
+					<app>
+						<lem wit="#Transcription">E com au tiers jor suscita
+						</lem>
+						<rdg wit="Translation">And how on the third day he rose from the dead</rdg>
+					</app>
+				</l>
+				<l n="190">
+					<app>
+						<lem wit="#Transcription">E ses amis d'enfer geta;
+						</lem>
+						<rdg wit="Translation">And freed his friends from hell,</rdg>
+					</app>
+				</l>
+				<l n="191">
+					<app>
+						<lem wit="#Transcription">E com au jor d'assension
+						</lem>
+						<rdg wit="Translation">And how, on the day of Ascension</rdg>
+					</app>
+				</l>
+				<l n="192">
+					<app>
+						<lem wit="#Transcription">Monta en sa grant mansion,
+						</lem>
+						<rdg wit="Translation">He rose to his great house,</rdg>
+					</app>
+				</l>
+				<l n="193">
+					<app>
+						<lem wit="#Transcription">E coment furent doctriné
+						</lem>
+						<rdg wit="Translation">And how the the apostles</rdg>
+					</app>
+				</l>
+				<l n="194">
+					<app>
+						<lem wit="#Transcription">Li apostre e enluminé
+						</lem>
+						<rdg wit="Translation">Were instructed and enlightened</rdg>
+					</app>
+				</l>
+				<l n="195">
+					<app>
+						<lem wit="#Transcription">Dou saint Esperit et de sa grace,
+						</lem>
+						<rdg wit="Translation">By the Holy Spirit and its grace,</rdg>
+					</app>
+				</l>
+				<l n="196">
+					<app>
+						<lem wit="#Transcription">E par combien après d'espace
+						</lem>
+						<rdg wit="Translation">And afterwards, to what distances</rdg>
+					</app>
+				</l>
+				<l n="197">
+					<app>
+						<lem wit="#Transcription">Il s'en partirent et sevrerent
+						</lem>
+						<rdg wit="Translation">They departed from one another and separated</rdg>
+					</app>
+				</l>
+				<l n="198">
+					<app>
+						<lem wit="#Transcription">E par trestot le munt errerent
+						</lem>
+						<rdg wit="Translation">And wandered all over the world</rdg>
+					</app>
+				</l>
+				<l n="199">
+					<app>
+						<lem wit="#Transcription">Por anuncier la loi novelle,
+						</lem>
+						<rdg wit="Translation">To announce the new law</rdg>
+					</app>
+				</l>
+				<l n="200">
+					<app>
+						<lem wit="#Transcription">Qui mout par est saintisme e bele.
+						</lem>
+						<rdg wit="Translation">Which is most holy and beautiful.</rdg>
+					</app>
+				</l>
+				<l n="201">
+					<app>
+						<lem wit="#Transcription">De lors vies la verité
+						</lem>
+						<rdg wit="Translation">I will tell you the truth of their lives</rdg>
+					</app>
+				</l>
+				<l n="202">
+					<app>
+						<lem wit="#Transcription">Dirai selonc l'auctorité,
+						</lem>
+						<rdg wit="Translation">According to the source;</rdg>
+					</app>
+				</l>
+				<l n="203">
+					<app>
+						<lem wit="#Transcription">Ou preecherent ou morurent,
+						</lem>
+						<rdg wit="Translation">Where they preached, where they died,</rdg>
+					</app>
+				</l>
+				<l n="204">
+					<app>
+						<lem wit="#Transcription">Com firent bien que fere durent.
+						</lem>
+						<rdg wit="Translation">How they did what they had to do, and did it well.</rdg>
+					</app>
+				</l>
+				<l n="205">
+					<app>
+						<lem wit="#Transcription">Des sains, des saintes redirai
+						</lem>
+						<rdg wit="Translation">I will tell you truthfully about the saints - the women and the men -</rdg>
+					</app>
+				</l>
+				<l n="206">
+					<app>
+						<lem wit="#Transcription">Selonc raison e conterai
+						</lem>
+						<rdg wit="Translation">And I will tell you
+							<note type="critical" anchored="true">
+								<p>As noted above, 'raison’ can mean both what is true and what is just. Here, it is translated as 'truthfully' (see l.205).</p>
+							</note>
+						</rdg>
+					</app>
+				</l>
+				<l n="207">
+					<app>
+						<lem wit="#Transcription">Sous quels segnors recevre[n]t mort,
+						</lem>
+						<rdg wit="Translation">Under which rulers they received their deaths.</rdg>
+					</app>
+				</l>
+				<l n="208">
+					<app>
+						<lem wit="#Transcription">As comans Deu se tindrent fort;
+						</lem>
+						<rdg wit="Translation">They held fast to God’s commands;</rdg>
+					</app>
+				</l>
+				<l n="209">
+					<app>
+						<lem wit="#Transcription">Onques nel laisserent par paine
+						</lem>
+						<rdg wit="Translation">They never abandoned them because of pain</rdg>
+					</app>
+				</l>
+				<l n="210">
+					<app>
+						<lem wit="#Transcription">Ne por cremor de mort procheine.
+						</lem>
+						<rdg wit="Translation">Or the fear of imminent death.</rdg>
+					</app>
+				</l>
+				<l n="211">
+					<app>
+						<lem wit="#Transcription">Tot ce fera mout bon oïr,
+						</lem>
+						<rdg wit="Translation">All of this will be very good to listen to,</rdg>
+					</app>
+				</l>
+				<l n="212">
+					<app>
+						<lem wit="#Transcription">Si s'en devra on esjoïr
+						</lem>
+						<rdg wit="Translation">And one should rejoice</rdg>
+					</app>
+				</l>
+				<l n="213">
+					<app>
+						<lem wit="#Transcription">Quant on les miracles orra
+						</lem>
+						<rdg wit="Translation">When one hears the miracles</rdg>
+					</app>
+				</l>
+				<l n="214">
+					<app>
+						<lem wit="#Transcription">Dont Deus lor fais enlumina
+						</lem>
+						<rdg wit="Translation">With which God glorified their actions.</rdg>
+					</app>
+				</l>
+				<l n="215">
+					<app>
+						<lem wit="#Transcription">Segnor, dont recovendra dire
+						</lem>
+						<rdg wit="Translation">Lords, it will be right to tell</rdg>
+					</app>
+				</l>
+				<l n="216">
+					<app>
+						<lem wit="#Transcription">Des empereors tot a tire
+						</lem>
+						<rdg wit="Translation">Of the emperors, one after another:</rdg>
+					</app>
+				</l>
+				<l n="217">
+					<app>
+						<lem wit="#Transcription">Qui primes fu crestienés
+						</lem>
+						<rdg wit="Translation">Who was the first to be christianised</rdg>
+					</app>
+				</l>
+				<l n="218">
+					<app>
+						<lem wit="#Transcription">E bons crestieins apelez,
+						</lem>
+						<rdg wit="Translation">And be called a good Christian,</rdg>
+					</app>
+				</l>
+				<l n="219">
+					<app>
+						<lem wit="#Transcription">Regenerés ens es sains fons;
+						</lem>
+						<rdg wit="Translation">Reborn in the holy font;
+							<note type="critical" anchored="true">
+								<p>As above, this is a reference to the Christian sacrament of baptism.</p>
+							</note>
+						</rdg>
+					</app>
+				</l>
+				<l n="220">
+					<app>
+						<lem wit="#Transcription">Quant cessa la destrucions
+						</lem>
+						<rdg wit="Translation">When the persecutions ended</rdg>
+					</app>
+				</l>
+				<l n="221">
+					<app>
+						<lem wit="#Transcription">De ceus qui la loi Deu tenoient
+						</lem>
+						<rdg wit="Translation">Of those who kept God’s law</rdg>
+					</app>
+				</l>
+				<l n="222">
+					<app>
+						<lem wit="#Transcription">E lui e ses ovres amoient.
+						</lem>
+						<rdg wit="Translation">And loved him and his works.</rdg>
+					</app>
+				</l>
+				<l n="223">
+					<app>
+						<lem wit="#Transcription">Ce covendra plenierement
+						</lem>
+						<rdg wit="Translation">It will be right to tell this fully and</rdg>
+					</app>
+				</l>
+				<l n="224">
+					<app>
+						<lem wit="#Transcription">Dire sanz nul delaiement.
+						</lem>
+						<rdg wit="Translation">Without any delays.</rdg>
+					</app>
+				</l>
+				<l n="225">
+					<app>
+						<lem wit="#Transcription">E puis après, sans demorance,
+						</lem>
+						<rdg wit="Translation">And then [to tell], without pausing,</rdg>
+					</app>
+				</l>
+				<l n="226">
+					<app>
+						<lem wit="#Transcription">Qui premerains fu rois de France
+						</lem>
+						<rdg wit="Translation">Who the first king of France was</rdg>
+					</app>
+				</l>
+				<l n="227">
+					<app>
+						<lem wit="#Transcription">Fais crestieins, coment ot non,
+						</lem>
+						<rdg wit="Translation">To be made Christian, what his name was,</rdg>
+					</app>
+				</l>
+				<l n="228">
+					<app>
+						<lem wit="#Transcription">E de sa generation
+						</lem>
+						<rdg wit="Translation">And of his descendants:</rdg>
+					</app>
+				</l>
+				<l n="229">
+					<app>
+						<lem wit="#Transcription">Quel furent, coment estorerent
+						</lem>
+						<rdg wit="Translation">Who they were, how they built</rdg>
+					</app>
+				</l>
+				<l n="230">
+					<app>
+						<lem wit="#Transcription">Les riches glises quíl funderent.
+						</lem>
+						<rdg wit="Translation">The great churches that they founded.</rdg>
+					</app>
+				</l>
+				<l n="231">
+					<app>
+						<lem wit="#Transcription">Après sera dit en comun
+						</lem>
+						<rdg wit="Translation">Afterwards, it will be told all together</rdg>
+					</app>
+				</l>
+				<l n="232">
+					<app>
+						<lem wit="#Transcription">Coment le Wandele, Got e Hun
+						</lem>
+						<rdg wit="Translation">How the Vandals, Goths and Huns</rdg>
+					</app>
+				</l>
+				<l n="233">
+					<app>
+						<lem wit="#Transcription">France pelfirent et guasterent,
+						</lem>
+						<rdg wit="Translation">Pillaged and devastated France</rdg>
+					</app>
+				</l>
+				<l n="234">
+					<app>
+						<lem wit="#Transcription">E les iglises desrouberent;
+						</lem>
+						<rdg wit="Translation">And robbed the churches;</rdg>
+					</app>
+				</l>
+				<l n="235">
+					<app>
+						<lem wit="#Transcription">E des Normans vos iert retrait
+						</lem>
+						<rdg wit="Translation">And you will have an account of the Normans</rdg>
+					</app>
+				</l>
+				<l n="236">
+					<app>
+						<lem wit="#Transcription">E lor conqueste e lor fait,
+						</lem>
+						<rdg wit="Translation">And their conquest and their deeds:</rdg>
+					</app>
+				</l>
+				<l n="237">
+					<app>
+						<lem wit="#Transcription">Coment destruirent Germanie,
+						</lem>
+						<rdg wit="Translation">How they destroyed Germany,</rdg>
+					</app>
+				</l>
+				<l n="238">
+					<app>
+						<lem wit="#Transcription">Couloigne e France la guarnie,
+						</lem>
+						<rdg wit="Translation">Cologne and prosperous France,
+						</rdg>
+					</app>
+				</l>
+				<l n="239">
+					<app>
+						<lem wit="#Transcription">Angou, Poitou, Borgoigne tote;
+						</lem>
+						<rdg wit="Translation">Anjou, Poitou, and all of Burgundy;</rdg>
+					</app>
+				</l>
+				<l n="240">
+					<app>
+						<lem wit="#Transcription">De ce ne rest il nul doute
+						</lem>
+						<rdg wit="Translation">That there is no doubt</rdg>
+					</app>
+				</l>
+				<l n="241">
+					<app>
+						<lem wit="#Transcription">Que Flandres Wandes n'envaïssent
+						</lem>
+						<rdg wit="Translation">That the Vandals invaded Flanders</rdg>
+					</app>
+				</l>
+				<l n="242">
+					<app>
+						<lem wit="#Transcription">E mout de maus ne lor feïssent.
+						</lem>
+						<rdg wit="Translation">And did them many wrongs.</rdg>
+					</app>
+				</l>
+				<l n="243">
+					<app>
+						<lem wit="#Transcription">De quels gens Flandres fu puplée
+						</lem>
+						<rdg wit="Translation">The history of the peoples who populated Flanders</rdg>
+					</app>
+				</l>
+				<l n="244">
+					<app>
+						<lem wit="#Transcription">Vos iert l'estoire bien contée,
+						</lem>
+						<rdg wit="Translation">Will be well told for you:</rdg>
+					</app>
+				</l>
+				<l n="245">
+					<app>
+						<lem wit="#Transcription">Com se proverent, quel il furent,
+						</lem>
+						<rdg wit="Translation">How they proved themselves, who they were,</rdg>
+					</app>
+				</l>
+				<l n="246">
+					<app>
+						<lem wit="#Transcription">Com il fierent que fere durent,
+						</lem>
+						<rdg wit="Translation">How they did what was necessary.</rdg>
+					</app>
+				</l>
+				<l n="247">
+					<app>
+						<lem wit="#Transcription">Ce vos sera trestout retrait
+						</lem>
+						<rdg wit="Translation">All of this will be described for you,</rdg>
+					</app>
+				</l>
+				<l n="248">
+					<app>
+						<lem wit="#Transcription">Tot si a point e tot a trait,
+						</lem>
+						<rdg wit="Translation">Everything at the right moment and at the right pace</rdg>
+					</app>
+				</l>
+				<l n="249">
+					<app>
+						<lem wit="#Transcription">Que, qui voudra raison entendre,
+						</lem>
+						<rdg wit="Translation">So that anyone who wants to hear the truth
+							<note type="critical" anchored="true">
+								<p>As noted above, 'raison’ can mean both what is true and what is just.</p>
+							</note>
+						</rdg>
+					</app>
+				</l>
+				<l n="250">
+					<app>
+						<lem wit="#Transcription">Petit i avra a reprendre.
+						</lem>
+						<rdg wit="Translation">Will find little to criticise.</rdg>
+					</app>
+				</l>
+				<l n="251">
+					<app>
+						<lem wit="#Transcription">L'uevre iert mout bone et delitable
+						</lem>
+						<rdg wit="Translation">The work will be very good and agreeable</rdg>
+					</app>
+				</l>
+				<l n="252">
+					<app>
+						<lem wit="#Transcription">E d'estoire, sans nulle fable,
+						</lem>
+						<rdg wit="Translation">And composed of history without any fiction;
+							<note type="critical" anchored="true">
+								<p>Perhaps unsurprisingly, this line has often been quoted in work on medieval historiography. The word ‘fable’ can mean an invention, a lie, or vain speech, and has been variously interpreted by historians.</p>
+							</note>
+						</rdg>
+					</app>
+				</l>
+				<l n="253">
+					<app loc="l253">
+						<lem wit="#Transcription">Por ce iert plaisans et creüe
+						</lem>
+					</app>
+				</l>
+				<l n="253">
+					<app loc="l254">
+						<rdg wit="Translation">And because it has grown from truth,</rdg>
+					</app>
+				</l>
+				<l n="254">
+					<app loc="l254">
+						<lem wit="#Transcription">Que de verité iert creüe.
+						</lem>
+					</app>
+				</l>
+				<l n="254">
+					<app loc="l253">
+						<rdg wit="Translation">It will be pleasing and will be believed.</rdg>
+					</app>
+				</l>
+				<l n="255">
+					<app>
+						<lem wit="#Transcription">La verité fet bon entendre,
+						</lem>
+						<rdg wit="Translation">The truth is good to hear,</rdg>
+					</app>
+				</l>
+				<l n="256">
+					<app>
+						<lem wit="#Transcription">Oïr, retenir et aprendre.
+						</lem>
+						<rdg wit="Translation">listen to, remember and learn.</rdg>
+					</app>
+				</l>
+				<l n="257">
+					<app>
+						<lem wit="#Transcription">Qui verité aime et retient
+						</lem>
+						<rdg wit="Translation">Whoever loves and keeps the truth</rdg>
+					</app>
+				</l>
+				<l n="258">
+					<app>
+						<lem wit="#Transcription">As comans Damedeu se tient.
+						</lem>
+						<rdg wit="Translation">Is keeping the commands of God.</rdg>
+					</app>
+				</l>
+				<l n="259">
+					<app>
+						<lem wit="#Transcription">Je n'i veull fors verité dire.
+						</lem>
+						<rdg wit="Translation">I do not want to say anything but truth.</rdg>
+					</app>
+				</l>
+				<l n="260">
+					<app>
+						<lem wit="#Transcription">Longue en iert assés la matire
+						</lem>
+						<rdg wit="Translation">The content will be quite long</rdg>
+					</app>
+				</l>
+				<l n="261">
+					<app>
+						<lem wit="#Transcription">Qu'en pensée ai contier a plain
+						</lem>
+						<rdg wit="Translation">That I have in mind to tell in full</rdg>
+					</app>
+				</l>
+				<l n="262">
+					<app>
+						<lem wit="#Transcription">Por qu'il plaise le chastelain
+						</lem>
+						<rdg wit="Translation">To please the Chatelain
+							<note type="critical" anchored="true">
+								<p>'Chatelain' is a medieval French title given to the lord of a castle or fortified place.</p>
+							</note>
+						</rdg>
+					</app>
+				</l>
+				<l n="263">
+					<app>
+						<lem wit="#Transcription">De l'Isle Rogier, mon seignor,
+						</lem>
+						<rdg wit="Translation">Of Lille, Roger, my lord;</rdg>
+					</app>
+				</l>
+				<l n="264">
+					<app>
+						<lem wit="#Transcription">Cui Deus doint santé et honor,
+						</lem>
+						<rdg wit="Translation">May God give him health and honour,</rdg>
+					</app>
+				</l>
+				<l n="265">
+					<app>
+						<lem wit="#Transcription">Joie [e] paradis en la fin.
+						</lem>
+						<rdg wit="Translation">Joy and, in the end, Paradise.</rdg>
+					</app>
+				</l>
+				<l n="266">
+					<app loc="l266">
+						<lem wit="#Transcription">S'il veut, en romans dou latin
+						</lem>
+					</app>
+				</l>
+				<l n="266">
+					<app loc="l267">
+						<rdg wit="Translation">In accordance with his wishes, I plan to translate the entire text</rdg>
+					</app>
+				</l>
+				<l n="267">
+					<app loc="l267">
+						<lem wit="#Transcription">Li cuic si traire lonc la letre
+						</lem>
+					</app>
+				</l>
+				<l n="267">
+					<app loc="l266">
+						<rdg wit="Translation">From Latin into the vernacular,
+							<note type="critical" anchored="true">
+								<p>The word used is ‘romans’, which can refer either to the vernacular (contrasted with Latin), or to French in particular (contrasted with other vernacular languages).</p>
+							</note>
+						</rdg>
+					</app>
+				</l>
+				<l n="268">
+					<app>
+						<lem wit="#Transcription">Que plus ne mains n'i sera metre,
+						</lem>
+						<rdg wit="Translation">And will not put in any more or less</rdg>
+					</app>
+				</l>
+				<l n="269">
+					<app>
+						<lem wit="#Transcription">Por qu'envie m'en laist en pais,
+						</lem>
+						<rdg wit="Translation">So that envy,</rdg>
+					</app>
+				</l>
+				<l n="270">
+					<app>
+						<lem wit="#Transcription">Qui a maint home kierche fais
+						</lem>
+						<rdg wit="Translation">Which is a burden to many a man, leaves me in peace.</rdg>
+					</app>
+				</l>
+				<l n="271">
+					<app>
+						<lem wit="#Transcription">Segnors, envie est male choze,
+						</lem>
+						<rdg wit="Translation">Lords, envy is an evil thing</rdg>
+					</app>
+				</l>
+				<l n="272">
+					<app>
+						<lem wit="#Transcription">Qu'ele a petit onques repose:
+						</lem>
+						<rdg wit="Translation">That scarcely ever rests:</rdg>
+					</app>
+				</l>
+				<l n="273">
+					<app>
+						<lem wit="#Transcription">Tempre ne tart ne main ne soir
+						</lem>
+						<rdg wit="Translation">Neither early nor late, neither morning nor evening</rdg>
+					</app>
+				</l>
+				<l n="274">
+					<app>
+						<lem wit="#Transcription">Ni li lait il le pais avoir.
+						</lem>
+						<rdg wit="Translation">Does it let him have peace.</rdg>
+					</app>
+				</l>
+				<l n="275">
+					<app>
+						<lem wit="#Transcription">Cuers enveious n'iert ja a eise,
+						</lem>
+						<rdg wit="Translation">An envious heart will never be at ease;</rdg>
+					</app>
+				</l>
+				<l n="276">
+					<app>
+						<lem wit="#Transcription">Poi voit onques qui bien li plais;
+						</lem>
+						<rdg wit="Translation">It will scarcely ever see something that truly pleases it.</rdg>
+					</app>
+				</l>
+				<l n="277">
+					<app loc="l277">
+						<lem wit="#Transcription">Ne ja d'enveious plus ne mains
+						</lem>
+					</app>
+				</l>
+				<l n="277">
+					<app loc="l278">
+						<rdg wit="Translation">I do not intend to say</rdg>
+					</app>
+				</l>
+				<l n="278">
+					<app loc="l278">
+						<lem wit="#Transcription">Ne quier plus dire, mais lontains
+						</lem>
+					</app>
+				</l>
+				<l n="278">
+					<app loc="l277">
+						<rdg wit="Translation">Any more or less about the envious, but</rdg>
+					</app>
+				</l>
+				<l n="279">
+					<app>
+						<lem wit="#Transcription">Ne soit il ja ens en sa vie.
+						</lem>
+						<rdg wit="Translation">In one’s life they are never far away.
+						<note type="critical" anchored="true">
+								<p>The subject is singular in the original (‘the envious man’).</p>
+							</note>
+						</rdg>
+					</app>
+				</l>
+				<l n="280">
+					<app>
+						<lem wit="#Transcription">De parlier d'eus n'ai nulle envie.
+						</lem>
+						<rdg wit="Translation">I have no desire to speak about them.</rdg>
+					</app>
+				</l>
+				<l n="281">
+					<app>
+						<lem wit="#Transcription">Deus les ament qui le puet fere.
+						</lem>
+						<rdg wit="Translation">God reforms them, for he is able.</rdg>
+					</app>
+				</l>
+				<l n="282">
+					<app>
+						<lem wit="#Transcription">A l'estoire me veull retrere.
+						</lem>
+						<rdg wit="Translation">I wish to turn to the history.</rdg>
+					</app>
+				</l>
+				<l n="283">
+					<app>
+						<lem wit="#Transcription">Si dirai; qui voudra entendre
+						</lem>
+						<rdg wit="Translation">So I will say, whoever would like to hear it</rdg>
+					</app>
+				</l>
+				<l n="284">
+					<app>
+						<lem wit="#Transcription">Oïr i porra e aprendre.
+						</lem>
+						<rdg wit="Translation">Can listen and learn.</rdg>
+					</app>
+				</l>
+			</lg>
+		</body>
+	</text>
+</TEI>

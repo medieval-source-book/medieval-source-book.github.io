@@ -1,0 +1,10 @@
+---
+layout: collection
+title: 'Hymns and Histories: Early German Writings, 800-1000 CE'
+breadcrumb: true
+permalink: "/collections/hymns-and-histories/"
+identifier: hymns-and-histories
+image: john_evangelist_plaque.jpg
+---
+
+<p><strong>There are few surviving examples of writing in Old High German (the linguistic ancestor of the language spoken in Europe today), but those that have come down to us reveal a culture rich in stories of bravery and faith.</strong></p><p>This collection of new translations includes the earliest known hymn in the German language, an extremely rare example of Old High German alliterative verse (a poetic form that scholars believe was once common, but has been almost totally lost) and two narrative poems about events in the lives of kings. The term 'Old High German' is typically used to describe&nbsp;the written form of German found in documents&nbsp;between c.750 and 1050 CE.&nbsp;Although German was widely spoken in the areas which today make up&nbsp;Austria, Switzerland and Germany, most writing during this period was in medieval Latin, as Latin was the language of the church, and the church was the organization training people to read and write.&nbsp;For this reason, most of what survives in Old High German is connected to religion somehow - for example,&nbsp;prayers or translations of the Bible.&nbsp;Often, they are additions scribbled into books in Latin: you can&nbsp;see the <em>Song of Peter</em> for an example.</p><p>Literature in German&nbsp;- tales, legends and songs - circulated in oral form, passed from person to person by perfomance and memorisation. Hardly any Old High German epic poetry&nbsp;survives, although we know from its influence on&nbsp;later texts that it must have existed. The <i>Lay of Ludwig&nbsp;</i>(included in this collection) is a fascinating&nbsp;exception to this rule.</p>

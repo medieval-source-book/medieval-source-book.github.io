@@ -1,0 +1,235 @@
+<?xml-stylesheet href="../src/vmachine.xsl" type="text/xsl" ?><?xml-model href="../schema/vmachine.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../schema/vmachine.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!DOCTYPE TEI
+[
+<!ENTITY % Menota_entities SYSTEM
+'../menota/menota-entities.txt'   >
+%Menota_entities;]
+>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>To the tune “Strike the Parasol Tree”&#8212;"Her deep dimples are fragrantly powdered"</title>
+				<author>Liu Yong</author>
+				<respStmt>
+					<resp>Text based on</resp>
+					<name>Tang, Guizhang 唐圭璋 (ed.). Quan Song Ci 全宋詞. Vol 1. Beijing: Zhonghua shu ju, 1965, 37.</name>
+				</respStmt>
+				<respStmt>
+					<resp>Translation by</resp>
+					<name>Qian Jia</name>
+				</respStmt>
+				<respStmt>
+					<resp>Notes by</resp>
+					<name>Nina Du</name>
+					<name>Runqi Zhang</name>
+					<name>Dante Zhu</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoded in TEI P5 XML by</resp>
+					<name>Manya Bansal</name>
+					<name>Dante Zhu</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher><hi rend="italic">The Global Medieval Sourcebook</hi></publisher>
+				<availability>
+					<p><hi rend="italic">The Global Medieval Sourcebook</hi> is licensed under a Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International License.</p>
+				</availability>
+			</publicationStmt>
+			<notesStmt>
+				<note anchored="true"></note>
+				<p>Like many of Liu Yong's songs, this one evokes complex emotions. In the first stanza, the male speaker reflects on the past joys of his romantic relationship, culminating in his current anxieties. In the second stanza, he analyzes his lover's communication and doubts her commitment.</p>
+				<p>This ci also contains some notable allusions to other works of Chinese literature. Liu Yong alludes to Song Yu 宋玉, a famous composer of songs and rhapsodies from the Warring States period  (453–221 BCE), to whom are attributed a number of poems in the Verses of Chu. Song Yu was known as Song Yu of the Orchid Terrace, because he once toured this terrace (presumably in current-day Hubei Province) with the Xiang King of Chu 楚襄王 and documented their conversation in a famous rhapsody, “The Rhapsody of the Wind” (风赋).</p>
+				<p>The final two lines of Liu Yong’s ci allude to another of Song Yu’s works, the Song of Gao Tang (高唐赋). This song narrates a love affair between the Huai King of Chu 楚怀王 and a mountain fairy which takes place in the king’s dream; in this dream, the mountain fairy describes her residence after their lovemaking as “made from the cloud in the morning, but comprised of rain in the evening”. Both the penultimate line of Liu Yong’s ci, and the image of the “floating cloud” to refer to a beautiful woman, come from Song Yu’s work.</p>
+				<p>Liu Yong was possibly the most widely-read ci writer in the Northern Song period, with fans ranging from courtesans to officials and critics. He excelled in writing love songs, portraying the emotions of lovelorn individuals in unprecedented detail and depth. Despite being born into a family of officials, he did not lead a successful professional life. After he failed keju, the Imperial Chinese civil service examination, he wrote the song “To the tune ‘Crane Soaring in the Sky’”, in which he claimed that ci poets are as important as prime ministers. This led the Ren Emperor of Song 宋仁宗 to personally deem him unfit for imperial service. The emperor suggested that if he really thought that way, he should just be a ci poet instead of pursuing the career of an official. The emperor went so far as to deliberately fail Liu Yong in his following attempt at the exams.</p>
+				<p>Liu Yong’s continued output of poetry, deemed frivolous, trivial and vulgar by court officials, had a lasting impact on his professional life. He did not pass the civil service exam until he was 48 years old; before that, he spent much of his time with singers and courtesans, writing ci and living a hedonistic existence. After he finally passed keju, he worked as a low rank official in several areas and sought to advance his career through the assistance of the prime minister of that time, Yan Shu, who was also a famous ci poet (and is featured in this collection). Yan Shu mocked the frivolity of Liu Yong’s lyrics and refused to assist him, and the emperor, upon learning of his attempt, commented that Liu Yong, as a ci composer, should stick to composing ci. In response to the emperor’s comment, Liu Yong, in typically rebellious fashion, began signing his ci “composer of ci by imperial decree”. He made a final attempt to salvage his career by writing a complimentary ci to the emperor, but this was regarded as offensive and the emperor stripped him of his official titles and stated that he would never be accepted back at court. From then on, he returned to his previous lifestyle, indulging in the company of singers and courtesans.</p>
+				<p>Because of his unique life experience, the sentiments expressed in Liu Yong’s ci are often very different from the views typically expressed in Chinese society at that time, with an especially cynical attitude towards serving the empire and a pronounced defense of hedonism. Nevertheless, Liu Yong’s ci were extremely popular throughout the empire, giving rise to the frequently repeated observation that “if you can see a well in a place, you can hear Liu Yong’s ci being sung there”. As every tiny town had a well, this indicates the wide reach of Liu’s lyrics.</p>
+				<p>Liu Yong is also notable for his many formal innovations to ci poetry. Before Liu, most ci were written to accompany short tunes, but he initiated a trend of writing lyrics for longer tunes, which allowed for more complex portrayals of human psychology. He was also less restrained by the tune, and often modified the traditional rhyme as well as the line breaks. For example, even when he wrote two ci to the same tune, they might sound very different from one another, with different rhymes, line lengths or numbers of lines. The tunes that Liu Yong used were also more diverse than those of his contemporaries: some were folk songs, and some he composed himself. Many of Liu Yong’s ci have a stronger narrative element, probably due to the influence of storytellers whose street performances he would have watched. Liu received considerable criticism for his focus on love and for his use of commonplace language rather than a refined poetic vocabulary, but this did little to curtail his popularity or his influence on the development of the ci genre.</p>
+				<p>Chang, Kang-i Sun. The Evolution of Tz’u Poetry: from Late Tang to Northern Sung. Princeton UP, 1980.</p>
+				<p>A standard survey of the early history of Chinese song lyrics (romanized as both ci and tz’u).</p>
+				<p>Egan, Ronald. “The Song Lyric.” The Cambridge History of Chinese Literature, vol. 1, edited by Stephen Owen, Cambridge UP, 2010, pp. 434-452.</p>
+				<p>An overview of the genre.</p>
+				<p>Owen, Stephen. Just a Song: Chinese Lyrics from the Eleventh and Early Twelfth Centuries. Asia Center, Harvard UP, 2019.</p>
+				<p>A recent new history of the genre.</p>
+				<p>Tang, Guizhang 唐圭璋, editor. Quan Song Ci 全宋詞. Zhonghua shu ju, 1965. 5 vols.</p>
+				<p>A comprehensive edition of ci from the Song dynasty and the source text for the ci  in this collection (introductions and annotations are in Chinese).</p>
+			</notesStmt>
+			<sourceDesc>
+				 <p>Text based on Tang, Guizhang 唐圭璋 (ed.). Quan Song Ci 全宋詞. Vol 1. Beijing: Zhonghua shu ju, 1965, 37.</p>
+				<listWit>
+					<witness xml:id="Transcription">擊梧桐</witness>
+					<witness xml:id="Translation">To the tune “Strike the Parasol Tree”</witness>
+				</listWit>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>Transcriptions and translations are encoded in XML conforming to TEI (P5) guidelines. The original-language text is contained within &lt;lem&gt; tags and translations within &lt;rdg&gt; tags.</p>
+			<projectDesc>
+            	<p>To the tune “Strike the Parasol Tree”&#8212;"Her deep dimples are fragrantly powdered" is part of <hi rend="italic">The Global Medieval Sourcebook</hi>, a digital compendium of medieval texts in their original languages and in English translation. This larger project comprises computer-readable transcriptions and/or editions of texts dating from the ninth to the sixteenth century, and originating in Europe, North Africa, the Middle East, and Asia; accompanied by new English translations; high-resolution digital images of manuscript/early print sources, where available; an apparatus that includes critical introductions, textual notes and annotations; and a flexible user interface with which to navigate these materials.</p>
+         	</projectDesc>
+			<editorialDecl>
+        		<interpretation>
+        			<p>The original text of this ci is based on the edition by Tang Guizhang 唐圭璋 (Quan Song Ci 全宋詞. Vol 2. Beijing: Zhonghua shu ju, 1965). Punctuation follows the edition. Since ci poetry rarely includes personal pronouns, and gender-differentiated pronouns did not exist in Classical Chinese of this period, the gender of the speaker as well as their perspective (e.g. first, second or third person) must often be deduced by the translator from context.</p>
+					<p>Texts are translated into modern English with maximum fidelity to the original text, except where it would impair comprehension or good style. Archaisms are preserved where they do not conflict with the aesthetic of the original text. Creative translation choices are marked and discussed in the critical notes.</p>
+        			<punctuation marks="all">Punctuation follows the edition.</punctuation>
+
+				</interpretation>
+				<segmentation>
+				</segmentation>
+			</editorialDecl>
+			<variantEncoding method="parallel-segmentation" location="internal"/>
+		</encodingDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<head>
+				<title type="main">
+					<app>
+						<lem wit="#Transcription">擊梧桐</lem>
+						<rdg wit="#Translation">To the tune “Strike the Parasol Tree”</rdg>
+					</app>
+				</title>
+			</head>
+		</front>
+		<body>
+			<lg n="1">
+				<!--Each stanza needs its own line group <lg>-->
+				<l n="1">
+					<app>
+						<lem wit="#Transcription">香靨深深，</lem>
+						<rdg wit="#Translation">Her deep dimples are fragrantly powdered,</rdg>
+					</app>
+				</l>
+				<l n="2">
+					<app>
+						<lem wit="#Transcription">姿姿媚媚，</lem>
+						<rdg wit="#Translation">her posture is enchanting;</rdg>
+					</app>
+				</l>
+				<l n="3">
+					<app>
+						<lem wit="#Transcription">雅格奇容天與。</lem>
+						<rdg wit="#Translation">she is gifted with elegance and extraordinary beauty.</rdg>
+					</app>
+				</l>
+				<l n="4">
+					<app>
+						<lem wit="#Transcription">自識伊來，</lem>
+						<rdg wit="#Translation">Ever since I met her,</rdg>
+					</app>
+				</l>
+				<l n="5">
+					<app>
+						<lem wit="#Transcription">便好看承，</lem>
+						<rdg wit="#Translation">I have been treated with care,</rdg>
+					</app>
+				</l>
+				<l n="6">
+					<app>
+						<lem wit="#Transcription">會得妖嬈心素。</lem>
+						<rdg wit="#Translation">and so I knew her bewitching heart (was devoted to me).</rdg>
+					</app>
+				</l>
+				<l n="7">
+					<app>
+						<lem wit="#Transcription">臨歧再約同歡，</lem>
+						<rdg wit="#Translation">Upon parting, we swore to share joy again<note type= "critical" anchored="true"><p>A euphemism for sex.</p></note>,</rdg>
+					</app>
+				</l>
+				<l n="8">
+					<app>
+						<lem wit="#Transcription">定是都把平生相許</lem>
+						<rdg wit="#Translation">and promised our lives to each other.</rdg>
+					</app>
+				</l>
+				<l n="9">
+					<app>
+						<lem wit="#Transcription">又恐恩情，</lem>
+						<rdg wit="#Translation">I am still afraid that our love</rdg>
+					</app>
+				</l>
+				<l n="10">
+					<app>
+						<lem wit="#Transcription">易破難成， </lem>
+						<rdg wit="#Translation">will be easily broken and hard to keep.</rdg>
+					</app>
+				</l>
+				<l n="11">
+					<app>
+						<lem wit="#Transcription">未免千般思慮。</lem>
+						<rdg wit="#Translation">I cannot help but have a thousand thoughts and worries.</rdg>
+					</app>
+				</l>
+			</lg>
+			<lg n="2">
+				<l n="12">
+					<app>
+						<lem wit="#Transcription">近日書來，</lem>
+						<rdg wit="#Translation">Recently, her letter came</rdg>
+					</app>
+				</l>
+				<l n="13">
+					<app>
+						<lem wit="#Transcription">寒暄而已，</lem>
+						<rdg wit="#Translation">with only simple greetings.</rdg>
+					</app>
+				</l>
+				<l n="14">
+					<app>
+						<lem wit="#Transcription">苦沒忉忉言語。</lem>
+						<rdg wit="#Translation">There are no words of sorrow or earnest concern at all.</rdg>
+					</app>
+				</l>
+				<l n="15">
+					<app>
+						<lem wit="#Transcription">便認得、 </lem>
+						<rdg wit="#Translation">Thus, I am sure that</rdg>
+					</app>
+				</l>
+				<l n="16">
+					<app>
+						<lem wit="#Transcription">聽人教當，</lem>
+						<rdg wit="#Translation">she must have listened to others</rdg>
+					</app>
+				</l>
+				<l n="17">
+					<app>
+						<lem wit="#Transcription">擬把前言輕負。</lem>
+						<rdg wit="#Translation">and plans to throw away her previous promises.</rdg>
+					</app>
+				</l>
+				<l n="18">
+					<app>
+						<lem wit="#Transcription">見說蘭台宋玉，</lem>
+						<rdg wit="#Translation">I have heard of Song Yu of the Orchid Terrace<note type= "critical" anchored="true"><p>See discussion in introduction.</p></note>,</rdg>
+					</app>
+				</l>
+				<l n="19">
+					<app>
+						<lem wit="#Transcription">多才多藝善詞賦。</lem>
+						<rdg wit="#Translation">who was very talented and excelled in songs and rhapsodies.</rdg>
+					</app>
+				</l>
+				<l n="20">
+					<app>
+						<lem wit="#Transcription">試與問、</lem>
+						<rdg wit="#Translation">I’d like to ask him,</rdg>
+					</app>
+				</l>
+				<l n="21">
+					<app>
+						<lem wit="#Transcription">朝朝暮暮。</lem>
+						<rdg wit="#Translation">every morning and every night,</rdg>
+					</app>
+				</l>
+				<l n="22">
+					<app>
+						<lem wit="#Transcription">行雲何處去。</lem>
+						<rdg wit="#Translation">where did the floating cloud go<note type= "critical" anchored="true"><p>See introduction for a discussion of these two lines.</p></note>?</rdg>
+					</app>
+				</l>
+			</lg>
+		</body>
+	</text>
+</TEI>

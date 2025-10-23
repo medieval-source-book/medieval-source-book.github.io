@@ -1,0 +1,80 @@
+<script src="/assets/js/lunr.js"></script>
+
+<script>
+{% assign counter = 0 %}
+var documents = [{% for text in collections.texts %}{
+    "id": {{ counter }},
+    "url": "{{ text.url }}",
+    "title": {{ text.data.title | json }},
+    "textauthor": {{ text.data.textauthor | default: "" | json }},
+    "body": {{ text.templateContent | replace: '<', ' <' | strip_html | replace: '  ', ' ' | replace: '"', "'" | truncate: 5000 | json }}
+}{% unless forloop.last %},{% endunless %}{% assign counter = counter | plus: 1 %}{% endfor %}];
+
+console.log('Indexed ' + documents.length + ' documents');
+var idx = lunr(function () {
+    this.ref('id');
+    this.field('title');
+    this.field('textauthor');
+    this.field('body');
+
+    documents.forEach(function (doc) {
+        this.add(doc)
+    }, this)
+});
+
+function lunr_search(term) {
+    document.getElementById('lunrsearchresults').innerHTML = '<ul></ul>';
+    if(term) {
+        document.getElementById('lunrsearchresults').innerHTML = "<p>Search results for '" + term + "'</p>" + document.getElementById('lunrsearchresults').innerHTML;
+        
+        // Try exact match first, then add wildcards for partial matching
+        var searchTerm = term;
+        var results = [];
+        
+        try {
+            results = idx.search(searchTerm);
+        } catch(e) {
+            console.log('Exact search failed, trying wildcard', e);
+        }
+        
+        // If no results with exact match, try with wildcards
+        if(results.length === 0) {
+            try {
+                searchTerm = '*' + term + '*';
+                results = idx.search(searchTerm);
+            } catch(e) {
+                console.log('Wildcard search failed', e);
+            }
+        }
+        
+        if(results.length>0){
+            for (var i = 0; i < results.length; i++) {
+                var ref = results[i]['ref'];
+                var url = documents[ref]['url'];
+                var title = documents[ref]['title'];
+                var author = documents[ref]['textauthor'] || '';
+                var body = documents[ref]['body'].substring(0,160)+'...';
+                var authorHTML = author ? "<span class='author'>" + author + "</span>" : "";
+                document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML = document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML + "<li class='lunrsearchresult'><span class='title'><a href='" + url + "'>" + title + "</a></span>" + authorHTML + "<span class='body'>"+ body +"</span><span class='url'><a href='" + url + "'>"+ url +"</a></span></li>";
+            }
+        } else {
+            document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML = "<li class='lunrsearchresult'>No results found...</li>";
+        }
+    }
+    return false;
+}
+</script>
+<style>
+    .lunrsearchresult {margin-bottom: 1rem;}
+    .lunrsearchresult .title {color: #d9230f; font-weight: bold;}
+    .lunrsearchresult .author {color: #666; font-style: italic; margin-left: 0.5rem;}
+    .lunrsearchresult .body {display: block; margin: 0.25rem 0;}
+    .lunrsearchresult .url {color: silver; font-size: 0.9rem;}
+    .lunrsearchresult a {display: block; color: #777;}
+    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
+    .lunrsearchresult a:hover .title {text-decoration: underline;}
+</style>
+
+<form onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+    <p><input type="text" class="form-control" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Search texts..." /></p>
+</form>

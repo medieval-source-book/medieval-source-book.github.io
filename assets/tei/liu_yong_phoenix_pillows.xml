@@ -1,0 +1,227 @@
+<?xml-stylesheet href="../src/vmachine.xsl" type="text/xsl" ?><?xml-model href="../schema/vmachine.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../schema/vmachine.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!DOCTYPE TEI
+[
+<!ENTITY % Menota_entities SYSTEM
+'../menota/menota-entities.txt'   >
+%Menota_entities;]
+>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>To the tune “Stop Your Horse and Listen”&#8212;"Phoenix pillows and curtains"</title>
+				<author>Liu Yong</author>
+				<respStmt>
+					<resp>Text based on</resp>
+					<name>Tang, Guizhang 唐圭璋 (ed.). Quan Song Ci 全宋詞. Vol 1. Beijing: Zhonghua shu ju, 1965, 34.</name>
+				</respStmt>
+				<respStmt>
+					<resp>Translation by</resp>
+					<name>Qian Jia</name>
+				</respStmt>
+				<respStmt>
+					<resp>Notes by</resp>
+					<name>Nina Du</name>
+					<name>Runqi Zhang</name>
+					<name>Dante Zhu</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoded in TEI P5 XML by</resp>
+					<name>Manya Bansal</name>
+					<name>Dante Zhu</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher><hi rend="italic">The Global Medieval Sourcebook</hi></publisher>
+				<availability>
+					<p><hi rend="italic">The Global Medieval Sourcebook</hi> is licensed under a Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International License.</p>
+				</availability>
+			</publicationStmt>
+			<notesStmt>
+				<note anchored="true"></note>
+				<p>Unlike most ci from the same period, this song doesn’t depict much scenery. Instead, the speaker explores his inner feelings: the longing he feels for an intimacy that can never be restored.</p>
+				<p>Liu Yong was possibly the most widely-read ci writer in the Northern Song period, with fans ranging from courtesans to officials and critics. He excelled in writing love songs, portraying the emotions of lovelorn individuals in unprecedented detail and depth. Despite being born into a family of officials, he did not lead a successful professional life. After he failed keju, the Imperial Chinese civil service examination, he wrote the song “To the tune ‘Crane Soaring in the Sky’”, in which he claimed that ci poets are as important as prime ministers. This led the Ren Emperor of Song 宋仁宗 to personally deem him unfit for imperial service. The emperor suggested that if he really thought that way, he should just be a ci poet instead of pursuing the career of an official. The emperor went so far as to deliberately fail Liu Yong in his following attempt at the exams.</p>
+				<p>Liu Yong’s continued output of poetry, deemed frivolous, trivial and vulgar by court officials, had a lasting impact on his professional life. He did not pass the civil service exam until he was 48 years old; before that, he spent much of his time with singers and courtesans, writing ci and living a hedonistic existence. After he finally passed keju, he worked as a low rank official in several areas and sought to advance his career through the assistance of the prime minister of that time, Yan Shu, who was also a famous ci poet (and is featured in this collection). Yan Shu mocked the frivolity of Liu Yong’s lyrics and refused to assist him, and the emperor, upon learning of his attempt, commented that Liu Yong, as a ci composer, should stick to composing ci. In response to the emperor’s comment, Liu Yong, in typically rebellious fashion, began signing his ci “composer of ci by imperial decree”. He made a final attempt to salvage his career by writing a complimentary ci to the emperor, but this was regarded as offensive and the emperor stripped him of his official titles and stated that he would never be accepted back at court. From then on, he returned to his previous lifestyle, indulging in the company of singers and courtesans.</p>
+				<p>Because of his unique life experience, the sentiments expressed in Liu Yong’s ci are often very different from the views typically expressed in Chinese society at that time, with an especially cynical attitude towards serving the empire and a pronounced defense of hedonism. Nevertheless, Liu Yong’s ci were extremely popular throughout the empire, giving rise to the frequently repeated observation that “if you can see a well in a place, you can hear Liu Yong’s ci being sung there”. As every tiny town had a well, this indicates the wide reach of Liu’s lyrics.</p>
+				<p>Liu Yong is also notable for his many formal innovations to ci poetry. Before Liu, most ci were written to accompany short tunes, but he initiated a trend of writing lyrics for longer tunes, which allowed for more complex portrayals of human psychology. He was also less restrained by the tune, and often modified the traditional rhyme as well as the line breaks. For example, even when he wrote two ci to the same tune, they might sound very different from one another, with different rhymes, line lengths or numbers of lines. The tunes that Liu Yong used were also more diverse than those of his contemporaries: some were folk songs, and some he composed himself. Many of Liu Yong’s ci have a stronger narrative element, probably due to the influence of storytellers whose street performances he would have watched. Liu received considerable criticism for his focus on love and for his use of commonplace language rather than a refined poetic vocabulary, but this did little to curtail his popularity or his influence on the development of the ci genre.</p>
+				<p>Chang, Kang-i Sun. The Evolution of Tz’u Poetry: from Late Tang to Northern Sung. Princeton UP, 1980.</p>
+				<p>A standard survey of the early history of Chinese song lyrics (romanized as both ci and tz’u).</p>
+				<p>Egan, Ronald. “The Song Lyric.” The Cambridge History of Chinese Literature, vol. 1, edited by Stephen Owen, Cambridge UP, 2010, pp. 434-452.</p>	
+				<p>An overview of the genre.</p>					
+				<p>Owen, Stephen. Just a Song: Chinese Lyrics from the Eleventh and Early Twelfth Centuries. Asia Center, Harvard UP, 2019.</p>	
+				<p>A recent new history of the genre.</p>
+				<p>Tang, Guizhang 唐圭璋, editor. Quan Song Ci 全宋詞. Zhonghua shu ju, 1965. 5 vols.</p>					
+				<p>A comprehensive edition of ci from the Song dynasty and the source text for the ci  in this collection (introductions and annotations are in Chinese).</p>
+			</notesStmt>
+			<sourceDesc>
+				 <p>Text based on Tang, Guizhang 唐圭璋 (ed.). Quan Song Ci 全宋詞. Vol 1. Beijing: Zhonghua shu ju, 1965, 34.</p>
+				<listWit>
+					<witness xml:id="Transcription">駐馬聽</witness>
+					<witness xml:id="Translation">To the tune “Stop Your Horse and Listen”</witness>
+				</listWit>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>Transcriptions and translations are encoded in XML conforming to TEI (P5) guidelines. The original-language text is contained within &lt;lem&gt; tags and translations within &lt;rdg&gt; tags.</p>
+			<projectDesc>
+            	<p>To the tune “Stop Your Horse and Listen”&#8212;"Phoenix pillows and curtains" is part of <hi rend="italic">The Global Medieval Sourcebook</hi>, a digital compendium of medieval texts in their original languages and in English translation. This larger project comprises computer-readable transcriptions and/or editions of texts dating from the ninth to the sixteenth century, and originating in Europe, North Africa, the Middle East, and Asia; accompanied by new English translations; high-resolution digital images of manuscript/early print sources, where available; an apparatus that includes critical introductions, textual notes and annotations; and a flexible user interface with which to navigate these materials.</p>
+         	</projectDesc>
+			<editorialDecl>
+        		<interpretation>
+        			<p>Texts are translated into modern English with maximum fidelity to the original text, except where it would impair comprehension or good style. Archaisms are preserved where they do not conflict with the aesthetic of the original text. Creative translation choices are marked and discussed in the critical notes.</p>
+					<p>The original text of this ci is based on the edition by Tang Guizhang 唐圭璋 (Quan Song Ci 全宋詞. Vol 2. Beijing: Zhonghua shu ju, 1965). Punctuation follows the edition. Since ci poetry rarely includes personal pronouns, and gender-differentiated pronouns did not exist in Classical Chinese of this period, the gender of the speaker as well as their perspective (e.g. first, second or third person) must often be deduced by the translator from context.</p>
+        			<punctuation marks="all">Punctuation follows the edition.</punctuation>
+
+				</interpretation>
+				<segmentation>
+				</segmentation>
+			</editorialDecl>
+			<variantEncoding method="parallel-segmentation" location="internal"/>
+		</encodingDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<head>
+				<title type="main">
+					<app>
+						<lem wit="#Transcription">駐馬聽</lem>
+						<rdg wit="#Translation">To the tune “Stop Your Horse and Listen”</rdg>
+					</app>
+				</title>
+			</head>
+		</front>
+		<body>
+			<lg n="1">
+				<!--Each stanza needs its own line group <lg>-->
+				<l n="1">
+					<app>
+						<lem wit="#Transcription">鳳枕鸞帷。</lem>
+						<rdg wit="#Translation">Phoenix pillows and curtains<note type= "critical" anchored="true"><p>“Phoenix pillows and curtains” is a symbol for a harmonious married life.</p></note>.</rdg>
+					</app>
+				</l>
+				<l n="2">
+					<app>
+						<lem wit="#Transcription">二三載，</lem>
+						<rdg wit="#Translation">For two or three years,</rdg>
+					</app>
+				</l>
+				<l n="3">
+					<app>
+						<lem wit="#Transcription">如魚似水相知。</lem>
+						<rdg wit="#Translation">we were as intimate as fish and water.</rdg>
+					</app>
+				</l>
+				<l n="4">
+					<app>
+						<lem wit="#Transcription">良天好景，</lem>
+						<rdg wit="#Translation">Good days and fine times,</rdg>
+					</app>
+				</l>
+				<l n="5">
+					<app>
+						<lem wit="#Transcription">深憐多愛，</lem>
+						<rdg wit="#Translation">Deep affection and profuse love,</rdg>
+					</app>
+				</l>
+				<l n="6">
+					<app>
+						<lem wit="#Transcription">無非儘意依隨。</lem>
+						<rdg wit="#Translation">I did nothing but following her wishes.</rdg>
+					</app>
+				</l>
+				<l n="7">
+					<app>
+						<lem wit="#Transcription">奈何伊。</lem>
+						<rdg wit="#Translation">How come her</rdg>
+					</app>
+				</l>
+				<l n="8">
+					<app>
+						<lem wit="#Transcription">恣性靈、</lem>
+						<rdg wit="#Translation">spirit is</rdg>
+					</app>
+				</l>
+				<l n="9">
+					<app>
+						<lem wit="#Transcription">忒煞些兒。</lem>
+						<rdg wit="#Translation">slightly too wild<note type= "critical" anchored="true"><p>To allow for clarity in English, the translation modifies the word order of the original line.</p></note>?</rdg>
+					</app>
+				</l>
+				<l n="10">
+					<app>
+						<lem wit="#Transcription">無事孜煎，</lem>
+						<rdg wit="#Translation">When I have nothing to do, I feel like I’m being roasted over a fire;</rdg>
+					</app>
+				</l>
+				<l n="11">
+					<app>
+						<lem wit="#Transcription">萬回千度，</lem>
+						<rdg wit="#Translation">a thousand, ten thousand times (I think of my past)&#8212;</rdg>
+					</app>
+				</l>
+				<l n="12">
+					<app>
+						<lem wit="#Transcription">怎忍分離。</lem>
+						<rdg wit="#Translation">how could I bear to leave her?</rdg>
+					</app>
+				</l>
+			</lg>
+			<lg n="2">
+				<l n="13">
+					<app>
+						<lem wit="#Transcription">而今漸行漸遠，</lem>
+						<rdg wit="#Translation">Yet now the more I travel, the further away she is.</rdg>
+					</app>
+				</l>
+				<l n="14">
+					<app>
+						<lem wit="#Transcription">漸覺雖悔難追。</lem>
+						<rdg wit="#Translation">I have gradually realized that, even though I regret leaving her, the past can never be retrieved.</rdg>
+					</app>
+				</l>
+				<l n="15">
+					<app>
+						<lem wit="#Transcription">漫寄消寄息，</lem>
+						<rdg wit="#Translation">It is pointless to send letters and messages&#8212;</rdg>
+					</app>
+				</l>
+				<l n="16">
+					<app>
+						<lem wit="#Transcription">終久奚為。</lem>
+						<rdg wit="#Translation">In the end, what will it do?</rdg>
+					</app>
+				</l>
+				<l n="17">
+					<app>
+						<lem wit="#Transcription">也擬重論繾綣，</lem>
+						<rdg wit="#Translation">I also considered restoring our intimacy,</rdg>
+					</app>
+				</l>
+				<l n="18">
+					<app>
+						<lem wit="#Transcription">爭奈翻覆思維。</lem>
+						<rdg wit="#Translation">but I cannot help but think twice.</rdg>
+					</app>
+				</l>
+				<l n="19">
+					<app>
+						<lem wit="#Transcription">縱再會，</lem>
+						<rdg wit="#Translation">Even if we reunite,</rdg>
+					</app>
+				</l>
+				<l n="20">
+					<app>
+						<lem wit="#Transcription">只恐恩情，</lem>
+						<rdg wit="#Translation">I am afraid our love</rdg>
+					</app>
+				</l>
+				<l n="21">
+					<app>
+						<lem wit="#Transcription">難似當時。</lem>
+						<rdg wit="#Translation">could hardly be what it was.</rdg>
+					</app>
+				</l>
+			</lg>
+		</body>
+	</text>
+</TEI>

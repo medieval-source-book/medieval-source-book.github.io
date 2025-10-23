@@ -1,0 +1,226 @@
+<?xml-stylesheet href="../src/vmachine.xsl" type="text/xsl" ?><?xml-model href="../schema/vmachine.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../schema/vmachine.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!DOCTYPE TEI SYSTEM "http://www.menota.org/menotaP5.dtd"
+[
+<!ENTITY % Menota_entities SYSTEM
+'http://www.menota.org/menota-entities.txt'   >
+%Menota_entities;]
+>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Chen Wangyou’s Daughter-in-Law</title>
+				<author>Hong Mai 洪邁</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name>Likun Yang</name>
+				</respStmt>
+				<respStmt>
+					<resp>Translation by</resp>
+					<name>Likun Yang</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoded in TEI P5 XML by</resp>
+					<name>Jordan Rosen-Kaplan</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Global Medieval Sourcebook</publisher>
+				<availability>
+					<p><hi rend="italic">The Global Medieval Sourcebook</hi> is licensed under a Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International License.</p>
+				</availability>
+			</publicationStmt>
+			<notesStmt>
+				<p>This story is one of five in the Global Medieval Sourcebook to have been selected from the Yijian Zhi (or Record of the Listener, hereafter the Record) by Hong Mai (1123-1202). Like many well-educated men in the Southern Song Dynasty (1127-1279), Hong Mai grew up in a prominent family, passed the civil service examination, and obtained a post in the imperial government. However, due to misconduct during a diplomatic mission, his career came to an abrupt end. From then on, he retreated to his study and devoted himself to writing the Record.</p>
+				<p>The corpus of the Record originally consisted of 420 chapters. What we have today, however, is but a small fraction of the original text. The Record shows a remarkable degree of accuracy when we compare it with the official documents and other texts of the same period. Nevertheless, many stories in the Record are outright fictitious or based on highly unreliable sources. The Record preserved much information about the society, culture and religion of the Southern Song Dynasty and was a source of inspiration for generations of writers after Hong Mai. Writers in late imperial China, for instance, took up many stories in the Record and refashioned them into stories that met the demands and expectations of their own times.</p>
+				<p>Allen, Sarah M. Shifting Stories: History, Gossip, and Lore in Narratives from Tang Dynasty China. Harvard-Yenching Institute Monograph Series. Harvard University Asia Center, 2014. Explores the tale literature of eighth- and ninth-century China to show how the written tales we have today grew out of a fluid culture of hearsay that circulated within elite society. Contains a chapter that explains the modern (mis)understanding of the tale literature as a genre.</p>
+				<p>Hansen, Valerie. Changing Gods in Medieval China, 1127-1276. Princeton UP, 1990. Uses the Yi Jian Zhi tales as historical documents and shows that social and economic developments underlay religious changes in the Southern Song Dynasty (1127 - 1276).</p>
+				<p>Inglis, Alister David. Hong Mai's Record of the Listener and Its Song Dynasty Context. Suny Series in Chinese Philosophy and Culture. SUNY P, 2006. A comprehensive survey of the scholarship on Yi Jian Zhi.</p>
+				<p>Luo, Manling. Literati Storytelling in Late Medieval China. The Modern Language Initiative. U of Washington P, 2015. Shows how the tales offer crucial insights into the reconfiguration of the Chinese elite, which monopolized literacy, social prestige, and political participation in tenth-century China.</p>
+			</notesStmt>
+			<sourceDesc>
+				<p>Zhonghua Shuju edition: Hong, Mai. Yi Jian Zhi. Di 1 ban. ed. 4 vols. Beijing: Zhonghua shu ju : Xin hua shu dian Beijing fa xing suo fa xing. 1981.</p>
+				<listWit>
+					<witness xml:id="Transcription">陳王猷子妇</witness>
+					<witness xml:id="Translation">Chen Wangyou’s Daughter-in-Law</witness>
+				</listWit>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+            	<p>"Chen Wangyou’s Daughter-in-Law" is published by <hi rend="italic">The Global Medieval Sourcebook (GMS)</hi>, a free, open access, and open source compendium of medieval texts in their original languages and in English translation. <hi rend="italic">GMS</hi> comprises computer-readable transcriptions or editions alongside new translations of texts dating from the ninth to the sixteenth century and originating in Europe, North Africa, the Middle East, and Asia. The <hi rend="italic">GMS</hi> platform includes critical introductions as well as sources for further reading.</p>
+         	</projectDesc>
+			<editorialDecl>
+					<p>Transcriptions and translations are encoded in XML conforming to TEI (P5) guidelines. The original-language text is contained within &lt;lem&gt; tags and translations within &lt;rdg&gt; tags.</p>
+        		<interpretation>
+        			<p>Texts are translated into modern American English with maximum fidelity to the original text, except where it would impair comprehension or good style. Archaisms are preserved where they do not conflict with the aesthetic of the original text. Scribal errors and creative translation choices are marked and discussed in the critical notes.</p>
+        			<p>Punctuation follows the edition.</p>
+				</interpretation>
+				<segmentation>
+				</segmentation>
+			</editorialDecl>
+			<variantEncoding method="parallel-segmentation" location="internal">
+			</variantEncoding>
+		</encodingDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<div>
+			<head>
+				<title>
+					<app>
+						<lem wit="#Transcription">陳王猷子妇</lem>
+						<rdg wit="#Translation">Chen Wangyou’s Daughter-in-Law</rdg>
+					</app>
+				</title>
+			</head>	
+			</div>
+		</front>
+		<body>
+			<div n="1">
+				<p n="1">
+					<app>
+						<lem wit="#Transcription">
+							<s>潮州人陳王猷為梅州守。</s>
+						</lem>
+						<rdg wit="#Translation">
+							<s>Chen Wangyou from Chaozhou was the magistrate of Meizhou.</s>
+						</rdg>
+					</app>
+					<app>
+						<lem wit="#Transcription">
+							<s>子婦死焉, 葬之於郡北山之上。</s>
+						</lem>
+						<rdg wit="#Translation">
+							<s>When his daughter-in-law died, the Chen family buried her in the mountain north of the county.</s>
+						</rdg>
+					</app>
+					<app>
+						<lem wit="#Transcription">
+							<s>其魂每夕歸與夫共寢。</s>
+						</lem>
+						<rdg wit="#Translation">
+							<s>Every evening, her spirit would come back home to sleep with her husband.</s>
+						</rdg>
+					</app>
+					<app>
+						<lem wit="#Transcription">
+							<s>夫懼宿於母榻。</s>
+						</lem>
+						<rdg wit="#Translation">
+							<s>Her husband was scared and slept in his mother’s bed.</s>
+						</rdg>
+					</app>
+					<app>
+						<lem wit="#Transcription">
+							<s>婦複來即之, 不可卻,</s>
+						</lem>
+						<rdg wit="#Translation">
+							<s>But the woman came back again and could not be turned away.</s>
+						</rdg>
+					</app>
+					<app>
+						<lem wit="#Transcription">
+							<s>雖家人相見無所避。</s>
+						</lem>
+						<rdg wit="#Translation">
+							<s>Even when she saw the [other members of the] Chen family, she would not avoid them.</s>
+						</rdg>
+					</app>
+					<app>
+						<lem wit="#Transcription">
+							<s>一子數歲矣, 韶秀可愛, </s>
+						</lem>
+						<rdg wit="#Translation">
+							<s>Her son was a few years old, cute and good-looking.</s>
+						</rdg>
+					</app>
+					<app>
+						<lem wit="#Transcription">
+							<s>每欲取以去, 舉家爭而奪之。</s>
+						</lem>
+						<rdg wit="#Translation">
+							<s>Every time she tried to take him away, the entire Chen family would fight to get him back.</s>
+						</rdg>
+					</app>
+					<app>
+						<lem wit="#Transcription">
+							<s>婦出入自若,</s>
+						</lem>
+						<rdg wit="#Translation">
+							<s>However the woman went in and out of the Chen family home like there was no one around.</s>
+						</rdg>
+					</app>
+					<app>
+						<lem wit="#Transcription">
+							<s>陳氏甚懼, 乃召道士醮設及禱於神, 皆不能遣。</s>
+						</lem>
+						<rdg wit="#Translation">
+							<s>The Chen family was so scared that they hired a Daoist to set up a religious ceremony and pray to God on their behalf – neither [action] could dispel the spirit.</s>
+						</rdg>
+					</app>
+					<app>
+						<lem wit="#Transcription">
+							<s>時紹興庚午三月也。</s>
+						</lem>
+						<rdg wit="#Translation">
+							<s>At the time, it was the third month of the Shaoxing era.</s>
+						</rdg>
+					</app>
+					<app>
+						<lem wit="#Transcription">
+							<s>又三月, 陳守卒於郡。</s>
+						</lem>
+						<rdg wit="#Translation">
+							<s>After three months, the magistrate Chen died in the county.</s>
+						</rdg>
+					</app>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>
+
+<!--
+
+	Chen Wangyou's Daughter-in-Law
+
+		TEI Encoding Specifications:
+
+			<lem> = transcription
+
+			<rdg> = translation
+
+			Tag numbering:
+				(<X> for example)
+				<X n="1"> 
+			
+			Stanza break:
+				<app>
+					<lem wit="#Transcription"><milestone unit="stanza"/></lem>
+					<rdg wit="#Translation"><milestone unit="stanza"/></rdg>
+				</app>
+
+			Special Characters:
+				Visit: http://folk.uib.no/hnooh/mufi/specs/MUFI-CodeChart-4-0.pdf
+				This chart is of the Medieval Unicode Font Initiative. In order to 
+				include one of these characters, enter the ampersand and following
+				letters followed by a semicolon (e.g. &odot;).
+
+			Language change: 
+				When the text changes language, use an extra modifier in your tag. 
+
+				For example: (a text changes to Latin)
+					<l lang="la" n="4">
+						<app>
+							<lem wit="#Transcription"></lem>
+							<rdg wit="#Translation"></rdg>
+						</app>
+					</l>
+
+				The modifier (xml:lang="?") is the critical insertion. 
+
+				Find the two letter identifier for the language you wish to specify 
+				@ http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
+				in the subtag category
+-->

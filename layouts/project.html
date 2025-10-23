@@ -1,0 +1,47 @@
+---
+layout: default
+format: video
+---
+<div class="row circlebg {% if page.source == 'community' %}contribution{% endif %}" id="main">
+ 	<div class="large-8 large-offset-2 columns">
+ 		<article itemprop="video" itemscope itemtype="http://schema.org/VideoObject">
+ 			<div class="row">
+ 				<div class="large-10 large-offset-1 columns">
+ 					<header>
+ 						<div itemprop="name">
+ 							<h1 class="title">{{ page.title }}</h1>
+ 						</div>
+ 						{% if page.breadcrumb == true %}
+	 						{% include "_breadcrumb.html" %}
+ 						{% endif %}
+ 					</header>
+ 				</div>
+ 			</div>
+
+ 			<div class="flex-video t30">
+ 				<iframe width='970' height='546' src='https://www.youtube-nocookie.com/embed/{{ page.youtubeid }}' frameborder='0' allow="encrypted-media" allowfullscreen></iframe>
+ 			</div>
+ 			<div class="row">
+ 				<div class="large-10 large-offset-1 columns">
+ 				<h4>
+ 				{% for author in page.authors %}
+ 				<span class="authorname" itemprop="author" itemscope itemtype="http://schema.org/Person">{% unless author.uri==NULL%}<a href="{{ author.uri }}" target="_blank">{% endunless %}{{ author.name }}{% unless author.uri!='' %}</a>{% endunless %} {% unless author.affiliation==NULL%}({{ author.affiliation }}){% endunless %}</span>{% if forloop.last %}{% else %}, {% endif %}
+ 				{% endfor %}
+ 				</h4>
+ 				</div>
+ 			</div>
+
+ 			<div class="row t30">
+ 				<div class="large-10 large-offset-1 columns">
+ 					<meta itemprop="thumbnailUrl" content="https://img.youtube.com/vi/{{ page.youtubeid}}/0.jpg" />
+ 					<meta itemprop="contentURL" content="https://www.youtube.com/watch?v={{ page.youtubeid}}" />
+ 					<meta itemprop="embedURL" content="https://www.youtube.com/embed/{{ page.youtubeid}}" />
+
+ 					{{ content }}
+ 					{% include "_meta_information.html" %}
+ 				</div><!-- /.medium-8.columns -->
+ 			</div><!-- /.row -->
+ 		</article>
+
+ 	</div><!-- /.small-8 small-offset-2.columns -->
+</div><!-- /.row -->

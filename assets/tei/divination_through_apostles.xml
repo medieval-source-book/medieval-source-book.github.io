@@ -1,0 +1,270 @@
+<?xml-stylesheet href="../src/vmachine.xsl" type="text/xsl" ?><?xml-model href="../schema/vmachine.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../schema/vmachine.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!DOCTYPE TEI
+[
+<!ENTITY % Menota_entities SYSTEM
+'../menota/menota-entities.txt'   >
+%Menota_entities;]
+>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>An Explanation of Divination Through the Apostles</title>
+				<author>Anonymous</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name>Danny Smith</name>
+				</respStmt>
+				<respStmt>
+					<resp>Translation by</resp>
+					<name>Danny Smith</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoded in TEI P5 XML by</resp>
+					<name>Danny Smith</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher><hi rend="italic">The Global Medieval Sourcebook</hi></publisher>
+				<availability>
+					<p><hi rend="italic">The Global Medieval Sourcebook</hi> is licensed under a Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International License.</p>
+				</availability>
+			</publicationStmt>
+			<notesStmt>
+				<p>This brief and anonymous text, known as a “mantic alphabet”, was part of a popular divinatory tradition around the Mediterranean in the Middle Ages known as bibliomancy - telling a fortune from books. Mantic alphabets survive in Arabic, Greek and Latin. To use such a text, a reader opened a second book - in this case the introduction prescribes a Psalter be used - at random. The reader would ponder the first letter that they saw, which would then correspond to the future as described in the alphabet. For example, if the reader opened to Psalm 1, which begins “Beatus vir qui...” they would turn back to the dreambook’s entry for letter B and learn that B predicts that they will have “power over people.” As a personal oracle that relies on an explicitly religious text as part of its divinatory process, mantic alphabets like this one combine two seemingly incongruous traditions. Priests, theologians and other religious figures often explicitly condemned soothsayers, oracles and fortune-tellers, but some nevertheless supported such practices including Gregory of Tours (d. 594), who described the practice of bibliomancy in particular. By insisting that divination occurred only after a prayer was said and only when a Psalter was used as the source of a random letter, this mantic alphabet attests to how popular practices of personal fortune-telling were able to carefully align themselves to fit within the bounds of religious doctrine. The practice of bibliomancy was particularly popular in the late Middle Ages and similar mantic alphabets exist drawing not only from Christian sources but similarly using Byzantine, Islamic and Jewish texts to tell a reader’s fortune.</p>
+				<p>This is one of many mantic alphabets in Latin, French, English, German, and Welsh that are preserved in manuscripts across Western Europe. This Latin example was written in Northern Italy, likely Venice or the Veneto region, in the 13th century. It’s preserved in Berlin in Staatsbibliothek, Preußischer Kulturbesitz, MS Ham. 390 f.26v, a manuscript that combines several oracular and mantic texts - including a mantic dream alphabet also translated in the GMS. This text is one of eighty-eight surviving bibliomantic alphabet texts in Western manuscripts, with some surviving from as early as the twelfth century but most surviving from the fifteenth. However, these texts were likely far more popular than the surviving manuscript record attests. Their brevity made them easily duplicatable and the close similarities between the kinds of fortunes predicted by the texts indicates that they were likely copied directly from each other.</p>
+				<p>Chardonnens, László Sándor. “Mantic Alphabets in Medieval Western Manuscripts and Early Printed Books,” Modern Philology, vol. 110, no. 3, 2013, pp. 340-366. Chardonnens’s article includes the most up-to-date list of surviving manuscript and early printed book editions of mantic alphabets.</p>
+				<p>Elukin, Jonathan M. “The Ordeal of Scripture: Functionalism and the Sortes Biblicae in the Middle Ages,” Exemplaria, vol. 5, no. 1, 1993, pp. 135-160. On the relationship between mantic texts and the religious texts they often invoke.</p>
+				<p>Förster, Max. “Zwei kymrische Orakelalphabete,” Zeitschrift für celtische Philologie, vol 20, no. 1, 1936, pp. 228-243. An important early study and survey of bibliomantic manuscripts that introduced examples (two in Welsh) outside of Latin and German.</p>
+				<p>Tobler, Adolf. Die altvenezianische Übersetzung der Sprüche des Dionysius Cato. Abhandlungen der königlichen Akademie der Wissenschaften zu Berlin aus dem Jahre 1883, philosophisch-historische Classe 1. Berlin, 1883, particularly p. 86. Contains an edition of this manuscript.</p>
+			</notesStmt>
+			<sourceDesc>
+				 <p><ref target="http://resolver.staatsbibliothek-berlin.de/SBB00006CE900000000">Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, MS Ham. 390</ref> f.26v</p>
+				<listWit>
+					<witness xml:id="Transcription">Sortes apostolite ad explanandum</witness>
+					<witness xml:id="Translation">An Explanation of Divination Through the Apostles</witness>
+				</listWit>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+            	<p>"An Explanation of Divination Through the Apostles" is published by <hi rend="italic">The Global Medieval Sourcebook (GMS)</hi>, a free, open access, and open source compendium of medieval texts in their original languages and in English translation. <hi rend="italic">GMS</hi> comprises computer-readable transcriptions or editions alongside new translations of texts dating from the ninth to the sixteenth century and originating in Europe, North Africa, the Middle East, and Asia. The <hi rend="italic">GMS</hi> platform includes critical introductions as well as sources for further reading.  
+            </p> 
+         	</projectDesc>
+			<editorialDecl>
+	        	<p>Transcriptions and translations are encoded in XML conforming to TEI (P5) guidelines. The original-language text is contained within &lt;lem&gt; tags and translations within &lt;rdg&gt; tags.</p>
+        		<interpretation>
+        			<p>Texts are translated into modern American English with maximum fidelity to the original text, except where it would impair comprehension or good style. Archaisms are preserved where they do not conflict with the aesthetic of the original text. Scribal errors and creative translation choices are marked and discussed in the critical notes.</p>
+        			<p>Pilcrows, punctuation, and linebreaks follow the manuscript.</p>
+				</interpretation>
+				<segmentation>
+				</segmentation>
+			</editorialDecl>
+			<variantEncoding method="parallel-segmentation" location="internal"/>
+		</encodingDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<head>
+				<title>
+					<app>
+						<lem wit="#Transcription">Sortes apostolite ad explanandum</lem>
+						<rdg wit="#Translation">An Explanation of Divination Through the Apostles</rdg>
+					</app>
+				</title>
+			</head>
+		</front>
+		<body>
+			<p n="1">
+				<s>
+					<app>
+						<lem wit="#Transcription">Si de aliqua re sire uolueris hoc modo sire poteris.</lem>
+						<rdg wit="#Translation">If you would like to know of any thing, you will be able to in this way.</rdg>
+					</app>
+				</s>
+				<s>
+					<app>
+						<lem wit="#Transcription">Inprimis cantent 
+							<note type= "critical" anchored="true"><p><hi rend="italic">Cantent</hi> is rendered as <hi rend="italic">cantēt</hi></p></note> 
+						unum psalmum 
+							<note type= "critical" anchored="true"><p><hi rend="italic">Psalmum</hi> is rendered as <hi rend="italic">psalmū</hi></p></note> 
+						cum 
+							<note type= "critical" anchored="true"><p><hi rend="italic">Cum</hi> is rendered as <hi rend="italic">cū</hi></p></note>
+						oratione dominica.
+							<note type= "critical" anchored="true"><p><hi rend="italic">Dominica</hi> is rendered as <hi rend="italic">dnīca</hi></p></note>
+						</lem>
+						<rdg wit="Translation">First a psalm is to be sung as a prayer to the Lord.</rdg>
+					</app>	
+				</s>
+				<s>
+					<app>
+						<lem wit="#Transcription">deuota mente. Ut dominus 
+							<note type= "critical" anchored="true"><p><hi rend="italic">Dominus</hi> here is endered as ds with a macron. In a printed edition of this text Adolf Tobler transcribes this as "<hi rend="italic">deus</hi>" but given that elsewhere in the MS a macron represents a missing M "<hi rend="italic">dominus</hi>" seems like a more accurate transcription. See Adolf Tober, <hi rend="italic">Die altvenezianische Übersetzung der Sprüche des Dionysius Cato</hi>. Abhandlungen der königlichen Akademie der Wissenschaften zu Berlin aus dem Jahre 1883. Philosophisch-historische Classe 1, Berlin, 1883, 86</p></note> 
+						manifestet ei quod querit.</lem>
+						<rdg wit="Translation">The mind having thus been dedicated, the Lord reveals what you ask.</rdg>
+					</app>	
+				</s>
+				<s>
+					<app>
+						<lem wit="#Transcription">Postea aperiat psalterium. et prima litera que tibi aparuerit 
+							<note type= "critical" anchored="true"><p>This is an abbreviated form of <hi rend="italic">aperueīt</hi>, but it is also likely a misspelling of <hi rend="italic">apparuerit</hi>.</p></note>
+						cognosce eam. et videbis quod queris:</lem>
+						<rdg wit="Translation">Afterward, open a psalter and consider the first letter that will appear to you and you will see what you seek:</rdg>
+					</app>	
+				</s>			
+				<s> 
+					<app>
+						<lem wit="#Transcription">¶ .A. significat uitam siue potestatem:</lem>
+						<rdg wit="Translation">¶ .A. signifies alternatively life or power:</rdg>
+					</app>	
+				</s>	
+				<s>
+					<app>
+						<lem wit="#Transcription">¶ .B. significat potestatem in populo:</lem>
+						<rdg wit="Translation">¶ .B. signifies power over people:</rdg>
+					</app>	
+				</s>				
+				<s>
+					<app>
+						<lem wit="#Transcription">¶ .C. significat mortem uiri:</lem>
+						<rdg wit="Translation">¶ .C. signifies a man’s death:</rdg>
+					</app>	
+				</s>	
+				<s>
+					<app>
+						<lem wit="#Transcription">¶ .D. significat conturbacionem vel mortem:</lem>
+						<rdg wit="Translation">¶ .D. signifies sickness or death:</rdg>
+					</app>	
+				</s>	
+				<s>
+					<app>
+						<lem wit="#Transcription">¶ .E. significat letitiam:</lem>
+						<rdg wit="Translation">¶ .E. signifies joy:</rdg>
+					</app>	
+				</s>			
+				<s>
+					<app>
+						<lem wit="#Transcription">¶ .F. significat nobilitatem:</lem>
+						<rdg wit="Translation">¶ .F. signifies renown:</rdg>
+					</app>	
+				</s>
+				<s>
+					<app>
+						<lem wit="#Transcription">¶ .G significat unius hominis occisionis:</lem>
+						<rdg wit="Translation">¶ .G. signifies the murder of a man:
+							<note type= "critical" anchored="true"><p>Literally it means one man.</p></note>
+						</rdg>
+					</app>	
+				</s>				
+				<s>
+					<app>
+						<lem wit="#Transcription">¶ .H. significat femine occisionis:</lem>
+						<rdg wit="Translation">¶ .H. signifies a murdered woman:</rdg>
+					</app>	
+				</s>			
+				<s>
+					<app>
+						<lem wit="#Transcription">¶ .I. significat bonam 
+							<note type= "critical" anchored="true"><p><hi rend="italic">Bonam</hi> is rendered as <hi rend="italic">bonā</hi>></p></note>
+						uitam:</lem>
+						<rdg wit="Translation">¶ .I. signifies good life:</rdg>
+					</app>	
+				</s>				
+				<s>
+					<app>
+						<lem wit="#Transcription">¶ K. significat iamnem 
+							<note type= "critical" anchored="true"><p><hi rend="italic">Iamnem</hi> is likely a misspelling of <hi rend="italic">inanem</hi></p></note>
+						literarum:</lem>
+						<rdg wit="Translation">¶ .K. signifies vain
+							<note type= "critical" anchored="true"><p>Literally this means empty.</p></note>
+						scholarship:</rdg>
+					</app>	
+				</s>	
+				<s>
+					<app>
+						<lem wit="#Transcription">¶ .L. significat gaudium:</lem>
+						<rdg wit="Translation">¶ .L. signifies delight:</rdg>
+					</app>	
+				</s>				
+				<s>
+					<app>
+						<lem wit="#Transcription">¶ .M. significat medio:</lem>
+						<rdg wit="Translation">¶ .M. signifies division:
+							<note type= "critical" anchored="true"><p>In other mantic alphabets M often signifies something “mediocrem” or moderate.</p></note>
+						</rdg>
+					</app>	
+				</s>	
+				<s>
+					<app>
+						<lem wit="#Transcription">¶ .N. significat reuisitacionem:</lem>
+						<rdg wit="Translation">¶ .N. signifies a reappearance:</rdg>
+					</app>	
+				</s>				
+				<s>
+					<app>
+						<lem wit="#Transcription">¶ .O. significat dure potestatem:</lem>
+						<rdg wit="Translation">¶ .O. signifes harsh power:</rdg>
+					</app>	
+				</s>
+				<s>
+					<app>
+						<lem wit="#Transcription">¶ .P. significat omnem salutem:</lem>
+						<rdg wit="Translation">¶ .P. signifies complete health:</rdg>
+					</app>	
+				</s>				
+				<s>
+					<app>
+						<lem wit="#Transcription">¶ .Q. significat vitam uel cautelam:
+							<note type= "critical" anchored="true"><p><hi rend="italic">Cautelam</hi> is rendered <hi rend="italic">cautelā</hi></p></note>
+						</lem>
+						<rdg wit="Translation">¶ .Q. signifies life or caution.</rdg>
+					</app>	
+				</s>	
+				<s>
+					<app>
+						<lem wit="#Transcription">¶ .R. significat restitutum uel uulneratum:</lem>
+						<rdg wit="Translation">¶ .R. signifies recovery or injury:</rdg>
+					</app>	
+				</s>				
+				<s>
+					<app>
+						<lem wit="#Transcription">¶ .S. significat anum 
+							<note type= "critical" anchored="true"><p><hi rend="italic">Anum</hi> is likely a misspelling of <hi rend="italic">annum</hi>.</p></note>
+						sanitatem: </lem>
+						<rdg wit="Translation">¶ .S. signifies a healthy year:
+							<note type= "critical" anchored="true"><p>Presumably this is a healthy year, as written it reads literally “.S. signifies a healthy anus:”</p></note>
+						</rdg>
+					</app>	
+				</s>
+				<s>
+					<app>
+						<lem wit="#Transcription">¶ .T. significat iracundiam uel munitionem:</lem>
+						<rdg wit="Translation">¶ .T. signifies temper or defensiveness:</rdg>
+					</app>	
+				</s>	
+				<s>
+					<app>
+						<lem wit="#Transcription">¶ .V. significat mortem:
+							<note type= "critical" anchored="true"><p>Here readers have scratched away the word "<hi rend="italic">mortem</hi>"</p></note>
+						</lem>
+						<rdg wit="Translation">¶ .V. signifies death:</rdg>
+					</app>	
+				</s>	
+				<s>
+					<app>
+						<lem wit="#Transcription">¶ .X. significat parentes obliuionem:</lem>
+						<rdg wit="Translation">¶ .X. signifies forgiving parents:</rdg>
+					</app>	
+				</s>														
+			</p>
+			<p n="2">
+					<s>
+						<app>
+							<lem wit="#Transcription"> Quicquid tibi volueris ut eunte pecunie augmentum.</lem>
+							<rdg wit="#Translation">Thus whatever you would want, like having more money, has come about.</rdg>
+						</app>
+					</s>
+				</p>
+		</body>
+	</text>
+</TEI>

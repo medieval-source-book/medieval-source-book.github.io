@@ -1,0 +1,200 @@
+<?xml-stylesheet href="../src/vmachine.xsl" type="text/xsl" ?><?xml-model href="../schema/vmachine.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../schema/vmachine.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!DOCTYPE TEI SYSTEM "http://www.menota.org/menotaP5.dtd"
+[
+<!ENTITY % Menota_entities SYSTEM
+'http://www.menota.org/menota-entities.txt' >
+%Menota_entities;]
+>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Concerning Man and Woman</title>
+				<author>Nicolaus Pergamenus</author>
+				<respStmt>
+					<resp>Based on the edition by</resp>
+					<name>Johann Georg Theodor Grässe</name>
+				</respStmt>
+				<respStmt>
+					<resp>Translation by</resp>
+					<name>Astrid Khoo</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoded in TEI P5 XML by</resp>
+					<name>Irene Han</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Global Medieval Sourcebook</publisher>
+				<availability>
+					<p><hi rend="italic">The Global Medieval Sourcebook</hi> is licensed under a Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International License.</p>
+				</availability>
+			</publicationStmt>
+			<notesStmt>
+				<p>This Dialogus Creaturarum (“Dialogue of Creatures”), is one of eight such texts published by the Global Medieval Sourcebook. It was composed in the fourteenth century and its authorship remains debated, though it was historically attributed to either Nicolaus Pergamenus, about whom little is known, or Magninus Mediolanensis (also known as Mayno de Mayneriis), who was a physician. In recent years, beginning with Ruelle 1985, scholars have tended towards the conclusion that the Dialogus was compiled in Milan, though not necessarily by Magninus.</p>
+				<p>The text consists of 122 dialogues largely populated by anthropomorphic “creatures”, loosely defined; sections translated for the Global Medieval Sourcebook feature elements (fire, water), planetary bodies (the Sun, the Moon, Saturn, a cloud), animals (the leopard and unicorn), as well as a talking topaz. Each dialogue is further divided into two sections, the first part depicting an encounter between these creatures – two is the usual number, though some dialogues have one or three – that ends in a violent conflict. This experience is summed up in a moral, typically delivered by the defeated party, which is then exemplified in the second half of the dialogue through citations from historiography, literature, and sacred scripture. Common texts cited include the pagan authors Seneca the Younger and Valerius Maximus, along with the Christian writers Paul, Augustine, and John Chrystostom and compilations such as the Vitae patrum (“Lives of the Fathers”) and Legenda aurea (“Golden Legend”).</p>
+				<p>The great precision with which these references are cited – often including book and chapter numbers – suggests that the Dialogus was designed as a reference text containing recommendations for further reading, and more specifically as a handbook for constructing sermons (as indicated in the Preface). This purpose does not, however, detract from its entertaining style, which derives in no small part from the passionate dialogue that takes place between the creatures and the fast-paced descriptions of their battles against one another. These features explain the popularity of the Dialogus, which ran through numerous editions from the late fifteenth century onwards: the illustrated text compiled by Gerard Leeu was printed eight times in the eleven years from 1480 to 1491: once in French, twice in Dutch, and five times in Latin.</p>
+				<p>Two manuscript versions of the Dialogus Creaturarum exist. Of these, only the so-called “short redaction” has been printed; Gerard Leeu opted for this version of the text in the first Latin edition (1480) and all the vernacular translations are based upon it. This short redaction is attested in twelve manuscripts from the late fourteenth and early fifteenth centuries, and is thought to best reflect the original text, which was composed after 1326. This dating derives from the fact that it borrows heavily from a compilation, the Libellus qui intitulatur multifarium, which was compiled at Bologna in that year (see Ruelle 1985, p. 22). In contrast, the “long redaction” survives in only two manuscripts, both of which are comparatively late (in or after 1431): Toledo, Biblioteca capitular, 10-28 and Torino, Biblioteca Nazionale Universitaria, H. III. 6. In these manuscripts, the Dialogus Creaturarum is commonly presented under the title Contemptus Sublimitatis (“The Contempt of Worldly Power”), which reflects its structure as a handbook of moral examples.</p>
+				<p>Cardelle de Hartman, Carmen and Estrella Pérez Rodríguez. “Las auctoritates del Contemptus Sublimitatis (Dialogus Creaturarum).” Auctor et auctoritas in Latinis medii aevi litteris/Author and Authorship in Medieval Latin Literature: Proceedings of the VIth Congress of the International Medieval Latin Committee (Benevento-Naples, November 9-13, 2010), edited by Edoardo D’Angelo and Jan Ziolkowski, SISMEL - Edizioni di Galluzzo, 2014, pp. 199-212. Demonstrates that instead of nine manuscripts as previously thought, there instead exist 15 complete manuscripts and a fragment, and outlines these manuscripts’ relationship to one another.</p>
+				<p>Kratzmann, Gregory C, and Elizabeth Gee, editors. The Dialoges of Creatures Moralysed: A Critical Edition. Brill, 1988, pp. 1-64. Edition of the medieval English translation first published in 1530 (original author unknown), but the Introduction contains information on the translation history and dissemination of the Latin Dialogus more generally.</p>
+				<p>Schmitt, Jean-Claude. “Recueils franciscains d’exempla et perfectionnement des techniques intellectuelles du XIIIe au XVe siècle.” Bibliothèque de l’École des chartes 135, 1977, pp. 5-21. Discusses the front matter in early manuscripts of the Latin Dialogus, which contained both a list of titles and an alphabetical index of moral lessons to facilitate citation.</p>
+				<p>Rajna, Pio. “Intorno al cosiddetto Dialogus creaturarum ed al suo autore.” Giornale storico della letteratura italiana, vol. 10, 1887, pp. 75-113. Advances arguments for two possible authors: Nicolaus Pergamenus and the Milanese doctor Mayno de Mayneriis, with a strong preference for the letter, and summarises the style and contents of the Dialogus.</p>
+				<p>Ruelle, Pierre, editor. Le “Dialogue des creatures”: Traduction par Colart Mansion (1482) du “Dialogus creaturarum’’ (XIVe siècle). Classe des Lettres et des Sciences Morales et Politiques, Collections des Anciens Auteurs Belges, n.s. 8, Palais des Académies, 1985, pp. 1-80. Annotated edition of the medieval French translation by Colart Mansion, but the Introduction outlines the manuscript tradition and authorship of the Latin Dialogus.</p>
+			</notesStmt>
+			<sourceDesc>
+				<p>Nicolas de Bergame &#91;Nicolaus Pergamenus&#93;, <hi rend="italic>">Dialogus creaturarum, moralisatus, jucundus, fabulis plenus</hi>, Goudae, 1481</p>				
+				<p>Transcribed in Johann Georg Theodor Grässe,<hi rend="italic>"> Die beiden ältesten lateinischen fabelbücher des mittelalters</hi> Tübingen: Litterarischer verein in Stuttgart, 1880, pp. 276-277.</p>
+				<listWit>
+					<witness xml:id="Transcription">De homine et muliere</witness>
+					<witness xml:id="Translation">Concerning Man and Woman</witness>
+				</listWit>
+			</sourceDesc>
+		</fileDesc>
+				<encodingDesc>
+			<projectDesc>
+            	<p>"Concerning Man and Woman" is published by <hi rend="italic">The Global Medieval Sourcebook (GMS)</hi>, a free, open access, and open source compendium of medieval texts in their original languages and in English translation. <hi rend="italic">GMS</hi> comprises computer-readable transcriptions or editions alongside new translations of texts dating from the ninth to the sixteenth century and originating in Europe, North Africa, the Middle East, and Asia. The <hi rend="italic">GMS</hi> platform includes critical introductions as well as sources for further reading.</p>
+         	</projectDesc>
+			<editorialDecl>
+	        	<p>Transcriptions and translations are encoded in XML conforming to TEI (P5) guidelines. The original-language text is contained within &lt;lem&gt; tags and translations within &lt;rdg&gt; tags.</p>
+        		<interpretation>
+        			<p>Texts are translated into modern American English with maximum fidelity to the original text, except where it would impair comprehension or good style. Archaisms are preserved where they do not conflict with the aesthetic of the original text. Scribal errors and creative translation choices are marked and discussed in the critical notes.</p>
+        			<p>The source used for transcription and translation is Johann Georg Theodor Grässe’s 1880 edition, entitled Die beiden ältesten lateinischen Fabelbücher des Mittelalters: des Bischofs Cyrillus Speculum Sapientiae und des Nicolaus Pergamenus Dialogus Creaturarum (Tübingen: Literarischen Verein in Stuttgart). This edition can be accessed online <ref target="https://archive.org/details/diebeidenltesten00grss/page/n4">here.</ref>  Grässe bases his text on the 1480 edition by Gerard Leeu, which is itself most likely derived from several of the manuscript copies; for a full list, see Cardelle de Hartman and Pérez Rodríguez 2014, pp. 199-200. A late medieval printed version of the text, dating from 1481, is held at the Bibliothèque nationale de France in Paris and is available to view online <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k1519000f/f43.item">here.</ref></p>
+				</interpretation>
+				<segmentation>
+				</segmentation>
+			</editorialDecl>
+			<variantEncoding method="parallel-segmentation" location="internal"/>
+		</encodingDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<head>
+				<title>
+					<app>
+						<lem wit="#Transcription">De homine et muliere, dial. 121.</lem>
+						<rdg wit="#Translation">Concerning Man and Woman, the one hundred and twenty-first dialogue</rdg>
+					</app>
+				</title>
+			</head>
+		</front>
+		<body>
+			<p>
+				<s n="1">
+					<app>
+						<lem wit="#Transcription">﻿Homo est secundum philosophum mens incarnata, fantasma corporis, speculator vitæ, mancipium mortis, transiens viator, loci hospes, anima laboriosa, parvi temporis habitaculum.</lem>
+						<rdg wit="#Translation">According to the philosopher, Man is the mind made flesh, a phantom of time,
+							<note type="critical" anchored="true">
+								<p>
+									The critical edition here reads <hi rend="italic">“fantasma corporis”</hi>. The manuscript is very clear: <hi rend="italic">“fantasma tēporis.”</hi> 
+								</p>
+							</note>
+							 an explorer of life, a slave of death, a passing traveller, a guest of nature, a striving soul, and the receptacle of a short span of time.
+						</rdg>
+					</app>
+				</s>
+				<s n="2">
+					<app>
+						<lem wit="#Transcription">Mulier est secundum philosophum hominis confusio, insatiabilis bestia, continua sollicitudo, indeficiens pugna, humanum mancipium et viro continenti naufragium.</lem>
+						<rdg wit="#Translation">Woman is the confusion of mankind, an insatiable beast, a perpetual worry, an unceasing battle, a human slave,
+							<note type="critical" anchored="true">
+								<p>
+									In both of these asyndetic phrases, I have followed the same structure, marking the first complement with ‘the’ and the others with ‘a...a....a...’. The phrase ‘a human slave’ is somewhat inelegant but the term ‘a slave of humankind’ would be incorrect.
+								</p>
+							</note>
+						 and a shipwreck for a man with self-restraint.
+							<note type="critical" anchored="true">
+								<p>
+									‘Shipwreck’, i.e. ‘calamity’.
+								</p>
+							</note>
+						</rdg>
+					</app>
+				</s>
+				<s n="3">
+					<app>
+						<lem wit="#Transcription">Prout quidam vir castus et immaculatus quandoque habere voluit colloquium mulieris et familiaritatem, in qua illectus et illaqueatus sigillum castitatis quam cito amisit, attendens autem ad dulcedinem verbi illius et intuens pulchritudinem faciei ejus dissipatus est dicens: propter mulieres fracti multi sunt et vulnerati.</lem>
+						<rdg wit="#Translation">Once, a pure and immaculate Man wanted to have a conversation and an intimate relationship with a Woman. Seduced and ensnared, he lost his mark of chastity as quickly as possible. As he paid attention to the sweetness of her words and the beauty of her face, he fell headlong into destruction, saying, “Many men have been broken and wounded because of women."</rdg>
+					</app>
+				</s>
+				<s n="4">
+					<app>
+						<lem wit="#Transcription">Unde ait quidam: peccati forma femina est et mortis conditio.</lem>
+						<rdg wit="#Translation">Thus it is said, “Sin and death take a feminine form.”</rdg>
+					</app>
+				</s>
+				<s n="5">
+					<app>
+						<lem wit="#Transcription">Hieronimus: janua diaboli, via iniquitatis, scorpionis percussio nocivumque genus est femina.</lem>
+						<rdg wit="#Translation">Similarly, Jerome wrote, “Woman is the devil’s doorway, the path of wickedness, the sting of the scorpion, and the harmful sex.”</rdg>
+					</app>
+				</s>
+				<s n="6">
+					<app>
+						<lem wit="#Transcription">Idem: gladius igneus est species mulieris; memento, quod Thamar a fratre suo sit corrupta, memento semper, quod paradisi colonum de possessione sua ejecit mulier.</lem>
+						<rdg wit="#Translation">He also wrote, “A woman’s appearance is a fiery sword. Remember that Tamar was corrupted by her own brother; remember always that woman expelled the inhabitant of Paradise from his own lands.”</rdg>
+					</app>
+				</s>
+				<s n="7">
+					<app>
+						<lem wit="#Transcription">Quid fortius Samsone? quid sapientius Salomone? quid sanctius David?</lem>
+						<rdg wit="#Translation">Who is stronger than Samson? Who is wiser than Solomon? Who is more holy than David?
+							<note type="critical" anchored="true">
+								<p>
+									The <hi rend="italic">‘quid...quid...quid’</hi> tricolon means ‘What...what...what’, but in this case ‘who’ is preferable as the subjects are human.
+								</p>
+							</note>
+						</rdg>
+					</app>
+				</s>
+				<s n="8">
+					<app>
+						<lem wit="#Transcription">Omnes hi per feminas subversi sunt.</lem>
+						<rdg wit="#Translation">All these men were subverted by women.</rdg>
+					</app>
+				</s>
+				<s n="9">
+					<app>
+						<lem wit="#Transcription">Eccl. XXV: a muliere initium factum est peccati et per illam homines moriuntur.</lem>
+						<rdg wit="#Translation">Ecclesiastes XXV: “The beginning of sin was made by a woman, and it is because of her that men die.”</rdg>
+					</app>
+				</s>
+				<s n="10">
+					<app>
+						<lem wit="#Transcription">Unde antiqui ab ipsis se continuerunt, prout narrat Vegetius L. II<hi rend="sup()">0</hi> de continentia Alexandri, quod, cum esset ei virgo eximiae pulchritudinis tradita, cuidam principi desponsata, summa abstinentia pepercit ei, ut nec eam adspiceret, sed ad spousüm remisit, qua remissa mulieris ac principis mentes sibi reconciliavit.</lem>
+						<rdg wit="#Translation">For this reason, the ancients always abstained from women. For example, Vegetius tells us in his second book about the self-restraint of Alexander. When a maiden of remarkable beauty betrothed to another prince was brought before him, he restrained himself with the highest abstinence so that he did not even look at her, but returned her to her groom and reconciled them to one another.</rdg>
+					</app>
+				</s>
+				<s n="11">
+					<app>
+						<lem wit="#Transcription">Cui simile narrat Valerius lib. IV. cap. III de Scipione dicens, quod, cum intellexisset, quod virgo eximiæ formæ cuidam nobili desponsata esset inter obsides, qui erant apud Carthaginem, postquam Carthago fuit ab ipso capta, vocatis parentibus virginis et sponso, immaculatam virginem iis tradidit et aurum, quod pro redemtione puellæ oblatum erat, virgini in dotem sive marito in munus nuptiale dedit, per quam coutinentiam et munificientiam animos illorum sibi applicuit.</lem>
+						<rdg wit="#Translation">Valerius tells us something similar concerning Scipio in book IV chapter III. After he took Carthage, he discovered that an extremely beautiful maiden engaged to a nobleman was among the hostages of that city. Having summoned her parents, he delivered their daughter to them along with a sum of gold as her dowry or as a marriage-gift for her husband. This sum had originally been given to him for the redemption of the girl. By this act of self-restraint and generosity, he won the hearts of the Carthaginians.</rdg>
+					</app>
+				</s>
+				<s n="12">
+					<app>
+						<lem wit="#Transcription">De mira etiam continentia Xenocratis philosophi narrat Valerius eodem cap.</lem>
+						<rdg wit="#Translation">In the same chapter, Valerius describes the miraculous self-control of the philosopher Xenocrates.</rdg>
+					</app>
+				</s>
+				<s n="13">
+					<app>
+						<lem wit="#Transcription">dicens, quod apud Athenas quidam juvenes promiserunt cuidam mulieri impudicæ pecuniam sibi dare, si animum philosophi posset ad luxuriam inflectere.</lem>
+						<rdg wit="#Translation">Some young men of Athens promised money to a shameless woman if she could influence him towards decadence.</rdg>
+					</app>
+				</s>
+				<s n="14">
+					<app>
+						<lem wit="#Transcription">Quae nocte veniens juxta eum aceubuit nec in aliquo ejus continentiam labefecit et deridentibus adolescentibus, quod animum illius flectere non potuisset, respondit, quod non ad hominem sed ad statuam perrexisset.</lem>
+						<rdg wit="#Translation">That night, she came and laid down on the bed beside him. However, she could not undo his rectitude. To the youths, who mocked her for being unable to influence Xenocrates, she retorted that she had not gone to a man but to a statue.</rdg>
+					</app>
+				</s>
+				<s n="15">
+					<app>
+						<lem wit="#Transcription">Vocarunt enim pbilosophum statuam propter immobilem ejus continentiam.</lem>
+						<rdg wit="#Translation"> Indeed, they called that philosopher a statue due to his immutable self-restraint.</rdg>
+					</app>
+				</s>
+			</p>
+		</body>
+	</text>
+</TEI>

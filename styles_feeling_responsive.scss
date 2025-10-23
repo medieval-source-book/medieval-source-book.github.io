@@ -1,0 +1,48 @@
+@charset "utf-8";
+
+// Foundation 5 architecture requires @import due to circular dependencies between config files
+// and the exports mixin pattern. These @import statements will generate deprecation warnings
+// in Dart Sass 2.x but won't break until 3.0.0.
+// To fully eliminate @import warnings would require upgrading to Foundation 6+ or refactoring
+// the entire Foundation 5 codebase to use the @use module system.
+
+@import "../_sass/01_settings_colors.scss";
+@import "../_sass/02_settings_typography.scss";
+@import "../_sass/03_settings_mixins_media_queries.scss";
+@import "../_sass/04_settings_global.scss";
+@import "../_sass/05_normalize.scss";
+
+@import "../_sass/foundation-components/top-bar";
+@import "../_sass/foundation-components/accordion";
+@import "../_sass/foundation-components/alert-boxes";
+@import "../_sass/foundation-components/breadcrumbs";
+@import "../_sass/foundation-components/block-grid";
+@import "../_sass/foundation-components/button-groups";
+@import "../_sass/foundation-components/buttons";
+@import "../_sass/foundation-components/clearing";
+@import "../_sass/foundation-components/dropdown";
+@import "../_sass/foundation-components/dropdown-buttons";
+@import "../_sass/foundation-components/flex-video";
+@import "../_sass/foundation-components/forms";
+@import "../_sass/foundation-components/grid";
+
+@import "../_sass/foundation-components/inline-lists";
+@import "../_sass/foundation-components/keystrokes";
+@import "../_sass/foundation-components/panels";
+@import "../_sass/foundation-components/reveal";
+@import "../_sass/foundation-components/side-nav";
+@import "../_sass/foundation-components/sub-nav";
+@import "../_sass/foundation-components/tables";
+@import "../_sass/foundation-components/thumbs";
+@import "../_sass/foundation-components/type";
+@import "../_sass/foundation-components/visibility";
+
+@import "../_sass/06_typography.scss";
+@import "../_sass/07_layout.scss";
+@import "../_sass/09_elements.scss";
+
+@import "../_sass/10_asciidoc.scss";
+
+@import "../_sass/11_syntax-highlighting.scss";
+
+@import "../_sass/main.scss";

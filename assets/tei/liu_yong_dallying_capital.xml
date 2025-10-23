@@ -1,0 +1,233 @@
+<?xml-stylesheet href="../src/vmachine.xsl" type="text/xsl" ?><?xml-model href="../schema/vmachine.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../schema/vmachine.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!DOCTYPE TEI
+[
+<!ENTITY % Menota_entities SYSTEM
+'../menota/menota-entities.txt'   >
+%Menota_entities;]
+>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>To the tune “Like Fish and Water”&#8212;"Dallying in the capital"</title>
+				<author>Liu Yong</author>
+				<respStmt>
+					<resp>Text based on</resp>
+					<name>Tang, Guizhang 唐圭璋 (ed.). Quan Song Ci 全宋詞. Vol 1. Beijing: Zhonghua shu ju, 1965, 40.</name>
+				</respStmt>
+				<respStmt>
+					<resp>Translation by</resp>
+					<name>Qian Jia</name>
+				</respStmt>
+				<respStmt>
+					<resp>Notes by</resp>
+					<name>Nina Du</name>
+					<name>Runqi Zhang</name>
+					<name>Dante Zhu</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoded in TEI P5 XML by</resp>
+					<name>Manya Bansal</name>
+					<name>Dante Zhu</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher><hi rend="italic">The Global Medieval Sourcebook</hi></publisher>
+				<availability>
+					<p><hi rend="italic">The Global Medieval Sourcebook</hi> is licensed under a Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International License.</p>
+				</availability>
+			</publicationStmt>
+			<notesStmt>
+				<note anchored="true"></note>
+				<p>In this ci, the speaker evokes his carefree life in the capital city and reflects on his own life philosophy, rejecting the pursuit of fame and profit in favor of a hedonistic lifestyle with no consideration for reputation. Such an outlook was generally frowned upon in Imperial China, as it contravened cornerstones of Chinese culture and Confucian philosophy, including the obligation to serve the empire and the nobility of entering the political arena. However, this outlook is typical of Liu Yong’s ci, as can be seen from another in this collection: “To the tune ‘The Lost Soul’”.</p>
+				<p>Liu Yong was possibly the most widely-read ci writer in the Northern Song period, with fans ranging from courtesans to officials and critics. He excelled in writing love songs, portraying the emotions of lovelorn individuals in unprecedented detail and depth. Despite being born into a family of officials, he did not lead a successful professional life. After he failed keju, the Imperial Chinese civil service examination, he wrote the song “To the tune ‘Crane Soaring in the Sky’”, in which he claimed that ci poets are as important as prime ministers. This led the Ren Emperor of Song 宋仁宗 to personally deem him unfit for imperial service. The emperor suggested that if he really thought that way, he should just be a ci poet instead of pursuing the career of an official. The emperor went so far as to deliberately fail Liu Yong in his following attempt at the exams.</p>
+				<p>Liu Yong’s continued output of poetry, deemed frivolous, trivial and vulgar by court officials, had a lasting impact on his professional life. He did not pass the civil service exam until he was 48 years old; before that, he spent much of his time with singers and courtesans, writing ci and living a hedonistic existence. After he finally passed keju, he worked as a low rank official in several areas and sought to advance his career through the assistance of the prime minister of that time, Yan Shu, who was also a famous ci poet (and is featured in this collection). Yan Shu mocked the frivolity of Liu Yong’s lyrics and refused to assist him, and the emperor, upon learning of his attempt, commented that Liu Yong, as a ci composer, should stick to composing ci. In response to the emperor’s comment, Liu Yong, in typically rebellious fashion, began signing his ci “composer of ci by imperial decree”. He made a final attempt to salvage his career by writing a complimentary ci to the emperor, but this was regarded as offensive and the emperor stripped him of his official titles and stated that he would never be accepted back at court. From then on, he returned to his previous lifestyle, indulging in the company of singers and courtesans.</p>
+				<p>Because of his unique life experience, the sentiments expressed in Liu Yong’s ci are often very different from the views typically expressed in Chinese society at that time, with an especially cynical attitude towards serving the empire and a pronounced defense of hedonism. Nevertheless, Liu Yong’s ci were extremely popular throughout the empire, giving rise to the frequently repeated observation that “if you can see a well in a place, you can hear Liu Yong’s ci being sung there”. As every tiny town had a well, this indicates the wide reach of Liu’s lyrics.</p>
+				<p>Liu Yong is also notable for his many formal innovations to ci poetry. Before Liu, most ci were written to accompany short tunes, but he initiated a trend of writing lyrics for longer tunes, which allowed for more complex portrayals of human psychology. He was also less restrained by the tune, and often modified the traditional rhyme as well as the line breaks. For example, even when he wrote two ci to the same tune, they might sound very different from one another, with different rhymes, line lengths or numbers of lines. The tunes that Liu Yong used were also more diverse than those of his contemporaries: some were folk songs, and some he composed himself. Many of Liu Yong’s ci have a stronger narrative element, probably due to the influence of storytellers whose street performances he would have watched. Liu received considerable criticism for his focus on love and for his use of commonplace language rather than a refined poetic vocabulary, but this did little to curtail his popularity or his influence on the development of the ci genre.</p>
+				<p>Chang, Kang-i Sun. The Evolution of Tz’u Poetry: from Late Tang to Northern Sung. Princeton UP, 1980.</p>
+				<p>A standard survey of the early history of Chinese song lyrics (romanized as both ci and tz’u).</p>
+				<p>Egan, Ronald. “The Song Lyric.” The Cambridge History of Chinese Literature, vol. 1, edited by Stephen Owen, Cambridge UP, 2010, pp. 434-452.</p>
+				<p>An overview of the genre.</p>
+				<p>Owen, Stephen. Just a Song: Chinese Lyrics from the Eleventh and Early Twelfth Centuries. Asia Center, Harvard UP, 2019.</p>
+				<p>A recent new history of the genre.</p>
+				<p>Tang, Guizhang 唐圭璋, editor. Quan Song Ci 全宋詞. Zhonghua shu ju, 1965. 5 vols.</p>
+				<p>A comprehensive edition of ci from the Song dynasty and the source text for the ci  in this collection (introductions and annotations are in Chinese).</p>
+			</notesStmt>
+			<sourceDesc>
+				 <p>Text based on Tang, Guizhang 唐圭璋 (ed.). Quan Song Ci 全宋詞. Vol 1. Beijing: Zhonghua shu ju, 1965, 40.</p>
+				<listWit>
+					<witness xml:id="Transcription">如魚水</witness>
+					<witness xml:id="Translation">To the tune “Like Fish and Water”</witness>
+				</listWit>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>Transcriptions and translations are encoded in XML conforming to TEI (P5) guidelines. The original-language text is contained within &lt;lem&gt; tags and translations within &lt;rdg&gt; tags.</p>
+			<projectDesc>
+            	<p>To the tune “Like Fish and Water”&#8212;"Dallying in the capital" is part of <hi rend="italic">The Global Medieval Sourcebook</hi>, a digital compendium of medieval texts in their original languages and in English translation. This larger project comprises computer-readable transcriptions and/or editions of texts dating from the ninth to the sixteenth century, and originating in Europe, North Africa, the Middle East, and Asia; accompanied by new English translations; high-resolution digital images of manuscript/early print sources, where available; an apparatus that includes critical introductions, textual notes and annotations; and a flexible user interface with which to navigate these materials.</p>
+         	</projectDesc>
+			<editorialDecl>
+        		<interpretation>
+        			<p>The original text of this ci is based on the edition by Tang Guizhang 唐圭璋 (Quan Song Ci 全宋詞. Vol 2. Beijing: Zhonghua shu ju, 1965). Punctuation follows the edition. Since ci poetry rarely includes personal pronouns, and gender-differentiated pronouns did not exist in Classical Chinese of this period, the gender of the speaker as well as their perspective (e.g. first, second or third person) must often be deduced by the translator from context.</p>
+					<p>Texts are translated into modern English with maximum fidelity to the original text, except where it would impair comprehension or good style. Archaisms are preserved where they do not conflict with the aesthetic of the original text. Creative translation choices are marked and discussed in the critical notes.</p>
+        			<punctuation marks="all">Punctuation follows the edition.</punctuation>
+
+				</interpretation>
+				<segmentation>
+				</segmentation>
+			</editorialDecl>
+			<variantEncoding method="parallel-segmentation" location="internal"/>
+		</encodingDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<head>
+				<title type="main">
+					<app>
+						<lem wit="#Transcription">如魚水</lem>
+						<rdg wit="#Translation">To the tune “Like Fish and Water”</rdg>
+					</app>
+				</title>
+			</head>
+		</front>
+		<body>
+			<lg n="1">
+				<!--Each stanza needs its own line group <lg>-->
+				<l n="1">
+					<app>
+						<lem wit="#Transcription">帝里疏散，</lem>
+						<rdg wit="#Translation">Dallying in the capital<note type= "critical" anchored="true"><p>Refer to the capital of the Northern Song Dynasty, Bian Jing.</p></note>,</rdg>
+					</app>
+				</l>
+				<l n="2">
+					<app>
+						<lem wit="#Transcription">數載酒縈花系，</lem>
+						<rdg wit="#Translation">for years, I have been surrounded by wine and flowers<note type= "critical" anchored="true"><p>“Flowers” here refers to young women.</p></note>,</rdg>
+					</app>
+				</l>
+				<l n="3">
+					<app>
+						<lem wit="#Transcription">九陌狂遊。</lem>
+						<rdg wit="#Translation">roaming wildly in the nine avenues<note type= "critical" anchored="true"><p>During the Han Dynasty, the capital Chang’an had eight streets and nine avenues. Later the term “nine avenues” was used to refer to large urban roads more generally.</p></note>.</rdg>
+					</app>
+				</l>
+				<l n="4">
+					<app>
+						<lem wit="#Transcription">良景對珍筵惱，</lem>
+						<rdg wit="#Translation">On a beautiful day, I was irritated yet enticed<note type= "critical" anchored="true"><p>“惱” means both irritated and enticed. The irritation here is very light.</p></note> by (too many) exquisite banquets,</rdg>
+					</app>
+				</l>
+				<l n="5">
+					<app>
+						<lem wit="#Transcription">佳人自有風流。</lem>
+						<rdg wit="#Translation">(accompanied by) a beauty with special charms of her own.</rdg>
+					</app>
+				</l>
+				<l n="6">
+					<app>
+						<lem wit="#Transcription">勸瓊甌。</lem>
+						<rdg wit="#Translation">She urged me to empty the jade cups,</rdg>
+					</app>
+				</l>
+				<l n="7">
+					<app>
+						<lem wit="#Transcription">絳唇啟、</lem>
+						<rdg wit="#Translation">opened her red lips,</rdg>
+					</app>
+				</l>
+				<l n="8">
+					<app>
+						<lem wit="#Transcription">歌發清幽。</lem>
+						<rdg wit="#Translation">purity and tranquility poured from her song.</rdg>
+					</app>
+				</l>
+				<l n="9">
+					<app>
+						<lem wit="#Transcription">被舉措、</lem>
+						<rdg wit="#Translation">Because I was famous for</rdg>
+					</app>
+				</l>
+				<l n="10">
+					<app>
+						<lem wit="#Transcription">藝足才高，</lem>
+						<rdg wit="#Translation">my abundant skills and great talent,</rdg>
+					</app>
+				</l>
+				<l n="11">
+					<app>
+						<lem wit="#Transcription">在處別得艷姬留。</lem>
+						<rdg wit="#Translation">wherever I went, I was adored by other voluptuous girls.</rdg>
+					</app>
+				</l>
+			</lg>
+			<lg n="2">
+				<l n="12">
+					<app>
+						<lem wit="#Transcription">浮名利，</lem>
+						<rdg wit="#Translation">The ephemeral fame and profit&#8212;</rdg>
+					</app>
+				</l>
+				<l n="13">
+					<app>
+						<lem wit="#Transcription">擬拚休。</lem>
+						<rdg wit="#Translation">I tried hard to discard them.</rdg>
+					</app>
+				</l>
+				<l n="14">
+					<app>
+						<lem wit="#Transcription">是非莫掛心頭。</lem>
+						<rdg wit="#Translation">One should not be concerned with right and wrong.</rdg>
+					</app>
+				</l>
+				<l n="15">
+					<app>
+						<lem wit="#Transcription">富貴豈由人，</lem>
+						<rdg wit="#Translation">Fortune and esteem, how could they come as one wishes?</rdg>
+					</app>
+				</l>
+				<l n="16">
+					<app>
+						<lem wit="#Transcription">時會高志須酬。</lem>
+						<rdg wit="#Translation">The favorable time will arrive and my aspiration will be fulfilled.</rdg>
+					</app>
+				</l>
+				<l n="17">
+					<app>
+						<lem wit="#Transcription">莫閒愁。</lem>
+						<rdg wit="#Translation">I should not worry pointlessly,</rdg>
+					</app>
+				</l>
+				<l n="18">
+					<app>
+						<lem wit="#Transcription">共綠蟻、</lem>
+						<rdg wit="#Translation">but drink the green ants<note type= "critical" anchored="true"><p>“Green ants” is a literal translation. In this context it means the green bubbles that float on top of fine wine, which are as small as ants.</p></note> with her&#8212;</rdg>
+					</app>
+				</l>
+				<l n="19">
+					<app>
+						<lem wit="#Transcription">紅粉相尤。</lem>
+						<rdg wit="#Translation">fall in love with this beauty<note type= "critical" anchored="true"><p>That is, the courtesan.</p></note>.</rdg>
+					</app>
+				</l>
+				<l n="20">
+					<app>
+						<lem wit="#Transcription">向繡幄，</lem>
+						<rdg wit="#Translation">enter the embroidered canopy<note type= "critical" anchored="true"><p>That is, the courtesan’s bedroom.</p></note>,</rdg>
+					</app>
+				</l>
+				<l n="21">
+					<app>
+						<lem wit="#Transcription">醉倚芳姿睡，</lem>
+						<rdg wit="#Translation">in drunkenness, lean towards the flower-like one to sleep;</rdg>
+					</app>
+				</l>
+				<l n="22">
+					<app>
+						<lem wit="#Transcription">算除此外何求。</lem>
+						<rdg wit="#Translation">I want nothing more aside from this.</rdg>
+					</app>
+				</l>
+			</lg>
+		</body>
+	</text>
+</TEI>

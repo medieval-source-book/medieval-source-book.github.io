@@ -1,0 +1,269 @@
+<?xml-stylesheet href="../src/vmachine.xsl" type="text/xsl" ?><?xml-model href="../schema/vmachine.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../schema/vmachine.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!DOCTYPE TEI
+[
+<!ENTITY % Menota_entities SYSTEM
+'../menota/menota-entities.txt'   >
+%Menota_entities;]
+>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>"Whoever repays loyalty with falsehood"</title>
+				<author>Erhard Oeglin</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name>Christopher Hutchinson</name>
+				</respStmt>
+				<respStmt>
+					<resp>Translation by</resp>
+					<name>Christopher Hutchinson</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoded in TEI P5 XML by</resp>
+					<name>Danny Smith</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher><hi rend="italic">The Global Medieval Sourcebook</hi></publisher>
+				<availability>
+					<p><hi rend="italic">The Global Medieval Sourcebook</hi> is licensed under a Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International License.</p>
+				</availability>
+			</publicationStmt>
+			<notesStmt>
+				<p>The first printed songbook with songs primarily in German was printed in July 1512 by the Augsburg printer Erhard Oeglin (ca.1470-1520). The songbook consists of four partbooks – it is also the first German song collection with four voices throughout - and contains 49 songs with a mixture of spiritual and secular content, 43 of which are in German and 6 in Latin. Oeglin was an innovative printer, credited as one of the first printers to print musical notation using movable type and as one of the first printers of “Zeitungen” – news-sheets. Oeglin does not attribute any of the songs to particular composers but some of these songs do appear in other songbooks of this period where they are attributed to various composers active at the Imperial court, including Ludwig Senfl, Paul Hofhaimer and Heinrich Isaac. These songs are collectively known as tenor lieder, as the melody is usually carried by the tenor line. This was the prototypical song type in Germany at the turn of the sixteenth century and enjoyed particular prominence at the court of the Emperor Maximilian (1459-1519).</p>
+				<p>Digitized copies of these partbooks from the Bayerische Staatsbibliothek in Munich are available online here: https://stimmbuecher.digitale-sammlungen.de//view?id=bsb00082229</p>
+				<p>Saunders, Steven. “Music in Early Modern Germany.” Early Modern German Literature 1350-1700, edited by Max Reinhart, Camden House, 2007, pp. 653-698.</p>
+				<p>Keyl, Stephen. “Tenorlied, Discantlied, Polyphonic lied: Voices and instruments in German secular polyphony of the Renaissance.” Early Music, vol. 20, no. 3, 1992, pp. 434–445.</p>
+			</notesStmt>
+			<sourceDesc>
+				 <p>Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.46r</p>
+				<listWit>
+					<witness xml:id="Transcription">"Wer trew mit valsch vergelten wil"</witness>
+					<witness xml:id="Translation">"Whoever repays loyalty with falsehood"</witness>
+				</listWit>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+            	<p>"Whoever repays loyalty with falsehood" is published by <hi rend="italic">The Global Medieval Sourcebook (GMS)</hi>, a free, open access, and open source compendium of medieval texts in their original languages and in English translation. <hi rend="italic">GMS</hi> comprises computer-readable transcriptions or editions alongside new translations of texts dating from the ninth to the sixteenth century and originating in Europe, North Africa, the Middle East, and Asia. The <hi rend="italic">GMS</hi> platform includes critical introductions as well as sources for further reading.  
+            </p> 
+         	</projectDesc>
+			<editorialDecl>
+	        	<p>Transcriptions and translations are encoded in XML conforming to TEI (P5) guidelines. The original-language text is contained within &lt;lem&gt; tags and translations within &lt;rdg&gt; tags.</p>
+        		<interpretation>
+        			<p>Texts are translated into modern American English with maximum fidelity to the original text, except where it would impair comprehension or good style. Archaisms are preserved where they do not conflict with the aesthetic of the original text. Scribal errors and creative translation choices are marked and discussed in the critical notes.</p>
+				</interpretation>
+				<segmentation>
+				</segmentation>
+			</editorialDecl>
+			<variantEncoding method="parallel-segmentation" location="internal"/>
+		</encodingDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<head>
+				<title>
+					<app>
+						<lem wit="#Transcription"><!--Title in original language, which may be a longer form than that used elsewhere--></lem>
+						<rdg wit="#Translation"><!--Title in English, which may be a longer form than that used elsewhere--></rdg>
+					</app>
+				</title>
+			</head>
+		</front>
+		<body>
+			<p n="1">
+				<s>
+					<app>
+						<lem wit="#Transcription">Wer trew mit valsch vergelten wil /</lem>
+						<rdg wit="#Translation">Whoever repays loyalty with falsehood,</rdg>
+					</app>
+				</s>
+				<s>
+					<app>
+						<lem wit="#Transcription">der hat das spil /</lem>
+						<rdg wit="#Translation">has lost the game</rdg>
+					</app>
+				</s>
+				<s>
+					<app>
+						<lem wit="#Transcription">in aller wellt mit recht verloren /</lem>
+						<rdg wit="#Translation">for all to see, and with good reason,</rdg>
+					</app>
+				</s>
+				<s>
+					<app>
+						<lem wit="#Transcription">und kündt er schiessen noch sovil /</lem>
+						<rdg wit="#Translation">and if he could shoot even more,</rdg>
+					</app>
+				</s>
+				<s>
+					<app>
+						<lem wit="#Transcription">er trifft kayn zil /</lem>
+						<rdg wit="#Translation">he still wouldn’t hit a target:</rdg>
+					</app>
+				</s>
+				<s>
+					<app>
+						<lem wit="#Transcription">ich wolt es gult im seine oren /</lem>
+						<rdg wit="#Translation">I’d hope that it costs him his ears.</rdg>
+					</app>
+				</s>
+				<s>
+					<app>
+						<lem wit="#Transcription">prauch allen fleis / er wird mit solcher weys /</lem>
+						<rdg wit="#Translation">No matter how hard he tries,</rdg>
+					</app>
+				</s>
+				<s>
+					<app>
+						<lem wit="#Transcription">der khegel nit vil scheiben / er hat kain glückh /</lem>
+						<rdg wit="#Translation">he won't hit many pins</rdg>
+					</app>
+				</s>
+				<s>
+					<app>
+						<lem wit="#Transcription">weyl er solch tückh thůt treyben.</lem>
+						<rdg wit="#Translation">because he acts so wickedly.</rdg>
+					</app>
+				</s>
+			</p>
+			<p n="2">
+				<s>
+					<app>
+						<lem wit="#Transcription">Ich hann zwar lanng auff das gewart /</lem>
+						<rdg wit="#Translation">I’ve indeed waited a long time</rdg>
+					</app>
+				</s>
+				<s>
+					<app>
+						<lem wit="#Transcription">ob er ayn fart /</lem>
+						<rdg wit="#Translation">for him to someday</rdg>
+					</app>
+				</s>
+				<s>
+					<app>
+						<lem wit="#Transcription">trew gůttat wurd noch recht erkennen /</lem>
+						<rdg wit="#Translation">correctly understand loyalty and integrity,</rdg>
+					</app>
+				</s>
+				<s>
+					<app>
+						<lem wit="#Transcription">die mich můß ewig rewen hart /</lem>
+						<rdg wit="#Translation">which will pain me sorely forever.</rdg>
+					</app>
+				</s>
+				<s>
+					<app>
+						<lem wit="#Transcription">hyetz woll erspart /</lem>
+						<rdg wit="#Translation">Now spared this</rdg>
+					</app>
+				</s>
+				<s>
+					<app>
+						<lem wit="#Transcription">ein närrin můß ich mich selbs nennen /</lem>
+						<rdg wit="#Translation">I must call myself a foolish woman.</rdg>
+					</app>
+				</s>
+				<s>
+					<app>
+						<lem wit="#Transcription">will suchen weg /</lem>
+						<rdg wit="#Translation">I want to find a way</rdg>
+					</app>
+				</s>
+				<s>
+					<app>
+						<lem wit="#Transcription">damit ich füran pfleg /</lem>
+						<rdg wit="#Translation">to ensure</rdg>
+					</app>
+				</s>
+				<s>
+					<app>
+						<lem wit="#Transcription">der rue unnd mich verhüte /</lem>
+						<rdg wit="#Translation">a quiet life from now on and keep myself away</rdg>
+					</app>
+				</s>
+				<s>
+					<app>
+						<lem wit="#Transcription">vor solchem gwin /</lem>
+						<rdg wit="#Translation">from such a reward;</rdg>
+					</app>
+				</s>
+				<s>
+					<app>
+						<lem wit="#Transcription">das ist mein sin und gmüte.</lem>
+						<rdg wit="#Translation">this is my mind and intention.</rdg>
+					</app>
+				</s>
+			</p>
+			<p n="3">
+				<s>
+					<app>
+						<lem wit="#Transcription">Will mich wol schicken recht darein /</lem>
+						<rdg wit="#Translation">I will resign myself to this</rdg>
+					</app>
+				</s>
+				<s>
+					<app>
+						<lem wit="#Transcription">und mercken feyn /</lem>
+						<rdg wit="#Translation">and remember</rdg>
+					</app>
+				</s>
+				<s>
+					<app>
+						<lem wit="#Transcription">wie er sich than hat gen mir halten /</lem>
+						<rdg wit="#Translation">how he acted towards me;</rdg>
+					</app>
+				</s>
+				<s>
+					<app>
+						<lem wit="#Transcription">verschlossen ist das hertze mein /</lem>
+						<rdg wit="#Translation">my heart is closed off from him</rdg>
+					</app>
+				</s>
+				<s>
+					<app>
+						<lem wit="#Transcription">recht wye ayn schreyn /</lem>
+						<rdg wit="#Translation">just like a chest;</rdg>
+					</app>
+				</s>
+				<s>
+					<app>
+						<lem wit="#Transcription">vor im wil mein selbs walten /</lem>
+						<rdg wit="#Translation">I’ll take care of myself,</rdg>
+					</app>
+				</s>
+				<s>
+					<app>
+						<lem wit="#Transcription">ob kem ayn not /</lem>
+						<rdg wit="#Translation">in case I risk</rdg>
+					</app>
+				</s>
+				<s>
+					<app>
+						<lem wit="#Transcription">das ich nit fall in spot /</lem>
+						<rdg wit="#Translation">being ridiculed; [in the case] that people say</rdg>
+					</app>
+				</s>
+				<s>
+					<app>
+						<lem wit="#Transcription">von im wer ich verlassen /</lem>
+						<rdg wit="#Translation">it was him who left me!</rdg>
+					</app>
+				</s>
+				<s>
+					<app>
+						<lem wit="#Transcription">verstee gantz wol /</lem>
+						<rdg wit="#Translation">I truly know</rdg>
+					</app>
+				</s>
+				<s>
+					<app>
+						<lem wit="#Transcription">das ich mich sol / sein massen.</lem>
+						<rdg wit="#Translation">that I should stay away from him.</rdg>
+					</app>
+				</s>
+			</p>
+		</body>
+	</text>
+</TEI>
