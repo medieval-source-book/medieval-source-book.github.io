@@ -6,11 +6,11 @@
 // To fully eliminate @import warnings would require upgrading to Foundation 6+ or refactoring
 // the entire Foundation 5 codebase to use the @use module system.
 
-@import "01_settings_colors.scss";
-@import "02_settings_typography.scss";
-@import "03_settings_mixins_media_queries.scss";
-@import "04_settings_global.scss";
-@import "05_normalize.scss";
+@import "01_settings_colors";
+@import "02_settings_typography";
+@import "03_settings_mixins_media_queries";
+@import "04_settings_global";
+@import "05_normalize";
 
 @import "foundation-components/top-bar";
 @import "foundation-components/accordion";
@@ -37,12 +37,12 @@
 @import "foundation-components/type";
 @import "foundation-components/visibility";
 
-@import "06_typography.scss";
-@import "07_layout.scss";
-@import "09_elements.scss";
+@import "06_typography";
+@import "07_layout";
+@import "09_elements";
 
-@import "10_asciidoc.scss";
+@import "10_asciidoc";
 
-@import "11_syntax-highlighting.scss";
+@import "11_syntax-highlighting";
 
-@import "main.scss";
+@import "main";

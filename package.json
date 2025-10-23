@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-  "build:css": "sass --load-path=../_sass styles_feeling_responsive.scss:../assets/css/styles_feeling_responsive.css --no-source-map",
+  "build:css": "sass --load-path=_sass styles_feeling_responsive.scss:assets/css/styles_feeling_responsive.css --no-source-map",
     "start": "npm run build:css && npx @11ty/eleventy --serve --config .eleventy.js",
      "build": "npm run build:css && npm run sanitize-md && npx @11ty/eleventy --config .eleventy.js",
      "sanitize-md": "node ./scripts/sanitize-md.js"
