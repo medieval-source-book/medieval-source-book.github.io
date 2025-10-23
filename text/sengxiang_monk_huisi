@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
 
 
 
@@ -14,6 +17,7 @@
 
 
 
+</head>
 <body id="top-of-page" class="">
   
   <div class="title-surround">
@@ -226,6 +230,7 @@
     <li><strong>Author:</strong> Sengxiang</li>
     
 
+    
     <li><strong>Period:</strong>
       
         
@@ -245,21 +250,30 @@
         
           
         
+          
           <a href="/periods/8th_century/">8th Century</a>
+          
         
           
         
         
       
     </li>
+    
 
+    
     <li><a href="/assets/tei/sengxiang_monk_huisi.xml">Download TEI</a></li>
+    
+    
     <li><a href="/assets/pdf/sengxiang_monk_huisi.pdf">Download formatted PDF</a></li>
+    
+    
     <li><a href="https://purl.stanford.edu/druid">View in Stanford Digital Repository</a></li>
+    
   </ul>
 </div>
 
-  </div>
+  </div><!-- /.large-4.columns -->
   <div class="large-8 columns">
   
     <article itemscope itemtype="http://schema.org/Article">
@@ -276,16 +290,17 @@
   <img src="/assets/img/text/default.png" alt="Chen Dynasty Monk Huisi of the Great Southern Peak Hengshan | 陳南岳衡山釋慧思
 " />
   
+  <p class="caption" style="font-style: italic;">Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gilt metal on parchment over cotton. Central Asia, Sicily, or North Africa. 69 1/4 x 38 1/4 in. (175.9 x 97.2 cm). The Cloisters Collection, 1984, at the Metropolitan Museum of Art, New York. Object Number 1984.344. [https://www.metmuseum.org/art/collection/search/466119](https://www.metmuseum.org/art/collection/search/466119). [Public Domain]</p>
+  
 </div>
 
 
         <h3><a href="/assets/pdf/sengxiang_monk_huisi.pdf">Read the text (PDF)</a></h3>
-        <p>Detail from <em>Silk with Griffins</em>. 1200-1250 CE. Silk and silver-gilt metal on parchment over cotton. Central Asia, Sicily, or North Africa. 69 1/4 x 38 1/4 in. (175.9 x 97.2 cm). The Cloisters Collection, 1984, at the Metropolitan Museum of Art, New York. Object Number 1984.344. <a href="https://www.metmuseum.org/art/collection/search/466119">https://www.metmuseum.org/art/collection/search/466119</a>. [Public Domain]</p>
-
+        
       </div>
     </article>
-  </div>
-</div>
+  </div><!-- /.large-8 or .large-12.columns -->
+</div><!-- /.row -->
 
   
   
@@ -331,3 +346,4 @@ $(function(){
 </script>
 
 </body>
+</html>

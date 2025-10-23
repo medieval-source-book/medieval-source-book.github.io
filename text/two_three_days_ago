@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
 
 
 
@@ -14,6 +17,7 @@
 
 
 
+</head>
 <body id="top-of-page" class="">
   
   <div class="title-surround">
@@ -226,6 +230,7 @@
     <li><strong>Author:</strong> Anonymous</li>
     
 
+    
     <li><strong>Period:</strong>
       
         
@@ -239,7 +244,9 @@
         
           
         
+          
           <a href="/periods/15th_century/">15th Century</a>
+          
         
           
         
@@ -252,14 +259,21 @@
         
       
     </li>
+    
 
+    
     <li><a href="/assets/tei/two_three_days_ago.xml">Download TEI</a></li>
+    
+    
     <li><a href="/assets/pdf/two_three_days_ago.pdf">Download formatted PDF</a></li>
+    
+    
     <li><a href="https://purl.stanford.edu/druid">View in Stanford Digital Repository</a></li>
+    
   </ul>
 </div>
 
-  </div>
+  </div><!-- /.large-4.columns -->
   <div class="large-8 columns">
   
     <article itemscope itemtype="http://schema.org/Article">
@@ -276,23 +290,24 @@
   <img src="/assets/img/text/two_three_days_ago.png" alt="Two or three days ago | Depuis deux ou trois jours enca
 " />
   
+  <p class="caption" style="font-style: italic;">Dijon Chansonnier (Dijon, Bibliothèque Municipale, 517), f.127v (new f.130v).</p>
+  
 </div>
 
 
         <h3><a href="/assets/pdf/two_three_days_ago.pdf">Read the text (PDF)</a></h3>
-        <p>Dijon Chansonnier (Dijon, Bibliothèque Municipale, 517), f.127v (new f.130v).</p>
-<p>Depuis Deux ou trois jours enca Two or three days ago Depuis Deux ou trois jours enca / Two or three days ago Sen est alle mon doux ami my sweet love went away Sans ce quil ait parle a my / without saying anything to me. helas quy me confortera Alas, who will comfort me? Ne scay se vuel retournera I don't know whether he wants to return Mais il ma mise en grant soussi but he has made me very worried Demander le me conviendra I will have to ask A ceulx quy sont amis de luy those friends of his about it Car par ma foi je vous dis because, in faith, I say to you Quen temps mieulx con cuer ne Lama that my heart never loved him better.</p>
+        <p>Depuis Deux ou trois jours enca Two or three days ago Depuis Deux ou trois jours enca / Two or three days ago Sen est alle mon doux ami my sweet love went away Sans ce quil ait parle a my / without saying anything to me. helas quy me confortera Alas, who will comfort me? Ne scay se vuel retournera I don’t know whether he wants to return Mais il ma mise en grant soussi but he has made me very worried Demander le me conviendra I will have to ask A ceulx quy sont amis de luy those friends of his about it Car par ma foi je vous dis because, in faith, I say to you Quen temps mieulx con cuer ne Lama that my heart never loved him better.</p>
 <h2>Introduction to the Source</h2>
 <p>The song can be found in the Dijon Chansonnier (Dijon, Bibliothèque Municipale, 517), ff.127v-128r (new foliation: 130v-131r). The manuscript is available to view <a href="http://patrimoine.bm-dijon.fr/pleade/img-viewer/MS00517/viewer.html?ns=FR212316101_CITEAUX_MS00517_130_V.jpg">here</a>.</p>
-## Introduction to the Text 
+<h2>Introduction to the Text</h2>
 <p>This anonymous love song comes from a large songbook (called a 'chansonnier'), most likely compiled for a wealthy client between 1460 and 1470 CE. Although this song has no named composer, many of the other 160 songs do, and they show that this book sought to capture the latest trends in French songwriting. This song is a rondeau written for three voices, who were to sing their different parts simultaneously. The lyrical content - sorrow at separation from a lover - is typical for a medieval love song, but is somewhat unusual in that it adopts a woman's perspective.</p>
-## Credits
-Transcription by Mae Velloso-Lyons, Translation by Mae Velloso-Lyons, Encoded in TEI P5 XML by Mae Velloso-Lyons,  and Jordan Rosen-Kaplan
+<h2>Credits</h2>
+<p>Transcription by Mae Velloso-Lyons, Translation by Mae Velloso-Lyons, Encoded in TEI P5 XML by Mae Velloso-Lyons,  and Jordan Rosen-Kaplan</p>
 
       </div>
     </article>
-  </div>
-</div>
+  </div><!-- /.large-8 or .large-12.columns -->
+</div><!-- /.row -->
 
   
   
@@ -338,3 +353,4 @@ $(function(){
 </script>
 
 </body>
+</html>

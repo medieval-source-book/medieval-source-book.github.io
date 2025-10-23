@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
 
 
 
@@ -14,6 +17,7 @@
 
 
 
+</head>
 <body id="top-of-page" class="">
   
   <div class="title-surround">
@@ -226,6 +230,7 @@
     <li><strong>Author:</strong> João de Barros</li>
     
 
+    
     <li><strong>Period:</strong>
       
         
@@ -241,7 +246,9 @@
         
           
         
+          
           <a href="/periods/16th_century/">16th Century</a>
+          
         
           
         
@@ -252,14 +259,21 @@
         
       
     </li>
+    
 
+    
     <li><a href="/assets/tei/barros_first_decade_asia.xml">Download TEI</a></li>
+    
+    
     <li><a href="/assets/pdf/barros_first_decade_asia.pdf">Download formatted PDF</a></li>
+    
+    
     <li><a href="https://purl.stanford.edu/druid">View in Stanford Digital Repository</a></li>
+    
   </ul>
 </div>
 
-  </div>
+  </div><!-- /.large-4.columns -->
   <div class="large-8 columns">
   
     <article itemscope itemtype="http://schema.org/Article">
@@ -276,16 +290,17 @@
   <img src="/assets/img/text/barros_first_decade_asia.png" alt="First Decade of Asia, Chapter 1 | Primeira Década da Asia, Capitulo I
 " />
   
+  <p class="caption" style="font-style: italic;">Detail from the title page of _Asia de Joam de Barros / dos fectos que os Portugueses fizeram no descobrimento e conquista dos mares e terras do Oriente_ (Lisbon: Germão Galharde, 1552).</p>
+  
 </div>
 
 
         <h3><a href="/assets/pdf/barros_first_decade_asia.pdf">Read the text (PDF)</a></h3>
-        <p>Detail from the title page of <em>Asia de Joam de Barros / dos fectos que os Portugueses fizeram no descobrimento e conquista dos mares e terras do Oriente</em> (Lisbon: Germão Galharde, 1552).</p>
-
+        
       </div>
     </article>
-  </div>
-</div>
+  </div><!-- /.large-8 or .large-12.columns -->
+</div><!-- /.row -->
 
   
   
@@ -331,3 +346,4 @@ $(function(){
 </script>
 
 </body>
+</html>

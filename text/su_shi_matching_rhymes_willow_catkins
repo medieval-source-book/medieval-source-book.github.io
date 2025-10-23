@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
 
 
 
@@ -14,6 +17,7 @@
 
 
 
+</head>
 <body id="top-of-page" class="">
   
   <div class="title-surround">
@@ -226,12 +230,15 @@
     <li><strong>Author:</strong> Su Shi 蘇軾</li>
     
 
+    
     <li><strong>Period:</strong>
       
         
           
         
+          
           <a href="/periods/11th_century/">11th Century</a>
+          
         
           
         
@@ -252,14 +259,21 @@
         
       
     </li>
+    
 
+    
     <li><a href="/assets/tei/su_shi_matching_rhymes_willow_catkins.xml">Download TEI</a></li>
+    
+    
     <li><a href="/assets/pdf/su_shi_matching_rhymes_willow_catkins.pdf">Download formatted PDF</a></li>
+    
+    
     <li><a href="https://purl.stanford.edu/druid">View in Stanford Digital Repository</a></li>
+    
   </ul>
 </div>
 
-  </div>
+  </div><!-- /.large-4.columns -->
   <div class="large-8 columns">
   
     <article itemscope itemtype="http://schema.org/Article">
@@ -276,23 +290,24 @@
   <img src="/assets/img/text/su_shi_matching_rhymes_willow_catkins.jpg" alt="To the tune “Water Dragon Chant”—Matching the Rhymes of Zhang Zhifu’s Song about Willow Catkins | 水龍吟 · 次韻章質夫楊花詞
 " />
   
+  <p class="caption" style="font-style: italic;">“Detail from 宋人柳陰高士圖軸 (beneath the willow)”, Anonymous, National Palace Museum, Accession Number: K2A000177N000000000PAA [Public Domain]</p>
+  
 </div>
 
 
         <h3><a href="/assets/pdf/su_shi_matching_rhymes_willow_catkins.pdf">Read the text (PDF)</a></h3>
-        <p>“Detail from 宋人柳陰高士圖軸 (beneath the willow)”, Anonymous, National Palace Museum, Accession Number: K2A000177N000000000PAA [Public Domain]</p>
-<p>水龍吟 To the tune “Water Dragon Chant” 次韻章質夫楊花詞 Matching the Rhymes of Zhang Zhifu’s Song about Willow Catkins 似花還似非花 TheyRefers to the willow catkins. look like flowers but also do not look like them. 也無人惜從教墜 No one treasures them, letting them fall. 拋家傍路 They were tossed to the side of the road near home. 思量卻是 Yet, when you think about it, 無情有思 although they seem insentient, they do have thoughts. 縈損柔腸 They are the gentle heart, worn out by worries, 困酣嬌眼 drowsy charming eyes, 欲開還閉 closed again as they are just about to open. 夢隨風萬里 Their dreams ride with the wind for a thousand miles, 尋郎去處 searching for where their men have gone, 又還被鶯呼起 Yet, they are woken by the orioles. 不恨此花飛盡 I do not regret that these flowers have all flown away 恨西園 but regret that in the western garden, 落紅難綴  The fallen flowersThe literal translation of 落紅 is “fallen red”. When &quot;red&quot; is used as a noun, it often refers to flowers, so here the translator chooses to translate the phrase as “fallen flowers”. The flowers refer to the willow catkins. cannot be stitched back together. 曉來雨過 After the rain at dawn, 遺蹤何在 where are their traces now? 一池萍碎 There is a pool of shattered duckweedIt was believed that when catkins fell into water they became duckweed.. 春色三分  The spring charmRefers to the catkin. divides into three, 二分塵土 two become dust, 一分流水 one turns into flowing water. 細看來 Look at them carefully: 不是楊花 those are not willow catkins, 點點是離人淚     the little dots are the tears of leaving menThe “leaving men” here are not men willfully abandoning others, but those who are reluctant to depart..</p>
+        <p>水龍吟 To the tune “Water Dragon Chant” 次韻章質夫楊花詞 Matching the Rhymes of Zhang Zhifu’s Song about Willow Catkins 似花還似非花 TheyRefers to the willow catkins. look like flowers but also do not look like them. 也無人惜從教墜 No one treasures them, letting them fall. 拋家傍路 They were tossed to the side of the road near home. 思量卻是 Yet, when you think about it, 無情有思 although they seem insentient, they do have thoughts. 縈損柔腸 They are the gentle heart, worn out by worries, 困酣嬌眼 drowsy charming eyes, 欲開還閉 closed again as they are just about to open. 夢隨風萬里 Their dreams ride with the wind for a thousand miles, 尋郎去處 searching for where their men have gone, 又還被鶯呼起 Yet, they are woken by the orioles. 不恨此花飛盡 I do not regret that these flowers have all flown away 恨西園 but regret that in the western garden, 落紅難綴  The fallen flowersThe literal translation of 落紅 is “fallen red”. When “red” is used as a noun, it often refers to flowers, so here the translator chooses to translate the phrase as “fallen flowers”. The flowers refer to the willow catkins. cannot be stitched back together. 曉來雨過 After the rain at dawn, 遺蹤何在 where are their traces now? 一池萍碎 There is a pool of shattered duckweedIt was believed that when catkins fell into water they became duckweed… 春色三分  The spring charmRefers to the catkin. divides into three, 二分塵土 two become dust, 一分流水 one turns into flowing water. 細看來 Look at them carefully: 不是楊花 those are not willow catkins, 點點是離人淚     the little dots are the tears of leaving menThe “leaving men” here are not men willfully abandoning others, but those who are reluctant to depart…</p>
 <h2>Introduction to the Text</h2>
 <p><meta charset="utf-8" />Su Shi wrote this song as a response to a song about willow catkins by his friend, Zhang Zhifu. He uses the same rhyming schemes as Zhang Zhifu to depict the capricious nature of willow catkins. Although Su Shi is known for the bold style of his songs, this song is a good example of his facility at describing subtler images and emotions. The imagery of blown catkins (柳絮) suggests an unsettled, tragic life without a sense of belonging. Here Su Shi elaborates on these implications, but also provides new meanings for the imagery.</p> <p>The <em>ci</em> genre of Chinese poetry first emerged in the Sui dynasty (581-619), was further developed in the Tang dynasty (618-907) and matured in the Northern Song dynasty (960-1127). <em>Ci</em> is usually translated into English as "song lyrics". This is because <em>ci</em> were composed by poets to fit pre-existing tunes. The number of lines, the line lengths, and the tonal and rhythmic patterns of <em>ci</em> vary with the tunes, which number in the hundreds. One common occasion for composing <em>ci</em> would be a banquet: song lyrics would be scribbled down by guests and then sung by musical performers as entertainment. Other occasions for composing and enjoying <em>ci</em> would be more casual: the poet might sing the lyrics to himself at home or while travelling (many <em>ci</em> poets were civil servants of the Imperial Court and often had to travel great distances to carry out their work). Sometimes the lyrics would be sung by ordinary people in the same way as folk songs. This oral and musical quality sets it apart from other genres of poetry in China during the same period, which were largely written texts with more elevated objectives. There are two main types of <em>ci</em>: <em>wǎnyuē</em> (婉约, "graceful") and <em>háofàng</em> (豪放, "bold"). The <em>wǎnyuē</em> subgenre primarily focuses on emotion and many of its lyrics are about courtship and love, while the<em> háofàng</em> subgenre often deals with themes that were considered more profound by contemporary audiences, such as ageing and mortality, or the rewards and disappointments of public service.</p> <p><meta charset="utf-8" />Su Shi <meta charset="utf-8" />蘇軾 is one of the most popular Chinese poets of all time, and certainly one of the best-known poets of the Song Dynasty. Among his many roles - principled politician, esteemed poet, celebrated calligrapher - he was also a major reformer of the <em>ci</em> genre. Before Su Shi, the primary form of <em>ci</em> was <em>wǎnyuē</em> (婉约, "graceful"). This was considered to be an inferior form of literature due to its thematic focus on love and desire and its association with the courtesans who usually performed it. Su Shi wrote lyrics on a broad range of non-traditional topics, often closely related to his own life experience. His compositions dealt with themes that were considered more profound by contemporary audiences, such as ageing and mortality, or the rewards and disappointments of public service. As a pioneer of the <em>háofàng </em>(豪放, "bold") type of <em>ci</em>, he incorporated references to typically masculine pursuits, including frequent use of a hunting motif. He also frequently incorporated ideas from Buddhist philosophy and allusions to political events, which usually appeared only in more elevated forms of poetry.</p> <p dir="ltr">Although Su Shi was a highly-regarded poet during his lifetime, his political career was consistently unfortunate. In 1066, he was forced to leave the Court when he openly opposed the chancellor’s socio-economic reforms, known as the New Policies. Over the next thirteen years, he was frequently demoted, serving as prefect or sub-prefect in Hangzhou, Mizhou, Xuzhou and Huzhou. Many of his <em>ci</em> reference these postings and the exhaustion of constant travel. A report about the troubling economic conditions of local people written while he was prefect of Huzhou landed him in prison for three months. He was finally sent back to Hangzhou and given a job with no salary. Although living in poverty, he grew fond of Hangzhou and wrote many of his most famous <em>ci </em>there.</p> <p>Because of the occurrence of specific real names and locations in Su Shi's lyrics, as well as the introductory notes he wrote to accompany many of them, his lyrics often invite a biographical reading. This differentiates him from other <em>ci</em> poets featured in this collection, whose writings did not usually reference their own lives in such a direct way. Yet although Su Shi's lyrics evoke specific lived experiences, the enduring popularity of his poetry is due, in part, to the fact that diverse audiences can identify with the feelings he describes.</p>
-## Further Reading 
+<h2>Further Reading</h2>
 <p>Chang, Kang-i Sun. <em>The Evolution of Tz’u Poetry: from Late Tang to Northern Sung</em>. Princeton UP, 1980.</p> <ul> <li>A standard survey of the early history of Chinese song lyrics (romanized as both ci and tz’u).</li> </ul> <p>Egan, Ronald. “The Song Lyric.” <em>The Cambridge History of Chinese Literature</em>, vol. 1, edited by Stephen Owen, Cambridge UP, 2010, pp. 434-452.</p> <ul> <li>An overview of the genre.</li> </ul> <p>Owen, Stephen. <em>Just a Song: Chinese Lyrics from the Eleventh and Early Twelfth Centuries</em>. Asia Center, Harvard UP, 2019.</p> <ul> <li>A recent new history of the genre.</li> </ul> <p>Tang, Guizhang 唐圭璋, editor. <em>Quan Song Ci 全宋詞</em>. Zhonghua shu ju, 1965. 5 vols.</p> <ul> <li>A comprehensive edition of ci from the Song dynasty and the source text for the ci in this collection (introductions and annotations are in Chinese).</li> </ul>
-## Credits
-Text based on Tang, Guizhang 唐圭璋 (ed.). Quan Song Ci 全宋詞. Vol 1. Beijing: Zhonghua shu ju, 1965, 358., Translation by Qian Jia, Notes by Nina Du, Runqi Zhang,  and Dante Zhu, Encoded in TEI P5 XML by Manya Bansal,  and Dante Zhu
+<h2>Credits</h2>
+<p>Text based on Tang, Guizhang 唐圭璋 (ed.). Quan Song Ci 全宋詞. Vol 1. Beijing: Zhonghua shu ju, 1965, 358., Translation by Qian Jia, Notes by Nina Du, Runqi Zhang,  and Dante Zhu, Encoded in TEI P5 XML by Manya Bansal,  and Dante Zhu</p>
 
       </div>
     </article>
-  </div>
-</div>
+  </div><!-- /.large-8 or .large-12.columns -->
+</div><!-- /.row -->
 
   
   
@@ -338,3 +353,4 @@ $(function(){
 </script>
 
 </body>
+</html>

@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
 
 
 
@@ -14,6 +17,7 @@
 
 
 
+</head>
 <body id="top-of-page" class="">
   
   <div class="title-surround">
@@ -226,12 +230,15 @@
     <li><strong>Author:</strong> Liu Yong 柳永</li>
     
 
+    
     <li><strong>Period:</strong>
       
         
           
         
+          
           <a href="/periods/11th_century/">11th Century</a>
+          
         
           
         
@@ -252,14 +259,21 @@
         
       
     </li>
+    
 
+    
     <li><a href="/assets/tei/liu_yong_golden_title_board.xml">Download TEI</a></li>
+    
+    
     <li><a href="/assets/pdf/liu_yong_golden_title_board.pdf">Download formatted PDF</a></li>
+    
+    
     <li><a href="https://purl.stanford.edu/druid">View in Stanford Digital Repository</a></li>
+    
   </ul>
 </div>
 
-  </div>
+  </div><!-- /.large-4.columns -->
   <div class="large-8 columns">
   
     <article itemscope itemtype="http://schema.org/Article">
@@ -276,16 +290,17 @@
   <img src="/assets/img/text/liu_yong.jpg" alt="To the tune “Crane Soaring in the Sky”—“On the golden title board” | 鶴沖天 · 黃金榜上
 " />
   
+  <p class="caption" style="font-style: italic;">Detail from _Bridge in Snow_. Late 10th century. China. Ink and color on silk. 9 3/4 x 10 1/4 in. (24.8 x 26.0 cm). The Metropolitan Museum of Art, New York. Object Number 13.100.116. https://www.metmuseum.org/art/collection/search/51399. [Public Domain]</p>
+  
 </div>
 
 
         <h3><a href="/assets/pdf/liu_yong_golden_title_board.pdf">Read the text (PDF)</a></h3>
-        <p>Detail from <em>Bridge in Snow</em>. Late 10th century. China. Ink and color on silk. 9 3/4 x 10 1/4 in. (24.8 x 26.0 cm). The Metropolitan Museum of Art, New York. Object Number 13.100.116. https://www.metmuseum.org/art/collection/search/51399. [Public Domain]</p>
-
+        
       </div>
     </article>
-  </div>
-</div>
+  </div><!-- /.large-8 or .large-12.columns -->
+</div><!-- /.row -->
 
   
   
@@ -331,3 +346,4 @@ $(function(){
 </script>
 
 </body>
+</html>

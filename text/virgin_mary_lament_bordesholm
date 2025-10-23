@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
 
 
 
@@ -14,6 +17,7 @@
 
 
 
+</head>
 <body id="top-of-page" class="">
   
   <div class="title-surround">
@@ -226,6 +230,7 @@
     <li><strong>Author:</strong> Anonymous</li>
     
 
+    
     <li><strong>Period:</strong>
       
         
@@ -239,7 +244,9 @@
         
           
         
+          
           <a href="/periods/15th_century/">15th Century</a>
+          
         
           
         
@@ -252,14 +259,21 @@
         
       
     </li>
+    
 
+    
     <li><a href="/assets/tei/virgin_mary_lament_bordesholm.xml">Download TEI</a></li>
+    
+    
     <li><a href="/assets/pdf/virgin_mary_lament_bordesholm.pdf">Download formatted PDF</a></li>
+    
+    
     <li><a href="https://purl.stanford.edu/druid">View in Stanford Digital Repository</a></li>
+    
   </ul>
 </div>
 
-  </div>
+  </div><!-- /.large-4.columns -->
   <div class="large-8 columns">
   
     <article itemscope itemtype="http://schema.org/Article">
@@ -276,18 +290,19 @@
   <img src="/assets/img/text/virgin_mary_lament_bordesholm.png" alt="The Bordesholm Virgin Mary's Lament | Marienklage
 " />
   
+  <p class="caption" style="font-style: italic;">Bordesholmer Marienklage, f.1r [http://dibiki.ub.uni-kiel.de/viewer/image/PPN379967243/2/]</p>
+  
 </div>
 
 
         <h3><a href="/assets/pdf/virgin_mary_lament_bordesholm.pdf">Read the text (PDF)</a></h3>
-        <p>Bordesholmer Marienklage, f.1r [http://dibiki.ub.uni-kiel.de/viewer/image/PPN379967243/2/]</p>
-<h2>Credits</h2>
+        <h2>Credits</h2>
 <p>Translation by Björn Buschbeck, Kathryn Starkey, Mae Velloso-Lyons, Robert Forke, Christopher Hutchinson,  and Mareike Reisch, Encoded in TEI P5 XML by Jordan Rosen-Kaplan, Michael Widner,  and Irene Han</p>
 
       </div>
     </article>
-  </div>
-</div>
+  </div><!-- /.large-8 or .large-12.columns -->
+</div><!-- /.row -->
 
   
   
@@ -333,3 +348,4 @@ $(function(){
 </script>
 
 </body>
+</html>

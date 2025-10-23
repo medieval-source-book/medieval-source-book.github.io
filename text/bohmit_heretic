@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
 
 
 
@@ -14,6 +17,7 @@
 
 
 
+</head>
 <body id="top-of-page" class="">
   
   <div class="title-surround">
@@ -226,6 +230,7 @@
     <li><strong>Author:</strong> Anonymous</li>
     
 
+    
     <li><strong>Period:</strong>
       
         
@@ -239,7 +244,9 @@
         
           
         
+          
           <a href="/periods/15th_century/">15th Century</a>
+          
         
           
         
@@ -252,14 +259,21 @@
         
       
     </li>
+    
 
+    
     <li><a href="/assets/tei/bohmit_heretic.xml">Download TEI</a></li>
+    
+    
     <li><a href="/assets/pdf/bohmit_heretic.pdf">Download formatted PDF</a></li>
+    
+    
     <li><a href="https://purl.stanford.edu/druid">View in Stanford Digital Repository</a></li>
+    
   </ul>
 </div>
 
-  </div>
+  </div><!-- /.large-4.columns -->
   <div class="large-8 columns">
   
     <article itemscope itemtype="http://schema.org/Article">
@@ -274,12 +288,11 @@
         
 
         <h3><a href="/assets/pdf/bohmit_heretic.pdf">Read the text (PDF)</a></h3>
-        <p>Russian State Library in Moscow, Manuscript РГБ, 228.162, fol. 342r.</p>
-
+        
       </div>
     </article>
-  </div>
-</div>
+  </div><!-- /.large-8 or .large-12.columns -->
+</div><!-- /.row -->
 
   
   
@@ -325,3 +338,4 @@ $(function(){
 </script>
 
 </body>
+</html>

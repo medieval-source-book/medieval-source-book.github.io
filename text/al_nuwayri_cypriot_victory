@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
 
 
 
@@ -14,6 +17,7 @@
 
 
 
+</head>
 <body id="top-of-page" class="">
   
   <div class="title-surround">
@@ -226,6 +230,7 @@
     <li><strong>Author:</strong> Muhammad ibn Qāsim ibn Muhammad al-Nuwayrī al-Iskandarāniyy</li>
     
 
+    
     <li><strong>Period:</strong>
       
         
@@ -237,7 +242,9 @@
         
           
         
+          
           <a href="/periods/14th_century/">14th Century</a>
+          
         
           
         
@@ -252,14 +259,21 @@
         
       
     </li>
+    
 
+    
     <li><a href="/assets/tei/al_nuwayri_cypriot_victory.xml">Download TEI</a></li>
+    
+    
     <li><a href="/assets/pdf/al_nuwayri_cypriot_victory.pdf">Download formatted PDF</a></li>
+    
+    
     <li><a href="https://purl.stanford.edu/druid">View in Stanford Digital Repository</a></li>
+    
   </ul>
 </div>
 
-  </div>
+  </div><!-- /.large-4.columns -->
   <div class="large-8 columns">
   
     <article itemscope itemtype="http://schema.org/Article">
@@ -276,22 +290,23 @@
   <img src="/assets/img/text/aal_nuwayri_cypriot_victory.jpg" alt="An account of how the Cypriots gained victory over Alexandria | ذكر كيفية ظفر القبرسي بالإسكندرية
 " />
   
+  <p class="caption" style="font-style: italic;">Reis, Piri. “City of Alexandria” (illumination) Kitāb-i baḥriye. Baltimore, Walters Art Museum, MS W658. fol. 302a. [Licensed for use under Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported Access Rights]</p>
+  
 </div>
 
 
         <h3><a href="/assets/pdf/al_nuwayri_cypriot_victory.pdf">Read the text (PDF)</a></h3>
-        <p>Reis, Piri. “City of Alexandria” (illumination) Kitāb-i baḥriye. Baltimore, Walters Art Museum, MS W658. fol. 302a. [Licensed for use under Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported Access Rights]</p>
-<h2>Introduction to the Text</h2>
+        <h2>Introduction to the Text</h2>
 <p dir="ltr" id="docs-internal-guid-b89b770a-7fff-942c-ff86-c32812d455f7">This excerpt is taken from a much longer text known as the <em>Kitāb al-Ilmām bi-l-’alam fi ma jarat bihi al-aḥkām wa al-amūr al-maqḍiya fi waq’at al-Iskandariya</em> (“Book of Gleanings Related to What Happened in the Events of the Fall of Alexandria”), hereafter referred to as the <em>Kitab al-Ilmam</em>). The author is Muhammad ibn Qāsim ibn Muhammad al-Nuwayrī al-Iskandarāniyy (hereafter referred to as al-Nuwayri al-Iskandarani). The text was written prior to his death in 1372 CE / 775 H and this excerpt makes up about only two and a half percent of the total length of the extensive critical text. This excerpt of the <em>Kitāb al-Ilmām</em> provides a graphic account of the catastrophic sack of Alexandria at the hands of Cypriot and Western armies in 1365 and the selling of many Alexandrians into slavery, but as the title of the work suggests, the author gleans a significant amount of other detail from his immediate surroundings, lending this translation an intriguing, yet disturbing, character. </p> <p>Al-Nuwayri al-Iskandarani wrote in the general context of the political instability of the Bahri Mamluk period, and he explored many topics of interest to the social and cultural historian of the medieval Mediterranean. The narrative of the sack of the city cites numerous eyewitness accounts from a cast of residents of Alexandria, as it constructs a critique of the tactical choices made to protect the city against the siege. The text has much to offer literary historians, since the author was a copyist of Arabic manuscripts for the rich merchants of Alexandria and his extensive knowledge from manuscript collections makes its way into his account of the sack of Alexandria: anecdotes and citations of Arabic poetry--including an excerpt from Ibn Zaydun's famous “Nūniyya” poem at the very end--as well as poetry composed for the occasion in a variety of genres: praise, elegy and satire. The events of the raid on Alexandria are repeatedly linked to the history of early Islam and al-Andalus (for example, the battle of Uhud and the fall of Lorca), but also to fascinating interpolations on the stratagems of war from the legendary correspondence of Alexander the Great and Aristotle, including using birds as incendiary weapons and building armies of automata. In this partial translation, al-Nuwayri al-Iskandarani touches on the origin of the peoples of Alexandria, he provides vivid examples of martyrdom in the face of violence and punctuates his account with a providential explanation for the fall of the city. Particularly striking are the vivid descriptions of the material and architectural richness of the city of Alexandria, its mosques, markets and fortifications in the fourteenth century.  Maps of the medieval Arab city are rare, let alone with locations marked on them, but fol. 302a of Walters ms 658 of Piri Reis's <em>Kitāb-i baḥriye</em> gives some idea of the layout of the city from the post-raid perspective the 1550s.</p> <p>Since Atiya, the <em>Kitab al-Ilmam</em> has been known as the most significant eyewitness account in Arabic of the sack of Alexandria, and yet materials in translation from the other languages of the period of the “late crusades,” such as Turkish and Arabic are generally missing. The sack of Alexandria is but one of a number of raids led by King Peter I of Cyprus on coastal cities of the eastern Mediterranean: Korikos (1360), Antalya (1363), Alexandria (1365), Tripoli (1367), Latakia (1368). Where as Western European treatment of King Peter, as we find in Guillaume de Machaut's <em>Prise d’Alixandre</em> and Geoffrey Chaucer’s <em>Knight’s Tale </em>and <em>Monk’s Tale</em>) gloss over the violence and material greed of such raids, this translated excerpt provides readers with the unique vantage point of a Muslim perspective on the sack of Alexandria, as well as a glimpse of both intercultural contact and material culture of the period.</p>
-## Further Reading 
+<h2>Further Reading</h2>
 <p>Atiya, Aziz Souryal. <em>The Crusade in the Later Middle Ages</em>. Meuthen, 1938.</p> <ul> <li>A general monograph on the phenomenon of crusading in the 14th and 15th century, written by the editor.</li> </ul> <p>Atiya, Aziz Souryal. <em>A Fourteenth-Century Encyclopedist from Alexandria: A Critical and Analytical Study of al-Nuwayri al-Iskandarāni‟s “Kitāb al-Ilmām.”</em> U of Utah Middle East Center, 1977.</p> <ul> <li>A critical essay contextualizing the work by Al-Nuwayri al-Iskandarani within his time, written by the editor of the Kitab al-Ilmam.</li> </ul> <p>Reis, Piri. “City of Alexandria” (illumination) Kitāb-i baḥriye. Walters ms. W658. fol. 302a. <a href="https://www.thedigitalwalters.org/Data/WaltersManuscripts/html/W658/description.html">https://www.thedigitalwalters.org/Data/WaltersManuscripts/html/W658/description.html</a></p> <ul> <li>An illumination of the city of Alexandria, its ports and walls from the 1550s, as seen by the Ottomans.</li> </ul> <p>Sells, Michael, trans. “To al-Andalus Would She Return the Greeting: Ibn Zaydun's Nuniyya (Poem in N), Complete Translation.” <em>The Literature of Al-Andalus, </em>edited by Maria Rosa Menocal, Raymond P. Scheindlin, and Michael Sells. Cambridge UP, 2000, pp. 489-96.</p> <ul> <li>A translation of Ibn Zaydun's Nuniyya poem, an excerpt of which is included at the very end of the translation.</li> </ul> <p>van Steenbergen, Jo. “The Alexandrian Crusade (1365) and the Mamlūk Sources: Reassessment of the Kitāb al-Ilmām of an-Nuwairī al-Iskandarānī (D. A.D. 1372).” <em>East and West in the Crusader States: Context – Contacts – Confrontations</em> vol. 3, edited by K. Ciggar and H.G.B. Teule. Peeters, 2003, pp. 123-37.</p> <ul> <li>A comparison of Al-Nuwayri al-Iskandarani's chronicle to other Mamluk historical sources of the event.</li> </ul> <p>Wrisley, David Joseph. “Historical Narration and Digression in al-Nuwairī al-Iskandarānī's Kitāb al-Ilmām.” <em>Philippe de Mézières and His Age: Piety and Politics in the Fourteenth Century</em>, The Medieval Mediterranean: Peoples, Economies & Cultures 91. Edited by Renate Blumenfeld-Kosinski and Kiril Petkov. Brill, 2012), pp. 451-74.</p> <ul> <li>An analysis of Al-Nuwayri al-Iskandarani's use of historical digression and his framing of contemporary events within Islamic history.</li> </ul>
-## Credits
-Transcription based on Nuwayrī, Muḥammad ibn al-Qāsim al-Iskandarānī  al-, et al. كتاب الإلمام: بالإعلام فيما جرت به الأحكام والأمور المقضية في وقعة الإسكندرية. دائرة المعارف العثمانية, 1968., Translation by David Joseph Wrisley, Encoded in TEI P5 XML by Danny Smith
+<h2>Credits</h2>
+<p>Transcription based on Nuwayrī, Muḥammad ibn al-Qāsim al-Iskandarānī  al-, et al. كتاب الإلمام: بالإعلام فيما جرت به الأحكام والأمور المقضية في وقعة الإسكندرية. دائرة المعارف العثمانية, 1968., Translation by David Joseph Wrisley, Encoded in TEI P5 XML by Danny Smith</p>
 
       </div>
     </article>
-  </div>
-</div>
+  </div><!-- /.large-8 or .large-12.columns -->
+</div><!-- /.row -->
 
   
   
@@ -337,3 +352,4 @@ $(function(){
 </script>
 
 </body>
+</html>

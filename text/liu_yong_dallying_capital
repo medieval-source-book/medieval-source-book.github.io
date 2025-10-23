@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
 
 
 
@@ -14,6 +17,7 @@
 
 
 
+</head>
 <body id="top-of-page" class="">
   
   <div class="title-surround">
@@ -226,12 +230,15 @@
     <li><strong>Author:</strong> Liu Yong 柳永</li>
     
 
+    
     <li><strong>Period:</strong>
       
         
           
         
+          
           <a href="/periods/11th_century/">11th Century</a>
+          
         
           
         
@@ -252,14 +259,21 @@
         
       
     </li>
+    
 
+    
     <li><a href="/assets/tei/liu_yong_dallying_capital.xml">Download TEI</a></li>
+    
+    
     <li><a href="/assets/pdf/liu_yong_dallying_capital.pdf">Download formatted PDF</a></li>
+    
+    
     <li><a href="https://purl.stanford.edu/druid">View in Stanford Digital Repository</a></li>
+    
   </ul>
 </div>
 
-  </div>
+  </div><!-- /.large-4.columns -->
   <div class="large-8 columns">
   
     <article itemscope itemtype="http://schema.org/Article">
@@ -283,8 +297,8 @@
         
       </div>
     </article>
-  </div>
-</div>
+  </div><!-- /.large-8 or .large-12.columns -->
+</div><!-- /.row -->
 
   
   
@@ -330,3 +344,4 @@ $(function(){
 </script>
 
 </body>
+</html>
