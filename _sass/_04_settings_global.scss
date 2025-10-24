@@ -98,9 +98,9 @@ $row-width: rem-calc(1366);
 // - - - - - - - - - - - - - - - - - - - - - - - - -
 
 // We use these to define default font stacks
-$font-family-sans-serif: "Noto Sans", Helvetica, Arial, sans-serif;
-$font-family-serif: "Noto Serif Condensed", Georgia, Times, serif;
-$font-family-monospace: "Noto Mono", Monaco, monospace;
+$font-family-sans-serif: "Noto Sans", "Noto Sans Arabic", "Noto Sans SC", "Noto Sans TC", "Noto Sans JP", "Noto Sans KR", Helvetica, Arial, sans-serif;
+$font-family-serif: "Noto Serif", "Noto Serif SC", "Noto Serif TC", "Noto Serif JP", Georgia, Times, serif;
+$font-family-monospace: "Noto Sans Mono", Monaco, monospace;
 
 // We use these to define default font weights
 $font-weight-normal: normal !default;

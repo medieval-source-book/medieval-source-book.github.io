@@ -22,17 +22,11 @@ $rem-base: $base-font-size;
 // $base-line-height is 24px while $base-font-size is 16px
 $base-line-height: 1.5 !default;
 
-@include font-noto-mono();
-@include font-noto-sans-bold();
-@include font-noto-sans-light();
-@include font-noto-serif-condensed();
-@include font-noto-serif-condensed-bold();
-@include font-raleway-black();
+// Fonts loaded via Google Fonts in _head.html - no local @font-face needed
 
-
-$font-family-sans-serif: "Noto Sans", Helvetica, Arial, sans-serif;
-$font-family-serif: "Noto Serif Condensed", Georgia, Times, serif;
-$font-family-monospace: "Noto Mono", Monaco, monospace;
+$font-family-sans-serif: "Noto Sans", "Noto Sans Arabic", "Noto Sans SC", "Noto Sans TC", "Noto Sans JP", "Noto Sans KR", Helvetica, Arial, sans-serif;
+$font-family-serif: "Noto Serif", "Noto Serif SC", "Noto Serif TC", "Noto Serif JP", Georgia, Times, serif;
+$font-family-monospace: "Noto Sans Mono", Monaco, monospace;
 
 $font-family-morse: "Raleway";
 $font-weight-morse: 900;
