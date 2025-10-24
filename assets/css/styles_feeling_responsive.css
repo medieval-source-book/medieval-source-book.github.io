@@ -111,99 +111,11 @@ Modular Scale › http://www.modularscale.com//?16,36&px&1.25&web&table
  * */
 /* Fonts
 ------------------------------------------------------------------- */
-/* noto-mono */
-@import url("https://fonts.googleapis.com/css2?family=Roboto:ital@0;1&display=swap");
-@font-face {
-  font-family: "Noto Mono";
-  font-style: normal;
-  font-weight: 400;
-  src: url("../fonts/noto-mono/noto-mono-webfont.eot");
-  src: local("Noto Mono Regular"), local("Noto Mono"), url("../fonts/noto-mono/noto-mono-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/noto-mono/noto-mono-webfont.woff2") format("woff2"), url("../fonts/noto-mono/noto-mono-webfont.woff") format("woff"), url("../fonts/noto-mono/noto-mono-webfont.ttf") format("truetype"), url("../fonts/noto-mono/noto-mono-webfont.svg#Noto-Mono") format("svg");
-}
-/* noto-sans-bold - latin */
-@font-face {
-  font-family: "Noto Sans";
-  font-style: normal;
-  font-weight: 700;
-  src: url("../fonts/noto-sans-bold/noto-sans-700.eot");
-  src: local("Noto Sans Regular"), url("../fonts/noto-sans-bold/noto-sans-700.eot?#iefix") format("embedded-opentype"), url("../fonts/noto-sans-bold/noto-sans-700.woff2") format("woff2"), url("../fonts/noto-sans-bold/noto-sans-700.woff") format("woff"), url("../fonts/noto-sans-bold/noto-sans-700.ttf") format("truetype"), url("../fonts/noto-sans-bold/noto-sans-700.svg#Noto-Sans") format("svg");
-}
-/* noto-sans-bold-italic - latin */
-@font-face {
-  font-family: "Noto Sans";
-  font-style: italic;
-  font-weight: 700;
-  src: url("../fonts/noto-sans-bold/noto-sans-700italic.eot");
-  src: local("Noto Sans Italic"), url("../fonts/noto-sans-bold/noto-sans-700italic.eot?#iefix") format("embedded-opentype"), url("../fonts/noto-sans-bold/noto-sans-700italic.woff2") format("woff2"), url("../fonts/noto-sans-bold/noto-sans-700italic.woff") format("woff"), url("../fonts/noto-sans-bold/noto-sans-700italic.ttf") format("truetype"), url("../fonts/noto-sans-bold/noto-sans-700italic.svg#Noto-Sans") format("svg");
-}
-/* noto-sans-light - latin */
-@font-face {
-  font-family: "Noto Sans";
-  font-style: normal;
-  font-weight: 300;
-  src: url("../fonts/noto-sans-light/noto-sans-light-webfont.eot");
-  src: local("Noto Sans Regular"), url("../fonts/noto-sans-light/noto-sans-light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/noto-sans-light/noto-sans-light-webfont.woff2") format("woff2"), url("../fonts/noto-sans-light/noto-sans-light-webfont.woff") format("woff"), url("../fonts/noto-sans-light/noto-sans-light-webfont.ttf") format("truetype"), url("../fonts/noto-sans-light/noto-sans-light-webfont.svg#Noto-Sans") format("svg");
-}
-/* noto-sans-italic - latin */
-@font-face {
-  font-family: "Noto Sans";
-  font-style: italic;
-  font-weight: 300;
-  src: url("../fonts/noto-sans-light/noto-sans-lightitalic-webfont.eot");
-  src: local("Noto Sans Italic"), url("../fonts/noto-sans-light/noto-sans-lightitalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/noto-sans-light/noto-sans-lightitalic-webfont.woff2") format("woff2"), url("../fonts/noto-sans-light/noto-sans-lightitalic-webfont.woff") format("woff"), url("../fonts/noto-sans-light/noto-sans-lightitalic-webfont.ttf") format("truetype"), url("../fonts/noto-sans-light/noto-sans-lightitalic-webfont.svg#Noto-Sans") format("svg");
-}
-/* noto-serif-condensed - latin */
-@font-face {
-  font-family: "Noto Serif Condensed";
-  font-style: normal;
-  font-weight: 400;
-  src: url("../fonts/noto-serif-condensed/noto-serif-condensed-webfont.eot");
-  src: local("Noto Serif Condensed"), url("../fonts/noto-serif-condensed/noto-serif-condensed-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/noto-serif-condensed/noto-serif-condensed-webfont.woff2") format("woff2"), url("../fonts/noto-serif-condensed/noto-serif-condensed-webfont.woff") format("woff"), url("../fonts/noto-serif-condensed/noto-serif-condensed-webfont.ttf") format("truetype"), url("../fonts/noto-serif-condensed/noto-serif-condensed-webfont.svg#Noto-Serif-Condensed") format("svg");
-}
-/* noto-serif-condenseditalic-webfont - latin */
-@font-face {
-  font-family: "Noto Serif Condensed";
-  font-style: italic;
-  font-weight: 400;
-  src: url("../fonts/noto-serif-condensed/noto-serif-condenseditalic-webfont.eot");
-  src: local("Noto Serif Condensed Italic"), url("../fonts/noto-serif-condensed/noto-serif-condenseditalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/noto-serif-condensed/noto-serif-condenseditalic-webfont.woff2") format("woff2"), url("../fonts/noto-serif-condensed/noto-serif-condenseditalic-webfont.woff") format("woff"), url("../fonts/noto-serif-condensed/noto-serif-condenseditalic-webfont.ttf") format("truetype"), url("../fonts/noto-serif-condensed/noto-serif-condenseditalic-webfont.svg#Noto-Serif-Condensed") format("svg");
-}
-/* noto-serif-condensed-bold - latin */
-@font-face {
-  font-family: "Noto Serif Condensed";
-  font-style: normal;
-  font-weight: 700;
-  src: url("../fonts/noto-serif-condensed/noto-serif-condensedbold-webfont.eot");
-  src: local("Noto Serif Condensed Bold"), url("../fonts/noto-serif-condensed/noto-serif-condensedbold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/noto-serif-condensed/noto-serif-condensedbold-webfont.woff2") format("woff2"), url("../fonts/noto-serif-condensed/noto-serif-condensedbold-webfont.woff") format("woff"), url("../fonts/noto-serif-condensed/noto-serif-condensedbold-webfont.ttf") format("truetype"), url("../fonts/noto-serif-condensed/noto-serif-condensedbold-webfont.svg#Noto-Serif-Condensed") format("svg");
-}
-/* noto-serif-condensed-bold-italic - latin */
-@font-face {
-  font-family: "Noto Serif Condensed";
-  font-style: italic;
-  font-weight: 700;
-  src: url("../fonts/noto-serif-condensed/noto-serif-condensedbolditalic-webfont.eot");
-  src: local("Noto Serif Condensed Bold Italic"), url("../fonts/noto-serif-condensed/noto-serif-condensedbolditalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/noto-serif-condensed/noto-serif-condensedbolditalic-webfont.woff2") format("woff2"), url("../fonts/noto-serif-condensed/noto-serif-condensedbolditalic-webfont.woff") format("woff"), url("../fonts/noto-serif-condensed/noto-serif-condensedbolditalic-webfont.ttf") format("truetype"), url("../fonts/noto-serif-condensed/noto-serif-condensedbolditalic-webfont.svg#Noto-Serif-Condensed") format("svg");
-}
-/* raleway - latin */
-@font-face {
-  font-family: "Raleway";
-  font-style: normal;
-  font-weight: 900;
-  src: url("../fonts/raleway-black/raleway-900-webfont.eot");
-  src: local("Raleway Regular"), url("../fonts/raleway-black/raleway-900-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/raleway-black/raleway-900-webfont.woff2") format("woff2"), url("../fonts/raleway-black/raleway-900-webfont.woff") format("woff"), url("../fonts/raleway-black/raleway-900-webfont.ttf") format("truetype"), url("../fonts/raleway-black/raleway-900-webfont.svg#Raleway") format("svg");
-}
-/* raleway-900italic-webfont - latin */
-@font-face {
-  font-family: "Raleway";
-  font-style: italic;
-  font-weight: 900;
-  src: url("../fonts/raleway-black/raleway-900italic-webfont.eot");
-  src: local("Raleway Italic"), url("../fonts/raleway-black/raleway-900italic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/raleway-black/raleway-900italic-webfont.woff2") format("woff2"), url("../fonts/raleway-black/raleway-900italic-webfont.woff") format("woff"), url("../fonts/raleway-black/raleway-900italic-webfont.ttf") format("truetype"), url("../fonts/raleway-black/raleway-900italic-webfont.svg#Raleway") format("svg");
-}
 /* Font Weight
 ------------------------------------------------------------------- */
 /* Font Size Variables
 ------------------------------------------------------------------- */
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital@0;1&display=swap");
 .font-size-h1 {
   font-size: 2.441em;
 }
@@ -303,7 +215,7 @@ body {
   color: #000;
   padding: 0;
   margin: 0;
-  font-family: "Noto Sans", Helvetica, Arial, sans-serif;
+  font-family: "Noto Sans", "Noto Sans Arabic", "Noto Sans SC", "Noto Sans TC", "Noto Sans JP", "Noto Sans KR", Helvetica, Arial, sans-serif;
   font-weight: normal;
   font-style: normal;
   line-height: 1.5;
@@ -1812,7 +1724,7 @@ button, .button {
   border-style: solid;
   border-width: 1px;
   cursor: pointer;
-  font-family: "Noto Sans", Helvetica, Arial, sans-serif;
+  font-family: "Noto Sans", "Noto Sans Arabic", "Noto Sans SC", "Noto Sans TC", "Noto Sans JP", "Noto Sans KR", Helvetica, Arial, sans-serif;
   font-weight: normal;
   line-height: normal;
   margin: 0 0 1.25rem;
@@ -2371,7 +2283,7 @@ select {
   border-color: #cccccc;
   padding: 0.5rem;
   font-size: 0.875rem;
-  font-family: "Noto Sans", Helvetica, Arial, sans-serif;
+  font-family: "Noto Sans", "Noto Sans Arabic", "Noto Sans SC", "Noto Sans TC", "Noto Sans JP", "Noto Sans KR", Helvetica, Arial, sans-serif;
   color: rgba(0, 0, 0, 0.75);
   line-height: normal;
   border-radius: 0;
@@ -2685,7 +2597,7 @@ meta.foundation-mq-topbar {
   color: #000;
   padding: 15px 0 15px 0;
   padding-left: 0.78125rem;
-  font-family: "Noto Mono", Monaco, monospace;
+  font-family: "Noto Sans Mono", Monaco, monospace;
   font-size: 0.78125rem;
   font-weight: normal;
 }
@@ -2842,14 +2754,14 @@ meta.foundation-mq-topbar {
   width: 0;
   height: 0;
   position: absolute;
-  font-family: "Noto Mono", Monaco, monospace;
+  font-family: "Noto Sans Mono", Monaco, monospace;
 }
 .top-bar-section ul li.alternateprefix > a:before {
   display: block;
   width: 0;
   height: 0;
   position: absolute;
-  font-family: "Noto Mono", Monaco, monospace;
+  font-family: "Noto Sans Mono", Monaco, monospace;
 }
 .top-bar-section .has-form {
   padding: 0.78125rem;
@@ -2862,7 +2774,7 @@ meta.foundation-mq-topbar {
   width: 0;
   height: 0;
   position: absolute;
-  font-family: "Noto Mono", Monaco, monospace;
+  font-family: "Noto Sans Mono", Monaco, monospace;
   left: 0.3rem;
   top: 0;
 }
@@ -3198,7 +3110,7 @@ meta.foundation-mq-topbar {
   color: #222222;
   padding: 0.75rem;
   display: block;
-  font-family: "Noto Sans", Helvetica, Arial, sans-serif;
+  font-family: "Noto Sans", "Noto Sans Arabic", "Noto Sans SC", "Noto Sans TC", "Noto Sans JP", "Noto Sans KR", Helvetica, Arial, sans-serif;
   font-size: 1rem;
 }
 .accordion .accordion-navigation > a:hover, .accordion dd > a:hover {
@@ -3291,7 +3203,7 @@ meta.foundation-mq-topbar {
   font-size: 0.875rem;
   text-transform: none;
   color: #BB0000;
-  font-family: "Noto Mono", Monaco, monospace;
+  font-family: "Noto Sans Mono", Monaco, monospace;
 }
 .breadcrumbs > *:hover a, .breadcrumbs > *:focus a {
   text-decoration: none;
@@ -5041,7 +4953,7 @@ dialog[open] {
   padding: 0 0 0 0;
   list-style-type: none;
   list-style-position: outside;
-  font-family: "Noto Sans", Helvetica, Arial, sans-serif;
+  font-family: "Noto Sans", "Noto Sans Arabic", "Noto Sans SC", "Noto Sans TC", "Noto Sans JP", "Noto Sans KR", Helvetica, Arial, sans-serif;
 }
 .side-nav li {
   margin: 0 0 0 0;
@@ -5061,7 +4973,7 @@ dialog[open] {
 .side-nav li.active > a:first-child:not(.button) {
   color: black;
   font-weight: normal;
-  font-family: "Noto Sans", Helvetica, Arial, sans-serif;
+  font-family: "Noto Sans", "Noto Sans Arabic", "Noto Sans SC", "Noto Sans TC", "Noto Sans JP", "Noto Sans KR", Helvetica, Arial, sans-serif;
 }
 .side-nav li.divider {
   border-top: 1px solid;
@@ -5094,7 +5006,7 @@ dialog[open] {
   display: inline;
   margin-left: 1rem;
   margin-bottom: 0;
-  font-family: "Noto Sans", Helvetica, Arial, sans-serif;
+  font-family: "Noto Sans", "Noto Sans Arabic", "Noto Sans SC", "Noto Sans TC", "Noto Sans JP", "Noto Sans KR", Helvetica, Arial, sans-serif;
   font-weight: normal;
   font-size: 0.875rem;
   color: #999999;
@@ -5412,7 +5324,7 @@ p aside {
 
 /* Default header styles */
 h1, h2, h3, .sidebarblock > .content > .title, h4, h5, h6 {
-  font-family: "Noto Serif Condensed", Georgia, Times, serif;
+  font-family: "Noto Serif", "Noto Serif SC", "Noto Serif TC", "Noto Serif JP", Georgia, Times, serif;
   font-weight: normal;
   font-style: normal;
   color: #222222;
@@ -5486,7 +5398,7 @@ small {
 }
 
 code {
-  font-family: "Noto Mono", Monaco, monospace;
+  font-family: "Noto Sans Mono", Monaco, monospace;
   font-weight: normal;
   color: #333333;
   background-color: rgb(255, 158.1, 158.1);
@@ -6178,7 +6090,7 @@ p.button a {
 /* Headlines
 ------------------------------------------------------------------- */
 h1, h2, h3, .sidebarblock > .content > .title, h4, h5, h6 {
-  font-family: "Noto Serif Condensed", Georgia, Times, serif;
+  font-family: "Noto Serif", "Noto Serif SC", "Noto Serif TC", "Noto Serif JP", Georgia, Times, serif;
   font-weight: normal;
   padding: 0;
   margin-top: 0;
@@ -6190,7 +6102,7 @@ h1 {
 
 h2 {
   font-size: 1.953em;
-  font-family: "Noto Sans", Helvetica, Arial, sans-serif;
+  font-family: "Noto Sans", "Noto Sans Arabic", "Noto Sans SC", "Noto Sans TC", "Noto Sans JP", "Noto Sans KR", Helvetica, Arial, sans-serif;
   font-weight: bold;
 }
 
@@ -6200,7 +6112,7 @@ h2 {
 
 h3, .sidebarblock > .content > .title {
   font-size: 1.563em;
-  font-family: "Noto Sans", Helvetica, Arial, sans-serif;
+  font-family: "Noto Sans", "Noto Sans Arabic", "Noto Sans SC", "Noto Sans TC", "Noto Sans JP", "Noto Sans KR", Helvetica, Arial, sans-serif;
   font-weight: bold;
   text-transform: uppercase;
 }
@@ -6212,13 +6124,13 @@ h4 {
 
 h5 {
   font-size: 1.152em;
-  font-family: "Noto Mono", Monaco, monospace;
+  font-family: "Noto Sans Mono", Monaco, monospace;
   text-decoration: underline;
 }
 
 h6 {
   font-size: 1.08em;
-  font-family: "Noto Sans", Helvetica, Arial, sans-serif;
+  font-family: "Noto Sans", "Noto Sans Arabic", "Noto Sans SC", "Noto Sans TC", "Noto Sans JP", "Noto Sans KR", Helvetica, Arial, sans-serif;
   font-weight: bold;
 }
 
@@ -6258,7 +6170,7 @@ figure {
 figcaption,
 .masthead-caption {
   color: #575757;
-  font-family: "Noto Sans", Helvetica, Arial, sans-serif;
+  font-family: "Noto Sans", "Noto Sans Arabic", "Noto Sans SC", "Noto Sans TC", "Noto Sans JP", "Noto Sans KR", Helvetica, Arial, sans-serif;
   font-size: 0.8125rem;
   padding-top: 0.125rem;
 }
@@ -6439,11 +6351,11 @@ mark {
 /* Additional typographical elements
 ------------------------------------------------------------------- */
 .sans {
-  font-family: "Noto Sans", Helvetica, Arial, sans-serif;
+  font-family: "Noto Sans", "Noto Sans Arabic", "Noto Sans SC", "Noto Sans TC", "Noto Sans JP", "Noto Sans KR", Helvetica, Arial, sans-serif;
 }
 
 .serif {
-  font-family: "Noto Serif Condensed", Georgia, Times, serif;
+  font-family: "Noto Serif", "Noto Serif SC", "Noto Serif TC", "Noto Serif JP", Georgia, Times, serif;
 }
 
 .font-size-h1 {
@@ -6856,7 +6768,7 @@ body.video #masthead-no-image-header {
 #masthead-with-text {
   text-align: center;
   font-size: 3.375rem;
-  font-family: "Noto Serif Condensed", Georgia, Times, serif;
+  font-family: "Noto Serif", "Noto Serif SC", "Noto Serif TC", "Noto Serif JP", Georgia, Times, serif;
   color: #fff;
   text-transform: uppercase;
   text-shadow: 0 2px 3px rgba(0, 0, 0, 0.4);
@@ -7231,7 +7143,7 @@ body.video #masthead-no-image-header {
 /* Alerts
 ------------------------------------------------------------------- */
 .alert-box {
-  font-family: "Noto Sans", Helvetica, Arial, sans-serif;
+  font-family: "Noto Sans", "Noto Sans Arabic", "Noto Sans SC", "Noto Sans TC", "Noto Sans JP", "Noto Sans KR", Helvetica, Arial, sans-serif;
   text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.9);
 }
 
@@ -7253,7 +7165,7 @@ body.video #masthead-no-image-header {
   background: #3E3E3E;
   color: #fff;
   border-color: rgb(53.32, 53.32, 53.32);
-  font-family: "Noto Mono", Monaco, monospace;
+  font-family: "Noto Sans Mono", Monaco, monospace;
 }
 
 .alert-box.terminal::before {
@@ -7382,7 +7294,7 @@ img.lazy {
 pre, pre > code {
   line-height: 1.5;
   color: #333333;
-  font-family: "Noto Mono", Monaco, monospace;
+  font-family: "Noto Sans Mono", Monaco, monospace;
   font-weight: normal;
   text-rendering: optimal;
 }
@@ -7413,7 +7325,7 @@ code {
 }
 
 kbd {
-  font-family: "Noto Mono", Monaco, monospace;
+  font-family: "Noto Sans Mono", Monaco, monospace;
   display: inline-block;
   color: #000;
   font-size: 0.65em;
@@ -7512,7 +7424,7 @@ table.tableblock > .title,
 }
 .admonitionblock > table td.icon .title {
   font-weight: bold;
-  font-family: "Noto Serif Condensed", Georgia, Times, serif;
+  font-family: "Noto Serif", "Noto Serif SC", "Noto Serif TC", "Noto Serif JP", Georgia, Times, serif;
   text-transform: uppercase;
 }
 .admonitionblock > table td.content {
