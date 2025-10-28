@@ -17,15 +17,11 @@ textauthor: Liu Yong 柳永
 languages: [chinese]
 periods: [11th_century]
 textcollections: [love-songs, love-lust-longing]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/vx274mv8173
 image: /assets/img/text/liu_yong.jpg
 thumb: /assets/img/text/liu_yong-thumb.jpg
 imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and color on silk. 9 3/4 x 10 1/4 in. (24.8 x 26.0 cm). The Metropolitan Museum of Art, New York. Object Number 13.100.116. https://www.metmuseum.org/art/collection/search/51399. [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>This song is written from a woman’s perspective and evokes the regret and sadness that she has felt since her lover’s unexpected departure. In the first stanza, the poet laments the coincidence of the end of spring and the end of her romantic happiness. The poignant brevity of the beauty of the spring season is a common trope in ci poetry, used to express the idea that “all good things must come to an end”.</p>
 

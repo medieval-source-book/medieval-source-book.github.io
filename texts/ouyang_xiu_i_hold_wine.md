@@ -17,15 +17,11 @@ textauthor: Ouyang Xiu 歐陽修
 languages: [chinese]
 periods: [11th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/mr400hk1673
 image: /assets/img/text/ouyang_xiu_i_hold_wine.jpg
 thumb: /assets/img/text/ouyang_xiu_i_hold_wine-thumb.jpg
 imagesource: "Detail from 宋人洛陽耆英會圖(Wise Men Talking Together) 軸 , Anonymous,  National Palace Museum, Accession Number: K2A000173N000000000PAA [Public Domain]]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>Ouyang Xiu composed this song lyric when he and his friends revisited their old haunts in the northern suburbs of Luoy- ang during springtime. The time frame depicted spans the previous year, the current year and the year ahead. The lyrics convey sadness about the inconstancy of life and the inevitable passing of time.</p>
 

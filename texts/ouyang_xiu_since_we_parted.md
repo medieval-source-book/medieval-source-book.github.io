@@ -17,15 +17,11 @@ textauthor: Ouyang Xiu 歐陽修
 languages: [chinese]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/yp092nr5057
 image: /assets/img/text/ouyang_xiu_since_we_parted.jpg
 thumb: /assets/img/text/ouyang_xiu_since_we_parted-thumb.jpg
 imagesource: "Detail from 宋夏珪真蹟(Two Men Talking) 卷 , 夏珪,  National Palace Museum, Accession Number: K2A000996N000000000PAA [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>This song lyric conveys the sorrow of a woman whose faraway lover rarely contacts her. (The fish mentioned in the first stanza is a reference to a legend about a fish bringing a letter from a distant loved one.)The lines convey her desperate sadness at losing touch and her impression that the natural world shares her emotions.</p>
 

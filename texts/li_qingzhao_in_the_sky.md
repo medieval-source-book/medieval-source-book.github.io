@@ -17,15 +17,11 @@ textauthor: Li Qingzhao 李清照
 languages: [chinese]
 periods: [12th_century]
 textcollections: [love-lust-longing, love-songs]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/vx521th6365
 image: /assets/img/text/li_qingzhao_in_the_sky.png
 thumb: /assets/img/text/li_qingzhao_in_the_sky-thumb.png
 imagesource: "Detail from 宋牟益擣衣圖(Women) 卷, 牟益, National Palace Museum, Accession Number: K2A000999N000000000PAH [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>This melancholic <i> ci </i> evokes the speaker’s sorrow, contrasting her tumultuous inner world and time-worn domestic space with the serene and dispassionate universe beyond. The imagery of garments emphasizes that it is a woman’s experience which is being captured here.</p>
 

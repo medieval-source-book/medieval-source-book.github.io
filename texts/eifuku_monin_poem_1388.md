@@ -17,15 +17,11 @@ textauthor: Eifuku Mon'in 永福門院
 languages: [japanese]
 periods: [14th_century]
 textcollections: [love-songs, gender-sex-sensuality]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/fk792gp6900
 image: /assets/img/text/eifuku_monin_poem_1388.jpg
 thumb: /assets/img/text/eifuku_monin_poem_1388-thumb.jpg
 imagesource: "Detail from Geese and Reeds, Tesshū Tokusai, Late 14th C., Hanging scroll; ink on paper, Metropolitan Museum of Art, Mary Griggs Burke Collection, Gift of the Mary and Jackson Burke Foundation, 2015 [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>Eifuku Mon’in (1271-1342), or Ex-empress Eifuku (also known as Saionji Kyōko), was born into the noble Saionji family. Along with her husband, Emperor Fushimi (1265-1317), she would prove to be one of the most important leaders in the development of <i> waka </i> poetry in the late Kamakura (1185-1333) and Nanbokuchō periods (1336-1392). The term <i> waka </i> (meaning literally “Japanese poem”) once described a variety of sub-forms of Japanese poetry, but by the time Eifuku Mon’in was writing, it had come to primarily signify the sub-form <i> tanka</i> , which consists of sylla- bles in a pattern of 5-7-5-7-7.</p>
 

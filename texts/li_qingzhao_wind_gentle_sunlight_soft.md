@@ -17,15 +17,11 @@ textauthor: Li Qingzhao 李清照
 languages: [chinese]
 periods: [12th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/pw390vs0133
 image: /assets/img/text/li_qingzhao_wind_gentle_sunlight_soft.png
 thumb: /assets/img/text/li_qingzhao_wind_gentle_sunlight_soft-thumb.png
 imagesource: "Detail from 宋高宗書女孝經馬和之補圖上卷(Women Gathering) 卷, 馬和之, 趙構, National Palalce Museum, Accession Number: K2A001100N000000000PBB [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>This is one of Li Qingzhao’s last works. She composed it when she had already moved to the south in her later life, and it captures her struggle with homesickness.</p>
 

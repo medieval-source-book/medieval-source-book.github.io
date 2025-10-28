@@ -17,15 +17,11 @@ textauthor: Su Shi 蘇軾
 languages: [chinese]
 periods: [11th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/dh674wg3267
 image: /assets/img/text/su_shi_matching_rhymes_willow_catkins.jpg
 thumb: /assets/img/text/su_shi_matching_rhymes_willow_catkins-thumb.jpg
 imagesource: "“Detail from 宋人柳陰高士圖軸 (beneath the willow)”, Anonymous, National Palace Museum, Accession Number: K2A000177N000000000PAA [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>Su Shi wrote this song as a response to a song about willow catkins by his friend, Zhang Zhifu. He uses the same rhyming schemes as Zhang Zhifu to depict the capricious nature of willow catkins. Although Su Shi is known for the bold style of his songs, this song is a good example of his facility at describing subtler images and emotions. The imagery of blown catkins (<em>柳絮</em> ) suggests an unsettled, tragic life without a sense of belonging. Here Su Shi elaborates on these implica- tions, but also provides new meanings for the imagery.</p>
 

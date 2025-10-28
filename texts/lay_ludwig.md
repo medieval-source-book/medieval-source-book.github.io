@@ -17,15 +17,11 @@ textauthor: Anonymous
 languages: [german]
 periods: [9th_century]
 textcollections: [hymns-and-histories, making-history, prayer-spirituality]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/gt005nj9609
 image: /assets/img/text/lay_ludwig.jpg
 thumb: /assets/img/text/lay_ludwig-thumb.jpg
 imagesource: "Image in Public Domain"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>Das Ludwigslied (or the Lay of Ludwig) is a historical narrative poem consisting of 59 rhyming couplets. It chroni- cles the life of Ludwig (Louis III of France), and his personal relationship with God, culminating in the victory of the Franks over the Vikings at the Battle of Saucourt-en-Vimeu, which took place in August of 881 CE. The poem has prominent Christian themes, and portrays God as playing an active role in human events, both sending the Vikings to punish the Franks and convincing Ludwig to lead the Frankish army against the invaders. The author of the text is unknown, but was likely a monk at the Frankish monastery of Saint-Amand, in what is now Belgium. Another text in the same manuscript was written by the same scribe in Old French, implying that he may have come from Germany and been multilingual. Ludwig died only one year after the battle chronicled in the poem, yet the poem makes no mention of his death and refers to him as though he is still alive, leading many scholars to conclude that the poem was written in the intervening year (881-882 CE).</p>
 

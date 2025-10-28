@@ -17,15 +17,11 @@ textauthor: Yan Jidao 晏幾道
 languages: [chinese]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/wk343xs3767
 image: /assets/img/text/yan_jidao_green_shades.jpg
 thumb: /assets/img/text/yan_jidao_green_shades-thumb.jpg
 imagesource: "Detail from 宋法常寫生卷 (flower)\", 法常, National Palace Museum, Accession Number: K2A000989N000000000PAG [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>In this <i> ci</i> , Yan Jidao adopts the perspective of a young woman longing for her lover. The poet creates an intimate scene through the careful depiction of details―the woman painting her eyebrows, writing songs, and compulsively rereading the letters from her lover while alone in her chamber.</p>
 

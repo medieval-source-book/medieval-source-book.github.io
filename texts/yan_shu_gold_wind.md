@@ -17,15 +17,11 @@ textauthor: Yan Shu 晏殊
 languages: [chinese]
 periods: [11th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/hb663ys4009
 image: /assets/img/text/yan_shu_gold_wind.jpg
 thumb: /assets/img/text/yan_shu_gold_wind-thumb.jpg
 imagesource: "Detail from 宋郭忠恕山水圖(Narrow Road)軸, 郭忠恕, National Palace Museum, Accesion Number: K2A001791N000000000PAA [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>By presenting autumn tropes and images that evoke the natural processes of decay, this song conveys the speaker’s feel- ings of loss and loneliness. Many readers may assume that the person being described is female, but there is really no un- mistakable mark of this. A “gold” (or “metallic”) wind is the west wind, the wind of autumn, owing to associations between elements, directions, and seasons. The ”silver screen” in the last line is the screen that stands before the speaker’s bed.</p>
 

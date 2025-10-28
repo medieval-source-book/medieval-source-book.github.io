@@ -17,15 +17,11 @@ textauthor: Fesneau/Agricola [att.]
 languages: [french]
 periods: [15th_century]
 textcollections: [love-songs]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/cr338fw5858
 image: /assets/img/text/fesneau_agricola_oh_how_troubles_me.png
 thumb: /assets/img/text/fesneau_agricola_oh_how_troubles_me-thumb.png
 imagesource: "British Library MS King's 322 f.1 [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h1>Introduction to the Text</h1>
 <p>This fifteenth-century love song is a virelai for three voices. Although it draws on a common theme for French songs of this period—the heartache of someone whose lover is absent—it is somewhat unusual that it is written from a woman’s perspective.</p>
 

@@ -17,15 +17,11 @@ textauthor: Poggio Bracciolini
 languages: [latin]
 periods: [15th_century]
 textcollections: [facetiae-jokes, prank-or-be-pranked]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/ww555hr8382
 image: /assets/img/text/bracciolini_joke_27.jpg
 thumb: /assets/img/text/bracciolini_joke_27-thumb.jpg
 imagesource: "Pregnant Woman, detail from Limbourg Brothers, September from Les Très Riches Heures du duc de Berry, Chantilly, Musée Condé Ms.65, f.9v"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>Gian Francesco Poggio Bracciolini (commonly referred to as simply Poggio Bracciolini) was born in Terranuova (Tuscany) in 1380. He died in Florence in 1459 at the age of seventy-nine. During his long life this early and import- ant humanist had an equally long career at the Papal curia. In the service of a sequence of popes he lived in Rome, travelled with the papal court all across Italy and the rest of Europe.</p>
 

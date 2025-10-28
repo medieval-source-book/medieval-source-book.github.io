@@ -17,15 +17,11 @@ textauthor: Su Shi 蘇軾
 languages: [chinese]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/ny539by5140
 image: /assets/img/text/su_shi_moon_shines_brightly_frost.jpg
 thumb: /assets/img/text/su_shi_moon_shines_brightly_frost-thumb.jpg
 imagesource: "“Detail from 宋范安仁魚藻圖卷 (fish)”, 范安仁, National Palace Museum, Accession Number: K2A000998N000000000PAE [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>In 1078 CE, the poet was the Prefect of Xuzhou. The poem was written when he spent a night in the Swallow Tower, one of the five most famous towers in Xuzhou, and dreamt about Guan Panpan, a courtesan who dwelt in Swallow Tower during the Tang Dynasty (618-907 CE). Su Shi had an unfortunate political career, during which he was often exiled and reassigned. His feelings about this can be seen in the first three lines of the second stanza, in which the poet expresses his exhaustion from all the travelling required by his constant reassignments, as well as his longing for his hometown. This world-weariness spurs philosophical reflections on life, which he regards as dream-like and illusory. The sentiment that all lived experience is a dream strongly connotes Buddhist thought, specifically one of the Buddist classic texts, the <i> Diamond Sutra</i> .</p>
 

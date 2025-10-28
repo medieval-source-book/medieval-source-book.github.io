@@ -17,15 +17,11 @@ textauthor: Li Qingzhao 李清照
 languages: [chinese]
 periods: [12th_century]
 textcollections: [love-lust-longing, love-songs]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/tr778bf0689
 image: /assets/img/text/li_qingzhao_who_planted_banana_trees.png
 thumb: /assets/img/text/li_qingzhao_who_planted_banana_trees-thumb.png
 imagesource: "Detail from 明文徵明蕉陰仕女圖(Banana Tree) 軸, 文徵明, National Palace Museum, Accession Number: K2A001339N000000000PAA [Public Domian]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>In this <i> ci</i> , Li Qingzhao employs the image of banana trees to obliquely convey the speaker’s state of mind. In the first stanza, she considers their visual impact: how the trees block the sunlight; the way their leaves resemble hearts. The speaker’s own heartbreak is signalled at the start of the second stanza, in which the poet evokes the sound of rain dripping from the banana leaves and the discontent that it provokes. The characterization of the speaker as a “northerner” suggests that this <i> ci </i> may be conveying the poet’s own feelings: she was forced to migrate to the south following the conquest of Kaifeng and the collapse of the Northern Song Dynasty.</p>
 

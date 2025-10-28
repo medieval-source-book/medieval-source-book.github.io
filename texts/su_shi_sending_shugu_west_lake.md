@@ -17,15 +17,11 @@ textauthor: Su Shi 蘇軾
 languages: [chinese]
 periods: [11th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/td172pb8550
 image: /assets/img/text/su_shi_sending_shugu_west_lake.jpg
 thumb: /assets/img/text/su_shi_sending_shugu_west_lake-thumb.jpg
 imagesource: "“Detail from 宋錢選蘭亭觀鵝圖卷 (lake)”, 錢選, National Palace Museum, Accession Number: K2A001001N000000000PAB [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>In 1074 CE, the prefect of Hangzhou, Chen Shugu, was transferred to the Yingtian prefectural court in Henan. Chen Shu- gu was a friend of Su Shi and the poet wrote this song on the occasion of Chen Shugu’s sendoff at West Lake. The first stanza describes how the natural world itself was moved by the people’s affection for Chen Shugu, attempting to defer his departure with a rainstorm. The second stanza continues the conflation of water and tears to portray the sad mood at this farewell occasion.</p>
 

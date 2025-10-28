@@ -17,15 +17,11 @@ textauthor: Su Shi 蘇軾
 languages: [chinese]
 periods: [11th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/rd143dn5675
 image: /assets/img/text/su_shi_pingshan_hall.jpg
 thumb: /assets/img/text/su_shi_pingshan_hall-thumb.jpg
 imagesource: "“Detail from 宋人拜月圖軸 (house)”, Anonymous, National Palace Museum, Accession Number: K2A000186N000000000PAA [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>Ouyang Xiu, whose work is also included in this collection, was a highly respected and influential teacher of Su Shi. He built Pingshan Hall in 1048 CE. Before the composition of this song, Su Shi had passed by the hall twice due to transfers at work. The song marks the occasion of his third visit to Pingshan Hall, at which point Ouyang Xiu had long since passed away. The song serves to commemorate Su Shi’s teacher, as well as to reflect on the inconstancy of life; the latter effort is supported by Su Shi’s use of Buddhist imagery, such as “a flick of the finger” to express the rapid passing of time. The final lines, especially the sentiment that lived experience is a dream, refer to the philosophy of the <i> Diamond Sutra </i> (<em>金 刚经</em> ).</p>
 

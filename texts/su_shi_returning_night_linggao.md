@@ -17,15 +17,11 @@ textauthor: Su Shi 蘇軾
 languages: [chinese]
 periods: [11th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/fv661pm0223
 image: /assets/img/text/su_shi_returning_night_linggao.jpg
 thumb: /assets/img/text/su_shi_returning_night_linggao-thumb.jpg
 imagesource: "“Detail from 宋李公麟畫歸去來辭卷 (boat)”, 李公麟, National Palace Museum, Accession Number: K2A001412N000000000PAE [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>This song was written in 1082 CE, when Su Shi was demoted and transferred to Huangzhou, a city in Imperial China (in what is today the Huangzhou district of Hubei). After experiencing political persecution, the poet was miserable, yet continued to find beauty in nature. He also expresses his desire to leave aside the pursuit of status, fame and money and fantasies of living as a recluse from now on.</p>
 

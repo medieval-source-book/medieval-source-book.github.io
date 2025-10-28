@@ -17,15 +17,11 @@ textauthor: Liu Yong 柳永
 languages: [chinese]
 periods: [11th_century]
 textcollections: [love-songs, love-lust-longing]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/wz802dz0816
 image: /assets/img/text/liu_yong.jpg
 thumb: /assets/img/text/liu_yong-thumb.jpg
 imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and color on silk. 9 3/4 x 10 1/4 in. (24.8 x 26.0 cm). The Metropolitan Museum of Art, New York. Object Number 13.100.116. https://www.metmuseum.org/art/collection/search/51399. [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>Like many of Liu Yong’s songs, this one evokes complex emotions. In the first stanza, the male speaker reflects on the past joys of his romantic relationship, culminating in his current anxieties. In the second stanza, he analyzes his lover’s communication and doubts her commitment.</p>
 

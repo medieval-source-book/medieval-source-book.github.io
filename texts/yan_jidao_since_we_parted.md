@@ -17,15 +17,11 @@ textauthor: Yan Jidao 晏幾道
 languages: [chinese]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/xy386fb2651
 image: /assets/img/text/yan_jidao_since_we_parted.jpg
 thumb: /assets/img/text/yan_jidao_since_we_parted-thumb.jpg
 imagesource: "Detail from 宋人畫南唐耿先生煉雪圖軸 (building)\", Anonymous, National Palace Museum, Accession Number: K2A000172N000000000PAA [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>In this <i> ci</i> , a male speaker expresses his regret over a lost love. An interesting image here is “the western building” (<em>西樓</em> ). Ac- cording to <i> I Ching </i> (<em>周易</em> ), an ancient Chinese divination text, the direction west is associated with the element “metal,” which was considered to be the dominant element in autumn. Autumn is usually associated with separation and loneliness, so the image of the western building is often used by poets as a symbol for such feelings. <i> I Ching </i> also states that the direction west is feminine, “yin” (<em>阴</em> ). As a consequence, “the western building” often refers to the private room of women in a household. The western building is a recurring image in ci poetry and appears in several of the texts in this collection.</p>
 

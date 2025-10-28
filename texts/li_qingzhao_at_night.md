@@ -17,15 +17,11 @@ textauthor: Li Qingzhao 李清照
 languages: [chinese]
 periods: [12th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/nk319bw6604
 image: /assets/img/text/li_qingzhao_at_night.png
 thumb: /assets/img/text/li_qingzhao_at_night-thumb.png
 imagesource: "Detail from 宋人花王圖(Flower) 軸, Anonymous, National Palace Museum, Accession Number: K2A000211N000000000PAA [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>This is a melancholic <i> ci </i> which plays with the image of withering plum blossoms to evoke the passage of time and the impermanence of happiness.</p>
 

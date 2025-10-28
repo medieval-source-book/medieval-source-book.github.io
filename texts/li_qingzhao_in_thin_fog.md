@@ -17,15 +17,11 @@ textauthor: Li Qingzhao 李清照
 languages: [chinese]
 periods: [12th_century]
 textcollections: [love-lust-longing, love-songs]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/fc345br8089
 image: /assets/img/text/li_qingzhao_in_thin_fog.png
 thumb: /assets/img/text/li_qingzhao_in_thin_fog-thumb.png
 imagesource: "Detail from Incense burner in the shape of a goose, Han dynasty (206 BCE-220 CE), Anonymous, National Palace Museum, Accession Number: C1A000776N000000000PAC [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>Li Qingzhao wrote this <i> ci </i> during her marriage, which was marked by long separations from her husband due to his work. Like other <i> ci </i> which she composed, it captures the loneliness of a speaker whose feelings jar against the happy scenes around her. In this case, the mention of the festival of Double Ninth (a harvest festival associated with expressions of gratitude) emphasises her alienation. Festivals such as this were occasions to gather together and socialize, but here we encounter the speaker entirely alone.</p>
 

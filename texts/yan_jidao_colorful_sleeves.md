@@ -17,15 +17,11 @@ textauthor: Yan Jidao 晏幾道
 languages: [chinese]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/pp376zc0708
 image: /assets/img/text/yan_jidao_colorful_sleeves.jpg
 thumb: /assets/img/text/yan_jidao_colorful_sleeves-thumb.jpg
 imagesource: "Detail from 宋李嵩聽阮圖軸 (colorful sleeves)\", 李嵩, National Palace Museum, Accession Number: K2A000106N000000000PAA [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>This song evokes the speaker’s reunion with a courtesan after a long separation. The first stanza recalls a joyful evening spent together before they parted, followed by the longing which the speaker has experienced ever since. The final lines anticipate an imminent reunion, but one tinged by the sorrowful expectation that it is not likely to be repeated anytime soon.</p>
 

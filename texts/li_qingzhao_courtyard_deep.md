@@ -17,15 +17,11 @@ textauthor: Li Qingzhao 李清照
 languages: [chinese]
 periods: [12th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/gw430hn5901
 image: /assets/img/text/li_qingzhao_courtyard_deep.png
 thumb: /assets/img/text/li_qingzhao_courtyard_deep-thumb.png
 imagesource: "Detail from 元盛懋柳陰書屋(Willow House) 軸, 盛懋, National Palace Museum, Accession Number: K2A002974N000000000PAA [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>Li Qingzhao wrote in a note accompanying this <i> ci </i> that it was inspired by Ouyang Xiu’s “To the tune of ‘Butterfly love’”, which she greatly admired. Both <i> ci </i> have a similar theme—the speaker’s regret—and share a similar opening image of a courtyard (in Ouyang Xiu’s version: “The courtyard is deep, how many layers of depth are there?”).</p>
 

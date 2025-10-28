@@ -17,15 +17,11 @@ textauthor: Yan Jidao 晏幾道
 languages: [chinese]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/hf039vr2728
 image: /assets/img/text/yan_jidao_holding_fragrant_paper.jpg
 thumb: /assets/img/text/yan_jidao_holding_fragrant_paper-thumb.jpg
 imagesource: "“Detail from 宋黃居寀山鷓棘雀圖軸 (birds on branches)”, 黃居寀, National Palace Museum, Accession Number: K2A000039N000000000PAA [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>Like another <i> ci </i> in this collection, “To the tune ‘Magnolia Flower,’” this song was written about the courtesan Xiaolian, whom Yan Jidao knew personally. It evokes the speaker’s regret at Xiaolian’s departure. There is a notable use of natural imagery here to characterize the relationship between the speaker and the courtesan: their love is compared to the flow- ers and the moon. In ancient China, both blooming flowers and a full moon were metaphors for happiness and fulfilled goals, whereas wilting flowers and a waxing moon meant, respectively, loss and regret. The association between the blooming flowers and the full moon is captured in this Chinese idiom, <em>花好月 圆</em> . <em>花好月 圆</em> is an adjectival phrase that can be used to describe a positive experience. Its original meaning is related to conjugal bliss. The first two lines of the second stanza, “Flowers wither easily; the moon waxes with difficulty”, therefore suggest the speaker’s pessimism about the future of his relationship with Xiaolian.</p>
 

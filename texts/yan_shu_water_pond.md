@@ -17,15 +17,11 @@ textauthor: Yan Shu 晏殊
 languages: [chinese]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/rv977ps7317
 image: /assets/img/text/yan_shu_water_pond.jpg
 thumb: /assets/img/text/yan_shu_water_pond-thumb.jpg
 imagesource: "Detail from 宋元集繪 冊 宋緙絲翠羽秋荷(Lotuses) , Anonymous,  National Palace Museum, Accession Number: K2A001246N000000001PAA [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>In this <i> ci</i> , the speaker recalls when he first met a beautiful woman. The first and final lines relate to the present, framing the old memories which make up the middle section of the song. This creates a contrast between the sorrowful and solitary present and the celebratory atmosphere when he first met his lover. The “flowers” mentioned in the closing lines have a double meaning: they are both flowering trees in the gardens where banquets were held and, even more, the female sing- ers and dancers who entertained at those banquets, like the young woman the poet recalls in the first stanza.</p>
 

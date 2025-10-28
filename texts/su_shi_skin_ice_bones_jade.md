@@ -17,15 +17,11 @@ textauthor: Su Shi 蘇軾
 languages: [chinese]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/wy782md1086
 image: /assets/img/text/su_shi_skin_ice_bones_jade.jpg
 thumb: /assets/img/text/su_shi_skin_ice_bones_jade-thumb.jpg
 imagesource: "“Detail from 宋人畫仙巖壽鹿軸 (goddess)”, Anonymous, National Palace Museum, Accession Number: K2A000165N000000000PAA [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>When Su Shi was seven years old, he heard a song to the tune “Song of the Immortal in the Grotto”, composed by the Lord of Shu, a ruler during the period of the Five Dynasties and Ten Kingdoms (907-960 CE). Forty years later, he could only vaguely recall the first two lines of the song and used his imagination to complete it himself. The lyrics describe the beau- ty of the Lord of Shu’s concubine following an amorous encounter at his palace in Sichuan Province, southwest China.</p>
 

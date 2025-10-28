@@ -17,15 +17,11 @@ textauthor: Anonymous
 languages: [german, latin]
 periods: [9th_century]
 textcollections: [hymns-and-histories, making-history]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/bx905jp3191
 image: /assets/img/text/song_heinrich.png
 thumb: /assets/img/text/song_heinrich-thumb.png
 imagesource: "British Library MS Additional 24199 f.12 [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h1>Introduction to the Text</h1>
 <p>De Heinrico (literally “of Heinrich,” and here translated as “The Song of Heinrich”) is a tenth-century historical narrative poem which gives an account of an Emperor called Otto greeting a Duke called Heinrich and handing over most of his power to him, though retaining his title. There has been considerable scholarly debate over who exactly Otto and Heinrich are, given that there are so many noblemen of those names in this period in Germany. The most popular explanations are that the poem is about either (1) Otto I the Great and his brother Heinrich, who were reconciled in 941 CE, or (2) Otto III, who was a small child when Heinrich the Quarrelsome was reconciled with the court and became regent in 991 CE.</p>
 

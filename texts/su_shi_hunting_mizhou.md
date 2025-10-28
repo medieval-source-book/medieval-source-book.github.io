@@ -17,15 +17,11 @@ textauthor: Su Shi 蘇軾
 languages: [chinese]
 periods: [11th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/vf894dc1453
 image: /assets/img/text/su_shi_hunting_mizhou.jpg
 thumb: /assets/img/text/su_shi_hunting_mizhou-thumb.jpg
 imagesource: "“Detail from 宋人卞莊子刺虎圖卷 (tiger)”, Anonymous, National Palace Museum, Accession Number: K2A001006N000000000PAB [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>This song was written in 1075 CE when the poet was prefect of Mizhou. The first stanza describes a hunting trip in which many local people participated: a sign of their respect for Su Shi. As a gesture of gratitude, Su Shi wishes he could undertake a heroic act like Sun Quan, a king who famously shot a tiger to prove his courage. In the second stanza, by comparing himself to Wei Shang, a famous Han Dynasty prefect who was once deprived of his official title but later had his position restored, Su Shi expresses both a desire to be recognized again by the imperial court, and a willingness to take on responsibility for defending the country’s frontiers. This song was written in 1075 CE when the poet was prefect of Mizhou. The first stanza describes a hunting trip in which many local people participated: a sign of their respect for Su Shi. As a gesture of gratitude, Su Shi wishes he could undertake a heroic act like Sun Quan, a king who famously shot a tiger to prove his courage. In the second stanza, by comparing himself to Wei Shang, a famous Han Dynasty prefect who was once deprived of his official title but later had his position restored, Su Shi expresses both a desire to be recognized again by the imperial court, and a willingness to take on responsibility for defending the country’s frontiers.</p>
 

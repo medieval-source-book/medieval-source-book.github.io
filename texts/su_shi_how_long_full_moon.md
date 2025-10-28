@@ -17,15 +17,11 @@ textauthor: Su Shi 蘇軾
 languages: [chinese]
 periods: [11th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/jk737cs8633
 image: /assets/img/text/su_shi_how_long_full_moon.jpg
 thumb: /assets/img/text/su_shi_how_long_full_moon-thumb.jpg
 imagesource: "“Detail from 宋馬遠舉杯玩月軸 (moon)”, 馬遠;鍾禮, National Palace Museum, Accession Number: K2A000844N000000000PAA [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>Su Shi wrote this song on the night of the Mid-Autumn Festival, a harvest festival on the full moon, to express his home- sickness after a seven-year separation from his brother. It includes broader philosophical reflections on happiness, sor- row and separation. It is interesting to note how Su Shi draws connections between the moon’s shape and the grieving, rejoicing, separating and reuniting of human beings. In ancient China, a full moon was a metaphor for happiness and fulfilled goals, whereas a moon that wasn’t full meant loss and regret.</p>
 

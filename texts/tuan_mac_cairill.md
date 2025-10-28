@@ -17,15 +17,11 @@ textauthor: Anonymous
 languages: [irish]
 periods: [15th_century]
 textcollections: [making-history]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/yf264nb8214
 image: /assets/img/text/default.png
 thumb: /assets/img/text/default.png
 imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gilt metal on parchment over cotton. Central Asia, Sicily, or North Africa. 69 1/4 x 38 1/4 in. (175.9 x 97.2 cm). The Cloisters Collection, 1984, at the Metropolitan Museum of Art, New York. Object Number 1984.344. [https://www.metmuseum.org/art/collection/search/466119](https://www.metmuseum.org/art/collection/search/466119). [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>The Middle Irish poem “Tuán mac Cairill—it was heard” tells the story of Tuán mac Cairill, a legendary figure said to have lived throughout the ages in the form of a human, stag, boar, bird and salmon. In this final form, he is eaten by the wife of an Irish king named Cairell, which causes her to become pregnant. She then gives birth to Tuán in the form of a man once again.</p>
 

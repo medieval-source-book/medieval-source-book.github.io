@@ -17,15 +17,11 @@ textauthor: Yan Jidao 晏幾道
 languages: [chinese]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/pj401jn0383
 image: /assets/img/text/yan_jidao_back_then_met_western_building.jpg
 thumb: /assets/img/text/yan_jidao_back_then_met_western_building-thumb.jpg
 imagesource: "“Detail from 歷代集繪冊　宋崔白柳陰戲鵝 (willow)”, 崔白, National Palace Museum, Accession Number: K2A001254N000000002PAA [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>This song commemorates a past affair between a man and a courtesan by recalling their first meeting. Yan Jidao uses a detailed description of the courtesan’s appearance to establish a melancholic tone, and the natural imagery of the changing leaves of the willow trees subtly suggests the passage of time. The willow tree is a common symbol of farewell and separation in Chinese poetry, since in ancient China there was a tradition of giving a willow branch to a person before their departure.</p>
 

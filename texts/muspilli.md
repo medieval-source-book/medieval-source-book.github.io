@@ -17,15 +17,11 @@ textauthor: Anonymous
 languages: [german]
 periods: [9th_century]
 textcollections: [hymns-and-histories, prayer-spirituality]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/cy204cd5992
 image: /assets/img/text/muspilli.png
 thumb: /assets/img/text/muspilli-thumb.png
 imagesource: "Detail from Munich, Bayerische Staatbibliothek, Clm 14098, f.120r [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>Muspilli is an incomplete verse narrative (104 lines) written in Old High German. The manuscript containing the poem, which was produced in Bavaria (southern Germany) in the 9th century CE, contains neither the beginning nor the end of the poem. The reason for its incompleteness is probably due to its having been written in the margins of another text: a Latin theological work composed by Adalram (d. 836), bishop of Salzburg, for the young Louis the German (ca. 810–876). It appears Muspilli was added to the manuscript later by a different scribe, but little can be deduced about who produced the text or why. It is conjectured that the beginning and end have been lost because they would have been written on the outermost pages of the manuscript, which often incur the most damage over time. One of the most debated questions about Muspilli is its name. The original manuscript does not include a title, and the name Muspilli was assigned by the poem’s first editor, Johann Andreas Schmeller. The name comes from the Old High German word muspille , meaning the destruction of the world by fire, which occurs in line 57 of the poem. This is the only known occurrence of this word. Scholars have since tried to give it various names which better suit the purpose of the poem, but none of these has stuck.</p>
 

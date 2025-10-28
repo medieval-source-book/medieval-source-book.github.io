@@ -17,15 +17,11 @@ textauthor: Li Qingzhao 李清照
 languages: [chinese]
 periods: [12th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/cb117bq5034
 image: /assets/img/text/li_qingzhao_often_recall.png
 thumb: /assets/img/text/li_qingzhao_often_recall-thumb.png
 imagesource: "Detail from 宋徽宗池塘秋晚圖(Flying Bird) 卷, 赵佶, National Palace Museum, Accession Number: K2A000986N000000000PAF [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>This ci, like others by Li Qingzhao, wistfully recalls past experiences. Here the poet-speaker remembers a drunken evening and her efforts to return home by boat.</p>
 

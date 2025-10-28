@@ -17,15 +17,11 @@ textauthor: Liu Yong 柳永
 languages: [chinese]
 periods: [11th_century]
 textcollections: [love-songs, love-lust-longing]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/fc190fp0876
 image: /assets/img/text/liu_yong.jpg
 thumb: /assets/img/text/liu_yong-thumb.jpg
 imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and color on silk. 9 3/4 x 10 1/4 in. (24.8 x 26.0 cm). The Metropolitan Museum of Art, New York. Object Number 13.100.116. https://www.metmuseum.org/art/collection/search/51399. [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>The first stanza of this <i> ci </i> depicts the speaker’s loneliness upon waking up in the middle of the night, focusing on concrete details of the setting. In the second stanza, unanswered questions convey the speaker’s unresolved emotional strife. It is not possible to deduce the speaker’s gender with certainty. Much turns on the interpretation of the third and fourth line of the second stanza: “The phoenix building is only a step away, yet the date to reunite is far from settled.”</p>
 <p>If we interpret this line as “the phoenix building (where I reside) is only a step away (from you), yet the date to reunite is far from settled”, then the speaker is a (female) courtesan. However, if we interpret this line as “the phoenix building</p>

@@ -17,15 +17,11 @@ textauthor: Yan Shu 晏殊
 languages: [chinese]
 periods: [11th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/sx258bp0853
 image: /assets/img/text/yan_shu_new_song.jpg
 thumb: /assets/img/text/yan_shu_new_song-thumb.jpg
 imagesource: "Detail from 宋趙伯駒秋山無盡圖(Courtyard)卷, 趙伯駒, National Palace Museum, Accession Number: K2A001434N000000000PAB [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>This <i> ci </i> is regarded as Yan Shu’s masterpiece, because it conveys deep sentiments using few words. The first two lines of the second stanza are particularly admired for their parallelism and neat contrast. The song expresses feelings of sorrow and regret at the passage of spring. As in many of Yan Shu’s songs, there is no way to determine if the person being described is male or female. This is unusual and must be deliberate. It imparts to his songs a certain universality. The person before us could be anyone.</p>
 

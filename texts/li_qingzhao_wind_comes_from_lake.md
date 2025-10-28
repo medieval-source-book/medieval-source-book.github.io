@@ -17,15 +17,11 @@ textauthor: Li Qingzhao 李清照
 languages: [chinese]
 periods: [12th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/vg128jw3308
 image: /assets/img/text/li_qingzhao_wind_comes_from_lake.png
 thumb: /assets/img/text/li_qingzhao_wind_comes_from_lake-thumb.png
 imagesource: "Detail from 宋夏珪溪山清遠(Open Water) 卷, National Palace Museum, Accession Number: C2A000009N000000000PAG [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>This ci depicts an end-of-summer walk along a lakeshore. The tone is wistful, and although much of the imagery per- tains to the beautiful natural scenery, it also seems to evoke the theme of the tune that the ci is set to (“Yearning for the Prince”): a sense of aloneness, even a longing for absent friends.</p>
 

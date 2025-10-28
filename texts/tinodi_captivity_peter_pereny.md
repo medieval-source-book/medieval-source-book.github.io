@@ -17,15 +17,11 @@ textauthor: Sebastian Tinódi
 languages: [hungarian]
 periods: [16th_century]
 textcollections: [making-history]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/sy398fg1914
 image: /assets/img/text/tinodi_captivity_peter_pereny.png
 thumb: /assets/img/text/tinodi_captivity_peter_pereny-thumb.png
 imagesource: "Detail from \"Buda, Vulgo Ofen, Prima et Regia Ungarici\" (1572). David Rumsey Map Collection, David Rumsey Map Center, Stanford Libraries."
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>This song, composed on April 24, 1542, was included in <i> Cronica</i> , Sebastian Tinódi’s printed song collection of 1554. The songs in <i> Cronica </i> were accompanied by melodies and intended for performance before varied audiences as well as for private reading. The general topic of the collection is the defensive struggle of Hungarians against the Ottoman armies, and its songs can be described as event poetry (a genre which typically combines a narrative account of contemporary, momentous events with implicit or explicit political-cultural commentary). Tinódi significantly advanced the genre of event poetry in Hungarian literature and became a model for those who followed.</p>
 

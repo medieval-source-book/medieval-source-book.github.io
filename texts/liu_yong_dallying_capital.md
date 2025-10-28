@@ -17,13 +17,10 @@ textauthor: Liu Yong 柳永
 languages: [chinese]
 periods: [11th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/tv766rn9869
 image: /assets/img/text/liu_yong.jpg
 thumb: /assets/img/text/liu_yong-thumb.jpg
-fulltext: ""
---- 
-
-
+---
 <h2>Introduction to the Text</h2>
 <p>In this <i> ci</i> , the speaker evokes his carefree life in the capital city and reflects on his own life philosophy, rejecting the pursuit of fame and profit in favor of a hedonistic lifestyle with no consideration for reputation. Such an outlook was generally frowned upon in Imperial China, as it contravened cornerstones of Chinese culture and Confucian philosophy, including the obligation to serve the empire and the nobility of entering the political arena. However, this outlook is typical of Liu Yong’s <i> ci</i> , as can be seen from another in this collection: “To the tune ‘The Lost Soul’”.</p>
 

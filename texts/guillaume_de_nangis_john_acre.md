@@ -17,15 +17,11 @@ textauthor: Guillaume de Nangis
 languages: [french]
 periods: [13th_century, 14th_century]
 textcollections: [cross-cultural-encounters, making-history]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/sv479nc2574
 image: /assets/img/text/guillaume_de_nangis_john_acre.jpg
 thumb: /assets/img/text/guillaume_de_nangis_john_acre-thumb.jpg
 imagesource: "London, British Library Royal MS 16 G VI, f.442r"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>This translated excerpt comes from Guillaume de Nangis’s <i> Life of St. Louis </i> produced near Paris around 1300 CE. Predating Louis’s more famous biography by Jean de Joinville, the chronicle celebrates the life, accomplishments and sometimes miraculous abilities of the famous king who was canonized in 1297. The version presented here recounts an episode during the French king’s final crusade, an expedition into Tunisia as part of the Eighth Crusade (1270).</p>
 

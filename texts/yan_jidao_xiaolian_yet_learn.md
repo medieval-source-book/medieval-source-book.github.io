@@ -17,15 +17,11 @@ textauthor: Yan Jidao 晏幾道
 languages: [chinese]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/wy306mq1325
 image: /assets/img/text/yan_jidao_xiaolian_yet_learn.jpg
 thumb: /assets/img/text/yan_jidao_xiaolian_yet_learn-thumb.jpg
 imagesource: "Detail from 宋高宗書女孝經馬和之補圖上卷 (Women)\", 馬和之;趙構, National Palace Museum, Accession Number: K2A001100N000000000PBH [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>Yan Jidao wrote this song for a courtesan named Xiaolian. The first stanza depicts her giving a musical performance which culminates in the departure of the audience and (implicitly) a private encounter between her and the speaker. The song attempts to convey both the poet’s affection for Xiaolian and her own free spirit. Another song by Yan Jidao in this collection, “To the tune ‘Partridge in the Sky,’” also refers to Xiaolian.</p>
 

@@ -17,15 +17,11 @@ textauthor: Su Shi 蘇軾
 languages: [chinese]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/zs419qg6099
 image: /assets/img/text/su_shi_plum_blossom.jpg
 thumb: /assets/img/text/su_shi_plum_blossom-thumb.jpg
 imagesource: "“Detail from 宋人歲朝圖軸 (plum blossom)”, Anonymous, National Palace Museum, Accession Number: K2A000201N000000000PAA [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>This <i> ci </i> was written in 1096 CE, when Su Shi was sixty years old. It is a eulogy for Zhaoyun, who was a longtime female companion of Su Shi in his later life. The precise nature of her role (concubine, female servant, or courtesan accepted into his household) is contested by the scholars. Zhaoyun had accompanied the speaker to Huizhao in Guangdong, a coastal province in southeast China, when he was demoted by the Song court. The lyrics seem to be describing plum blossoms, but are actually using the image of a plum blossom as an extended metaphor for Zhaoyun’s beauty and pure heart. In Chi- nese culture, it is traditionally believed that the plum blossom flourishes in harsh conditions, blooming only in the winter. The metaphor therefore highlights how she was able to thrive in difficult circumstances.</p>
 

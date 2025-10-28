@@ -17,15 +17,11 @@ textauthor: Anonymous
 languages: [welsh]
 periods: [13th_century]
 textcollections: [making-history]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/qh162zv9519
 image: /assets/img/text/burial_arthur.png
 thumb: /assets/img/text/burial_arthur-thumb.png
 imagesource: "British Library MS Additional 10294, f. 89 [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>This text is an adaptation into Middle Welsh prose of Gerald of Wales’s report of the discovery and public exhumation of Arthur and Guinevere’s graves at Glastonbury in 1190 or 1191 and the subsequent reburial of their bones in a marble tomb. Historians have interpreted this event as a ploy by Henry II of England to crush Welsh belief in Arthur’s messianic return, a belief Gerald disparages in his account of the event.</p>
 

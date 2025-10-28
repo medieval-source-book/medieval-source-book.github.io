@@ -17,15 +17,11 @@ textauthor: Yan Jidao 晏幾道
 languages: [chinese]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/mk306vg8401
 image: /assets/img/text/yan_jidao_back_then_believed_love.jpg
 thumb: /assets/img/text/yan_jidao_back_then_believed_love-thumb.jpg
 imagesource: "“Detail from 宋錢選蘭亭觀鵝圖卷 (pavilion)”, 錢選, National Palace Museum, Accession Number: K2A001001N000000000PAC [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>This song depicts a romance between the speaker and a courtesan and the speaker’s regret at their separation. Imagery of drunkenness is used in an innovative way: the line “Not knowing who had put me onto a horse” was originally composed by the Tang Dynasty poet Li Bai <em>李白</em> as a reference to drunkenness that would express his carefree attitude; here, how- ever, Yan Jidao uses the same line to express the opposite attitude: the desperation of his longing.</p>
 

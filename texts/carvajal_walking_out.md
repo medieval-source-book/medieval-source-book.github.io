@@ -17,15 +17,11 @@ textauthor: Carvajal
 languages: [spanish]
 periods: [15th_century]
 textcollections: [love-songs, gender-sex-sensuality]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/rw838fz3671
 image: /assets/img/text/carvajal_walking_out.jpg
 thumb: /assets/img/text/carvajal_walking_out-thumb.jpg
 imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.130v [Public domain]"
-fulltext: ""
 ---
-
-
-
 <h1>Introduction to the Text</h1>
 <p>This poem is a <i> serranilla</i> , an evolution of the Provençal <i> pastorela</i> . Written in short verse (<i> arte menor</i> ), <i> serranillas </i> narrate a courtly poet’s encounter with a mountain woman. This is one of six compositions in the genre by fifteenth-century author Carvajal (or Carvajales). Very little is known about Carvajal’s life. His poetry is linked to the Neapolitan court of Alfonso the Magnanimous in Naples (r. 1442-1458) and to that of Alfonso’s son Ferrante (r. 1459-1494). In addition to his famous <i> serranillas</i> , Carvajal is also known for his literary epistles and ballads.</p>
 

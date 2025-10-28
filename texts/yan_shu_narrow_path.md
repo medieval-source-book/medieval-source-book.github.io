@@ -17,15 +17,11 @@ textauthor: Yan Shu 晏殊
 languages: [chinese]
 periods: [11th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/qc237vk7231
 image: /assets/img/text/yan_shu_narrow_path.jpg
 thumb: /assets/img/text/yan_shu_narrow_path-thumb.jpg
 imagesource: "Detail from 宋劉松年山水(Red Leaves and Houses)卷, 劉松年, National Palace Museum, Accesion Number: K2A001458N000000000PAD [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>This piece is mostly focused on the description of spring scenery and the speaker’s sadness at the end of the spring. It can be read as an attempt to convey the beauty of nature as well as a metaphor for the transience of happiness.</p>
 

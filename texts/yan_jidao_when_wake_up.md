@@ -17,15 +17,11 @@ textauthor: Yan Jidao 晏幾道
 languages: [chinese]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/wz124km9116
 image: /assets/img/text/yan_jidao_when_wake_up.jpg
 thumb: /assets/img/text/yan_jidao_when_wake_up-thumb.jpg
 imagesource: "Detail from 宋趙伯駒飛仙圖軸 (immortal)\", 趙伯駒, National Palace Museum, Accession Number: K2A001818N000000000PAA [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>This song evokes a relationship between the speaker and the courtesan Xiaoping (whom Yan Jidao knew personally). The first stanza portrays the speaker waking up late after a night of drinking. The dreary scenery (“locked doors,” “low curtains”) reinforces the sense of nostalgia for a lost happiness. The second stanza portrays his first meeting with Xiaoping. An important concept here is “the sorrow of spring” <em>春恨</em> . The idea originates in the poignant brevity of springtime’s beauty in nature, and thus is often deployed in <i> ci </i> poetry to express the sentiment that “all good things must come to an end.”</p>
 

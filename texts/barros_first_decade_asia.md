@@ -17,15 +17,11 @@ textauthor: João de Barros
 languages: [portuguese]
 periods: [16th_century]
 textcollections: [cross-cultural-encounters, making-history]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/xf832ws7375
 image: /assets/img/text/barros_first_decade_asia.png
 thumb: /assets/img/text/barros_first_decade_asia-thumb.png
 imagesource: "Detail from the title page of _Asia de Joam de Barros / dos fectos que os Portugueses fizeram no descobrimento e conquista dos mares e terras do Oriente_ (Lisbon: Germão Galharde, 1552)."
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>Written by Portuguese historian and civil servant João de Barros (c. 1496-1570), the <i> Decades of Asia </i> (1552–1615) is a four-volume history, one of the earliest and most monumental accounts of Portuguese colonial endeavors. Barros wrote the <i> Decades </i> while he was serving as the factor (financial administrator) of the Casa da India e Mina (House of India and Mines) (1533–67), an appointment he obtained a few years after he returned from working in West Africa. The first three volumes cover the period until 1539, and were published in 1552, 1553, and 1563. Although Barros started working on the last volume, it was only published posthumously in 1615. The fourth volume was finished by Diogo do Couto, who was at the time the royal archivist of Portugal’s official archive in India and who continued Barros’s gargantuan project of writing a comprehensive history of Portuguese colonialism.</p>
 

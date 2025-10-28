@@ -17,15 +17,11 @@ textauthor: Poggio Bracciolini
 languages: [latin]
 periods: [15th_century]
 textcollections: [facetiae-jokes]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/pb612ws1048
 image: /assets/img/text/bracciolini_joke_273.jpg
 thumb: /assets/img/text/bracciolini_joke_273-thumb.jpg
 imagesource: "Cuthbert with the elderly Hildmaer and his wife. London, British Library, Yates Thompson MS 26, fol. 33v [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>Gian Francesco Poggio Bracciolini (commonly referred to as simply Poggio Bracciolini) was born in Terranuova (Tuscany) in 1380. He died in Florence in 1459 at the age of seventy-nine. During his long life this early and import- ant humanist had an equally long career at the Papal curia. In the service of a sequence of popes he lived in Rome, travelled with the papal court all across Italy and the rest of Europe.</p>
 

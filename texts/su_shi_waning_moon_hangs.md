@@ -17,15 +17,11 @@ textauthor: Su Shi 蘇軾
 languages: [chinese]
 periods: [11th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/rc694gb1371
 image: /assets/img/text/su_shi_waning_moon_hangs.jpg
 thumb: /assets/img/text/su_shi_waning_moon_hangs-thumb.jpg
 imagesource: "“Detail from 宋崔白蘆雁軸 (wild goose)”, 崔白, National Palace Museum, Accession Number: K2A000063N000000000PAA [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>Su Shi was demoted and transferred to Huangzhou when he opposed reforms to the Imperial Examination System (which selected new civil servants) instituted by the Song Court chancellor, Wang Anshi. Despite his diminished circumstances, he remained defiant and criticized others for going along with the reforms. In this song, he compares himself to a lone wild goose (<em>鸿</em> ), conveying both pride in his choices and the loneliness of his new position. The wild goose was often used by Chinese poets to represent heroic figures with grand ambitions. A good example can be found in the <i> Records of the Grand Historian </i> (<em>史记</em> ) by Sima Qian <em>司马迁</em> , where a rebellion leader disparages his opponents with the following line: “How could swallows and sparrows understand the ambitions of wild geese and swans?”</p>
 

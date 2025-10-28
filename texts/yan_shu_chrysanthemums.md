@@ -17,15 +17,11 @@ textauthor: Yan Shu 晏殊
 languages: [chinese]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/gc817sq3338
 image: /assets/img/text/yan_shu_chrysanthemums.jpg
 thumb: /assets/img/text/yan_shu_chrysanthemums-thumb.jpg
 imagesource: "宋錢選荔枝圖(Lychee)　卷, 夏珪,  National Palace Museum, Accession Number: K2A001487N000000000PAB [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>This song is written from the perspective of a woman reminiscing about her lover. This is one of the most famous exam- ples of the <i> ci </i> genre, and one of the best-known works of Yan Shu. The song lyrics depict natural imagery which mirrors and amplifies the speaker’s feelings of loneliness.</p>
 

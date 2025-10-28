@@ -17,15 +17,11 @@ textauthor: Ouyang Xiu 歐陽修
 languages: [chinese]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/qc290hb3930
 image: /assets/img/text/ouyang_xiu_beyond_willows.jpg
 thumb: /assets/img/text/ouyang_xiu_beyond_willows-thumb.jpg
 imagesource: "Detail from 宋元集繪 冊 宋緙絲翠羽秋荷(Lotuses) , Anonymous,  National Palace Museum, Accession Number: K2A001246N000000001PAA [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>The song lyric was allegedly composed in the following context: when Ouyang Xiu was a junior governor at Henan (a prov- ince in China), he had a romantic relationship with a local singer. At that time, Qian Weiyan was the lead governor of Henan. One day when Qian was hosting a party in his garden, Ouyang Xiu and the singer were late. Qian asked them the reason for their delay. The singer answered: “The weather is too hot, and I had heatstroke. I was sleeping in a cool room and lost my golden hairpin.” When Qian heard these words, he laughed and said to the singer: “If Ouyang Xiu can write a <i> ci </i> about this, I will give you the money for your lost hairpin.” Ouyang Xiu then wrote the following lyric, and Qian, satisfied, gave the singer money for her hairpin. The not-so-subtle cleverness of this lyric is that it describes the couple making love (in the second stanza), once they go inside and lower the curtain. So this is an alternate explanation of why the couple was late to the party, the suggestive indirectness of which would have amused everyone who heard the singer perform it.</p>
 

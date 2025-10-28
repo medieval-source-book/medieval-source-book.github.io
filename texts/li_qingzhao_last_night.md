@@ -17,15 +17,11 @@ textauthor: Li Qingzhao 李清照
 languages: [chinese]
 periods: [12th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/yg919xm5179
 image: /assets/img/text/li_qingzhao_last_night.png
 thumb: /assets/img/text/li_qingzhao_last_night-thumb.png
 imagesource: "Detail from 宋夏珪溪山清遠(Pavilion) 卷, 夏珪, National Palace Museum, Accession Number: C2A000009N000000000PAJ [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>This <i> ci </i> is one of the poet’s earlier works. As in other compositions by Li Qingzhao, images of nature (in this case, a crabap- ple tree after a rainstorm) are the site for exploring the poet-speaker’s state of mind and her connection with, or alienation from, the world around her.</p>
 

@@ -17,15 +17,11 @@ textauthor: Li Qingzhao 李清照
 languages: [chinese]
 periods: [12th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/sz539xs9379
 image: /assets/img/text/li_qingzhao_looking_searching.png
 thumb: /assets/img/text/li_qingzhao_looking_searching-thumb.png
 imagesource: "Detail from 宋朱銳春社醉歸圖(Drunk in the Trip) 卷, 朱銳, National Palace Museum, Accession Number: K2A001454N000000000PAI [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>This <i> ci </i> uses repetition to evoke the relentlessness of the speaker’s sorrow, for which language is insufficient (see the final line). The political trauma of the end of the Northern Song Dynasty—which forced Li Qingzhao’s own migration to the south—seems intertwined with the speaker’s personal doubts, one amplifying the other to yield a bleak picture where the only certainty is suffering.</p>
 

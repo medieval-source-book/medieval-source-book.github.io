@@ -17,15 +17,11 @@ textauthor: Anonymous
 languages: [french]
 periods: [15th_century]
 textcollections: [love-songs]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/tx336wj4685
 image: /assets/img/text/trust_I_have_you.png
 thumb: /assets/img/text/trust_I_have_you-thumb.png
 imagesource: "British Library MS Burney 275 f.120 [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h1>Introduction to the Text</h1>
 <p>This anonymous love song comes from a fifteenth-century song book (‘chansonnier’) of polyphonic music (music where several voices sing different musical lines at the same time). It is somewhat unusual in that the lyrics are written from the perspective of a woman reflecting on the bond she shares with her distant lover.</p>
 

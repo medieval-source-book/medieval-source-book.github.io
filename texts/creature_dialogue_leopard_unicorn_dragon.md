@@ -17,15 +17,11 @@ textauthor: Nicolaus Pergamenus [att.]
 languages: [latin]
 periods: [14th_century]
 textcollections: [fantastic-fables]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/bp928pf2174
 image: /assets/img/text/creature_dialogue_leopard_unicorn_dragon.jpeg
 thumb: /assets/img/text/creature_dialogue_leopard_unicorn_dragon-thumb.jpeg
 imagesource: "Bibliothèque nationale de France, département Arsenal, RESERVE FOL-BL-911, f.73r [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>The <i> Dialogus Creaturarum </i> (‘Dialogue of Creatures’), of which this text is one of eight published by the <i> Global Medieval Sourcebook</i> , was composed in the fourteenth century. Its authorship remains debated, though it was historically attributed to either Nicolaus Pergamenus, about whom little is known, or Magninus Mediolanensis (also known as Mayno de Mayneriis), who was a physician. In recent years, beginning with Pierre Ruelle in 1985, scholars have tended towards the conclusion that the <i> Dialogus </i> was compiled in Milan, though not necessarily by Magninus.</p>
 

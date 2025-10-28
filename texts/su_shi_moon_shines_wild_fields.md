@@ -17,15 +17,11 @@ textauthor: Su Shi 蘇軾
 languages: [chinese]
 periods: [11th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/qk586jg4050
 image: /assets/img/text/su_shi_moon_shines_wild_fields.jpg
 thumb: /assets/img/text/su_shi_moon_shines_wild_fields-thumb.jpg
 imagesource: "“Detail from 宋夏珪溪山清遠卷 (stream)”, 夏珪, National Palace Museum, Accession Number: C2A000009N000000000PAP [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>Su Shi was demoted and transferred to Huangzhou when he opposed reforms to the Imperial Examination System (which selected new civil servants) instituted by the chancellor at the Song court, Wang Anshi. This <i> ci </i> was written during his posting in Huangzhou. In the first stanza, the speaker highlights the beauty of a moonlit view of the city. Beholding a land- scape far removed from the noisy, complicated, political world that he had come from, Shu Shi purports to have written this song in calligraphy on a pillar of a bridge.</p>
 

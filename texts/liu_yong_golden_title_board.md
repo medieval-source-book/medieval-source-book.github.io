@@ -17,15 +17,10 @@ textauthor: Liu Yong 柳永
 languages: [chinese]
 periods: [11th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/liu_yong.jpg
 thumb: /assets/img/text/liu_yong-thumb.jpg
 imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and color on silk. 9 3/4 x 10 1/4 in. (24.8 x 26.0 cm). The Metropolitan Museum of Art, New York. Object Number 13.100.116. https://www.metmuseum.org/art/collection/search/51399. [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>This <i> ci </i> was written by Liu Yong after he failed <i> keju</i> , the Imperial Chinese civil service examination, and it is this <i> ci </i> that leads the Ren Emperor of Song <em>宋仁宗</em> to personally deem him unfit for imperial service, which further impedes his political career. In the first stanza of this <i> ci</i> , the poet explains his failing in <i> keju </i> as the emperor “miss[ing] out on the talented ones”, and makes the unconventional claim that being the <i> ci </i> poet is a profession that is as important and praiseworthy as being a state bureaucrat. In the second stanza, the poet envisions a future filled with “romantic affairs and pleasures”. This hedonistic outlook and cynicism towards the empire are very different from the views typically expressed in Chinese society at that time, which are largely influenced by Confucianism and propose a positive attitude towards making contribution to the empire and the people through becoming state officials and taking up responsibilities of different social roles. Compared to other <i> ci </i> featured in the Liu Yong collection, this piece is composed earlier, and is often considered as the starting point of Liu Yong’s rebelliousness.</p>
 

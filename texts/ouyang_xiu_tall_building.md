@@ -17,15 +17,11 @@ textauthor: Ouyang Xiu 歐陽修
 languages: [chinese]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/vm512sj0688
 image: /assets/img/text/ouyang_xiu_tall_building.jpg
 thumb: /assets/img/text/ouyang_xiu_tall_building-thumb.jpg
 imagesource: "宋米芾雲山煙樹(Smoke and Trees) 卷 , 米芾,  National Palace Museum, Accession Number: C2A000214N000000000PAH [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>This song lyric is a woman’s complaint about her lover. However, the two stanzas are quite different in tone and content. In the first, she sings wistfully of her longing; in the second, the focus shifts to her lover’s inconstancy.</p>
 

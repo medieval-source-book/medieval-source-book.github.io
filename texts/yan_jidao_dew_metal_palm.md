@@ -17,15 +17,11 @@ textauthor: Yan Jidao 晏幾道
 languages: [chinese]
 periods: [11th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/cr552hm2906
 image: /assets/img/text/yan_jidao_dew_metal_palm.jpg
 thumb: /assets/img/text/yan_jidao_dew_metal_palm-thumb.jpg
 imagesource: "Detail from 宋高宗書女孝經馬和之補圖上卷 (Hometown)\", 馬和之;趙構, National Palace Museum, Accession Number: K2A001100N000000000PBI [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>This <i> ci </i> depicts the Double Ninth Festival as observed by someone who is away from his hometown. The happy scenes around him only induce greater homesickness, and he tries to drink his sorrow away. The Double Ninth Festival is the ninth day of the ninth month of the lunar calendar, and during the Song Dynasty customs included holding banquets and making sacrifices to the ancestors. There was also the tradition of reuniting with family, going on trips and hiking. In modern China, the Double Ninth Festival honors the elderly, but it did not have that meaning when Yan Jidao was writing.</p>
 

@@ -17,15 +17,11 @@ textauthor: Li Qingzhao 李清照
 languages: [chinese]
 periods: [12th_century]
 textcollections: [prayer-spirituality]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/mm905xh2894
 image: /assets/img/text/li_qingzhao_sky_merged.png
 thumb: /assets/img/text/li_qingzhao_sky_merged-thumb.png
 imagesource: "Detail from 宋人布畫山水(Mountain and Water) 軸, Anonymous, National Palace Museum, Accession Number: K2A000903N000000000PAA [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>This <i> ci </i> is usually interpreted as a dream vision, where the speaker experiences a brief taste of the afterlife: a beautiful palace in the sky where the immortal dwell. This may be of particular interest to readers more familiar with medieval Christian, Jewish, and Muslim beliefs about life after death.</p>
 

@@ -17,15 +17,11 @@ textauthor: Yan Jidao 晏幾道
 languages: [chinese]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/fk885dj6733
 image: /assets/img/text/yan_jidao_could_not_make.jpg
 thumb: /assets/img/text/yan_jidao_could_not_make-thumb.jpg
 imagesource: "“Detail from 宋人江帆山市卷 (boat)”, Anonymous, National Palace Museum, Accession Number: K2A001004N000000000PAB [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>In this song, a farewell scene between a courtesan and her lover is depicted from the perspective of the courtesan. The lyrics convey both her sadness at his departure and her anger at the lack of commitment he has shown. Her complex emotions towards him reveal her deep love but also her powerlessness as a courtesan. An interesting image used here is the willow tree. This tree is a common symbol of farewell and separation in Chinese poetry, since in ancient China there was a tradition of giving a willow branch to a person about to depart.</p>
 

@@ -17,15 +17,11 @@ textauthor: Poggio Bracciolini
 languages: [latin]
 periods: [15th_century]
 textcollections: [facetiae-jokes]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/sv990qy7712
 image: /assets/img/text/bracciolini_introduction.jpg
 thumb: /assets/img/text/bracciolini_introduction-thumb.jpg
 imagesource: "Poggio Bracciolini, detail from Vatican Urb.Lat.224 f.68r [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>Gian Francesco Poggio Bracciolini (commonly referred to as simply Poggio Bracciolini) was born in Terranuova (Tuscany) in 1380. He died in Florence in 1459 at the age of seventy-nine. During his long life this early and import- ant humanist had an equally long career at the Papal curia. In the service of a sequence of popes he lived in Rome, travelled with the papal court all across Italy and the rest of Europe.</p>
 

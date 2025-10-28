@@ -17,15 +17,11 @@ textauthor: Anonymous
 languages: [irish]
 periods: [8th_century]
 textcollections: [prayer-spirituality]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/dw455tn1713
 image: /assets/img/text/besom_devotion
 thumb: /assets/img/text/besom_devotion-thumb
 imagesource: ""
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>This Old Irish prayer comes from an early Irish text known as the “Litany of Creation,” which is preserved in a single manuscript. The “Litany of Creation” is comprised of two distinct sections. The first consists of numerous entreaties to God, the Trinity and Saint Michael, and makes reference to various aspects of Creation. The second section, which is presented here, includes prayers and entreaties related to elements of the created world. It refers to a life of religious devotion aided by the powers of this prayer, which is referred to as a “Besom (or Broom) of Devotion.” The lines of the prayer describe its own powerful attributes, such as connection with and communication with the divine, spiritual comfort, beauty and awe, as well as the many forms of assistance and protection bestowed upon a person as a result of its recitation.</p>
 

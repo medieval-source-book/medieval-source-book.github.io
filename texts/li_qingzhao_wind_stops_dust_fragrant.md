@@ -17,15 +17,11 @@ textauthor: Li Qingzhao 李清照
 languages: [chinese]
 periods: [12th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/cs902ps8424
 image: /assets/img/text/li_qingzhao_wind_stops_dust_fragrant.png
 thumb: /assets/img/text/li_qingzhao_wind_stops_dust_fragrant-thumb.png
 imagesource: "Detail from 宋人畫調鶴采花仙(Woman Outside) 軸, Anonymous, National Palace Museum, Accession Number: K2A000169N000000000PAA [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>The first stanza of this <i> ci </i> offers snapshots of late spring scenery, and the speaker’s sadness at the ending of this hopeful season. The second stanza describes her intention to travel to a place where spring is still in full bloom, but also her doubts about the possibility of casting off her unhappiness. As in other <i> ci </i> by Li Qingzhao, changes in the natural world are both a mirror reflecting the speaker’s own feelings and an external reality which impacts her state of mind.</p>
 

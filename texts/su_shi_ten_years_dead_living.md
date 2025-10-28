@@ -17,15 +17,11 @@ textauthor: Su Shi 蘇軾
 languages: [chinese]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/qr054sz8431
 image: /assets/img/text/su_shi_ten_years_dead_living.jpg
 thumb: /assets/img/text/su_shi_ten_years_dead_living-thumb.jpg
 imagesource: "“Detail from 宋夏珪溪山清遠卷 (mountain)”, 夏珪, National Palace Museum, Accession Number: C2A000009N000000000PAQ [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>When Su Shi was nineteen, he married his first wife, a sixteen-year-old named Wang Fu. She died when she was only twen- ty-seven. This <i> ci </i> is a eulogy to Wang Fu. The first stanza depicts the loneliness and melancholy of the poet thinking about his late wife. The second stanza recalls a dream in which his wife is alive and well. In the final lines, he imagines his wife still longing for him from beyond the grave.</p>
 

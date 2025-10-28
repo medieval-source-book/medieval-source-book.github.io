@@ -17,15 +17,11 @@ textauthor: Jacopo Passavanti
 languages: [italian]
 periods: [14th_century]
 textcollections: [gender-sex-sensuality, prayer-spirituality]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/th011wq8477
 image: /assets/img/text/passavanti_charcoal_burner_nevers.png
 thumb: /assets/img/text/passavanti_charcoal_burner_nevers.png
 imagesource: "British Library MS Royal 15 E II f.38 [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>Born in Florence around the year 1300, Jacopo Passavanti entered the Dominican order at a young age. After studying theology in Paris, he taught philosophy in Pisa and theology in Siena and Rome. He was then appointed prior at the convent of Santa Maria Novella, and episcopal vicar at the diocese of Florence. He died in Florence in 1357.</p>
 

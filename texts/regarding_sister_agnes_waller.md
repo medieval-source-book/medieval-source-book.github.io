@@ -17,15 +17,11 @@ textauthor: Various
 languages: [latin]
 periods: [13th_century, 14th_century]
 textcollections: [prayer-spirituality]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/qp135qw5144
 image: /assets/img/text/regarding_sister_agnes_waller.jpg
 thumb: /assets/img/text/regarding_sister_agnes_waller-thumb.jpg
 imagesource: "Detail from BVMM Colmar, Bibliothèque municipale, 0926 (508) f.61r (CC BY-NC 3.0)"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>“Regarding Sister Agnes Waller of Blessed Memory” is one of several spiritual biographies written by, for, and about the late-medieval nuns of the Dominican monastery of Unterlinden (or <i> Sub tilia </i> in Latin) in their book of <i> Vitae sororum </i> (“Lives of sisters”). The monastery of Unterlinden was founded in the mid-13th century, in the town of Colmar, Alsace (today’s France; a German-speaking region in the Middle Ages).</p>
 

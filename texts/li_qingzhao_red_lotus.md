@@ -17,15 +17,11 @@ textauthor: Li Qingzhao 李清照
 languages: [chinese]
 periods: [12th_century]
 textcollections: [love-lust-longing, love-songs]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/cb341rv4908
 image: /assets/img/text/li_qingzhao_red_lotus.png
 thumb: /assets/img/text/li_qingzhao_red_lotus-thumb.png
 imagesource: "Detail from 宋徽宗池塘秋晚圖 (Lotus)卷, 赵佶, National Palace Museum, Accession Number: K2A000986N000000000PAD [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>It is believed that Li Qingzhao wrote this <i> ci </i> during a period of separation from her husband due to his work, and that it expresses her personal heartache over his absence. As in her other compositions, the poet employs images from the natural world (a withering flower, flowing water) to express the dynamics of human interactions.</p>
 

@@ -17,15 +17,11 @@ textauthor: Li Qingzhao 李清照
 languages: [chinese]
 periods: [12th_century]
 textcollections: [love-lust-longing, love-songs]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/sz548zc4571
 image: /assets/img/text/li_qingzhao_incense_chills.png
 thumb: /assets/img/text/li_qingzhao_incense_chills-thumb.png
 imagesource: "Detail from 宋人秋荷野鳧圖(Autumn) 軸, Anonymous, National Palace Museum, Accession Number: K2A000205N000000000PAA [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>This <i> ci </i> expresses the poet-speaker’s sorrow at the departure of her lover. It may be inspired by Li Qingzhao’s separations from her husband due to his work. The poet’s vivid portrayal of listlessness (a jewellery box gathering dust, incense chill- ing in the holder) suggests that stasis is produced when love is suspended.</p>
 

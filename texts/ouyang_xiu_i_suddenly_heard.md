@@ -17,15 +17,11 @@ textauthor: Ouyang Xiu 歐陽修
 languages: [chinese]
 periods: [11th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/vc448kt9067
 image: /assets/img/text/ouyang_xiu_i_suddenly_heard.jpg
 thumb: /assets/img/text/ouyang_xiu_i_suddenly_heard-thumb.jpg
 imagesource: "Detail from 宋元集繪 冊 宋緙絲翠羽秋荷(Lotuses), Anonymous,  National Palace Museum, Accession Number: K2A001246N000000001PAA [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>This is one of six sets of song lyrics that Ouyang Xiu wrote for the tune “The Fisherman is Proud”. It depicts lotus-picking girls enjoying themselves and drinking wine, instead of diligently picking lotuses as they are supposed to be doing.</p>
 

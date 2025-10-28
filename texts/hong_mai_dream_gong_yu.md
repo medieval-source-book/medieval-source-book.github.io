@@ -17,15 +17,11 @@ textauthor: Hong Mai 洪邁
 languages: [chinese]
 periods: [12th_century]
 textcollections: [making-history]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/bk215pt5624
 image: /assets/img/text/hong_mai_dream_gong_yu.jpg
 thumb: /assets/img/text/hong_mai_dream_gong_yu-thumb.jpg
 imagesource: "Detail from 南宋 佚名 “三元得祿”圖扇頁 (Gibbons Raiding an Egret's Nest), Artist Unknown, late 12th century, Metropolitan Museum of Art, Accession Number: 13.100.104 [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>This story is one of five in the <i> Global Medieval Sourcebook </i> to have been selected from the <i> Yijian Zhi </i> (or, <i> Record of the Listener</i> , hereafter the <i> Record</i> ) by Hong Mai (1123-1202). Like many well-educated men in the Southern Song Dynasty (1127-1279), Hong Mai grew up in a prominent family, passed the civil service examination, and obtained a post in the imperial government. However, due to misconduct during a diplomatic mission, his career came to an abrupt end. From then on, he retreated to his study and devoted himself to writing the <i> Record</i> .</p>
 

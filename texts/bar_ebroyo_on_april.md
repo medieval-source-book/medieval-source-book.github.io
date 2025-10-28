@@ -17,15 +17,11 @@ textauthor: Bar ‘Ebroyo
 languages: [syriac]
 periods: [13th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/kh002fw2662
 image: /assets/img/text/bar_ebroyo_on_april.JPG
 thumb: /assets/img/text/bar_ebroyo_on_april-thumb.JPG
 imagesource: "Star-Shaped Tile, second half 13th–14th century, Stonepaste; molded, overglaze painted and leaf gilded (lajvardina), Metropolitan Museum of Art 40.181.16, H.O. Havemeyer Collection, Gift of Horace Havemeyer, 1940 [Public Domain]]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>This poem by Maphrian Mor Gregorios Bar ‘Ebroyo (1226-1286) is from a collection of his poems (<i> musḥotho</i> ) compiled by Mor Philoxenos Yuhanon Dolabani in 1929 and republished by the Mor Ephrem Monastery in Glane, Holland in 1983. Bar ‘Ebroyo (also latinized as Bar Hebraeus) was a prolific author who wrote on topics ranging from astronomy, medicine, theology, poetry, grammar, canon law, and more. He wrote in Arabic and Syriac and many of his works are translations of earlier Arabic works, or at least rely heavily upon such works. As maphrian, Bar ‘Ebroyo oversaw the eastern half of the Syriac Orthodox Church, with his seat being in the Mor Matay Monastery, near Mosul, Iraq. This office was second only to the patriarch of Antioch, although in function the two were largely equal.</p>
 

@@ -17,15 +17,11 @@ textauthor: Anonymous
 languages: [german]
 periods: [14th_century]
 textcollections: [cross-cultural-encounters, prayer-spirituality, gender-sex-sensuality]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/ky797wd4864
 image: /assets/img/text/sultan_daughter.png
 thumb: /assets/img/text/sultan_daughter-thumb.png
 imagesource: "Berlin, Staatsbibliothek zu Berlin, Ms. germ. oct. 222, f160r (detail). [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>The Sultan’s Daughter in the Flower Garden is a 400-line rhymed couplet text in Middle High German that was probably composed anonymously in the 14th century. Categorized in scholarship as a “Klosterlegende” or monastery legend, but also exhibiting characteristics of saints’ lives, courtship narratives, stories of noble “heathens” who convert, as well as of docta ignorantia (learned ignorance) and Marian literature, the narrative was probably translated from a no longer extant Latin source and is also transmitted in low German prose versions, as well as in song form.</p>
 

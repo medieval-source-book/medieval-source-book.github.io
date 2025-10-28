@@ -17,15 +17,11 @@ textauthor: Anonymous
 languages: [french]
 periods: [15th_century]
 textcollections: [love-songs]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/kf454sn1926
 image: /assets/img/text/two_three_days_ago.png
 thumb: /assets/img/text/two_three_days_ago-thumb.png
 imagesource: "Dijon Chansonnier (Dijon, Bibliothèque Municipale, 517), f.127v (new f.130v)."
-fulltext: ""
 ---
-
-
-
 <h1>Introduction to the Text</h1>
 <p>This anonymous love song comes from a large songbook (called a ‘chansonnier’), most likely compiled for a wealthy client between 1460 and 1470 CE. Although this song has no named composer, many of the other 160 songs do, and they show that this book sought to capture the latest trends in French songwriting. This song is a rondeau written for three voices, who were to sing their different parts simultaneously. The lyrical content—sorrow at separation from a lover—is typical for a medieval love song, but this song is somewhat unusual in that it adopts a woman’s perspective.</p>
 

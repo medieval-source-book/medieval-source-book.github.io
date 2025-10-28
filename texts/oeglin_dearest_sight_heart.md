@@ -17,15 +17,11 @@ textauthor: Erhard Oeglin
 languages: [german]
 periods: [16th_century]
 textcollections: [love-songs]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/np725sj8041
 image: /assets/img/text/oeglin_dearest_sight_heart.jpg
 thumb: /assets/img/text/oeglin_dearest_sight_heart-thumb.jpg
 imagesource: "Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.40v [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h1>Introduction to the Text</h1>
 <p>The first printed songbook with songs primarily in German was printed in July 1512 by the Augsburg printer Erhard Oeglin (ca.1470-1520). The songbook consists of four partbooks (it is the first German song collection to have four voices throughout) and contains 49 songs with a mixture of spiritual and secular content, 43 of which are in German and 6 in Latin. Oeglin was an innovative printer, credited as one of the first printers to print musical notation with movable type and as one of the first printers of <i> Zeitungen </i> (news-sheets, the forerunners of newspapers). Oeglin does not attribute any of the songs to particular composers but some of these songs do appear in other songbooks of this period where they are attributed to various composers active at the Imperial court, including Ludwig Senfl, Paul Hofhaimer, and Heinrich Isaac. These songs are collectively known as <i> tenor lieder</i> , as the melody is usually carried by the tenor line. This was the prototypical song type in Germany at the turn of the sixteenth century and enjoyed particular prominence at the court of the Emperor Maximilian.</p>
 

@@ -17,15 +17,11 @@ textauthor: Anonymous
 languages: [quechua]
 periods: [17th_century]
 textcollections: [prayer-spirituality]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/sk280rv9745
 image: /assets/img/text/default.png
 thumb: /assets/img/text/default.png
 imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gilt metal on parchment over cotton. Central Asia, Sicily, or North Africa. 69 1/4 x 38 1/4 in. (175.9 x 97.2 cm). The Cloisters Collection, 1984, at the Metropolitan Museum of Art, New York. Object Number 1984.344. [https://www.metmuseum.org/art/collection/search/466119](https://www.metmuseum.org/art/collection/search/466119). [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>This Quechua poem first appeared in the Spanish-language <i> Comentarios Reales de los Incas </i> (1609), a history of the Pre-Columbian Inca empire, authored by Inca Garcilaso de la Vega, the son of a Spanish conquistador and an Incan noblewoman. Scholars know very little beyond what Inca Garcilaso himself relates in his history about the poem. It appears in a chapter dedicated to the poetic accomplishments of the Incas, in which Inca Garcilaso accounts for the role that poetry played in how the Incas kept records of their achievements, cultural traditions, and beliefs. According to him, Inca poetry comprised “few verses, so that they could be memorized; but they were also very condensed, like cyphers to be decoded.” This description befits the poem translated here, “Sumaq Ñusta” (“Noble Lady”), in which few verses construct a whole narrative about the different forms of precipitation in the Andes (rain, thunderstorms, snow, hail). For Inca Garcilaso, poetry was the medium by which the Incas communicated not only their history, but also their knowledge about the natural world.</p>
 

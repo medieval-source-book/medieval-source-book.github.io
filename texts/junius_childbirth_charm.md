@@ -17,15 +17,11 @@ textauthor: Anonymous
 languages: [english,latin]
 periods: [11th_century]
 textcollections: [prayer-spirituality]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/tk297nj5781
 image: /assets/img/text/junius_childbirth_charm.png
 thumb: /assets/img/text/junius_childbirth_charm-thumb.png
 imagesource: "Detail from New York, Metropolitan Museum, Manuscript Illumination with the Birth of the Virgin in an Initial G, from a Gradual [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>Childbirth in medieval Europe was often the most dangerous experience of a woman’s life. Because of poor hygiene and a lack of gynecological knowledge, scholars have estimated that as many as ten percent of women died during childbirth or immediately afterwards. Not only did mothers die in large numbers, but as many as thirty percent of children died in the process of childbirth. In the face of these dangers, medieval people used a wide variety of charms and prayers in an attempt to improve their chances of a successful delivery.</p>
 

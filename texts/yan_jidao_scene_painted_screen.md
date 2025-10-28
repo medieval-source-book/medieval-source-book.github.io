@@ -17,15 +17,11 @@ textauthor: Yan Jidao 晏幾道
 languages: [chinese]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/gj714ky3715
 image: /assets/img/text/yan_jidao_scene_painted_screen.jpg
 thumb: /assets/img/text/yan_jidao_scene_painted_screen-thumb.jpg
 imagesource: "“Detail from 宋趙伯駒瑤島仙真卷 (immortal island)”, 趙伯駒, National Palace Museum, Accession Number: K2A001440N000000000PAB [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>In this ci, the speaker wakes from a dream about a legendary place—the Ten Isles—which reminds him of the long distance separating him from his lover. He writes a letter to her and recalls the sorrow of the day that they parted. The Ten Isles were traditionally conceived as the dwelling place of deities and magical creatures possessing powers unimaginable to humans. The Ten Isles were first depicted in a collection of folklore from the Han Dynasty (c.202 BCE - 8 BCE) attributed to Dongfang Shuo <em>东 方朔</em> , entitled <i> On the Ten Isles </i> (<em>十洲 记</em> ). However, the attribution is uncertain.</p>
 

@@ -21,11 +21,7 @@ sdr: https://purl.stanford.edu/druid
 iimage: /assets/img/text/bohmit_heretic.png
 thumb: /assets/img/text/bohmit_heretic-thumb.png
 imagesource: "Russian State Library in Moscow, Manuscript РГБ, 228.162, fol. 342r."
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>This text is an excerpt from the second redaction of the <i> Hellenic and Roman Chronicle</i> , a historiographic text which was most likely completed in Rus’ in the first half of the 15th century CE (before 1453). It is one of the surviving examples of medieval Rus’ historiography and belongs to a genre known as “chronographs”. Chronographs are texts compiled from other works which contain an exposition of world history starting from the creation of the world. Such texts drew on the example of Byzantine chronicles known in Church Slavic translations (including those of John Malalas and George the Monk, known as Hamartolus) as well as on native accounts. Unfortunately, we do not know anything about the authors of the <i> Hellenic and Roman Chronicle</i> .</p>
 

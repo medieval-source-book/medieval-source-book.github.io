@@ -17,15 +17,11 @@ textauthor: Anonymous
 languages: [german]
 periods: [9th_century]
 textcollections: [hymns-and-histories, prayer-spirituality]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/vy286tx3965
 image: /assets/img/text/song_peter.png
 thumb: /assets/img/text/song_peter-thumb.png
 imagesource: "Detail from BSB MS Clm 6260, fol.158v"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>The <i> Song of Peter </i> is the oldest surviving hymn in the German language. Hymns are a form of religious poetry sung in praise of God, often during religious ceremonies such as the Mass celebrated by medieval Christians. The tradition of Christian hymns was popularised in the West by Ambrose of Milan (c. 340–397 CE), who wrote hymns in Latin (though some claim that Hilary of Poitiers was the first composer of Latin hymns). Hymns in the “Ambrosian” style remained a very popular part of Christian worship until the Council of Trent (1545–63 CE), when most hymns were abolished from Catholic liturgical practice. The <i> Song of Peter </i> is transmitted with neumes, an early medieval form of musical notation, which suggests that it was supposed to be sung, possibly during religious processions.</p>
 

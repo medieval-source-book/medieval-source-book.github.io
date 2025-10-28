@@ -17,15 +17,11 @@ textauthor: Yan Shu 晏殊
 languages: [chinese]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs, gender-sex-sensuality]
-sdr: https://purl.stanford.edu/druid 
+sdr: https://purl.stanford.edu/yw538tr2725
 image: /assets/img/text/yan_shu_singer.jpg
 thumb: /assets/img/text/yan_shu_singer-thumb.jpg
 imagesource: "Detail from 宋人枯木竹石(Bird on Branch)軸, Anonymous, National Palace Museum, Accesion Number: K2A000155N000000000PAA [Public Domain]"
-fulltext: ""
 ---
-
-
-
 <h2>Introduction to the Text</h2>
 <p>The subtitle of this <i> ci </i> suggests that it is supposed to be a gift for a particular singer, yet it also serves as a general de- piction of a courtesan’s life during the Song Dynasty. One thing to be noted is the distinction between courtesans and singers. These two professions are often hard to discern in Song Dynasty <i> ci</i> . Even though they have similar names in Chinese, <em>妓</em> (<i> ji</i> ) for courtesans and <em>歌姬</em> (<i> ge ji</i> ) for singers, and their place of work is often similar, the singers’ work did not involve prostitution.</p>
 
