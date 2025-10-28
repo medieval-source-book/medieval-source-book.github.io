@@ -25,4 +25,4 @@ fulltext: ""
 ---
  
 ## Credits
-Translation by Björn Buschbeck, Kathryn Starkey, Mae Velloso-Lyons, Robert Forke, Christopher Hutchinson,  and Mareike Reisch, Encoded in TEI P5 XML by Jordan Rosen-Kaplan, Michael Widner,  and Irene Han
+Translation by Björn Buschbeck, Kathryn Starkey, Mae Velloso-Lyons, Robert Forke, Christopher Hutchinson, and Mareike Reisch, Encoded in TEI P5 XML by Jordan Rosen-Kaplan, Michael Widner, and Irene Han

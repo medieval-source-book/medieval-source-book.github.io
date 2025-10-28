@@ -1,0 +1,657 @@
+{
+  "totalIssues": 163,
+  "issues": [
+    {
+      "file": "dist/how-we-made-it/index.html",
+      "href": "{{site.baseurl}}{{textcollection.permalink}}"
+    },
+    {
+      "file": "dist/style/index.html",
+      "href": "../test"
+    },
+    {
+      "file": "dist/text/adam_st_victor_hymn_honor_augustine/index.html",
+      "href": "/assets/pdf/adam_st_victor_hymn_honor_augustine.pdf"
+    },
+    {
+      "file": "dist/text/adam_st_victor_hymn_honor_augustine/index.html",
+      "href": "/assets/pdf/adam_st_victor_hymn_honor_augustine.pdf"
+    },
+    {
+      "file": "dist/text/al_harith_toward_demise/index.html",
+      "href": "/assets/pdf/al_harith_toward_demise.pdf"
+    },
+    {
+      "file": "dist/text/al_harith_toward_demise/index.html",
+      "href": "/assets/pdf/al_harith_toward_demise.pdf"
+    },
+    {
+      "file": "dist/text/al_mulhalhil_twilights_ruins/index.html",
+      "href": "/assets/pdf/al_mulhalhil_twilights_ruins.pdf"
+    },
+    {
+      "file": "dist/text/al_mulhalhil_twilights_ruins/index.html",
+      "href": "/assets/pdf/al_mulhalhil_twilights_ruins.pdf"
+    },
+    {
+      "file": "dist/text/al_nuwayri_cypriot_victory/index.html",
+      "href": "/assets/tei/al_nuwayri_cypriot_victory.xml"
+    },
+    {
+      "file": "dist/text/al_nuwayri_cypriot_victory/index.html",
+      "href": "/assets/pdf/al_nuwayri_cypriot_victory.pdf"
+    },
+    {
+      "file": "dist/text/al_nuwayri_cypriot_victory/index.html",
+      "href": "/assets/pdf/al_nuwayri_cypriot_victory.pdf"
+    },
+    {
+      "file": "dist/text/al_shafii_let_days_do_they_please/index.html",
+      "href": "/assets/pdf/al_shafii_let_days_do_they_please.pdf"
+    },
+    {
+      "file": "dist/text/al_shafii_let_days_do_they_please/index.html",
+      "href": "/assets/pdf/al_shafii_let_days_do_they_please.pdf"
+    },
+    {
+      "file": "dist/text/al_shafii_were_it_not_that_poesy/index.html",
+      "href": "/assets/pdf/al_shafii_were_it_not_that_poesy.pdf"
+    },
+    {
+      "file": "dist/text/al_shafii_were_it_not_that_poesy/index.html",
+      "href": "/assets/pdf/al_shafii_were_it_not_that_poesy.pdf"
+    },
+    {
+      "file": "dist/text/al_shafii_your_friend_contests/index.html",
+      "href": "/assets/pdf/al_shafii_your_friend_contests.pdf"
+    },
+    {
+      "file": "dist/text/al_shafii_your_friend_contests/index.html",
+      "href": "/assets/pdf/al_shafii_your_friend_contests.pdf"
+    },
+    {
+      "file": "dist/text/alcuin_song_4_go_quickly/index.html",
+      "href": "/assets/pdf/alcuin_song_4_go_quickly.pdf"
+    },
+    {
+      "file": "dist/text/alcuin_song_4_go_quickly/index.html",
+      "href": "/assets/pdf/alcuin_song_4_go_quickly.pdf"
+    },
+    {
+      "file": "dist/text/andre_romance_of_the_french/index.html",
+      "href": "/assets/pdf/andre_romance_of_the_french.pdf"
+    },
+    {
+      "file": "dist/text/andre_romance_of_the_french/index.html",
+      "href": "/assets/pdf/andre_romance_of_the_french.pdf"
+    },
+    {
+      "file": "dist/text/bohmit_heretic/index.html",
+      "href": "/assets/tei/bohmit_heretic.xml"
+    },
+    {
+      "file": "dist/text/cabello_valboa_anthropomorphic_americas/index.html",
+      "href": "/assets/pdf/cabello_valboa_anthropomorphic_americas.pdf"
+    },
+    {
+      "file": "dist/text/cabello_valboa_anthropomorphic_americas/index.html",
+      "href": "/assets/pdf/cabello_valboa_anthropomorphic_americas.pdf"
+    },
+    {
+      "file": "dist/text/creature_dialogue_fire_water/index.html",
+      "href": "/assets/pdf/creature_dialogue_fire_water.pdf"
+    },
+    {
+      "file": "dist/text/creature_dialogue_fire_water/index.html",
+      "href": "/assets/pdf/creature_dialogue_fire_water.pdf"
+    },
+    {
+      "file": "dist/text/creature_dialogue_leopard_unicorn_dragon/index.html",
+      "href": "/assets/pdf/creature_dialogue_leopard_unicorn_dragon.pdf"
+    },
+    {
+      "file": "dist/text/creature_dialogue_leopard_unicorn_dragon/index.html",
+      "href": "/assets/pdf/creature_dialogue_leopard_unicorn_dragon.pdf"
+    },
+    {
+      "file": "dist/text/creature_dialogue_life_death/index.html",
+      "href": "/assets/pdf/creature_dialogue_life_death.pdf"
+    },
+    {
+      "file": "dist/text/creature_dialogue_life_death/index.html",
+      "href": "/assets/pdf/creature_dialogue_life_death.pdf"
+    },
+    {
+      "file": "dist/text/creature_dialogue_man_woman/index.html",
+      "href": "/assets/pdf/creature_dialogue_man_woman.pdf"
+    },
+    {
+      "file": "dist/text/creature_dialogue_man_woman/index.html",
+      "href": "/assets/pdf/creature_dialogue_man_woman.pdf"
+    },
+    {
+      "file": "dist/text/creature_dialogue_precious_topaz/index.html",
+      "href": "/assets/pdf/creature_dialogue_precious_topaz.pdf"
+    },
+    {
+      "file": "dist/text/creature_dialogue_precious_topaz/index.html",
+      "href": "/assets/pdf/creature_dialogue_precious_topaz.pdf"
+    },
+    {
+      "file": "dist/text/creature_dialogue_preface/index.html",
+      "href": "/assets/pdf/creature_dialogue_preface.pdf"
+    },
+    {
+      "file": "dist/text/creature_dialogue_preface/index.html",
+      "href": "/assets/pdf/creature_dialogue_preface.pdf"
+    },
+    {
+      "file": "dist/text/creature_dialogue_saturn_cloud/index.html",
+      "href": "/assets/pdf/creature_dialogue_saturn_cloud.pdf"
+    },
+    {
+      "file": "dist/text/creature_dialogue_saturn_cloud/index.html",
+      "href": "/assets/pdf/creature_dialogue_saturn_cloud.pdf"
+    },
+    {
+      "file": "dist/text/creature_dialogue_sun_moon/index.html",
+      "href": "/assets/pdf/creature_dialogue_sun_moon.pdf"
+    },
+    {
+      "file": "dist/text/creature_dialogue_sun_moon/index.html",
+      "href": "/assets/pdf/creature_dialogue_sun_moon.pdf"
+    },
+    {
+      "file": "dist/text/damsel_carcayciona/index.html",
+      "href": "/assets/pdf/damsel_carcayciona.pdf"
+    },
+    {
+      "file": "dist/text/damsel_carcayciona/index.html",
+      "href": "/assets/pdf/damsel_carcayciona.pdf"
+    },
+    {
+      "file": "dist/text/daubigne_spring_sonnet_vi/index.html",
+      "href": "/assets/pdf/daubigne_spring_sonnet_vi.pdf"
+    },
+    {
+      "file": "dist/text/daubigne_spring_sonnet_vi/index.html",
+      "href": "/assets/pdf/daubigne_spring_sonnet_vi.pdf"
+    },
+    {
+      "file": "dist/text/daubigne_spring_sonnet_vii/index.html",
+      "href": "/assets/pdf/daubigne_spring_sonnet_vii.pdf"
+    },
+    {
+      "file": "dist/text/daubigne_spring_sonnet_vii/index.html",
+      "href": "/assets/pdf/daubigne_spring_sonnet_vii.pdf"
+    },
+    {
+      "file": "dist/text/discourse_angels_pagans/index.html",
+      "href": "/assets/pdf/discourse_angels_pagans.pdf"
+    },
+    {
+      "file": "dist/text/discourse_angels_pagans/index.html",
+      "href": "/assets/pdf/discourse_angels_pagans.pdf"
+    },
+    {
+      "file": "dist/text/divination_through_apostles/index.html",
+      "href": "/assets/pdf/divination_through_apostles.pdf"
+    },
+    {
+      "file": "dist/text/divination_through_apostles/index.html",
+      "href": "/assets/pdf/divination_through_apostles.pdf"
+    },
+    {
+      "file": "dist/text/eckhart_sermon_coming_lord/index.html",
+      "href": "/assets/pdf/eckhart_sermon_coming_lord.pdf"
+    },
+    {
+      "file": "dist/text/eckhart_sermon_coming_lord/index.html",
+      "href": "/assets/pdf/eckhart_sermon_coming_lord.pdf"
+    },
+    {
+      "file": "dist/text/efrosin_solomon_kitovras/index.html",
+      "href": "/assets/pdf/efrosin_solomon_kitovras.pdf"
+    },
+    {
+      "file": "dist/text/efrosin_solomon_kitovras/index.html",
+      "href": "/assets/pdf/efrosin_solomon_kitovras.pdf"
+    },
+    {
+      "file": "dist/text/efrosin_tale_dracula/index.html",
+      "href": "/assets/pdf/efrosin_tale_dracula.pdf"
+    },
+    {
+      "file": "dist/text/efrosin_tale_dracula/index.html",
+      "href": "/assets/pdf/efrosin_tale_dracula.pdf"
+    },
+    {
+      "file": "dist/text/explanation_dreams/index.html",
+      "href": "/assets/pdf/explanation_dreams.pdf"
+    },
+    {
+      "file": "dist/text/explanation_dreams/index.html",
+      "href": "/assets/pdf/explanation_dreams.pdf"
+    },
+    {
+      "file": "dist/text/filbert_vision/index.html",
+      "href": "/assets/pdf/filbert_vision.pdf"
+    },
+    {
+      "file": "dist/text/filbert_vision/index.html",
+      "href": "/assets/pdf/filbert_vision.pdf"
+    },
+    {
+      "file": "dist/text/folz_song_gutenberg/index.html",
+      "href": "/assets/pdf/folz_song_gutenberg.pdf"
+    },
+    {
+      "file": "dist/text/folz_song_gutenberg/index.html",
+      "href": "/assets/pdf/folz_song_gutenberg.pdf"
+    },
+    {
+      "file": "dist/text/girl_wanted_fly/index.html",
+      "href": "/assets/pdf/girl_wanted_fly.pdf"
+    },
+    {
+      "file": "dist/text/girl_wanted_fly/index.html",
+      "href": "/assets/pdf/girl_wanted_fly.pdf"
+    },
+    {
+      "file": "dist/text/gosling/index.html",
+      "href": "/assets/pdf/gosling.pdf"
+    },
+    {
+      "file": "dist/text/gosling/index.html",
+      "href": "/assets/pdf/gosling.pdf"
+    },
+    {
+      "file": "dist/text/greven_blessed_haseka/index.html",
+      "href": "/assets/pdf/greven_blessed_haseka.pdf"
+    },
+    {
+      "file": "dist/text/greven_blessed_haseka/index.html",
+      "href": "/assets/pdf/greven_blessed_haseka.pdf"
+    },
+    {
+      "file": "dist/text/grunau_prussian_chronicle/index.html",
+      "href": "/assets/pdf/grunau_prussian_chronicle.pdf"
+    },
+    {
+      "file": "dist/text/grunau_prussian_chronicle/index.html",
+      "href": "/assets/pdf/grunau_prussian_chronicle.pdf"
+    },
+    {
+      "file": "dist/text/hakim_iranshah_monstrous_courtship/index.html",
+      "href": "/assets/pdf/hakim_iranshah_monstrous_courtship.pdf"
+    },
+    {
+      "file": "dist/text/hakim_iranshah_monstrous_courtship/index.html",
+      "href": "/assets/pdf/hakim_iranshah_monstrous_courtship.pdf"
+    },
+    {
+      "file": "dist/text/han_yu_memorial_bones_buddha/index.html",
+      "href": "/assets/pdf/han_yu_memorial_bones_buddha.pdf"
+    },
+    {
+      "file": "dist/text/han_yu_memorial_bones_buddha/index.html",
+      "href": "/assets/pdf/han_yu_memorial_bones_buddha.pdf"
+    },
+    {
+      "file": "dist/text/ignatios/index.html",
+      "href": "/assets/pdf/memorial_father_ignatios.pdf"
+    },
+    {
+      "file": "dist/text/ignatios/index.html",
+      "href": "/assets/pdf/memorial_father_ignatios.pdf"
+    },
+    {
+      "file": "dist/text/king_tars/index.html",
+      "href": "/assets/pdf/king_tars.pdf"
+    },
+    {
+      "file": "dist/text/king_tars/index.html",
+      "href": "/assets/pdf/king_tars.pdf"
+    },
+    {
+      "file": "dist/text/li_qingzhao_outside_window_spring_color/index.html",
+      "href": "/assets/pdf/li_qingzhao_outside_window_spring_color.pdf"
+    },
+    {
+      "file": "dist/text/li_qingzhao_outside_window_spring_color/index.html",
+      "href": "/assets/pdf/li_qingzhao_outside_window_spring_color.pdf"
+    },
+    {
+      "file": "dist/text/lopes_chronicle_peter_i/index.html",
+      "href": "/assets/pdf/lopes_chronicle_peter_i.pdf"
+    },
+    {
+      "file": "dist/text/lopes_chronicle_peter_i/index.html",
+      "href": "/assets/pdf/lopes_chronicle_peter_i.pdf"
+    },
+    {
+      "file": "dist/text/millstatt_plaint_sin/index.html",
+      "href": "/assets/pdf/millstatt_plaint_sin.pdf"
+    },
+    {
+      "file": "dist/text/millstatt_plaint_sin/index.html",
+      "href": "/assets/pdf/millstatt_plaint_sin.pdf"
+    },
+    {
+      "file": "dist/text/miracle_mother_god_sign/index.html",
+      "href": "/assets/pdf/miracle_mother_god_sign.pdf"
+    },
+    {
+      "file": "dist/text/miracle_mother_god_sign/index.html",
+      "href": "/assets/pdf/miracle_mother_god_sign.pdf"
+    },
+    {
+      "file": "dist/text/miracles_vladimir_mother_god/index.html",
+      "href": "/assets/pdf/miracles_vladimir_mother_god.pdf"
+    },
+    {
+      "file": "dist/text/miracles_vladimir_mother_god/index.html",
+      "href": "/assets/pdf/miracles_vladimir_mother_god.pdf"
+    },
+    {
+      "file": "dist/text/ouyang_xiu_phoenix-like_bun/index.html",
+      "href": "/assets/tei/ouyang_xiu_phoenix-like_bun.xml"
+    },
+    {
+      "file": "dist/text/ouyang_xiu_phoenix-like_bun/index.html",
+      "href": "/assets/pdf/ouyang_xiu_phoenix-like_bun.pdf"
+    },
+    {
+      "file": "dist/text/ouyang_xiu_phoenix-like_bun/index.html",
+      "href": "/assets/pdf/ouyang_xiu_phoenix-like_bun.pdf"
+    },
+    {
+      "file": "dist/text/perez_de_pineda_brief_treatise_doctrine/index.html",
+      "href": "/assets/pdf/perez_de_pineda_brief_treatise_doctrine.pdf"
+    },
+    {
+      "file": "dist/text/perez_de_pineda_brief_treatise_doctrine/index.html",
+      "href": "/assets/pdf/perez_de_pineda_brief_treatise_doctrine.pdf"
+    },
+    {
+      "file": "dist/text/pictor_concerning_wicked_woman/index.html",
+      "href": "/assets/pdf/pictor_concerning_wicked_woman.pdf"
+    },
+    {
+      "file": "dist/text/pictor_concerning_wicked_woman/index.html",
+      "href": "/assets/pdf/pictor_concerning_wicked_woman.pdf"
+    },
+    {
+      "file": "dist/text/prologue_book_histories/index.html",
+      "href": "/assets/pdf/prologue_book_histories.pdf"
+    },
+    {
+      "file": "dist/text/prologue_book_histories/index.html",
+      "href": "/assets/pdf/prologue_book_histories.pdf"
+    },
+    {
+      "file": "dist/text/prologue_psalms_czech/index.html",
+      "href": "/assets/pdf/prologue_psalms_czech.pdf"
+    },
+    {
+      "file": "dist/text/prologue_psalms_czech/index.html",
+      "href": "/assets/pdf/prologue_psalms_czech.pdf"
+    },
+    {
+      "file": "dist/text/rabanus_maurus_honor_holy_cross/index.html",
+      "href": "/assets/pdf/rabanus_maurus_honor_holy_cross.pdf"
+    },
+    {
+      "file": "dist/text/rabanus_maurus_honor_holy_cross/index.html",
+      "href": "/assets/pdf/rabanus_maurus_honor_holy_cross.pdf"
+    },
+    {
+      "file": "dist/text/reno_incident_university_paris/index.html",
+      "href": "/assets/pdf/reno_incident_university_paris.pdf"
+    },
+    {
+      "file": "dist/text/reno_incident_university_paris/index.html",
+      "href": "/assets/pdf/reno_incident_university_paris.pdf"
+    },
+    {
+      "file": "dist/text/riddle_temple_saturn/index.html",
+      "href": "/assets/pdf/riddle_temple_saturn.pdf"
+    },
+    {
+      "file": "dist/text/riddle_temple_saturn/index.html",
+      "href": "/assets/pdf/riddle_temple_saturn.pdf"
+    },
+    {
+      "file": "dist/text/rigaut_just_elephant/index.html",
+      "href": "/assets/pdf/rigaut_just_elephant.pdf"
+    },
+    {
+      "file": "dist/text/rigaut_just_elephant/index.html",
+      "href": "/assets/pdf/rigaut_just_elephant.pdf"
+    },
+    {
+      "file": "dist/text/roman_origins_lithuanians/index.html",
+      "href": "/assets/pdf/roman_origins_lithuanians.pdf"
+    },
+    {
+      "file": "dist/text/roman_origins_lithuanians/index.html",
+      "href": "/assets/pdf/roman_origins_lithuanians.pdf"
+    },
+    {
+      "file": "dist/text/roman_prologue_republics_world/index.html",
+      "href": "/assets/pdf/roman_prologue_republics_world.pdf"
+    },
+    {
+      "file": "dist/text/roman_prologue_republics_world/index.html",
+      "href": "/assets/pdf/roman_prologue_republics_world.pdf"
+    },
+    {
+      "file": "dist/text/sachs_farmer_pregnant_foal/index.html",
+      "href": "/assets/pdf/sachs_farmer_pregnant_foal.pdf"
+    },
+    {
+      "file": "dist/text/sachs_farmer_pregnant_foal/index.html",
+      "href": "/assets/pdf/sachs_farmer_pregnant_foal.pdf"
+    },
+    {
+      "file": "dist/text/sanai_on_merciful_god/index.html",
+      "href": "/assets/pdf/sanai_on_merciful_god.pdf"
+    },
+    {
+      "file": "dist/text/sanai_on_merciful_god/index.html",
+      "href": "/assets/pdf/sanai_on_merciful_god.pdf"
+    },
+    {
+      "file": "dist/text/sant_jordi_underneath_my_forehead/index.html",
+      "href": "/assets/pdf/sant_jordi_underneath_my_forehead.pdf"
+    },
+    {
+      "file": "dist/text/sant_jordi_underneath_my_forehead/index.html",
+      "href": "/assets/pdf/sant_jordi_underneath_my_forehead.pdf"
+    },
+    {
+      "file": "dist/text/second_battle_moytura/index.html",
+      "href": "/assets/pdf/second_battle_moytura.pdf"
+    },
+    {
+      "file": "dist/text/second_battle_moytura/index.html",
+      "href": "/assets/pdf/second_battle_moytura.pdf"
+    },
+    {
+      "file": "dist/text/sengxiang_monk_huisi/index.html",
+      "href": "/assets/pdf/sengxiang_monk_huisi.pdf"
+    },
+    {
+      "file": "dist/text/sengxiang_monk_huisi/index.html",
+      "href": "/assets/pdf/sengxiang_monk_huisi.pdf"
+    },
+    {
+      "file": "dist/text/sermon_on_st_nobody/index.html",
+      "href": "/assets/pdf/sermon_on_st_nobody.pdf"
+    },
+    {
+      "file": "dist/text/sermon_on_st_nobody/index.html",
+      "href": "/assets/pdf/sermon_on_st_nobody.pdf"
+    },
+    {
+      "file": "dist/text/shoemakers_new_faith/index.html",
+      "href": "/assets/pdf/shoemakers_new_faith.pdf"
+    },
+    {
+      "file": "dist/text/shoemakers_new_faith/index.html",
+      "href": "/assets/pdf/shoemakers_new_faith.pdf"
+    },
+    {
+      "file": "dist/text/testament_magnus/index.html",
+      "href": "/assets/pdf/testament_magnus.pdf"
+    },
+    {
+      "file": "dist/text/testament_magnus/index.html",
+      "href": "/assets/pdf/testament_magnus.pdf"
+    },
+    {
+      "file": "dist/text/tinodi_loss_buda/index.html",
+      "href": "/assets/pdf/tinodi_loss_buda.pdf"
+    },
+    {
+      "file": "dist/text/tinodi_loss_buda/index.html",
+      "href": "/assets/pdf/tinodi_loss_buda.pdf"
+    },
+    {
+      "file": "dist/text/tractate_sotah/index.html",
+      "href": "/assets/pdf/tractate_sotah.pdf"
+    },
+    {
+      "file": "dist/text/tractate_sotah/index.html",
+      "href": "/assets/pdf/tractate_sotah.pdf"
+    },
+    {
+      "file": "dist/text/trojan_war/index.html",
+      "href": "/assets/pdf/trojan_war.pdf"
+    },
+    {
+      "file": "dist/text/trojan_war/index.html",
+      "href": "/assets/pdf/trojan_war.pdf"
+    },
+    {
+      "file": "dist/text/twinger_chronicle/index.html",
+      "href": "/assets/pdf/twinger_chronicle.pdf"
+    },
+    {
+      "file": "dist/text/twinger_chronicle/index.html",
+      "href": "/assets/pdf/twinger_chronicle.pdf"
+    },
+    {
+      "file": "dist/text/two_confessions/index.html",
+      "href": "/assets/pdf/two_confessions.pdf"
+    },
+    {
+      "file": "dist/text/two_confessions/index.html",
+      "href": "/assets/pdf/two_confessions.pdf"
+    },
+    {
+      "file": "dist/text/virgin_mary_lament_bordesholm/index.html",
+      "href": "/assets/pdf/virgin_mary_lament_bordesholm.pdf"
+    },
+    {
+      "file": "dist/text/virgin_mary_lament_bordesholm/index.html",
+      "href": "/assets/pdf/virgin_mary_lament_bordesholm.pdf"
+    },
+    {
+      "file": "dist/text/von_schondoch_queen_france/index.html",
+      "href": "/assets/pdf/von_schondoch_queen_france.pdf"
+    },
+    {
+      "file": "dist/text/von_schondoch_queen_france/index.html",
+      "href": "/assets/pdf/von_schondoch_queen_france.pdf"
+    },
+    {
+      "file": "dist/text/vorau_plaint_sin/index.html",
+      "href": "/assets/pdf/vorau_plaint_sin.pdf"
+    },
+    {
+      "file": "dist/text/vorau_plaint_sin/index.html",
+      "href": "/assets/pdf/vorau_plaint_sin.pdf"
+    },
+    {
+      "file": "dist/text/wessobrun_prayer/index.html",
+      "href": "/assets/pdf/wessobrun_prayer.pdf"
+    },
+    {
+      "file": "dist/text/wessobrun_prayer/index.html",
+      "href": "/assets/pdf/wessobrun_prayer.pdf"
+    },
+    {
+      "file": "dist/text/wino/index.html",
+      "href": "/assets/pdf/wino.pdf"
+    },
+    {
+      "file": "dist/text/wino/index.html",
+      "href": "/assets/pdf/wino.pdf"
+    },
+    {
+      "file": "dist/text/yan_shu_moments_time.xml/index.html",
+      "href": "/assets/tei/yan_shu_moments_time.xml.xml"
+    },
+    {
+      "file": "dist/text/yan_shu_moments_time.xml/index.html",
+      "href": "/assets/pdf/yan_shu_moments_time.xml.pdf"
+    },
+    {
+      "file": "dist/text/yan_shu_moments_time.xml/index.html",
+      "href": "/assets/pdf/yan_shu_moments_time.xml.pdf"
+    },
+    {
+      "file": "dist/textcollections/collections/index.html",
+      "href": "collections/cross-cultural-encounters"
+    },
+    {
+      "file": "dist/textcollections/collections/index.html",
+      "href": "collections/facetiae-jokes"
+    },
+    {
+      "file": "dist/textcollections/collections/index.html",
+      "href": "collections/fantastic-fables"
+    },
+    {
+      "file": "dist/textcollections/collections/index.html",
+      "href": "collections/gender-sex-sensuality"
+    },
+    {
+      "file": "dist/textcollections/collections/index.html",
+      "href": "collections/hymns-and-histories"
+    },
+    {
+      "file": "dist/textcollections/collections/index.html",
+      "href": "collections/love-songs"
+    },
+    {
+      "file": "dist/textcollections/collections/index.html",
+      "href": "collections/love-lust-longing"
+    },
+    {
+      "file": "dist/textcollections/collections/index.html",
+      "href": "collections/making-history"
+    },
+    {
+      "file": "dist/textcollections/collections/index.html",
+      "href": "collections/prank-or-be-pranked"
+    },
+    {
+      "file": "dist/textcollections/collections/index.html",
+      "href": "collections/prayer-spirituality"
+    },
+    {
+      "file": "dist/textcollections/collections/index.html",
+      "href": "collections/good-life"
+    },
+    {
+      "file": "dist/texts/discourse_angels_pagans/index.html",
+      "href": "/assets/pdf/discourse_angels_pagans.pdf"
+    },
+    {
+      "file": "dist/texts/discourse_angels_pagans/index.html",
+      "href": "/assets/pdf/discourse_angels_pagans.pdf"
+    }
+  ]
+}

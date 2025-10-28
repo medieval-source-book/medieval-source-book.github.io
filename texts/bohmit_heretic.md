@@ -23,4 +23,288 @@ thumb: /assets/img/text/bohmit_heretic-thumb.png
 imagesource: "Russian State Library in Moscow, Manuscript РГБ, 228.162, fol. 342r."
 fulltext: ""
 ---
- 
+
+
+
+<h2>Introduction to the Text</h2>
+<p>This text is an excerpt from the second redaction of the <i> Hellenic and Roman Chronicle</i> , a historiographic text which was most likely completed in Rus’ in the first half of the 15th century CE (before 1453). It is one of the surviving examples of medieval Rus’ historiography and belongs to a genre known as “chronographs”. Chronographs are texts compiled from other works which contain an exposition of world history starting from the creation of the world. Such texts drew on the example of Byzantine chronicles known in Church Slavic translations (including those of John Malalas and George the Monk, known as Hamartolus) as well as on native accounts. Unfortunately, we do not know anything about the authors of the <i> Hellenic and Roman Chronicle</i> .</p>
+
+<p>The <i> Hellenic and Roman Chronicle </i> opens with an extensive summary of Old Testament events and a description of the conquests of Alexander of Macedon (a.k.a. Alexander the Great). The authors devote considerable space to the history of Rome, outlining how the city on the Tiber was founded and tracing the era when it was ruled by kings, the subsequent period of the republic, and finally the period of empire. The authors were apparently also interested in the history of the so-called “Christian Empire”, whose capital was Constantinople. (The founding of the city is associated with the reign of Constantine the Great (306–337 CE), the first Roman ruler to embrace Christianity.) The <i> Hellenic and Roman Chron- icle </i> also contains a fairly systematic history of Byzantium, covering the period until the reign of Romanus I Lecapenus (919–944), who was a contemporary of the Kiev Prince Igor (912–945). The authors were apparently interested not only in political issues, but also in the history of the Church and of heterodox movements within Christianity. We can infer this from the way that their historical narrative is interwoven with fragments of polemical works. These include anti-heretical works, such as an abridged version of the <i> History of Paulicians </i> by Peter of Sicily, and anti-Muslim writings, such as the ex- cerpt translated here. The <i> Hellenic and Roman Chronicle </i> is significant because it shows how Orthodox Slavs in the Middle Ages were thinking far beyond their own horizons, demonstrating their extensive historical knowledge and their interest in different peoples, cultures, and religions. This text is practically unknown outside of a narrow circle of specialists, and it has not been translated in its entirety into any modern language.</p>
+
+<h2>Introduction to the Source</h2>
+<p>Manuscript РГБ, 228.162 was produced in Rus’ in 1485. It is one of the earliest surviving complete copies of the <i> Hellenic and Roman Chronicle</i> . Besides this manuscript, there are a dozen or so complete and fragmentary copies of this work: 5 of them come from the end of the 15th century, 8 from the 16th century, and 2 from the first half of the 17th century. This indicates that the chronicle was quite popular in medieval and early modern Rus’. Manuscript РГБ, 228.162 was previous- ly in the possession of Dmitri V. Piskariov (1797–1865); it was transferred in 1868 to the Rumyantsev Museum in Moscow and then, in 1924, upon the liquidation of the museum, it was transferred to the Manuscript Department of the Russian State Library in Moscow, where it is kept to this day.</p>
+
+<h2>About this Edition</h2>
+<p>Manuscript РГБ, 228.162 is the basis for this edition of the Old Rus’ text and its English translation. The Old Rus’ text was rendered as close to the original as possible, taking into account the division into lines which is present in the manuscript. The abbreviations used in the original have been preserved. The Cyrillic script has only been simplified where necessary due to the nature of modern Cyrillic fonts. In the English translation, all additions and explanations</p>
+<p>by the translator are placed in square brackets. Italics indicate where vulgarisms present in the Old Rus’ original have been replaced with more semantically neutral phrases. In one instance, indicated in the notes, italics indicate that the meaning of the original text is uncertain.</p>
+
+<h2>Further Reading</h2>
+<p>Летописец Еллинский и Римский, vol. I, Текст , ed. О.В. Творогов, Санкт-Петербург 1999, p. 402–405</p>
+<ul id="l1">
+<li data-list-text="•">
+<p>Edition of the original text.</p>
+</li>
+</ul>
+<p>Z.A. Brzozowska, <i> Zapożyczona czy własna wizja dziejów powszechnych? Wpływ autorów bizantyńskich na świado¬mość historyczną Sło¬wian Południowych i Wschodnich (na przykładzie opowieści o Ma-homecie i Historii paulicjan Piotra z Sy- cylii), [in:] Widmo Mahometa, cień Samuela. Cesar¬stwo Bizantyń¬skie w relacji z przedstawicielami innych religii i kultur (VII–XV w.)</i> , eds. Z.A. Brzozowska, M.J. Leszka, K. Marinow, T. Wolińska, Łódź 2020, p. 30–34</p>
+<ul id="l2">
+<li data-list-text="•">
+<p>Edition of the original text.</p>
+</li>
+</ul>
+<h1>On Bohmit [Muhammad] the Heretic | <em>Ѡ Бохмитѣ еретицѣ</em></h1>
+
+<p>Ѡ Бохмитѣ еретицѣ.</p>
+<p>Нь и срачиньскыи началникь, злыи пррокъ Бохмитъ и лживыи изъ единаго колѣна родомъ Измаилова с҃на Авраамлѧ. Сы родисѧ из рабынѧ Измаило. ищадьѧ</p>
+<p>ѿц҃ь</p>
+<p>имь наречнь быс всѣмъ. сїи оубо род два с҃на. Мударѧ и Равїа.</p>
+<p>Мударь же роди Кусарѧ, и Канитона, и Афимимиана, [На]садона и иныхъ нѣкоторыхъ безъ именъ. си</p>
+<p>Мадїань</p>
+<p>скоу пустыню наслѣдоваша. и скоты питахутсѧ, в ку щахъ живуще. соуть же и внутренїи сихъ, рекше да</p>
+<p>лнїи, не ѿ колѣна сихъ. нь ѿ колѣна Нектанова. Сихъ гл҃емїи Ѡмиритѧни. Оубогѫ же сущу прежденарече ному Бохмиту, ключисѧ натисѧ ему к женѣ бо</p>
+<p>гатї и сродьници ему, наричѧемѣи Дигана. да на вель блоудехь куплю дѣеть съ единопленьникы своими.</p>
+<p>въ Егѵптѣ и в Палестинѣ. Тач помалу деръзнувь прель</p>
+<p>сти жену. вдовѣ сущи еи. и поиметь ю женою собѣ. пребывающу же ему в Палестинѣ, и пожи съ июдѣи,</p>
+<p>и съ крстияны ловлѧше ѿ исписанїа нѣкыихъ словесъ. имѧше же и стрсть роумѡмъ шибеньѧ въздроучаше</p>
+<p>т бо сѧ. ибо жена его печална сего ради. яко великаго ро да соуща богата к таковому моужу сочтавшисѧ, не точью оубогу, нь и румомъ шибена. замыслив же сице реч к неи. яко страшно видѣнїе виждю, именемь Гаврї ила агг҃ла. и не терпѧ его видѣнїа. изнемогаю издроучѧ юсѧ.</p>
+
+<p>Вѣроу же ятъ ему жена. Лжесвѣдѣтельствова вшю емоу арью нѣкоему мниху. лжеименоуясѧ ли</p>
+<p>хаго ради притѧжанїа, се же бошью прельсти его. и та ко жена прельщена бывши, ко инѣмъ женамъ бесѣ</p>
+<p>довавши, единопленьникъ своих проповѣда им, яко прроку ему быти сущу. прельсти же си лжуще.</p>
+<p>доиде до</p>
+<p>мужа кнѧзѧ колѣна того, именемь Вувахара. Жена же оубо оумерши Бохмитѫ, прїателѧ наслѣдника ѡстави</p>
+<p>Бо</p>
+<p>хмита богатству своему. и ѿтолѣ оубо славенъ быс и богат.</p>
+<p>и ѿдержимъ бѧше злаѧ прелесть еретичества его странам</p>
+<p>Ефривовьскымъ. Се бо ненавистныи и бѣсооубїицѧ, и бесѣ</p>
+<p>доваше съ еврѣѧны и съ хрстьяны, рекше ко арьяномь и к не</p>
+<p>сторьяномъ, и ѿ всѣхъ тѣх много прїатъ ѿ июдѣи</p>
+<p>On Bohmit [Muhammad]<em>1</em> the Heretic.</p>
+<p>The Saracen leader Muhammad, an evil and</p>
+<p>false prophet, came from one of the tribes of Ishmael, [who was] the son</p>
+<p>of Abraham. This Ishmael was born of a slave woman, and was called the father</p>
+<p>of them all. He sired two sons, Mudar and Rabia. Mudar fathered Kusar, Kaniton, Aphmian,</p>
+<p>Sadon and a number of others, unknown by name. They inherited the Midian desert and ate their livestock,</p>
+<p>while living in tents. There are also ‘internal’, i.e. more distant [factions], not from their tribe, but from the House of Nectar, called Homerites. Because the aforementioned Muhammad was</p>
+<p>poor,</p>
+<p>he had to hire himself to a rich woman,</p>
+<p>a relative of his, called Digana, to trade camels with his brethren</p>
+<p>in Egypt and Palestine. Later, as he gradually grew bolder, he deceived the widowed woman and married her.</p>
+<p>When he stayed in Palestine and met Jews</p>
+<p>and Christians, he picked up some words from their writings.</p>
+<p>He also suffered from a paralysis of the mind – he would fall [during epileptic seizures].</p>
+<p>His wife was upset about it. She [regretted] that although she came from</p>
+<p>a prominent family and was rich, she had bound herself to such a man: not</p>
+<p>only poor, but also of a paralyzed mind. Having understood that, he said to her: “I see a terrible vision, an angel named Gabriel, and when I cannot bear that vision, I lose my strength and fall.”</p>
+
+<p>A woman believed it when an Arian, who falsely</p>
+<p>claimed to be a monk for his own benefit, gave a false testimony about himself. He [Muhammad] was even more misled by him.</p>
+<p>And so</p>
+<p>the woman, having been deceived, talked to other women of her tribe and told them</p>
+<p>that he [Muhammad] was a prophet. She deceived them, and so the lie</p>
+<p>reached a man, the prince of that tribe, named Bubahara. [Later] [Muhammad’s] wife</p>
+<p>died, having made him [Muhammad] the owner and heir of her estate. And from then on, he was rich and famous, and the evil lie of his heresy swept over the lands</p>
+<p>of Epherib [Yathrib]. He was a hate-filled satanic murderer. He had disputes with the Jews and with the Christians, that is, with the</p>
+<p>Arians and</p>
+<p>the Nestorians, and he took much from them all: from the Jews, monotheism, from the Arians, [the idea of] the created Word and</p>
+<p>Spirit,</p>
+<p>въ</p>
+<p>единоначальствїе, ѿ ариѧн же, Слова и Дх҃а створена,</p>
+<p>ѿ несториа чл҃кослоуженїа, ѡ собѣ вѣроу створивъ. и ра зврати весь языкь тъ, и наоучивь ѧ ѡбрѣзоватисѧ, и мужемь и женамь, и единому точью покланѧтисѧ Бг҃ѫ.</p>
+<p>Ха҃ же чтити яко Слово Бж҃їе, не с҃на же нь ѿ Дх҃а Ст҃а рожде</p>
+<p>на. Слова же и Дх҃а Ст҃а изъгл҃ема и на въздоусѣ излива</p>
+<p>ема, разумѣти ни единооупостасно, ни родителю, ни единосущна. Ст҃оую же Марью дв҃цю не гл҃ти Бц҃ю, нь</p>
+<p>Аро</p>
+<p>нову и Моисеѡву внимати сестру соущу. ни креститис, ни суботѣ их наоучи, рекше не праздновати, не</p>
+<p>законны</p>
+<p>м же ли еѵгальскымъ ѡбычаемъ послѣдовати. нь ѿ вращатисѧ ѿ крста, истиньну распеншюс Хо҃у</p>
+<p>исповѣдат.</p>
+<p>научив же бошью закона. ѿвръгьшимсѧ не прїимахоу свиных мѧсъ, вина же весма, не прїимаху. Такымъ</p>
+<p>зло</p>
+<p>словїемь изъѡбразивъ ѡ собѣ истину. и себе рече ключа</p>
+<p>рю бытї ему раискому. сего ради въ д҃нь соудныи, по прѣд</p>
+<p>стоѧнїи Моисѣевѣ съ из҃льтѧны, яко преступникъ за кону, муцѣ и ѡгню предатї а. абїе же Ісо҃у прѣдъстоѧ ти ѿврещисѧ прѣдъ Бг҃мь, яко не гл҃ахь себе соуща</p>
+<p>Сн҃а Бо</p>
+<p>жїа. и крстианомъ же, яко тако дръзноувшимъ при строитисѧ Хв҃у имени Ба҃ и Сн҃а Бж҃їа, и Слова вопло щена, и распѧта, б҃гословившимъ. и ѡгню геѡнь скому предани боудѫть. тач себе нарече ѿ Ба҃ нареченъ зѣло. бл҃гочествующе, и всихъ ихъ языкъ виноватъ. б҃лгочестивью соуща, суща похвалена. и сего ради клю чѧрю раискому быти таче по ѿверзенїи раю имъ</p>
+<p>бывшу,</p>
+<p>внити с нимь бошью весма о҃, могущим же оустре</p>
+<p>митисѧ на то. прочим же суженымъ вѣща. Праведны м же поистинѣ. и беспрестани пищу прїати. и ѡбрѣ</p>
+<p>тшимсѧ грѣшникѡмъ. харатеица написаны, на выѧ имуще навѧзаны, и в раи имъ внити, и симъ наричѧ тисѧ прощеникомъ Бж҃їимъ. и Бохмицим. соуть же и три рѣкы реч в раи. едина медвена, в҃. молочьна, г҃.ѧ</p>
+<p>винна</p>
+<p>ѧ, якоже власть имоуть коиждо ихъ ѿ неѧже хощеть. да прїиметь, и насыщаетсѧ. женам же с ними быти.</p>
+<p>и требити власы имь. и всѧко угаждати ему сласто</p>
+<p>любезнаѧ телеса их. и плот похотна. и въ сластех сыи ра</p>
+<p>бъ грѣху. Июдѣем же и крстияномь дрова ѡгню</p>
+<p>бытї имь. ѡстати ж самаритѧномь реч. да ѿ прохо</p>
+<p>and from the Nestorians, anthropolatry [the worship of the human nature]. And by creating his own faith,</p>
+<p>he stirred up all those people. And he taught them to circumcise men and women, to worship only one God,</p>
+<p>to worship Christ as the Word of God — not as a Son born through the Holy Ghost.</p>
+<p>The Word and the Ghost [according to Muhammad] should be regarded as something spoken and spilled in the air,</p>
+<p>and not as co-hypostatic [beings], co-existing with [their] Parent. The Holy Virgin Mary should not be called the Mother of God, but should be considered the sister of Aaron and Moses. He also</p>
+<p>taught them not to baptize,</p>
+<p>not to celebrate Saturdays, not to observe the customs laid down in the Law and in the Gospel, but to turn away</p>
+<p>from the cross and believe that the crucified Christ was a shadow.</p>
+<p>Those [people having been so] taught, having completely rejected the law, did not partake</p>
+<p>of pork and did not drink wine at all. With such slander,</p>
+<p>he created the truth about himself. He said he was the key-holder of Paradise. For this reason [according to Muhammad], on the day</p>
+<p>of Judgment, after</p>
+<p>Moses appears with the Israelites, they [the Isreaelites] will be brought</p>
+<p>to the torment and fire as offenders against the law. Then Jesus will appear, denying before God: “I never said I was the Son of</p>
+<p>God.”</p>
+<p>And the Christians – because [according to Muhammad] they dare to add</p>
+<p>God and the Son of God to the name of Christ and to teach about the Incarnate Word and the Crucified – will be brought to the fires of Gehenna. And he said of himself that he [would] be considered</p>
+<p>by God</p>
+<p>to be extremely pious, and that because of him all their people had become pious –</p>
+<p>they would be worthy of praise. And for that reason, he will be the key-holder of Paradise. And when he opens Paradise,</p>
+<p>only 70,000 will enter it with him, those who will dare</p>
+<p>to do so. The others – he says – will be judged. The righteous will truly and continuously partake of sweetness, and</p>
+<p>the sinners who find themselves there should have parchments tied around their necks</p>
+<p>to enter Paradise and call themselves</p>
+<p>disciples of God and Muhammad. And there are,</p>
+<p>he said, three rivers in Paradise, one of honey, one of milk, and one of wine.</p>
+<p>And each one of those men will have the right to draw from them and drink his fill. Women will be with them,</p>
+<p>they will have their hair elaborately decorated and they will please them in every way</p>
+<p>possible. Their bodies [will be] loved with pleasure and full of lust, and in the midst</p>
+<p>of debauchery he [will be] a slave to sin. “Jews and Christians will</p>
+<p>да гноѧ их, и ѿ раѧ исходѧт, яко да не смрадитсѧ раи. коиждо оубо здѣ поживет, или в богатствѣ, или в</p>
+<p>нищетѣ,</p>
+<p>и безъ славы такымже ѡбразом, и тамо пребываеть. Сїи оубо ѡмрачныи, и б҃гостѫдныи, к сим всему бл҃го му и злому Ба҃ виновата суща. чюдстворил ес. разбо иникь же и ѡтравникь, елико оубо ѿречна соут. яти дѣ ѧнїемь избїеномь вѣдати, тако и написавь и преже</p>
+<p>реч сему быти. и тако оумрети им въсхотѣ. Дивити ж сѧ зѣло. кому любо подбает. оубо поистинѣ колико съставленїе доволѣет б҃гохоулнаг, и пустошнаг и мы</p>
+<p>сленаго, паче ж до послѣднѧго безоумїа, и скотиноѡ бразнаго. иже и донынѣ сего прельсти работающим. яко въ тверду вѣру. и бжствену сїю безоумно вни мають. и ко истиннѣи сїи сущїи с҃тѣи б҃годаннѣи</p>
+<p>вѣрѣ.</p>
+<p>явѣ зѣло ѡслѣплѧемѣ бывают омраченїи. и неразоу мнїи, лжеименитѣи слоужбѣ, и створимословье, прель</p>
+<p>стивнаг внимаютсѧ ѡканьнїи, и ѡ тѧжкосердїи. ко пре льстем же и блѧдствїа, и скверных тщеславїе</p>
+<p>еретичством</p>
+<p>злымь влекущес. аще акы Вподалнихь Абл҃го, и сп҃сеных словесь. ни слуха приложити. бошью внимаютсѧ. И</p>
+<p>бо истинному сущу Бг҃ѫ, законѡм и пррокы. явѣ про повѣдаемаго ѿвръгшес, и причитаеми противу бѣсоующесѧ. бжственомоу явѣ ѿ бѣсѡвъ творимым и г҃лемым. зѣло мысленїи. и бѣсѡвнїи.</p>
+<p>Зѣло</p>
+<p>любезно пристоупают. Которое бо б҃годохновенное списа нїе. ѡ нечестивыи и ѡтравоу творимаг прог҃ла Бох мита. или кь б҃голѣпныи пррокъ его оучителем</p>
+<p>б҃гочести</p>
+<p>вїю прог҃ла. оубо да рекоут безчастнїи. всѧкого ст҃го въ</p>
+<p>доухновенїа и оученїа, како иже бывшим ѿ Адама до Хв҃а</p>
+<p>пришествїа, пррокѡм съ радостїю внимающе и прїима юще тѣмъ явѣ провъзглашающе Ха҃ и Ба҃ ѿмѣтающе, злаго же грѣшника. и не весма къ нему наричаема. или прознаменуѧ. яко бл҃гоучт҃лѧ исходѧща истин</p>
+<p>ныѧ вѣры оучителѧ прїимают яко бл҃годателѧ. и богом</p>
+<p>творѧт непрѣподбнїи. и злоименнїи. Да испытають же немлстивнїи и бѣснїи, яже ѿ него нечестиво и бѣ совно. изъгла҃на блѧдства да изъгл҃етъ, которое и зъглашенїе имоут къ Богѡм наказаа словеса. и б҃же стъвное слово явѣ оучити. и свѣтло проричаа въ и стинѣ Бг҃ѫ сущоу не виновату всему злоу, и чл҃ку</p>
+<p>самоволь</p>
+<p>ну соущу своему сп҃сенїю и погыбелью треѡканныи же и</p>
+<p>триклѧтыи, и Богоу и чл҃комъ скверныи врагь</p>
+<p>be trees on fire</p>
+<p>and remain [in Paradise], and the Samaritans,” [Muhammad] said, “on account of the dung</p>
+<p>they excrete, must leave Paradise so that they do not bring their stink into Paradise.”</p>
+<p>For everyone who lives here [i.e. in this world], either in wealth or in poverty</p>
+<p>and infamy, will be there [i.e. in Paradise] in the same condition.</p>
+<p>This dark adversary of God also spoke of the abomination that God is responsible for every good and evil. Evildoers, poisoners and all those caught at any prohibited activity must be publicly killed. That is what he wrote, and earlier</p>
+<p>he said: “This is to be so.” And he wanted them to die that way.</p>
+<p>One may be much surprised – as much as one wants – that a creature so blasphemous, measly and contrived, even</p>
+<p>the pinnacle of stupidity and beastliness,</p>
+<p>even now acquires slaves, who consider it unreasonably</p>
+<p>to be strong and divine faith! And they are completely blind to the true faith, holy and given by God.</p>
+<p>Confused and foolish, they follow</p>
+<p>the self-proclaimed ritual and the liar’s inventions. The wretches are attracted to cruelty, lies, promiscuity, impure pride and evil heresy,</p>
+<p>and do not incline their ears to the blessed and saving words. For they have renounced the true God,</p>
+<p>of whom the Law and the Prophets openly teach, and having joined with the one who openly rages</p>
+<p>against the Divine; they are very eager to follow diabolic deeds and his extremely contrived, devilish manner.</p>
+<p>For which God-inspired scripture</p>
+<p>foretold this ungodly and poisonous Muhammad?</p>
+<p>Or which God-pleasing prophet called him a teacher of piety? Let them say, then, without any holy inspiration or teaching: how can they, so eager to recognize and receive the prophets from Adam to [the birth of] Christ,</p>
+<p>reject directly Christ and [therefore] the God they proclaim? And the wicked sinner, whom they neither call [by name] nor foretell, [they] consider the last of the prophets,</p>
+<p>the teacher of true faith and the benefactor, [and even] make him God –</p>
+<p>the ungodly and without a righteous name? Let them be asked, those who are merciless and angry, about the abominations he</p>
+<p>has spoken</p>
+<p>ungodly and devilishly, and let them tell us how they relate to the words of God. God’s Word</p>
+<p>clearly teaches and clearly states that</p>
+<p>God really is not guilty of any evil, and man has a free will</p>
+<p>in the matter of his salvation or condemnation. And this thrice- wretched</p>
+<p>and cursed, obstinate enemy of God and man, acting under the influence</p>
+<p>of the ugly and deceiving devil, boldly proclaims –</p>
+<p>злоѡбразнѫ</p>
+<p>и людемъ блазненомоу бѣсоу. прилежащу и творѧщоу. и еще же не изъ оутомленаго языка волю, и</p>
+<p>неразумнаго</p>
+<p>вѣщанїа всему бл҃гому и злому. Бг҃оу виноватоу деръ зновеньно знаменоуеть, и все елико нападенїемъ чл҃ка, или ѿ искоушенїа неприазнена, или ѿ своеѧ лѣности, или не ѿ испытанїа бж҃ственымъ прилежаниемь оупо лучаетсѧ. се грѣшникъ и пустошникъ извѣща. а иже не родить богатества и смирено мыслить и сладкаго</p>
+<p>жи</p>
+<p>тїа ѿврещисѧ, иде въздати зла въ зло повелѣваеть. а еже ѡ богатествѣ, и высокомыслити, и всю сладос ѿ богатества любит, и нападати зѣло противу напада ющимъ. яко д҃шевное сп҃сенїе, и раю причастїе. Ѡ безу мїе и вредоумїе и оуничиженїе, и смѣхъ и ѡтравница и оубїица. и вредооумїа и погыбели ѿ него. злѣ</p>
+<p>привабле</p>
+<p>нымъ даждь и дон҃нѣ, прельстимымъ. ибо не разумѣють</p>
+<p>зѣло грѣшьнїи, и зѣло ѡбразнїи велми. несрамнїи в ка ковѣмъ злѣ. и темнїи пропасти. и в сотониньскую</p>
+<p>погы</p>
+<p>бель вринувшасѧ. и бошью впадоша. и в каковыхъ неизь</p>
+<p>бѣжных. и неисходных жилищь, и злошественыхъ пу ти. д҃шетлѣнныхъ прельстившесѧ, и ѡкаѧно въва лишасѧ. и ятѣ быша погыбше вконець. сего ради оу бо дивоватисѧ зѣло, нарочити. толику безумїю и не чювьствїю их, и шествующе скоро, себе творѧщимъ соущимъ. и разумѣша како не разоумнѣише тщаѧ</p>
+<p>преле</p>
+<p>сти. скоколженїе подобаше бо несмысленым. и скотиноѡбра</p>
+<p>зниим, разѫмѣти по неѡскверненїю ихъ и скверных оуда</p>
+<p>въ, проявлѧѧ, яко пища ради и питїа, видимыи истлѧ емыхъ прїимають толика живота. ноужда пакы</p>
+<p>тлѣ работати, и оумирати, и слѣдованому слову. невозможно бо сущи пищи и питїю. въ преложенїи сущи и неистлѣнна весма, и бе-см҃рти пребывати. и гдѣ когда надежда жизни вѣчныѧ. и неистлѣнныѧ.</p>
+<p>вѣрным</p>
+<p>б҃жственых исписанїи. И к симъ да разумѣють неразу мнїи, и ѡканьнїи, якоже микогда до дн҃ешнѧго д҃ни, яко ѿ древнїихь своихъ, и безбожнїи блазни измѣ нишасѧ. нь ѡбразомъ мнѧтсѧ б҃гочествуща. идолѡм работають шествующе, и скровную вѣру своего льсти ваго исконѣ злобиваг бѣса. никакоже неразумнїи, и вра жденїи разоумѣють. пакы оубо идолѡмъ работают</p>
+<p>и въ Еллинех Афродитъ гл҃емыи, иже ес сказаемо сладос.</p>
+<p>in a language unrestrained by will and in a thoughtless speech – that God is fully responsible for good and evil.</p>
+<p>This gibberish-speaking sinner announced that whatever happens to man—</p>
+<p>whether it is because of Satanic temptation, his own laziness, or misfortune—happens on God’s initiative.</p>
+<p>[Muhammad] does not command the avoidance of wealth, modest thoughts, the renunciation of a pleasurable lifestyle, and not repaying evil with evil.</p>
+<p>[He recognizes] wealth, pride, love for all the pleasures of wealth, and fiercely attacking the attackers</p>
+<p>as a salvation for the soul and the way to Paradise.</p>
+<p>Oh, what foolishness and madness, worthy of contempt and laughter, of the poisoner</p>
+<p>and the murderer [i.e. Muhammad], and what pernicious madness of those who have been lured</p>
+<p>by him to evil and who are deceived to this day! For they – uniquely sinful, beastly, and completely shameless – do not</p>
+<p>understand</p>
+<p>at all what evil, dark abyss and devilish perdition</p>
+<p>they were thrown into and completely plunged into; to what extent they are stuck in homes deprived of the opportunity to flee and</p>
+<p>leave,</p>
+<p>and on what paths, difficult to pass through and disastrous for the soul, deceived</p>
+<p>and miserably captured, and finally lost! For this reason,</p>
+<p>one should be surprised at their foolishness and insensitivity: walking quickly, they consider themselves reasonable,</p>
+<p>and not understand the weakness of [their] empty lie.</p>
+<p>For they – stupid and distasteful – should understand that their [teachings]</p>
+<p>about the resurrection form an unclean web,</p>
+<p>which assumes that they receive visible and perishable [i.e. material] food</p>
+<p>and drink in that life [i.e. the afterlife]. From these words stems the necessity of being</p>
+<p>a slave of decay and death. For by accepting</p>
+<p>food and drink it is not possible to exist as a transformed being, completely free of decay, and immortal. And where, then,</p>
+<p>is the hope for eternal and immaterial life proper to those who believe</p>
+<p>in God’s scriptures? They should also understand, those foolish and unfortunate, that they have never to this day</p>
+<p>renounced their past and ungodly errors,</p>
+<p>but by dressing in the guise of piety, they secretly serve the idols, not understanding in any way the hidden faith of their devil, deceitful and always harsh, foolish</p>
+<p>and paralyzed as they are. They continue to serve the idols, [the deity] called Aphrodite by the pagan Greeks, which means</p>
+<p>‘delight’,</p>
+<p>and worship the star, fantasizing that it is the Morning Star, which in their slanderous language they called Habar,</p>
+<p>кланѧющеи звѣзду, тъ бо ес д҃ньница, баснено сло вѧть юже и Куваръ своимъ злог҃лънымъ языкомъ</p>
+<p>наре</p>
+<p>коша. еже есть сказаемое велїа. пребыс дажде и до селѣ. Афродитию богынею нарекоша. И да не мними будемь, нѣкымъ лжю гл҃щимъ, да извѣщаемь имь</p>
+<p>великую таиноу. и тма бо си скверненъ г҃лъ. мл҃тва их мръскаѧ. тако адъла оуа, куваръ истолкуетсѧ.</p>
+<p>Бе҃ Бж҃е, аоу же истолкуетсѧ вѧчии, куаръ же велїа рекше луна и Афродитъ же, иже ес тако Бе҃ Бж҃е вѧчїи, велїа рекше луна, и Афьродитїи Бе҃. и се извѣщаеть навожденїе конечное. алъла. яко всѧ скровна, неоу мѣтельствомъ. своимъ языкомъ гле҃ть. тако ро</p>
+<p>дѡмъ имуще, к разоумнымъ чл҃комъ имущимъ смы слъ, и явимаго ради свѣданьѧ, нь свиноѡбразныхъ сихъ, и ничтоже иного токмо. сладѡс и оуныниа, вѣ дуще изъг҃лемо слово яко нечювьствено, и безьпреста ни болѧщимъ, на прочныи сказь да сѧ вмѣстимсѧ.</p>
+<p>По см҃рти же б҃гоненавистнаго Бохмита. явисѧ на полу д҃ни звѣзда гл҃емаѧ, идокитъ, рекше яко копїе,</p>
+<p>проповѣдаѧ Аравитѧнѣ сихъ власть пребыс за, і҃. д҃нїи. простираема ѿ полудн҃и, дажде и до сѣвера копѣиным ѡбразомъ. томь же лѣтѣ воеваша Аравитѧни си дре вле гл҃емѣи Срачинѧни, и Аравїю ѡставивше. Прїидоша въ страну Дамаскинъ. множество много. се же оу вѣдавше Ванїискъ, и Васїлїискъ. сущима стратиго</p>
+<p>ма на Въстоцѣ. и оустремистасѧ на ны. тажде бивши масѧ полкома. побѣждени быша крстьѧни велми. Вѣ трѫ оубо оугѫ дохнувшу велику на Грѣкы. и не могу ще противу врагомъ видѣти. праха ради велїа и злѣ побѣждени боудутъ. и тако побѣдивше Срачиннѣ</p>
+<p>с державою. и въ силѣ на Дамаскъ прїидоша. копїемъ плѣниша и. такоже и страны всѧ финискыѧ. Вселѧтсѧ в ты ськверныи. и мерцѣи неявьственыхъ ради Би҃ихъ соудебъ.</p>
+<p>which means ‘great’. They continued [to do so] even to</p>
+<p>the present day and called Aphrodite a goddess. So that it does not appear</p>
+<p>that we are telling any lies, we reveal here their</p>
+<p>great mystery: their lousy prayer has such unclean words: ‘adla ua kuvar’. This translates to:</p>
+<p>‘God, God’; we translate ‘au’ as ‘most powerful’; ‘kuar’ as ‘great’,</p>
+<p>i.e. the moon and Aphrodite. So [the whole thing] is as follows: ‘God, most powerful god,</p>
+<p>the great one, that is the moon and Aphrodite, god’. And that is what ‘alla’ added at the end indicates. Since they</p>
+<p>hide all this behind a lack of knowledge of their own language, they</p>
+<p>say it only to their brethren. <i> But they do not want to reveal these things openly</i> <em>2</em></p>
+<p>to wise men who have reason because of [fear of] explicit recognition. But having told</p>
+<p>us about those who are like pigs and know nothing but pleasure and discouragement,</p>
+<p>the unnoticeably and incurably ill, let us return to the main story.</p>
+<p>After the death of God-hating Muhammad, a star appeared in the south, called ‘idocit’, which means ‘lance-shaped’, heralding the power of these Arabs. For 10 days it</p>
+<p>stretched from the south to the north in the likeness of a lance. That same year the Arabs, previously known as</p>
+<p>Saracens, started the war, leaving Arabia and arrived in large numbers in the vicinity of Damascus. When Baanes and Basilisc, strategists in</p>
+<p>the East, found out about this, they set out against them.</p>
+<p>Later, when [their] armies fought, the Christians were severely crushed:</p>
+<p>because the Greeks were struck by a strong southern wind, they could not</p>
+<p>look towards their enemies, because of the great dust. Thus, they were savagely defeated. Having won, the Saracens</p>
+<p>came to Damascus with power and strength and took it by storm. Similarly, all the Phoenician territories. They settled there, unclean and disgusting, through the inscrutable verdicts</p>
+<p>of God.</p>
+
+<h1>Critical Notes</h1>
+
+<ol id="l3">
+<li data-list-text="1">
+<p>Bohmit is an Old Rus’ term for Muhammad. I have decided to preserve it only in the title and use the common name in all subsequent instances.</p>
+</li>
+<li data-list-text="2">
+<p>The original text of this line appears to be corrupted and the sense is not entirely clear.</p>
+</li>
+</ol>

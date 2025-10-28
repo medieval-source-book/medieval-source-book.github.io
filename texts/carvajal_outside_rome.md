@@ -23,20 +23,50 @@ thumb: /assets/img/text/carvajal_outside_rome-thumb.jpg
 imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.157r [Public domain]"
 fulltext: ""
 ---
- 
 
-## Introduction to the Source 
 
-<p dir="ltr" id="docs-internal-guid-e90cc7a2-7fff-b453-7ecd-c7974c2edc95">The poem is copied in Madrid, Biblioteca Nacional de España, VITR/17/7, fol. 157r. This manuscript is a copy of the poetry collection known as the Cancionero de Estúñiga, ca. 1465. It has been digitized: <a href="http://bdh-rd.bne.es/viewer.vm?id=0000051837">http://bdh-rd.bne.es/viewer.vm?id=0000051837</a>. It contains a compilation of mostly Castilian poems, including ballads, as well as a few Italian compositions. The authors included in this collection accompanied the king of Aragon, Alfonso the Magnanimous, in Naples in the mid-fifteenth century. </p>
 
-## Introduction to the Text 
+<h1>Introduction to the Text</h1>
+<p>This poem is a <i> serranilla</i> , an evolution of the Provençal <i> pastorela</i> . Written in short verse (<i> arte menor</i> ), <i> serranillas </i> narrate a courtly poet’s encounter with a mountain woman. This is one of six compositions in the genre by fifteenth-century author Carvajal (or Carvajales). Very little is known about Carvajal’s life. His poetry is linked to the Neapolitan court of Alfonso the Magnanimous in Naples (r. 1442-1458) and to that of Alfonso’s son Ferrante (r. 1459-1494). In addition to his famous <i> serranillas</i> , Carvajal is also known for his literary epistles and ballads.</p>
 
-<p dir="ltr" id="docs-internal-guid-5c9bb1fb-7fff-5943-5e5e-fccc0121d551">This poem is a <em>serranilla</em>, an evolution of the Provençal <em>pastorela</em>. Written in short verse (<em>arte menor</em>), <em>serranillas</em> narrate a courtly poet’s encounter with a mountain woman. This is the shortest of six compositions in the genre by fifteenth-century author Carvajal (or Carvajales). Very little is known about Carvajal’s life. His poetry is linked to the Neapolitan court of Alfonso the Magnanimous in Naples (r. 1442-1458) and to that of Alfonso’s son Ferrante (r. 1459-1494). In addition to his famous <em>serranillas</em>, Carvajal is also known for his literary epistles and ballads.</p> <p>In this poem, the poet meets a monstrous mountain woman whom he describes in a grotesque fashion. It has been interpreted as a satirical rewriting of one of the <em>serrana</em> episodes of Juan Ruiz’s<em> Libro de buen amor</em> (stanzas 1006-21). The <em>Libro de buen amor</em> (1330/1343) is one of the masterpieces of medieval Castilian literature, a heterogenous, polysemous and oftentimes parodic text in which the narrator gives an account of his love life.</p>
+<p>In this poem, the poet meets a monstrous mountain woman whom he describes in a grotesque fashion. It has been inter- preted as a satirical rewriting of one of the <i> serrana </i> episodes of Juan Ruiz’s <i> Libro de buen amor </i> (stanzas 1006-21). The <i> Libro de buen amor </i> (1330/1343) is one of the masterpieces of medieval Castilian literature, a heterogenous, polysemous and oftentimes parodic text in which the narrator gives an account of his love life.</p>
 
-## Further Reading 
+<h1>Introduction to the Source</h1>
+<p>The poem is copied in Madrid, Biblioteca Nacional de España, VITR/17/7, fol. 136v-137r. This manuscript is a copy of the poetry collection known as the <i> Cancionero de Estúñiga</i> <a href="http://bdh-rd.bne.es/view-" target="_blank"> , ca. 1465. It has been digitized: </a> http://bdh-rd.bne.es/view- er.vm?id=0000051837. It contains a compilation of mostly Castilian poems, including ballads, as well as a few Italian compositions. Their authors accompanied the King of Aragon, Alfonso the Magnanimous, in Naples in the mid-fifteenth century.</p>
 
-<p>Carvajal. <em>Poesie</em>, edited by Emma Scoles. Edizioni dell’Ateneo, 1967.</p> <ul> <li>Critical edition of Carvajal’s poetry.</li> </ul> <p>Gerli, E. Michael. “The Libro in the Cancioneros.” <em>Reading, Performing, and Imagining the ‘Libro del Arcipreste’</em>. U of North Carolina P, 2016. esp. pp. 194-203.</p> <ul> <li>Reassessment of Caravajal’s <em>serranas</em> in view of their intertextual relationship with the Libro de buen amor.</li> </ul> <p>Marino, Nancy F. <em>La serranilla española: notes para su historia e interpretación.</em> Scripta Humanistica, 1987.</p> <ul> <li>Study of the <em>serranilla</em> genre, with attention to Carvajal’s poems in chapter 5.</li> </ul>
+<h1>About this Edition</h1>
+<p>The text has been punctuated. Word separation and capitalization follow modern usage. Elisions have been marked with an apostrophe.</p>
 
-## Credits
+<h1>Further Reading</h1>
+<p>Carvajal<i> . Poesie. </i> Edited by Emma Scoles. Edizioni dell’Ateneo, 1967.</p>
+<ul id="l1">
+<li data-list-text="•">
+<p>Critical edition of Carvajal’s poetry.</p>
+<p>Gerli, E. Michael. “Chapter 6. The Libro in the Cancioneros.” <i> Reading, Performing, and Imagining the ‘Libro del Arcipreste’.</i></p>
+<p>University of North Carolina Press, 2016, esp. pp. 194-203.</p>
+</li>
+<li data-list-text="•">
+<p>Reassessment of Caravajal’s <em>serranillas</em> in view of their intertextual relationship with the <em>Libro de buen amor</em> .</p>
+<p>Marino, Nancy F. <i> La serranilla española: notas para su historia e interpretación. </i> Scripta Humanistica, 1987.</p>
+</li>
+<li data-list-text="•">
+<p>Study of the <em>serranilla</em> genre, with attention to Carvajal’s poems in chapter 5.</p>
+</li>
+</ul>
 
-Transcription by Eva Álvarez Vázquez, Translation by Eva Álvarez Vázquez, Introduction by Albert Lloret, Encoded in TEI P5 XML by Danny Smith
+<p>Partiendo de Roma, passando Marino fuera del monte, en una grand plana, executando tras un puerco espino,</p>
+<p>a muy grandes saltos uenia la serrana.</p>
+
+<p>Vestida muy corta de panno de eruage, la rucia cabeça traya tresquilada,</p>
+<p>las piernas pelosas bien como saluage,</p>
+<p>los dientes muy luengos, la fruente arrugada; las tetas disformes atras las lançaua,</p>
+<p>calva, çeiunta et muy nariguda, tuerta de un oio, ynbifia, barbuda,</p>
+<p>galindos los pies que diablo semblaua.</p>
+<p>Outside of Rome, crossing Marino, Out of the woods, in a large plain, Chasing a porcupine,</p>
+<p>The mountain woman came [to me] in big leaps.</p>
+
+<p>5 Dressed in a short coarse woolen cloth, Her gray hair she had sheared,</p>
+<p>Her legs were hairy like those of a savage,</p>
+<p>Her teeth were very long, her forehead was wrinkled, Her deformed tits were swinging backwards,</p>
+<p>10 Bald, unibrow, with such a big nose, Blind in one eye, hunchbacked, bearded,</p>
+<p>Her feet all twisted, she looked like a devil.</p>
