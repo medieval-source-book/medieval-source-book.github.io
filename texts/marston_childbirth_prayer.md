@@ -42,18 +42,24 @@ imagesource: "New Haven, Beinecke Rarebook Library, Marston MS 22, ff. 91v-92r [
 <p>form. Contractions have been expanded (expansions are not indicated). Punctuation follows the original but with modernized punctuation marks. Capitalization follows modern conventions.</p>
 
 <h2>Further Reading</h2>
+
+
+
+
 <p>Jones, Peter Murray, and Lea T Olsan. “Performative Rituals for Conception and Childbirth in England, 900-1500.”</p>
 <p>Bulletin of the History of Medicine , vol. 89,3 (2015): 406-33.</p>
 <ul>
-<li>This paper focuses on the performative aspect of childbirth prayers and explores the uses of chanting to aid childbirth.</li></ul>
+<li>This paper focuses on the performative aspect of childbirth prayers and explores the uses of chanting to aid childbirth.</li>
+</ul>
 <p>Olsan, Lea. “Latin Charms of Medieval England: Verbal Healing in a Christian Oral Tradition.” <i> Oral Tradition</i> , 7/1 (1992):116-142.</p>
 <ul>
-<li>This paper provides a detailed analysis of childbirth charms and prayers and a discussion of the differences between them.</li></ul>
+<li>This paper provides a detailed analysis of childbirth charms and prayers and a discussion of the differences between them.</li>
+</ul>
 <p>Wood, Diana. <i> Women and Religion in Medieval England</i> . Oxford: Oxbow Books, 2003.</p>
 <ul>
 <li>This book is a general overview of the religious life of medieval English women. There is a specific chapter on women and child birth on pages 91-117.</li>
-</ul>
-<h1>Marston Childbirth Prayer | “Omnipotens sempiterne Deus”</h1>
+
+</ul><h1>Marston Childbirth Prayer | “Omnipotens sempiterne Deus”</h1>
 
 <p>Omnipotens sempiterne Deus qui es sine fine et principio, qui creasti omnia ex nichilo. Ad cuius imperium mare constituitur dum ultimos terminos numquam progreditur. Qui fecisti terram et flumina ventorum in cavernis eius concludis. Qui etiam inestimabili potentia ex durissimo ligno mollia deducis semina. Qui formasti Adam de limo terre mulieremque de latere eius formans ei inconiugium sociasti, et ad propagandam posterorum sobolem perpetuam dedisti eis benedictionem dicens crescite et multiplicamini et replete terram et dominamini volatilibus caeli, et piscibus maris nec non bestiis totius diversitatis.</p>
 

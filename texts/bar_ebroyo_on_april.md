@@ -33,31 +33,40 @@ imagesource: "Star-Shaped Tile, second half 13th–14th century, Stonepaste; mol
 <h2>About this Edition</h2>
 <p>I have maintained the lines and stanzas in this poem but have not preserved the meter, so as to better follow the literal meaning of the Syriac. The original Syriac is rhymed, but this was not preserved either. I have translated the month <i> nisan </i> into April, rather than transliterating it, for the sake of clarity, although it may not have exactly corresponded to the modern Gregorian month.</p>
 <h2>Further Reading</h2>
+
+
+
+
 <p>Bar ‘Ebroyo. <i> Bar Hebraeus’s Mush’hotho Book</i> . Monastery of St. Ephrem the Syrian, 1983.</p>
 <ul>
-<li>This is the source used for this translation.</li></ul>
+<li>This is the source used for this translation.</li>
 
+</ul>
 <p>Bar ‘Ebroyo, Gregorius Abū Al-Faraǧ, and Augustin Scebabi. <i> Gregorii Bar-Hebraei carmina a patre Augustino Scebabi monaco maronita libanensi aleppensi correcta, ac ab eodem lexicon adjunctum</i> . Ex Typographia Polyglotta S. C. De Propaganda Fide, 1877.</p>
 <ul>
-<li>Here is another earlier collection of Bar ‘Ebroyo’s poetry which includes this poem.</li></ul>
+<li>Here is another earlier collection of Bar ‘Ebroyo’s poetry which includes this poem.</li>
 
+</ul>
 <p>Heinrichs, Wolfhart. “Rose versus Narcissus: Observations on an Arabic Literary Debate.” <i> Dispute Poems and Dialogues in the Ancient and Medieval Near East: Forms and Types of Literary Debates in Semitic and Related Literatures</i> , edited by G. J. Reinink and H. L. J. Vanstiphout. Peeters, 1991, pp. 179-198.</p>
 <ul>
-<li>This essay, from a collection on the Arabic dispute poem genre, discusses specifically the debate between the rose and narcissus flowers which Bar ‘Ebroyo alludes to.</li></ul>
+<li>This essay, from a collection on the Arabic dispute poem genre, discusses specifically the debate between the rose and narcissus flowers which Bar ‘Ebroyo alludes to.</li>
 
+</ul>
 <p>Takahashi, Hidemi. <i> Barhebraeus: A Bio-Bibliography</i> . Gorgias Press, 2013.</p>
 <ul>
-<li>This is a thorough biography of the author with an exhaustive bibliography of primary and secondary sources.</li></ul>
+<li>This is a thorough biography of the author with an exhaustive bibliography of primary and secondary sources.</li>
 
+</ul>
 <p>Takahashi, Hidemi. “The Poems of Barhebraeus: A Preliminary Concordance.” <i> Khristianskiĭ Vostok </i> 6, no. 7, 2013, pp. 78–139.</p>
 <ul>
-<li>Further discussion of Bar ‘Ebroyo’s poetry with a list of major manuscripts.</li></ul>
+<li>Further discussion of Bar ‘Ebroyo’s poetry with a list of major manuscripts.</li>
 
+</ul>
 <p>Taylor, C. “The Dirge of Coheleth.” <i> The Jewish Quarterly Review </i> 4, no. 4, July 1892, pp. 533-549.</p>
 <ul>
 <li>This is a discussion on the biblical book of Ecclesiastes but contains a translation of the first two stanzas of this poem, in relation to the word <em>ܛܺܝܛܟܘܣ ( ṭ</em> ēyṭkūs, “cicada”). To my knowledge, this is the only other English translation of this poem.</li>
-</ul>
 
+</ul>
 <p> “On April - to the Praise of its Creator” | “<em>ܗܢܢܝܟܡܠ ܐܚܒܘܫ ܢܣܝܢ ܠܥ</em> ”</p>
 
 <p>Behold, April has arrived and has given refreshment to those who grieve ܃ܫܦܶܢܰ ܐܝܰܒ ܐܩܝ݂̈ܝܥܰܠܘܰ ܢܣ݂ܳܝܢܺ ܐܛܳܡܐܗܳ</p>

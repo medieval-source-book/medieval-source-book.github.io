@@ -35,6 +35,10 @@ imagesource: "Russian State Library in Moscow, Manuscript РГБ, 228.162, fol. 
 <p>by the translator are placed in square brackets. Italics indicate where vulgarisms present in the Old Rus’ original have been replaced with more semantically neutral phrases. In one instance, indicated in the notes, italics indicate that the meaning of the original text is uncertain.</p>
 
 <h2>Further Reading</h2>
+
+
+
+
 <p>Летописец Еллинский и Римский, vol. I, Текст , ed. О.В. Творогов, Санкт-Петербург 1999, p. 402–405</p>
 <ul>
 <li>Edition of the original text.</li>
@@ -42,8 +46,8 @@ imagesource: "Russian State Library in Moscow, Manuscript РГБ, 228.162, fol. 
 <p>Z.A. Brzozowska, <i> Zapożyczona czy własna wizja dziejów powszechnych? Wpływ autorów bizantyńskich na świado¬mość historyczną Sło¬wian Południowych i Wschodnich (na przykładzie opowieści o Ma-homecie i Historii paulicjan Piotra z Sy- cylii), [in:] Widmo Mahometa, cień Samuela. Cesar¬stwo Bizantyń¬skie w relacji z przedstawicielami innych religii i kultur (VII–XV w.)</i> , eds. Z.A. Brzozowska, M.J. Leszka, K. Marinow, T. Wolińska, Łódź 2020, p. 30–34</p>
 <ul>
 <li>Edition of the original text.</li>
-</ul>
-<h1>On Bohmit [Muhammad] the Heretic | <em>Ѡ Бохмитѣ еретицѣ</em></h1>
+
+</ul><h1>On Bohmit [Muhammad] the Heretic | <em>Ѡ Бохмитѣ еретицѣ</em></h1>
 
 <p>Ѡ Бохмитѣ еретицѣ.</p>
 <p>Нь и срачиньскыи началникь, злыи пррокъ Бохмитъ и лживыи изъ единаго колѣна родомъ Измаилова с҃на Авраамлѧ. Сы родисѧ из рабынѧ Измаило. ищадьѧ</p>

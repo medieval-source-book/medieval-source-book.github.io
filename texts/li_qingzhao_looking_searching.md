@@ -35,6 +35,10 @@ imagesource: "Detail from 宋朱銳春社醉歸圖(Drunk in the Trip) 卷, 朱�
 <p>The original text of this <i> ci </i> is based on the edition by Tang Guizhang <em>唐圭璋</em> (<i> Quan Song Ci </i> <em>全宋詞</em> , vol 1. Beijing: Zhonghua shu ju, 1965). Punctuation follows the edition. Since <i> ci </i> poetry rarely includes personal pronouns, and gender-differentiated pronouns did not exist in Classical Chinese of this period, the gender of the speaker as well as their perspective (e.g. first-, second- or third-person) must often be deduced by the translator from context.</p>
 
 <h2>Further Reading</h2>
+
+
+
+
 <p>Chang, Kang-i Sun. <i> The Evolution of Tz’u Poetry: from Late Tang to Northern Sung</i> . Princeton UP, 1980.</p>
 <ul>
 <li>A standard survey of the early history of Chinese song lyrics (romanized as both <em>ci</em> and <em>tz’u</em> ).</li>
@@ -49,14 +53,15 @@ imagesource: "Detail from 宋朱銳春社醉歸圖(Drunk in the Trip) 卷, 朱�
 </ul>
 <p>Owen, Stephen. <i> Just a Song: Chinese Lyrics from the Eleventh and Early Twelfth Centuries</i> . Asia Center, Harvard UP, 2019.</p>
 <ul>
-<li>A recent new history of the genre.</li></ul>
+<li>A recent new history of the genre.</li>
+</ul>
 <p>Tang, Guizhang <em>唐圭璋</em> , editor. <i> Quan Song Ci </i> <em>全宋詞</em> . Zhonghua shu ju, 1965. 5 vols.</p>
 <ul>
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
-</ul>
 
 
-<h1>To the tune “Note after Note, Long Song”—“Looking and searching, looking and searching”</h1>
+
+</ul><h1>To the tune “Note after Note, Long Song”—“Looking and searching, looking and searching”</h1>
 <h1>聲聲慢 · 尋尋覓覓</h1>
 
 <p>聲聲慢</p>
@@ -89,17 +94,17 @@ imagesource: "Detail from 宋朱銳春社醉歸圖(Drunk in the Trip) 卷, 朱�
 
 <p>Looking and searching, looking and searching, cold and quiet, cold and quiet,</p>
 <p>lonesome, dismayed, and desolate; lonesome, dismayed, and desolate. At the time when it has just turned warm yet is still quite cold,</p>
-<p>it is the hardest for one to rest.</p>
+<p>5 it is the hardest for one to rest.</p>
 <p>How can two or three cups of weak wine shield one from</p>
 <p>the harsh wind in the evening? The wild geese have flown past;</p>
-<p>what truly pains the heart,</p>
+<p>10 what truly pains the heart,</p>
 <p>is that I knew them from the past.</p>
 
 <p>Yellow flowers pile all over the ground, withered and wilted.</p>
 <p>Now who would pluck them?</p>
-<p>I guard the window;</p>
+<p>15 I guard the window;</p>
 <p>how do I endure this darkness by myself?</p>
 <p>The parasol tree in the slight rain at dusk,</p>
 <p>dripping and drizzling, dripping and drizzling.</p>
-<p> In such circumstances,</p>
+<p>20 In such circumstances,</p>
 <p>how could the single word “sorrow” suffice?</p>

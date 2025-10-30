@@ -38,23 +38,31 @@ imagesource: "A physician examining urine, London, British Library Harley 3140 f
 <p>The translation is based on the text as it appears in the Basel 1538 edition of Poggio’s collected work available on Google Books, with a slight update to punctuation and orthography (for instance, ij is represented as ii). No emen- dations or other corrections have been made by the translator. Older versions of the text contain a few variants and some obvious errors, but in general the tradition seems quite stable (see, for example, an early print from 1471; or the fifteenth-century manuscript in Paris, Bibliothèque nationale de France, Latin 8770A).</p>
 
 <h2>Further Reading</h2>
+
+
+
+
 <p>Kallendorf, Craig. “Poggio Bracciolini” in <i> Oxford Bibliographies</i> . DOI: 10.1093/OBO/9780195399301-0095.</p>
 <ul>
-<li>Craig Kallendorf’s article in <em>Oxford Bibliographies</em> is a good starting point for researching Poggio. The article contains information about relevant editions, translations, and research.</li></ul>
+<li>Craig Kallendorf’s article in <em>Oxford Bibliographies</em> is a good starting point for researching Poggio. The article contains information about relevant editions, translations, and research.</li>
+</ul>
 <p>Pittaluga, Stefano, ed. <i> Facéties = Confabulationes: Édition bilingue</i> . Translated by Etienne Wolff. Bibliothèque italienne. Paris: Les Belles Lettres, 2005.</p>
 <ul>
-<li>The most recent critical edition of the <em>Facetiae</em> .</li></ul>
+<li>The most recent critical edition of the <em>Facetiae</em> .</li>
+</ul>
 <p>Beccadelli, Antonio. <i> The Hermaphrodite</i> . Edited and translated by Holt Parke, I Tatti Renaissance Library 42, Cam- bridge, MA: Harvard University Press, 2010.</p>
 <ul>
-<li>Another example of obscene elements in Renaissance Latin (also contains letters exchanged between Beccadelli and ` Bracciolini).</li></ul>
+<li>Another example of obscene elements in Renaissance Latin (also contains letters exchanged between Beccadelli and ` Bracciolini).</li>
+</ul>
 <p>Gordon, Phyllis W. G., ed. <i> Two Renaissance Book Hunters: The Letters of Poggius Bracciolini to Nicolaus de Nicco- lis</i> . New York: Columbia University Press, 1974.</p>
 <ul>
-<li>This letter exchange shows the scholarly side of Poggio.</li></ul>
+<li>This letter exchange shows the scholarly side of Poggio.</li>
+</ul>
 <p>Bracciolini, Poggio. <i> The Facetiae of Giovanni Francesco Poggio Bracciolini</i> . Translated by Bernhardt J. Hurwood. New York: Award Books, 1968.</p>
 <ul>
 <li>This is apparently an earlier translation of the <em>Facetiae</em> (I was not, however, able to consult this book for the present transla- tion).</li>
-</ul>
 
+</ul>
 <p>ii</p>
 
 <p>Facetia LXX</p>

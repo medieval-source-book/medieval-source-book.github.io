@@ -40,24 +40,34 @@ imagesource: "London, British Library Royal MS 16 G VI, f.442r"
 <p>The translator would like to thank Professor Ullrich Langer of University of Wisconsin—Madison for his assistance in translating this excerpt. Furthermore, support for this research was provided by the Graduate School and the Office of the Vice Chancellor for Research and Graduate Education at the University of Wisconsin—Madison with funding from the Kemper Knapp Bequest. Finally, the larger project of “‘Treacherous and Shoeless Saracens’: French Depictions of Hafsids in Royal MS 16 G VI,” is indebted to the mentorship of Professor Asa Simon Mittman of California State University, Chico.</p>
 
 <h2>Further Reading</h2>
+
+
+
+
 <p>Hedeman, Anne D. <i> The Royal Image: Illustrations of the Grandes Chroniques de France: 1274-1422. </i> U of California P, 1991.</p>
 <ul>
-<li>Discussion of the manuscript tradition of the Grandes Chroniques.</li></ul>
+<li>Discussion of the manuscript tradition of the Grandes Chroniques.</li>
+</ul>
 <p>Heng, Geraldine. <i> The Invention of Race in the European Middle Ages</i> . Cambridge UP, 2018.</p>
 <ul>
-<li>New perspectives on studying medieval racializations.</li></ul>
+<li>New perspectives on studying medieval racializations.</li>
+</ul>
 <p>Jordan, William Chester. <i> Apple of His Eye: Converts from Islam in the Reign of Louis IX</i> . Princeton UP, 2020.</p>
 <ul>
-<li>Discussion of Louis IX’s conversion efforts in Tunisia.</li></ul>
+<li>Discussion of Louis IX’s conversion efforts in Tunisia.</li>
+</ul>
 <p>Lower, Michael. <i> The Tunis Crusade of 1270: A Mediterranean History</i> . Oxford UP, 2018.</p>
 <ul>
-<li>Historical analysis of the Eighth Crusade.</li></ul>
+<li>Historical analysis of the Eighth Crusade.</li>
+</ul>
 <p>Rajabzadeh, Shokoofeh. “The Depoliticized Saracen and Muslim Erasure.” <i> Literature Compass</i> , vol. 16, no. 9-10, 2019.</p>
 <ul>
-<li>Critique of using the term “Saracen” in contemporary scholarship.</li></ul>
+<li>Critique of using the term “Saracen” in contemporary scholarship.</li>
+</ul>
 <p>Narayanan, Tirumular. “White Saracens, Black Muslims, Brown Hafsids: Imaginations of the “Saracen Prince” in Les Grandes Chroniques de France (Royal MS 16 G VI). 2019.” California State University, Chico, M.A. Thesis.</p>
 <ul>
-<li>Introduces an opposing interpretation of 442r as an anti-Islamic Latin Christian polemic.</li></ul>
+<li>Introduces an opposing interpretation of 442r as an anti-Islamic Latin Christian polemic.</li>
+</ul>
 <p>Viard, Jules. <i> Les Grandes Chroniques de France</i> , vol. 10. Société De L’Histoire De France, 1920.</p>
 <ul>
 <li>Edition used for this translation.</li>
@@ -66,8 +76,8 @@ imagesource: "London, British Library Royal MS 16 G VI, f.442r"
 <p>pp. 341-388.</p>
 <ul>
 <li>Offers an interpretation of the illumination on 442r as a conversion narrative.</li>
-</ul>
-<h1>How Sir John of Acre, butler of France, who was on guard, was deceived by some Saracens who requested baptism</h1>
+
+</ul><h1>How Sir John of Acre, butler of France, who was on guard, was deceived by some Saracens who requested baptism</h1>
 <h1>Comment mesire Jehan d’Acre, bouteillier de France qui faisait le guet fu deceus d’aucuns Sarrazins qui requéraient le baptesme</h1>
 
 <p>Un jour que le conte d’Eu, Auphons et mesire Jehan d’Acre son frere bouteillier de France faisoient le guet de nuis, avint que III chevaliers sarrazins vindrent au bouteillier, et le qequistrent que il fussent chrestiens; et en signe de loiauté leur mistrent leurs mains seur leurs chiez, et baisoient le mains de nos gens en signe de subjection, et se rendirent au bouteillier. Li bouteilliers lis fist mener en son paveillon et ala tantost au roi Looys et le dist ce que li Sarrazin avoient fait, les quiex li rois commanda à garder bien diligaument.</p>

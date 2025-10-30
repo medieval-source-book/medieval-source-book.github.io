@@ -36,24 +36,32 @@ imagesource: ""
 <p>The Old Irish orthography of the poem has been standardized to assist students and researchers in disciplines outside of Celtic Studies.</p>
 
 <h2>Further Reading</h2>
+
+
+
+
 <p>Meyer, Kuno ed., “Stories and songs from Irish manuscripts: VI. Colcu ua Duinechda’s Scúap Chrábaid or ‘Besom of Devotion.’” <i> Otia Merseiana</i> , vol. 2, 1900-1901, pp. 75-105.</p>
 <ul>
-<li>An early edition and translation of early Irish materials, some of which are associated with prayers and litanies like those under discussion.</li></ul>
+<li>An early edition and translation of early Irish materials, some of which are associated with prayers and litanies like those under discussion.</li>
 
+</ul>
 <p>O’Loughlin, Thomas. <i> Celtic Theology: Humanity, World and God in Early Irish Writings</i> . Continuum, 2000.</p>
 <ul>
-<li>A discussion of the historical context of early Irish Christianity and the theological ideas and writings that emanated from it.</li></ul>
+<li>A discussion of the historical context of early Irish Christianity and the theological ideas and writings that emanated from it.</li>
+</ul>
 <p>O’ Cróinín, Dáibhi (ed.). <i> A New History of Ireland, Vol. 1: Prehistoric and Early Ireland</i> . Clarendon Press, 2008.</p>
 <ul>
-<li>A definitive and indispensable volume treating many aspects of early Irish history, culture, literature and religion.</li></ul>
+<li>A definitive and indispensable volume treating many aspects of early Irish history, culture, literature and religion.</li>
+</ul>
 <p>O’Sullivan, Tomás, “Texts and transmissions of the Scúap Chrábaid: an Old-Irish litany in its manuscript context.” <i> Studia Celtica Fennica</i> , vol. 7, 2010, pp. 26-47.</p>
 <ul>
-<li>An in-depth and up-to-date discussion of the complex series of texts and processes associated with the imagery of the Scúap Chrábaid (besom of devotion).</li></ul>
+<li>An in-depth and up-to-date discussion of the complex series of texts and processes associated with the imagery of the Scúap Chrábaid (besom of devotion).</li>
+</ul>
 <p>Plummer, Charles (ed.). <i> Irish Litanies: Text and Translation</i> . Henry Bradshaw Society, 1925.</p>
 <ul>
 <li>Early twentieth-century edition and translation of a variety of Irish litanies.</li>
-</ul>
-<h1>The Besom of Devotion | “Idbraim duit, a Athair”</h1>
+
+</ul><h1>The Besom of Devotion | “Idbraim duit, a Athair”</h1>
 
 <p>Idbraim duit, a Athair, ar mo bith ité grádaib.</p>
 

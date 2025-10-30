@@ -35,24 +35,23 @@ imagesource: "Detail from \"Buda, Vulgo Ofen, Prima et Regia Ungarici\" (1572). 
 <h2>About this Edition</h2>
 <p>The goal has been to render the Hungarian in clear and smooth English prose. The original is composed of 50 mono- rhyming quatrains of morphemic rhymes using the popular 12 syllable line. This translation conforms to the quatrain structure while avoiding rhyme and meter. Each stanza expresses a complete thought or idea. This parallel stanza format facilitates comparison of translation to original. Punctuation follows the needs of modern English. Sometimes sentences have been split to accommodate English syntax and others have been connected. Names of well known, high-ranking persons have been anglicized; others have been modernized. All Hungarian names are given surname second. Places and persons named are capitalized and identified in the notes. Specific historical details mentioned are also explained in footnotes. Sections containing direct address are marked by syntax as the singer’s voice, and seldom lend themselves to setting off with quotation marks. Quotation marks are used only to indicate the speech of a character within the text.</p>
 <h2>Further Reading</h2>
+
+
+
+
 <p>Czigány, Lóránt, <i> Oxford History of Hungarian Literature from the Earliest Times to the Mid-1970s</i> . Oxford, Clarendon, 1984.</p>
 <p><a href="http://mek.niif.hu/02000/02042/html/index.html" target="_blank"> pp. 40–43. </a> <a href="http://mek.niif.hu/02000/02042/html/index.html" target="_blank"> http://mek.niif.hu/02000/02042/html/index.html</a></p>
-<ul>
-<li>Short, reliable introduction to Tinódi. Available electronically.</li></ul>
+<p>Short, reliable introduction to Tinódi. Available electronically.</li></ul></p>
 <p>Dobozy, Maria “Two Cultural Perspectives on the Battle of Lippa, Transylvania, 1551.” <i> Fifteenth Century Studies</i> . 2013. Vol. 38, pp. 21–39.</p>
 <ul>
 <li>Discusses the influence of German event poetry on Tinódi and the historical accuracy of the two poems.</li>
+<li>“Sebestyén Tinódi Lantos.” <i> Christian-Muslim Relations 1500 - 1900</i> <a href="http://dx.doi.org/10.1163/2451-9537_cmrii_COM_26618" target="_blank"> . Ed. David Thomas. Brill, 2015. </a> <a href="http://dx.doi.org/10.1163/2451-9537_cmrii_COM_26618" target="_blank"> http://dx.doi.org/10.1163/2451-9537_cmrii_COM_26618</a></li>
 </ul>
-<ul>
-<li>“Sebestyén Tinódi Lantos.” <i> Christian-Muslim Relations 1500 - 1900</i> <a href="http://dx.doi.org/10.1163/2451-9537_cmrii_COM_26618" target="_blank"> . Ed. David Thomas. Brill, 2015. </a> <a href="http://dx.doi.org/10.1163/2451-9537_cmrii_COM_26618" target="_blank"> http://dx.doi.org/10.1163/2451-9537_cmrii_COM_26618</a></li></ul>
 <p>Seláf, Levente, “Between Lyric and Epic: The Great Turkish War in German, Italian and Hungarian Ereignisliedern,” Controversial Poetry, 1400–1635. Ed. Judith Keßler, Ursula Kundert, Johan Oosterman. Brill, 2020. pp. 61–86.</p>
 <ul>
-<li>
+<li></li>
+</ul>
 <p>Analyses genre and function of Italian, German, and Hungarian poetry that deals with religious, political and military conflicts.</p>
-<ul>
-</ul>
-</li>
-</ul>
 <h1>The Captivity of Peter Perény, István Majlád and Bálint Török Príni Péternek, Majlát Istvánnak és Terek Bálintnak fogságokról</h1>
 
 <p>Sírva veszíköl mast szegín Magyarország, Mert tőle távozék hangosság, vigaság, Belőle kikele sok fénös gazdagság,</p>

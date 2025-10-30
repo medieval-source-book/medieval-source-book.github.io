@@ -37,15 +37,23 @@ imagesource: "Detail from New York, Metropolitan Museum, Manuscript Illumination
 <h2>About this Edition</h2>
 <p>This text has been transcribed from Oxford Bodleian Library MS Junius 85/86, fol. 17r. Some spellings have been standardized and errors corrected. All occurrences of the letters “u” and “v” are preserved in their original form. Con- tractions have been expanded (expansions are not indicated). Punctuation follows the original but with modernized punctuation marks. Capitalization follows modern conventions.</p>
 <h2>Further Reading</h2>
+
+
+
+
 <p>Wood, Diana. <i> Women and Religion in Medieval England</i> . Oxford: Oxbow Books, 2003.</p>
 <ul>
-<li>This book is a general overview of the religious life of medieval English women. There is a specific chapter on women and child- birth on pages 91-117.</li></ul>
+<li>This book is a general overview of the religious life of medieval English women. There is a specific chapter on women and child- birth on pages 91-117.</li>
+</ul>
 <p>Olsan, Lea. “Latin Charms of Medieval England: Verbal Healing in a Christian Oral Tradition.” <i> Oral Tradition</i> , vol. 7, no. 1, 1992, pp. 116-42.</p>
 <ul>
-<li> This paper provides a detailed analysis of childbirth charms and prayers and a discussion of the differences between them. Jones, Peter Murray, and Lea T Olsan. “Performative Rituals for Conception and Childbirth in England, 900-1500.” <i> Bulle- tin of the History of Medicine, </i> vol. 89, no. 3, 2015, pp. 406-33.</li>
-<li>This paper focuses on the performative aspect of childbirth prayers and explores the uses of chanting to aid childbirth.</li>
+<li>This paper provides a detailed analysis of childbirth charms and prayers and a discussion of the differences between them.</li>
 </ul>
-<h1>Junius Peperit Charm | “Maria virgo peperit Christum”</h1>
+<p>Jones, Peter Murray, and Lea T Olsan. “Performative Rituals for Conception and Childbirth in England, 900-1500.” <i> Bulle- tin of the History of Medicine, </i> vol. 89, no. 3, 2015, pp. 406-33.</p>
+<ul>
+<li>This paper focuses on the performative aspect of childbirth prayers and explores the uses of chanting to aid childbirth.</li>
+
+</ul><h1>Junius Peperit Charm | “Maria virgo peperit Christum”</h1>
 
 <p>Maria virgo peperit Christum. Elizabet sterelis peperit Johannem Baptistam. Adiuro te infans si es masculus aut femina per patrem et filium et spiritum sanctum ut exeas et recedas ultra ei non noceas neque insipientiam illi facias amen. Videns Dominus flentes sorores Lazari ad monumentum lacrimatus est coram iudeis et clamabat Lazare, veni foras et prodiit ligatis manibus et pedibus qui fuerat quatriduanus mortuus.</p>
 

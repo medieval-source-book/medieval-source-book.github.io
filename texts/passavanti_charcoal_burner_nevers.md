@@ -33,21 +33,28 @@ imagesource: "British Library MS Royal 15 E II f.38 [Public Domain]"
 <p>This is a new translation of an episode from Jacopo Passavanti’s 1354 collection of sermons, <i> Lo Specchio della Vera Penitenza</i> . The episode is located in part III, section 2 of the longer text.</p>
 
 <h2>Further Reading</h2>
+
+
+
+
 <p>Passavanti, Jacopo. <i> Lo Specchio della Vera Penitenza. </i> Ed. Ginetta Auzzas, Florence: Accademia della Crusca, 2014.</p>
 <ul>
-<li>Critical edition in Italian.</li></ul>
+<li>Critical edition in Italian.</li>
+</ul>
 <p>Corbari, Eliana. <i> Vernacular Theology: Dominican Sermons and Audience in Late Medieval Italy. </i> Berlin: De Gruyter, 2013 (especially pp. 29-36, 49-55, 107-125).</p>
 <ul>
-<li>Discussion of Passavanti’s vernacular sermons and theology.</li></ul>
+<li>Discussion of Passavanti’s vernacular sermons and theology.</li>
+</ul>
 <p>Houston, Jason M. <i> Building a Monument to Dante: Boccaccio as Dantista</i> . Toronto: University of Toronto Press, 2010 (especially pp. 109-113).</p>
 <p>Kircher, Timothy. <i> The Poet’s Wisdom: The Humanists, the Church, and the Formation of Philosophy in the Early Renaissance. </i> Leiden: Brill, 2006 (especially pp. 148-156, 187-204, 259).</p>
 <ul>
-<li>Both Houston and Kircher discuss Passavanti’s importance for Boccaccio and Petrarch.</li></ul>
+<li>Both Houston and Kircher discuss Passavanti’s importance for Boccaccio and Petrarch.</li>
+</ul>
 <p>Sinocropi, Giovanni. “Chastity and Love in the Decameron,” in <i> The Olde Daunce: Love, Friendship, Sex and Marriage in the Medieval World</i> , edited by Robert Edwards and Stephen Spector, Albany: State University of New York Press, 1991, pp. 104-120.</p>
 <ul>
 <li>Discusses the sources and themes of Boccaccio’s <em>Nastagio degli Onesti</em> and Passavanti’s <em>Carbonaio di Niversa</em> .</li>
-</ul>
 
+</ul>
 <p>Leggesi iscritto da Elinando, che nel contado di Niversa fu uno povero uomo, il quale era buono e temente Iddio, ch’era carbonaio, e di quella arte si vivea. E avendo egli accesa la fossa de’ carboni una volta, e sendo la notte in una sua capannetta a guardia della incesa fossa, sentì in su l’ora della mezzanotte grandi strida. Usci fuori per ve- dere che fosse, e vide venire in verso la fossa, correndo e stridendo, una femmina iscapigliata e ignuda; e dietro le venta umo cavaliere in su uno cavallo nero correndo, con uno coltello ignudo in mano; e della bocca e degli occhi e del naso del cavaliere e del cavallo uscia fiamma di fuo- co ardente. Giugnendo la femmina alla fossa, ch’ardea, non passò più oltre, e nella fossa non ardiva di gittarsi; ma correndo intorno alla fossa, fu so praggiunta dalcava- liere, che dietro le correa; la quale traendo guai, presa per li svolazzanti o capelli, crudelmente la feri per lo mezzo del petto col coltello che tenea in mano. E cadendo in terra, con molto ispargimento di sangue, si la riprese per li in- sanguinati capelli, e gittòlla nella fossa de’carboni ardenti; dove lasciandola stare per alcuno spazio di tempo, tutta focosa e arsa la ritolse; e ponéndolasi davanti in sul collo del cavallo, correndo se n’andò per la via dond’era venuto.</p>
 
 <p>La seconda e la terza notte vide il carbonaio la simile visi- one. Donde, essendo egli dimestico del conte di Niversa, tra per l’arte sua de’ carboni, e per la bontà la quale il conte, ch’era uomo d’anima, gradiva, venne al conte, e dissegli la visione che tre notti avea veduta. Venne il conte col car- bonaio al luogo della fossa; e vegghiando insieme nella capannetta, nell’ora usata venne la femmina stridendo, e ‘l cavaliere dietro, e feciono tutto ciò che ‘l carbonaio avea veduto. Il conte, avvegna che per lo orribile fatto ch’avea veduto, fosse molto spaventato, prese ardire. E partendosi il cavaliere ispietato colla donna arsa attraversata in su ‘l nero cavallo, gridò iscongiurandolo che dovesse ristare, e sporre la mostrata visione. Volse il cavaliere il cavallo, e fortemente piangendo, si rispose e disse: Da poi, conte, che tu vuoi sapere i mostrio martiri, i quali Iddio t’ha vo- luto mostrare, sappi ch’io fu’Giuffredi tuo cavaliere, e in tua corte nodrito. Questa femmina, contro a cui io sono tanto crudele e fiero, è dama Beatrice, moglie che fu del tuo caro cavaliere Berlin ghieri. Noi prendendo piacere di disonesto amore l’uno dell’altro, ci conducemmo a consen- timento di peccato; il quale a tanto condusse lei, che per potere fare più liberamente il male, uccise il suo marito.</p>

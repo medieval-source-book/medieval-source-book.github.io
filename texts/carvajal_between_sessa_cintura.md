@@ -34,18 +34,24 @@ imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.136v [Publ
 <p>The text has been punctuated. Word separation and capitalization follow modern usage. Elisions have been marked with an apostrophe.</p>
 
 <h2>Further Reading</h2>
+
+
+
+
 <p>Carvajal<i> . Poesie. </i> Edited by Emma Scoles. Edizioni dell’Ateneo, 1967.</p>
 <ul>
-<li>Critical edition of Carvajal’s poetry.</li></ul>
+<li>Critical edition of Carvajal’s poetry.</li>
+</ul>
 <p>Gerli, E. Michael. “Chapter 6. The Libro in the Cancioneros.” <i> Reading, Performing, and Imagining the ‘Libro del Arcipreste’.</i></p>
 <p>University of North Carolina Press, 2016, esp. pp. 194-203.</p>
 <ul>
-<li>Reassessment of Caravajal’s <em>serranillas</em> in view of their intertextual relationship with the <em>Libro de buen amor</em> .</li></ul>
+<li>Reassessment of Caravajal’s <em>serranillas</em> in view of their intertextual relationship with the <em>Libro de buen amor</em> .</li>
+</ul>
 <p>Marino, Nancy F. <i> La serranilla española: notas para su historia e interpretación. </i> Scripta Humanistica, 1987.</p>
 <ul>
 <li>Study of the <em>serranilla</em> genre, with attention to Carvajal’s poems in chapter 5.</li>
-</ul>
 
+</ul>
 <p>Entre Sesa et Cintura caçando por la trauiesa, tope dama que dehesa parescia en su fermosura.</p>
 
 <p>Pense que fuese Diana que caçasse las siluestras, o aquella que lla<em>1</em> mançana</p>

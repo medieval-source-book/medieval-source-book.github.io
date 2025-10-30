@@ -33,6 +33,10 @@ imagesource: "Detail from BSB MS Clm 6260, fol.158v"
 <p>The song survives in only one manuscript, Bayerische Staatsbibliothek Clm 6260, now held in Munich. The manuscript originally stems from the Freising Cathedral library and was written in the second half of the ninth century CE. It contains discussions, in Latin, of religious texts. The <i> Song of Peter </i> was written down later, on the very last page below the end of Hrabanus’s Maurus Commentary on Genesis (f.158v).</p>
 
 <h2>Further Reading</h2>
+
+
+
+
 <p>Bostock, John Knight. <i> A Handbook on Old High German Literature</i> . 2nd ed. Clarendon. 1976.</p>
 <p>Haug, Walter and Benedikt Konrad Vollmann. <i> Frühe Deutsche Literatur und Lateinische Literatur in Deutschland 800-1150</i> .</p>
 <p>Deutscher Klassiker Verlag, 1991.</p>

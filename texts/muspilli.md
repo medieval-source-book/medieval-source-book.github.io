@@ -32,9 +32,14 @@ imagesource: "Detail from Munich, Bayerische Staatbibliothek, Clm 14098, f.120r 
 <p>Muspilli is considered to be one of the most significant pieces of Old High German literature because of its vivid depiction of Christian themes in the vernacular language. Through this poem, modern readers can gain a better insight into the spiritual life and broader culture of ninth-century Germans.</p>
 
 <h2>Further Reading</h2>
+
+
+
+
 <p>Murdoch, Brian. “The Carolingian Period and the Early Middle Ages (750–1100).” <i> The Cambridge History of German Literature</i> , edited by Helen Watanabe-O’Kelly. Cambridge: Cambridge University Press, 1997, pp. 1–39.</p>
 <ul>
-<li>An overview of German literature from 750-1100 CE which includes discussion of <em>Muspilli</em> (on p. 24).</li></ul>
+<li>An overview of German literature from 750-1100 CE which includes discussion of <em>Muspilli</em> (on p. 24).</li>
+</ul>
 <p>Wells, Christopher. “The Shorter German Verse Text.” <i> German Literature of the Early Middle Ages</i> , edited by Brian Mur- doch, Rochester, N.Y: Camden House, 2004, 157-199.</p>
 <ul>
 <li>An overview of Old High German verse texts, including a comparison between the <em>Wessobrunn Prayer</em> , <em>Muspilli</em> , and <em>Lay of Ludwig</em></li>

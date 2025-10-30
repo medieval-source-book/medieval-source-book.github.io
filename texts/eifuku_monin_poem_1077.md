@@ -44,27 +44,36 @@ imagesource: "Detail from Orchids, Bamboo, Briars, and Rocks, Tesshū Tokusai, M
 <p>This translation is based on a transcription of the <i> Fūga wakashū </i> in the collection <i> Kokka taikan: goku sakuin</i> , published by Kyōbunsha in 1918. The transcription was accessed here through the National Diet Library Digital Collections. Manuscripts and transcriptions vary to the extent that they use <i> kanji </i> (Chinese characters) to write words which in other manuscripts or transcriptions may have been written with <i> hiragana </i> (a Japanese syllabary). This transcription appears to use <i> kanji </i> extensively. This transcription has also added dakuten (voiced and plosive diacritics) to syllables that may not have been added in previous manuscripts or in other transcriptions (such as this one from 1925). Generally, I have tried to preserve the word order of the Japanese as much as possible while still being grammatical in English. I have also tried to render Eifuku’s direct style, as well as the characteristically Kyōgoku techniques of repeating words and sounds and breaking with the 5-7-5-7-7 syllable pattern at moments of intensity.</p>
 
 <h2>Further Reading</h2>
+
+
+
+
 <p>Mulhern, Chieko I. “Eifuku Mon’in.” <i> Japanese Women Writers: A Bio- Critical Sourcebook</i> . Westport, CT: Greenwood Press, 1994.</p>
 <ul>
-<li>This article gives an overview of Eifuku Mon’in’s biography and an introduction to her career as a poet. The book is an equal- ly useful introduction to many other Japanese women writing in various time periods.</li></ul>
+<li>This article gives an overview of Eifuku Mon’in’s biography and an introduction to her career as a poet. The book is an equal- ly useful introduction to many other Japanese women writing in various time periods.</li>
+</ul>
 <p>Brower, Robert H, and Earl R. Miner. “The Late Classical Period.” <i> Japanese Court Poetry</i> . Stanford, CA: Stanford University Press, 1961.</p>
 <ul>
-<li>Introduction to Japanese court poetry and waka.</li></ul>
+<li>Introduction to Japanese court poetry and waka.</li>
+</ul>
 <p>Shirane, Haruo. <i> Traditional Japanese Literature: An Anthology, Beginnings to 1600</i> . New York, NY: Columbia Univer- sity Press, 2012.</p>
 <ul>
-<li>Introduction to premodern Japanese literature in general, excellent reference for those unfamiliar with the subject.</li></ul>
+<li>Introduction to premodern Japanese literature in general, excellent reference for those unfamiliar with the subject.</li>
 
+</ul>
 <p>Huey, Robert N. <i> Kyōgoku Tamekane: Poetry and Politics in Late Kamakura Japan</i> . Stanford, CA: Stanford University Press, 1989.</p>
 <ul>
-<li>Explores the social and aesthetic world in which Eifuku Mon’in and the Kyōgoku poets were writing. The perspective of the study is from Eifuku’s contemporary Kyōgoku Tamekane, tutor to Emperor Fushimi and co-founder of the Kyōgoku school.</li></ul>
+<li>Explores the social and aesthetic world in which Eifuku Mon’in and the Kyōgoku poets were writing. The perspective of the study is from Eifuku’s contemporary Kyōgoku Tamekane, tutor to Emperor Fushimi and co-founder of the Kyōgoku school.</li>
+</ul>
 <p>Iwasa, Miyoko. <i> Eifuku Mon’in: sono sei to uta</i> . Tōkyō, Japan: Kasama Shoin, 1976.</p>
 <ul>
-<li>Extensive biography of Eifuku Mon’in as well as rich commentary on her works. Contains her poems from the Fūga Wakashū, Gyokuyō Wakashū, and other collections that include her poetry. In Japanese.</li></ul>
+<li>Extensive biography of Eifuku Mon’in as well as rich commentary on her works. Contains her poems from the Fūga Wakashū, Gyokuyō Wakashū, and other collections that include her poetry. In Japanese.</li>
+</ul>
 <p>Iwasa, Miyoko. <i> Fūga wakashū zenchūshaku</i> . Tōkyō, Japan: Kasama Shoin, 2004.</p>
 <ul>
 <li>Full text of the Fūga Wakashū and commentary. In Japanese.</li>
-</ul>
-<h1>From the 2nd Book of Love. Poem 1077. | <em>戀歌二、1077</em></h1>
+
+</ul><h1>From the 2nd Book of Love. Poem 1077. | <em>戀歌二、1077</em></h1>
 
 <p>待戀の心を</p>
 

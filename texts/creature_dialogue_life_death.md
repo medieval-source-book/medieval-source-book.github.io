@@ -37,24 +37,32 @@ imagesource: "Bibliothèque nationale de France, département Arsenal, RESERVE F
 <p>200. A late medieval printed version of the text, dating from 1481, is held at the Bibliothèque nationale de France in Paris and is available to view online <em>here</em> .</p>
 
 <h2>Further Reading</h2>
+
+
+
+
 <p>Cardelle de Hartman, Carmen, and Estrella Pérez Rodríguez. “Las auctoritates del Contemptus Sublimitatis (Dialogus Creaturarum).” <i> Auctor et auctoritas in Latinis medii aevi litteris/Author and Authorship in Medieval Latin Literature: Proceedings of the VIth Congress of the International Medieval Latin Committee </i> (Benevento-Naples, November 9-13, 2010), edited by Edoardo D’Angelo and Jan Ziolkowski, Florence: SISMEL - Edizioni di Galluzzo, 2014, pp. 199-212.</p>
 <ul>
-<li>Demonstrates that instead of nine manuscripts as previously thought, there exist fifteen complete manuscripts and a fragment, and outlines these manuscripts’ relationship to one another.</li></ul>
+<li>Demonstrates that instead of nine manuscripts as previously thought, there exist fifteen complete manuscripts and a fragment, and outlines these manuscripts’ relationship to one another.</li>
+</ul>
 <p>Kratzmann, Gregory C, and Elizabeth Gee, eds. <i> The Dialoges of Creatures Moralysed: A Critical Edition</i> . Leiden: Brill, 1988, pp. 1-64.</p>
 <ul>
-<li>Edition of the medieval English translation first published in 1530 (original author unknown), but the introduction contains information on the translation history and dissemination of the Latin Dialogus more generally.</li></ul>
+<li>Edition of the medieval English translation first published in 1530 (original author unknown), but the introduction contains information on the translation history and dissemination of the Latin Dialogus more generally.</li>
+</ul>
 <p>Rajna, Pio. “Intorno al cosiddetto <i> Dialogus creaturarum </i> ed al suo autore.” <i> Giornale storico della letteratura italiana</i></p>
 <p>10, 1887, pp. 75-113.</p>
 <ul>
-<li>Advances arguments for two possible authors: Nicolaus Pergamenus and the Milanese doctor Mayno de Mayneriis, with a strong preference for the latter, and summarises the style and contents of the Dialogus.</li></ul>
+<li>Advances arguments for two possible authors: Nicolaus Pergamenus and the Milanese doctor Mayno de Mayneriis, with a strong preference for the latter, and summarises the style and contents of the Dialogus.</li>
+</ul>
 <p>Ruelle, Pierre, ed. <i> Le “Dialogue des creatures”: Traduction par Colart Mansion (1482) du “Dialogus creaturarum’’ (XIVe siècle)</i> . (Classe des Lettres et des Sciences Morales et Politiques, Collections des Anciens Auteurs Belges, n.s. 8), Brussels: Palais des Académies, 1985, pp. 1-80.</p>
 <ul>
-<li>Annotated edition of the medieval French translation by Colart Mansion, but the introduction outlines the manuscript tradition and authorship of the Latin Dialogus.</li></ul>
+<li>Annotated edition of the medieval French translation by Colart Mansion, but the introduction outlines the manuscript tradition and authorship of the Latin Dialogus.</li>
+</ul>
 <p>Schmitt, Jean-Claude. “Recueils franciscains d’exempla et perfectionnement des techniques intellectuelles du XIIIe au XVe siècle.” <i> Bibliothèque de l’École des chartes </i> 135, 1977, pp. 5-21.</p>
 <ul>
 <li>Discusses the front matter in early manuscripts of the Latin Dialogus, which contained both a list of titles and an alphabetical index of moral lessons to facilitate citation.</li>
-</ul>
-<h1>Concerning Life and Death | De vita et morte</h1>
+
+</ul><h1>Concerning Life and Death | De vita et morte</h1>
 
 <p>Mors secundum philosophum et æternus somnus, divitum pavor, pauperum desiderium, incurabilis eventus, latro hominis, fuga vitæ, resolutio hominis. Vita vero est bonorum lætitia, miserorum mœstitia. Et homo quidam juvenis formosus, dives, fortis et sanus ad mortem progreditur et ait: o sors immutabilis, miserere mei et exaudi me, supplicium, quod a te exspecto, noli emittere ad me, aurum et argentum, lapides pretiosos, mancipia, equos, fundos, prædia, palatia, possessiones et quidquid vis, tibi dabo, tantumnodo noli me tangere. Cui mors : impossibilia petis, o frater , non sunt petenda a Deo nisi honesta et possibilia ideoque non sapienter locutus es, quia dicitur homini, mors ubique te exspectat et tu, si sapiens fueris, ubique eam exspectabis. Dicitur enim Psalm. LXXXVIII: quis est homo, qui vivit et non videbit mortem?</p>
 

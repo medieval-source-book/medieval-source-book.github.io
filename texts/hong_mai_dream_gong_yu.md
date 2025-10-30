@@ -27,15 +27,22 @@ imagesource: "Detail from 南宋 佚名 “三元得祿”圖扇頁 (Gibbons Rai
 
 <p>The corpus of the <i> Record </i> originally consisted of 420 chapters. What we have today, however, is but a small fraction of the original text. The <i> Record </i> shows a remarkable degree of accuracy when we compare it with the official documents and other texts of the same period. Nevertheless, many stories in the <i> Record </i> are outright fictitious or based on highly unreliable sources. The <i> Record </i> preserved much information about the society, culture, and religion of the Southern Song Dynasty and was a source of inspiration for generations of writers after Hong Mai. Writers in late imperial China, for instance, took up many stories in the <i> Record </i> and refashioned them into stories that met the demands and expectations of their own times.</p>
 <h2>Further Reading</h2>
+
+
+
+
 <p>Allen, Sarah M. <i> Shifting Stories : History, Gossip, and Lore in Narratives from Tang Dynasty China</i> . Harvard- Yenching Institute Monograph Series. Cambridge, Massachusetts: Harvard University Asia Center, 2014.</p>
 <ul>
-<li>Explores the tale literature of eighth- and ninth-century China to show how the written tales we have today grew out of a fluid culture of hearsay that circulated within elite society. Contains a chapter that explains the modern (mis)understanding of the tale as a genre.</li></ul>
+<li>Explores the tale literature of eighth- and ninth-century China to show how the written tales we have today grew out of a fluid culture of hearsay that circulated within elite society. Contains a chapter that explains the modern (mis)understanding of the tale as a genre.</li>
+</ul>
 <p>Hansen, Valerie. <i> Changing Gods in Medieval China, 1127-1276. </i> Princeton, N.J.: Princeton University Press, 1990.</p>
 <ul>
-<li>Uses the Yi Jian Zhi tales as historical documents and shows that social and economic developments underlay religious changes in the Southern Song (1127 - 1276).</li></ul>
+<li>Uses the Yi Jian Zhi tales as historical documents and shows that social and economic developments underlay religious changes in the Southern Song (1127 - 1276).</li>
+</ul>
 <p>Inglis, Alister David. <i> Hong Mai’s Record of the Listener and Its Song Dynasty Context</i> . SUNY Series in Chinese Philosophy and Culture. Albany: State University of New York Press, 2006.</p>
 <ul>
-<li>A comprehensive survey of the scholarship on Yi Jian Zhi.</li></ul>
+<li>A comprehensive survey of the scholarship on Yi Jian Zhi.</li>
+</ul>
 <p>Luo, Manling. <i> Literati Storytelling in Late Medieval China</i> . The Modern Language Initiative. Seattle: University of Washington Press, 2015.</p>
 <ul>
 <li>Shows how the tales offer crucial insights into the reconfiguration of the Chinese elite, which monopoligzed literacy, social prestige, and political participation in tenth-century China.</li>

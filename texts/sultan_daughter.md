@@ -42,6 +42,10 @@ imagesource: "Berlin, Staatsbibliothek zu Berlin, Ms. germ. oct. 222, f160r (det
 <p>Bolte’s suggestions for emendations have been adopted and appear in square brackets. My own interjections appear in parentheses. I have also consulted, where necessary, both manuscripts as well as Vizkeletey’s edition of the Budapest manuscript published in 2013 (András Vizkelety, “‘Die Sultanstochter im Blumengarten’ in einer ehemaligen Güssinger Handschrift (A szultánkisasszony a virágok közt. Verses novella egy Németújvárról elszármazott kódexben); Tanulmán- yok Mollay Károly születésének 100. évfordulójára [Studien zum 100. Geburtstag von Karl Mollay],” <i> Soproni Szemle [Öden- burger Rundschau] </i> 4 (2013): 440–53), as indicated in the critical notes.</p>
 
 <h2>Further Reading</h2>
+
+
+
+
 <p>Poor, Sara S. “Imagining the Origins of a Clever Woman: The ‘Sultanstochter’ and the Path to Learning in the Late Medieval Devotional Book.” In <i> Mendicant Gender Discourse(s) - Comparative Studies</i> , Reti Medievali 41 (forthcoming, 2021).</p>
 <ul>
 <li>Thorough introduction to the text, including detailed analysis of manuscript context.</li>
@@ -49,15 +53,17 @@ imagesource: "Berlin, Staatsbibliothek zu Berlin, Ms. germ. oct. 222, f160r (det
 <p>Poor, Sara S. “Women Teaching Men in the Medieval Devotional Imagination.” In <i> Partners in Spirit: Women, Men, and Religious Life in Germany, 1100-1500</i> , edited by Fiona J. Griffiths and Julie Hotchin, Turnhout, Belgium: Brepols, 2014,</p>
 <p>pp. 339–65.</p>
 <ul>
-<li>Readings of late medieval German narratives of docta ignorantia featuring women, the manuscripts that transmit them, and the historical context.</li></ul>
+<li>Readings of late medieval German narratives of docta ignorantia featuring women, the manuscripts that transmit them, and the historical context.</li>
+</ul>
 <p>Morgan, Ben. “The Pleasure of the Text: What Two Manuscripts Can Tell Us About Becoming God.” <i> Medieval Mystical Theology </i> 23, no. 1, 2014, pp. 52–64.</p>
 <ul>
-<li>Examination of the Kirchheim reception of the related narrative, the Sister Catherine Treatise, with a focus on its theological content.</li></ul>
+<li>Examination of the Kirchheim reception of the related narrative, the Sister Catherine Treatise, with a focus on its theological content.</li>
+</ul>
 <p>Winston-Allen, Anne. <i> Stories of the Rose: The Making of the Rosary in the Middle Ages</i> . University Park, Penn: Pennsylvania State University Press, 1997.</p>
 <ul>
 <li>Informative study of the late medieval Marian literature through the evolution of the rosary and the poems, texts, and gardens associated with it. Includes excellent bibliography and also many illustrations.</li>
-</ul>
-<h1>The Sultan’s Daughter in the Flower Garden Die Sultanstochter im Blumengarten</h1>
+
+</ul><h1>The Sultan’s Daughter in the Flower Garden Die Sultanstochter im Blumengarten</h1>
 
 <p>In der statt zuo Babilon</p>
 <p>da sass ain herre rich vnd schún, der selb was gar ain erlich man vnd gewaltig — —</p>

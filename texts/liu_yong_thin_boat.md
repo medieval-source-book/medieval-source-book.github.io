@@ -42,20 +42,27 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>The original text of this <i> ci </i> is based on the edition by Tang Guizhang <em>唐圭璋</em> (<i> Quan Song Ci </i> <em>全宋詞</em> , vol 1. Beijing: Zhonghua shu ju, 1965). Punctuation follows the edition. Since <i> ci </i> poetry rarely includes personal pronouns, and gender-differentiated pronouns did not exist in Classical Chinese of this period, the gender of the speaker as well as their perspective (e.g. first-, second- or third-person) must often be deduced by the translator from context.</p>
 
 <h2>Further Reading</h2>
+
+
+
+
 <p>Chang, Kang-i Sun. <i> The Evolution of Tz’u Poetry: from Late Tang to Northern Sung</i> . Princeton UP, 1980.</p>
 <ul>
-<li>A standard survey of the early history of Chinese song lyrics (romanized as both <em>ci</em> and <em>tz’u</em> ).</li></ul>
+<li>A standard survey of the early history of Chinese song lyrics (romanized as both <em>ci</em> and <em>tz’u</em> ).</li>
+</ul>
 <p>Egan, Ronald. “The Song Lyric”. <i> The Cambridge History of Chinese Literature</i> , vol. 1, edited by Stephen Owen, Cambridge UP, 2010, pp. 434-452.</p>
 <ul>
-<li>An overview of the genre.</li></ul>
+<li>An overview of the genre.</li>
+</ul>
 <p>Owen, Stephen. <i> Just a Song: Chinese Lyrics from the Eleventh and Early Twelfth Centuries</i> . Asia Center, Harvard UP, 2019.</p>
 <ul>
-<li>A recent new history of the genre.</li></ul>
+<li>A recent new history of the genre.</li>
+</ul>
 <p>Tang, Guizhang <em>唐圭璋</em> , editor. <i> Quan Song Ci </i> <em>全宋詞</em> . Zhonghua shu ju, 1965. 5 vols.</p>
 <ul>
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
-</ul>
 
+</ul>
 <p>迷神引</p>
 <h1>To the tune “The Lost Soul”—“On a thin boat, the light sail is furled”</h1>
 <p>迷神引 · 一葉扁舟輕帆卷</p>
