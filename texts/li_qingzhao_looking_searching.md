@@ -37,16 +37,16 @@ imagesource: "Detail from 宋朱銳春社醉歸圖(Drunk in the Trip) 卷, 朱�
 <h2>Further Reading</h2>
 <p>Chang, Kang-i Sun. <i> The Evolution of Tz’u Poetry: from Late Tang to Northern Sung</i> . Princeton UP, 1980.</p>
 <ul>
-<p>A standard survey of the early history of Chinese song lyrics (romanized as both <em>ci</em> and <em>tz’u</em> ).</p>
+<li>A standard survey of the early history of Chinese song lyrics (romanized as both <em>ci</em> and <em>tz’u</em> ).</li>
+</ul>
 <p>Egan, Ronald. “The Song Lyric”. <i> The Cambridge History of Chinese Literature</i> , vol. 1, edited by Stephen Owen, Cambridge UP, 2010, pp. 434-452.</p>
-</li>
+<ul>
 <li>An overview of the genre.</li>
 </ul>
+<p>The Works of Li Qingzhao . De Gruyter, 2019, pp. 94-198.</p>
 <ul>
-<li>The Works of Li Qingzhao . De Gruyter, 2019, pp. 94-198.</li></ul>
-<ul>
-<li>
-<p>A bilingual edition, with Chinese and English translations on facing pages.</p>
+<li>A bilingual edition, with Chinese and English translations on facing pages.</li>
+</ul>
 <p>Owen, Stephen. <i> Just a Song: Chinese Lyrics from the Eleventh and Early Twelfth Centuries</i> . Asia Center, Harvard UP, 2019.</p>
 <ul>
 <li>A recent new history of the genre.</li></ul>
@@ -54,23 +54,34 @@ imagesource: "Detail from 宋朱銳春社醉歸圖(Drunk in the Trip) 卷, 朱�
 <ul>
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 </ul>
-</li>
-</ul>
+
+
 <h1>To the tune “Note after Note, Long Song”—“Looking and searching, looking and searching”</h1>
-<p>聲聲慢 · 尋尋覓覓</p>
+<h1>聲聲慢 · 尋尋覓覓</h1>
 
 <p>聲聲慢</p>
 
-<p>尋尋覓覓，冷冷清清，</p>
-<p>淒淒慘慘戚戚。乍暖還寒時候，最難將息。</p>
-<p>三杯兩盞淡酒，怎敵他、</p>
-<p>晚來風急。雁過也， 正傷心，</p>
+<p>尋尋覓覓，</p>
+<p>冷冷清清，</p>
+<p>淒淒慘慘戚戚。</p>
+<p>乍暖還寒時候，</p>
+<p>5 最難將息。</p>
+<p>三杯兩盞淡酒，</p>
+<p>怎敵他、</p>
+<p>晚來風急。</p>
+<p>雁過也， </p>
+<p>10 正傷心，</p>
 <p>卻是舊時相識。</p>
 
-<p>滿地黃花堆積。憔悴損，</p>
-<p>如今有誰堪摘。守著窗兒，</p>
-<p>獨自怎生得黑。梧桐更兼細雨，到黃昏、</p>
-<p>點點滴滴。這次第</p>
+<p>滿地黃花堆積。</p>
+<p>憔悴損，</p>
+<p>如今有誰堪摘。</p>
+<p>15 守著窗兒，</p>
+<p>獨自怎生得黑。</p>
+<p>梧桐更兼細雨，</p>
+<p>到黃昏、</p>
+<p>點點滴滴。</p>
+<p>20 這次第</p>
 <p>怎一個愁字了得。</p>
 
 
