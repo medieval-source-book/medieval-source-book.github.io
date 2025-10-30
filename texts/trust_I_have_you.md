@@ -2,11 +2,11 @@
 layout: text
 sidebar: left
 title: |
-  The trust that I have in you | La fiance que j'ay en vous
+  The trust that I have in you | La fiance que j’ay en vous
 engtitle: |
   The trust that I have in you
 origtitle: |
-  La fiance que j'ay en vous
+  La fiance que j’ay en vous
 breadcrumb: true
 permalink: "text/trust_I_have_you"
 redirect_from: /text/trust-i-have-you

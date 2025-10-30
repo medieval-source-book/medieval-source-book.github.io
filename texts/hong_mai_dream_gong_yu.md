@@ -20,7 +20,7 @@ textcollections: [making-history]
 sdr: https://purl.stanford.edu/bk215pt5624
 image: /assets/img/text/hong_mai_dream_gong_yu.jpg
 thumb: /assets/img/text/hong_mai_dream_gong_yu-thumb.jpg
-imagesource: "Detail from 南宋 佚名 “三元得祿”圖扇頁 (Gibbons Raiding an Egret's Nest), Artist Unknown, late 12th century, Metropolitan Museum of Art, Accession Number: 13.100.104 [Public Domain]"
+imagesource: "Detail from 南宋 佚名 “三元得祿”圖扇頁 (Gibbons Raiding an Egret’s Nest), Artist Unknown, late 12th century, Metropolitan Museum of Art, Accession Number: 13.100.104 [Public Domain]"
 ---
 <h2>Introduction to the Text</h2>
 <p>This story is one of five in the <i> Global Medieval Sourcebook </i> to have been selected from the <i> Yijian Zhi </i> (or, <i> Record of the Listener</i> , hereafter the <i> Record</i> ) by Hong Mai (1123-1202). Like many well-educated men in the Southern Song Dynasty (1127-1279), Hong Mai grew up in a prominent family, passed the civil service examination, and obtained a post in the imperial government. However, due to misconduct during a diplomatic mission, his career came to an abrupt end. From then on, he retreated to his study and devoted himself to writing the <i> Record</i> .</p>
@@ -29,19 +29,19 @@ imagesource: "Detail from 南宋 佚名 “三元得祿”圖扇頁 (Gibbons Rai
 <h2>Further Reading</h2>
 <p>Allen, Sarah M. <i> Shifting Stories : History, Gossip, and Lore in Narratives from Tang Dynasty China</i> . Harvard- Yenching Institute Monograph Series. Cambridge, Massachusetts: Harvard University Asia Center, 2014.</p>
 <ul id="l1">
-<li data-list-text="•">
+<li>
 <p>Explores the tale literature of eighth- and ninth-century China to show how the written tales we have today grew out of a fluid culture of hearsay that circulated within elite society. Contains a chapter that explains the modern (mis)understanding of the tale as a genre.</p>
 <p>Hansen, Valerie. <i> Changing Gods in Medieval China, 1127-1276. </i> Princeton, N.J.: Princeton University Press, 1990.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>Uses the Yi Jian Zhi tales as historical documents and shows that social and economic developments underlay religious changes in the Southern Song (1127 - 1276).</p>
 <p>Inglis, Alister David. <i> Hong Mai’s Record of the Listener and Its Song Dynasty Context</i> . SUNY Series in Chinese Philosophy and Culture. Albany: State University of New York Press, 2006.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>A comprehensive survey of the scholarship on Yi Jian Zhi.</p>
 <p>Luo, Manling. <i> Literati Storytelling in Late Medieval China</i> . The Modern Language Initiative. Seattle: University of Washington Press, 2015.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>Shows how the tales offer crucial insights into the reconfiguration of the Chinese elite, which monopoligzed literacy, social prestige, and political participation in tenth-century China.</p>
 </li>
 </ul>

@@ -43,25 +43,25 @@ imagesource: "British Library MS Additional 10294, f. 89 [Public Domain]"
 <p>The text exists in two versions. Version A is extant in the following manuscripts:</p>
 
 <ul id="l1">
-<li data-list-text="•">
+<li>
 <p>Aberystwyth, NLW MS Llanstephan 4, c. 1400, scribe: X91</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>Aberystwyth, NLW MS Llanstephan 2, s. xv2/2, scribe: X93</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>Cardiff, Central Library MS 4.22, c. 1717-18</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>Cardiff, Central Library MS 2.40, c. 1714</p>
 
 <p>Llanstephan 2, also part of the composite <i> Didrefn Gasgliad</i> , is very close to Llanstephan 4 but not a direct copy. The two Cardiff manuscripts are copies of Llanstephan 4. Version B is extant in the following manuscripts:</p>
 
 </li>
-<li data-list-text="•">
+<li>
 <p>London, British Library, Cotton Vitellius C. ix, s. xvi, scribe: Morris Kyffin for John Dee</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>Aberystwyth, NLW MS Llanstephan 150, s. xviii, scribe of Moses Williams</p>
 </li>
 </ul>
@@ -141,11 +141,11 @@ imagesource: "British Library MS Additional 10294, f. 89 [Public Domain]"
 <h1>Critical Notes</h1>
 
 <ol id="l2">
-<li data-list-text="1">
+<li>
 <p>This is a quotation from Boethius, <i> De consolatione philosophiae, </i> 3p8.9, via Giraldus Cambrensis, <i> Speculum ecclesiae</i> , ii.8.</p>
 
 </li>
-<li data-list-text="2">
+<li>
 <p>Literally: so that a sign/evidence was had.</p>
 </li>
 </ol>

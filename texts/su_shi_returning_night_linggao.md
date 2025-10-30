@@ -39,19 +39,19 @@ imagesource: "“Detail from 宋李公麟畫歸去來辭卷 (boat)”, 李公麟
 <h2>Further Reading</h2>
 <p>Chang, Kang-i Sun. <i> The Evolution of Tz’u Poetry: from Late Tang to Northern Sung</i> . Princeton UP, 1980.</p>
 <ul id="l1">
-<li data-list-text="•">
+<li>
 <p>A standard survey of the early history of Chinese song lyrics (romanized as both <em>ci</em> and <em>tz’u</em> ).</p>
 <p>Egan, Ronald. “The Song Lyric”. <i> The Cambridge History of Chinese Literature</i> , vol. 1, edited by Stephen Owen, Cambridge UP, 2010, pp. 434-452.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>An overview of the genre.</p>
 <p>Owen, Stephen. <i> Just a Song: Chinese Lyrics from the Eleventh and Early Twelfth Centuries</i> . Asia Center, Harvard UP, 2019.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>A recent new history of the genre.</p>
 <p>Tang, Guizhang <em>唐圭璋</em> , editor. <i> Quan Song Ci </i> <em>全宋詞</em> . Zhonghua shu ju, 1965. 5 vols.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</p>
 </li>
 </ul>
@@ -76,16 +76,16 @@ imagesource: "“Detail from 宋李公麟畫歸去來辭卷 (boat)”, 李公麟
 <h1>Critical Notes</h1>
 
 <ol id="l2">
-<li data-list-text="1">
+<li>
 <p>The part of Huangzhou where the speaker was in exile.</p>
 </li>
-<li data-list-text="2">
+<li>
 <p>“Eastern Slope” is not only the name of a hill, but also a pseudonym used by Su Shi. This line could also be rendered: “Drinking at night, Su Shi/Eastern Slope sobered up and got drunk again.”</p>
 </li>
-<li data-list-text="3">
+<li>
 <p>In ancient China, the night time was divided into five periods (<em>更</em> ). At the beginning of each period, drums were beaten by night watchmen. <em>三更</em> refers to the third period, roughly equivalent to midnight.</p>
 </li>
-<li data-list-text="4">
+<li>
 <p>“<em>營營</em> ” literally means being busy without stopping, often with a negative connotation. It is also the onomato poeia for the sound that flies make when flying around. It can also refer to the anxieties in one’s mind.</p>
 </li>
 </ol>

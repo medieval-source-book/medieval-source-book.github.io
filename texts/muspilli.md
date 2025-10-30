@@ -34,11 +34,11 @@ imagesource: "Detail from Munich, Bayerische Staatbibliothek, Clm 14098, f.120r 
 <h2>Further Reading</h2>
 <p>Murdoch, Brian. “The Carolingian Period and the Early Middle Ages (750–1100).” <i> The Cambridge History of German Literature</i> , edited by Helen Watanabe-O’Kelly. Cambridge: Cambridge University Press, 1997, pp. 1–39.</p>
 <ul id="l1">
-<li data-list-text="•">
+<li>
 <p>An overview of German literature from 750-1100 CE which includes discussion of <em>Muspilli</em> (on p. 24).</p>
 <p>Wells, Christopher. “The Shorter German Verse Text.” <i> German Literature of the Early Middle Ages</i> , edited by Brian Mur- doch, Rochester, N.Y: Camden House, 2004, 157-199.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>An overview of Old High German verse texts, including a comparison between the <em>Wessobrunn Prayer</em> , <em>Muspilli</em> , and <em>Lay of Ludwig</em></p>
 </li>
 </ul>

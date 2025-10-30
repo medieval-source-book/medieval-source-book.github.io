@@ -42,19 +42,19 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <h2>Further Reading</h2>
 <p>Chang, Kang-i Sun. <i> The Evolution of Tz’u Poetry: from Late Tang to Northern Sung</i> . Princeton UP, 1980.</p>
 <ul id="l1">
-<li data-list-text="•">
+<li>
 <p>A standard survey of the early history of Chinese song lyrics (romanized as both <em>ci</em> and <em>tz’u</em> ).</p>
 <p>Egan, Ronald. “The Song Lyric”. <i> The Cambridge History of Chinese Literature</i> , vol. 1, edited by Stephen Owen, Cambridge UP, 2010, pp. 434-452.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>An overview of the genre.</p>
 <p>Owen, Stephen. <i> Just a Song: Chinese Lyrics from the Eleventh and Early Twelfth Centuries</i> . Asia Center, Harvard UP, 2019.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>A recent new history of the genre.</p>
 <p>Tang, Guizhang <em>唐圭璋</em> , editor. <i> Quan Song Ci </i> <em>全宋詞</em> . Zhonghua shu ju, 1965. 5 vols.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations</p>
 </li>
 </ul>
@@ -107,17 +107,17 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <h1>Critical Notes</h1>
 
 <ol id="l2">
-<li data-list-text="1">
+<li>
 <p>In traditional Chinese culture, mandarin ducks are believed to be monogamous, unlike other species of ducks. Hence they are regarded as a symbol of conjugal affection and fidelity and frequently fea tured in Chinese art. Quilts with patterns of mandarin ducks are often used in the bedrooms of lovers or married couples.</p>
 </li>
-<li data-list-text="2">
+<li>
 <p>“Cloud and rain” alludes to the Song of Gao Tang (<em>高唐赋</em> ), a work by Song Yu <em>宋玉</em> , who lived during the Warring States period (453–221 BCE). The Song of Gao Tang narrates a brief love affair between the Huai King of Chu <em>楚怀王</em> and a mountain fairy which takes place in the king’s dream; in this dream, the mountain fairy describes her residence after their lovemaking as “made from the cloud in the morning, but comprised of rain in the evening”. The imagery of cloud and rain is often used as a euphemism for sexual intercourse in Chinese poetry.</p>
 </li>
-<li data-list-text="3">
+<li>
 <p>“Cloud” refers to sex (see previous note), and “Qin cloud” doubly so because “Qin building” is a name for a brothel. According to legend, the original Qin building was built by the Qinmu King as a palace for his daughter and son-in-law. They were both so good at playing the vertical bamboo flute that their music attracted phoenixes, and the building where they played became famous. The meaning</p>
 <p>of the Qin building changed over time, and was later used to refer to brothels.</p>
 </li>
-<li data-list-text="4">
+<li>
 <p>In Chinese culture, winter is divided up into nine periods. These periods are called “nine”, and the winter starts from “the first nine” and ends at “the ninth nine”. There is a tradition for one to count the nines during winter to keep track of how many days have passed since the beginning of winter. Here, “count the coldness” refers to this tradition, implying that the days are becoming colder and colder.</p>
 </li>
 </ol>

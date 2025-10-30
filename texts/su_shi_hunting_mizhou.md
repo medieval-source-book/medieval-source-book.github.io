@@ -39,19 +39,19 @@ imagesource: "“Detail from 宋人卞莊子刺虎圖卷 (tiger)”, Anonymous, 
 <h2>Further Reading</h2>
 <p>Chang, Kang-i Sun. <i> The Evolution of Tz’u Poetry: from Late Tang to Northern Sung</i> . Princeton UP, 1980.</p>
 <ul id="l1">
-<li data-list-text="•">
+<li>
 <p>A standard survey of the early history of Chinese song lyrics (romanized as both <em>ci</em> and <em>tz’u</em> ).</p>
 <p>Egan, Ronald. “The Song Lyric”. <i> The Cambridge History of Chinese Literature</i> , vol. 1, edited by Stephen Owen, Cambridge UP, 2010, pp. 434-452.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>An overview of the genre.</p>
 <p>Owen, Stephen. <i> Just a Song: Chinese Lyrics from the Eleventh and Early Twelfth Centuries</i> . Asia Center, Harvard UP, 2019.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>A recent new history of the genre.</p>
 <p>Tang, Guizhang <em>唐圭璋</em> , editor. <i> Quan Song Ci </i> <em>全宋詞</em> . Zhonghua shu ju, 1965. 5 vols.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</p>
 </li>
 </ul>
@@ -85,33 +85,33 @@ imagesource: "“Detail from 宋人卞莊子刺虎圖卷 (tiger)”, Anonymous, 
 <h1>Critical Notes</h1>
 
 <ol id="l2">
-<li data-list-text="1">
+<li>
 <p>Refers to the typical hunting attire of a prefect at that time.</p>
 </li>
-<li data-list-text="2">
+<li>
 <p>The speaker uses “thousands of” as an exaggeration to emphasize the size of his retinue and the grandeur of the occasion.</p>
 </li>
-<li data-list-text="3">
+<li>
 <p>Sun Quan (182-252 CE) was the ruler of the State of Wu during the Three Kingdoms period (220-280 CE). He once pursued a tiger on horseback, managing to kill it even though it had bitten his horse. Here the</p>
 <p>speaker compares himself to Sun Quan.</p>
 </li>
-<li data-list-text="4">
+<li>
 <p>This implies that the poet is already old and has white hair at his temples.</p>
 </li>
-<li data-list-text="5">
+<li>
 <p>Yunzhong was the name of a place in present-day Inner Mongolia.</p>
 </li>
-<li data-list-text="6">
+<li>
 <p>During the Song Dynasty, a “Fu Jie” was a staff that symbolized the court’s pardon of an official.</p>
 
 </li>
-<li data-list-text="7">
+<li>
 <p>The implication here is “When will the court dispatch Feng Tang to pardon Wei Shang?”, with the poet using Wei Shang to represent himself. The Prefect of Yunzhong, Wei Shang, successfully defeated the invading Xiongnu troops but was deprived of his official title because his battle report stated a number of enemies killed</p>
 <p>that was six fewer than the actual number. Feng Tang, a court official, defended the prefect and convinced Emperor Wen of Han (r. 180-157 BCE) that his sentence was too severe. The emperor thus sent Feng</p>
 <p>Tang to pardon the prefect and restore the latter’s title. Here the speaker refers to himself as the prefect and hopes to retrieve the court’s trust and favor. The order of the words in the original has been modified</p>
 <p>in the translation to make the sentence easier to understand. The literal translation of this line and the preceding line is: “Going into Yunzhong with a Fu Jie; / When will the court dispatch Feng Tang?”</p>
 </li>
-<li data-list-text="8">
+<li>
 <p>In ancient China, “Sirius” was the name given to a star that was commonly believed to control warfare. “Shoot down Sirius” indicates the speaker’s wish to defeat major rivaling states, very likely the Western Xia in the north west, which was a great threat to the Northern Song court.</p>
 </li>
 </ol>

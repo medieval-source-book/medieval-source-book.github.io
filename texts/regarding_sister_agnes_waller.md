@@ -87,13 +87,13 @@ imagesource: "Detail from BVMM Colmar, Bibliothèque municipale, 0926 (508) f.61
 <h1>Critical Notes</h1>
 
 <ol id="l1">
-<li data-list-text="1">
+<li>
 <p>The editor of the <i> Vitae sororum</i> , Jeanne Ancelet-Hustache, notes that a family of this name existed in Ribeau villé around the time when Agnes would have lived; it is probable that she belonged to this family. See Ancelet-Hustache, “Les ‘Vitae sororum’ d’Unterlinden: Édition critique du manuscrit 508 de la Bibliothèque de Colmar,” in <i> Archives d’histoire doctrinale et littèraire du Moyen Âge</i> , vol. 5 (1930), note 1, p. 412.</p>
 </li>
-<li data-list-text="2">
+<li>
 <p>“Dominum Sabaoth” from the Hebrew צבאות (Tzevaot)—in this context, Christ.</p>
 </li>
-<li data-list-text="3">
+<li>
 <p>This vision of the Christ child is a not uncommon occurrence in the <i> Vitae sororum</i> ; the Christ child features prominently in the vitae of prioresses and lifelong choir nuns as well as widows and other women who</p>
 </li>
 </ol>

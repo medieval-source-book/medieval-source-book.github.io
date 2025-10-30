@@ -39,24 +39,24 @@ imagesource: "Bibliothèque nationale de France, département Arsenal, RESERVE F
 <h2>Further Reading</h2>
 <p>Cardelle de Hartman, Carmen, and Estrella Pérez Rodríguez. “Las auctoritates del Contemptus Sublimitatis (Dialogus Creaturarum).” <i> Auctor et auctoritas in Latinis medii aevi litteris/Author and Authorship in Medieval Latin Literature: Proceedings of the VIth Congress of the International Medieval Latin Committee </i> (Benevento-Naples, November 9-13, 2010), edited by Edoardo D’Angelo and Jan Ziolkowski, Florence: SISMEL - Edizioni di Galluzzo, 2014, pp. 199-212.</p>
 <ul id="l1">
-<li data-list-text="•">
+<li>
 <p>Demonstrates that instead of nine manuscripts as previously thought, there exist fifteen complete manuscripts and a fragment, and outlines these manuscripts’ relationship to one another.</p>
 <p>Kratzmann, Gregory C, and Elizabeth Gee, eds. <i> The Dialoges of Creatures Moralysed: A Critical Edition</i> . Leiden: Brill, 1988, pp. 1-64.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>Edition of the medieval English translation first published in 1530 (original author unknown), but the introduction contains information on the translation history and dissemination of the Latin Dialogus more generally.</p>
 <p>Rajna, Pio. “Intorno al cosiddetto <i> Dialogus creaturarum </i> ed al suo autore.” <i> Giornale storico della letteratura italiana</i></p>
 <p>10, 1887, pp. 75-113.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>Advances arguments for two possible authors: Nicolaus Pergamenus and the Milanese doctor Mayno de Mayneriis, with a strong preference for the latter, and summarises the style and contents of the Dialogus.</p>
 <p>Ruelle, Pierre, ed. <i> Le “Dialogue des creatures”: Traduction par Colart Mansion (1482) du “Dialogus creaturarum’’ (XIVe siècle)</i> . (Classe des Lettres et des Sciences Morales et Politiques, Collections des Anciens Auteurs Belges, n.s. 8), Brussels: Palais des Académies, 1985, pp. 1-80.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>Annotated edition of the medieval French translation by Colart Mansion, but the introduction outlines the manuscript tradition and authorship of the Latin Dialogus.</p>
 <p>Schmitt, Jean-Claude. “Recueils franciscains d’exempla et perfectionnement des techniques intellectuelles du XIIIe au XVe siècle.” <i> Bibliothèque de l’École des chartes </i> 135, 1977, pp. 5-21.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>Discusses the front matter in early manuscripts of the Latin Dialogus, which contained both a list of titles and an alphabetical index of moral lessons to facilitate citation.</p>
 </li>
 </ul>
@@ -84,10 +84,10 @@ imagesource: "Bibliothèque nationale de France, département Arsenal, RESERVE F
 
 <p>Translation</p>
 <ol id="l2">
-<li data-list-text="1">
+<li>
 <p>A more literal translation would be “except in blood.“</p>
 </li>
-<li data-list-text="2">
+<li>
 <p>A more literal translation would be “Do not grow discord among those who are already in conflict.”</p>
 </li>
 </ol>

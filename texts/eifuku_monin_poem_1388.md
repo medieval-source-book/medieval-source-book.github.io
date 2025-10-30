@@ -13,7 +13,7 @@ redirect_from: /text/5th-book-love-poem-1388
 identifier: eifuku_monin_poem_1388.md
 tei: /assets/tei/eifuku_monin_poem_1388.xml
 pdf: /assets/pdf/eifuku_monin_poem_1388.pdf
-textauthor: Eifuku Mon'in 永福門院
+textauthor: Eifuku Mon’in 永福門院
 languages: [japanese]
 periods: [14th_century]
 textcollections: [love-songs, gender-sex-sensuality]
@@ -46,28 +46,28 @@ imagesource: "Detail from Geese and Reeds, Tesshū Tokusai, Late 14th C., Hangin
 <h2>Further Reading</h2>
 <p>Mulhern, Chieko I. “Eifuku Mon’in.” <i> Japanese Women Writers: A Bio- Critical Sourcebook</i> . Westport, CT: Greenwood Press, 1994.</p>
 <ul id="l1">
-<li data-list-text="•">
+<li>
 <p>This article gives an overview of Eifuku Mon’in’s biography and an introduction to her career as a poet. The book is an equal- ly useful introduction to many other Japanese women writing in various time periods.</p>
 <p>Brower, Robert H, and Earl R. Miner. “The Late Classical Period.” <i> Japanese Court Poetry</i> . Stanford, CA: Stanford University Press, 1961.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>Introduction to Japanese court poetry and waka.</p>
 <p>Shirane, Haruo. <i> Traditional Japanese Literature: An Anthology, Beginnings to 1600</i> . New York, NY: Columbia Univer- sity Press, 2012.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>Introduction to premodern Japanese literature in general, excellent reference for those unfamiliar with the subject.</p>
 
 <p>Huey, Robert N. <i> Kyōgoku Tamekane: Poetry and Politics in Late Kamakura Japan</i> . Stanford, CA: Stanford University Press, 1989.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>Explores the social and aesthetic world in which Eifuku Mon’in and the Kyōgoku poets were writing. The perspective of the study is from Eifuku’s contemporary Kyōgoku Tamekane, tutor to Emperor Fushimi and co-founder of the Kyōgoku school.</p>
 <p>Iwasa, Miyoko. <i> Eifuku Mon’in: sono sei to uta</i> . Tōkyō, Japan: Kasama Shoin, 1976.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>Extensive biography of Eifuku Mon’in as well as rich commentary on her works. Contains her poems from the Fūga Wakashū, Gyokuyō Wakashū, and other collections that include her poetry. In Japanese.</p>
 <p>Iwasa, Miyoko. <i> Fūga wakashū zenchūshaku</i> . Tōkyō, Japan: Kasama Shoin, 2004.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>Full text of the Fūga Wakashū and commentary. In Japanese.</p>
 </li>
 </ul>

@@ -20,5 +20,5 @@ textcollections: [gender-sex-sensuality, love-songs]
 sdr: https://purl.stanford.edu/xd455fv0178
 image: /assets/img/text/sant_jordi_underneath_my_forehead.jpg
 thumb: /assets/img/text/sant_jordi_underneath_my_forehead-thumb.jpg
-imagesource: "Initial P: A Man Speaking to Four Youths and A Man Placing a Ring on a Woman's Hand, Getty Museum Ms. Ludwig XIV 6 (83.MQ.165), fol. 205v, about 1290–1310 [Public Domain]"
+imagesource: "Initial P: A Man Speaking to Four Youths and A Man Placing a Ring on a Woman’s Hand, Getty Museum Ms. Ludwig XIV 6 (83.MQ.165), fol. 205v, about 1290–1310 [Public Domain]"
 ---

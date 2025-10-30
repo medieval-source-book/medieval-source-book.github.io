@@ -2,9 +2,9 @@
 layout: text
 sidebar: left
 title: |
-  Filbert's Vision | La visión de Filiberto
+  Filbert’s Vision | La visión de Filiberto
 engtitle: |
-  Filbert's Vision
+  Filbert’s Vision
 origtitle: |
   La visión de Filiberto
 breadcrumb: true

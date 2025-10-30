@@ -2,11 +2,11 @@
 layout: text
 sidebar: left
 title: |
-  How Sir John of Acre, butler of France, who was on guard, was deceived by some Saracens who requested baptism | Comment mesire Jehan d'Acre, bouteillier de France qui faisait le guet fu deceus d'aucuns Sarrazins qui requéraient le baptesme
+  How Sir John of Acre, butler of France, who was on guard, was deceived by some Saracens who requested baptism | Comment mesire Jehan d’Acre, bouteillier de France qui faisait le guet fu deceus d’aucuns Sarrazins qui requéraient le baptesme
 engtitle: |
   How Sir John of Acre, butler of France, who was on guard, was deceived by some Saracens who requested baptism
 origtitle: |
-  Comment mesire Jehan d'Acre, bouteillier de France qui faisait le guet fu deceus d'aucuns Sarrazins qui requéraient le baptesme
+  Comment mesire Jehan d’Acre, bouteillier de France qui faisait le guet fu deceus d’aucuns Sarrazins qui requéraient le baptesme
 breadcrumb: true
 permalink: "text/guillaume_de_nangis_john_acre"
 redirect_from: /text/how-sir-john-acre-butler-france-who-was-guard-was-deceived-some-saracens-who-requested-baptism
@@ -42,38 +42,38 @@ imagesource: "London, British Library Royal MS 16 G VI, f.442r"
 <h2>Further Reading</h2>
 <p>Hedeman, Anne D. <i> The Royal Image: Illustrations of the Grandes Chroniques de France: 1274-1422. </i> U of California P, 1991.</p>
 <ul id="l1">
-<li data-list-text="•">
+<li>
 <p>Discussion of the manuscript tradition of the Grandes Chroniques.</p>
 <p>Heng, Geraldine. <i> The Invention of Race in the European Middle Ages</i> . Cambridge UP, 2018.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>New perspectives on studying medieval racializations.</p>
 <p>Jordan, William Chester. <i> Apple of His Eye: Converts from Islam in the Reign of Louis IX</i> . Princeton UP, 2020.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>Discussion of Louis IX’s conversion efforts in Tunisia.</p>
 <p>Lower, Michael. <i> The Tunis Crusade of 1270: A Mediterranean History</i> . Oxford UP, 2018.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>Historical analysis of the Eighth Crusade.</p>
 <p>Rajabzadeh, Shokoofeh. “The Depoliticized Saracen and Muslim Erasure.” <i> Literature Compass</i> , vol. 16, no. 9-10, 2019.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>Critique of using the term “Saracen” in contemporary scholarship.</p>
 <p>Narayanan, Tirumular. “White Saracens, Black Muslims, Brown Hafsids: Imaginations of the “Saracen Prince” in Les Grandes Chroniques de France (Royal MS 16 G VI). 2019.” California State University, Chico, M.A. Thesis.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>Introduces an opposing interpretation of 442r as an anti-Islamic Latin Christian polemic.</p>
 <p>Viard, Jules. <i> Les Grandes Chroniques de France</i> , vol. 10. Société De L’Histoire De France, 1920.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>Edition used for this translation.</p>
 </li>
 </ul>
 <p>Wollesen, Jens T. “East meets West and the Problem with those Picture.” <i> East meets West in the Middle Ages and Early Modern Times: Transcultural Experiences in the Premodern World</i> , edited by Albrecht Classen, Walter de Gruyter, 2013,</p>
 <p>pp. 341-388.</p>
 <ul id="l2">
-<li data-list-text="•">
+<li>
 <p>Offers an interpretation of the illumination on 442r as a conversion narrative.</p>
 </li>
 </ul>
@@ -100,10 +100,10 @@ imagesource: "London, British Library Royal MS 16 G VI, f.442r"
 <h1>Critical Notes</h1>
 
 <ol id="l3">
-<li data-list-text="1">
+<li>
 <p>This refers to the Saracen commander</p>
 </li>
-<li data-list-text="2">
+<li>
 <p>i.e., the Saracens</p>
 </li>
 </ol>

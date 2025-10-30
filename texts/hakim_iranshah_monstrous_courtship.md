@@ -20,5 +20,5 @@ textcollections: [gender-sex-sensuality]
 sdr: https://purl.stanford.edu/dm813jg6987
 image: /assets/img/text/hakim_iranshah_monstrous_courtship.jpg
 thumb: /assets/img/text/hakim_iranshah_monstrous_courtship-thumb.jpg
-imagesource: "Detail from “Isfandiyar's Third Course: He Slays a Dragon”, Folio from a Shahnama (Book of Kings), Abu'l Qasim Firdausi, ca. 1330–40; Ink, opaque watercolor, gold, and silver on paper; Metropolitan Museum of Art Bequest of Monroe C. Gutman, 1974 [CC]"
+imagesource: "Detail from “Isfandiyar’s Third Course: He Slays a Dragon”, Folio from a Shahnama (Book of Kings), Abu’l Qasim Firdausi, ca. 1330–40; Ink, opaque watercolor, gold, and silver on paper; Metropolitan Museum of Art Bequest of Monroe C. Gutman, 1974 [CC]"
 ---

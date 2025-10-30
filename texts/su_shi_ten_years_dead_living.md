@@ -39,19 +39,19 @@ imagesource: "“Detail from 宋夏珪溪山清遠卷 (mountain)”, 夏珪, Nat
 <h2>Further Reading</h2>
 <p>Chang, Kang-i Sun. <i> The Evolution of Tz’u Poetry: from Late Tang to Northern Sung</i> . Princeton UP, 1980.</p>
 <ul id="l1">
-<li data-list-text="•">
+<li>
 <p>A standard survey of the early history of Chinese song lyrics (romanized as both <em>ci</em> and <em>tz’u</em> ).</p>
 <p>Egan, Ronald. “The Song Lyric”. <i> The Cambridge History of Chinese Literature</i> , vol. 1, edited by Stephen Owen, Cambridge UP, 2010, pp. 434-452.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>An overview of the genre.</p>
 <p>Owen, Stephen. <i> Just a Song: Chinese Lyrics from the Eleventh and Early Twelfth Centuries</i> . Asia Center, Harvard UP, 2019.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>A recent new history of the genre.</p>
 <p>Tang, Guizhang <em>唐圭璋</em> , editor. <i> Quan Song Ci </i> <em>全宋詞</em> . Zhonghua shu ju, 1965. 5 vols.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</p>
 </li>
 </ul>
@@ -88,13 +88,13 @@ imagesource: "“Detail from 宋夏珪溪山清遠卷 (mountain)”, 夏珪, Nat
 <h1>Critical Notes</h1>
 
 <ol id="l2">
-<li data-list-text="1">
+<li>
 <p>Su Shi’s first wife, Wang Fu, died in 1065 CE; by the time he wrote this song, it had been ten years since her death.</p>
 </li>
-<li data-list-text="2">
+<li>
 <p>Wang Fu was buried in Meizhou, far away from Su Shi’s current location in Mizhou.</p>
 </li>
-<li data-list-text="3">
+<li>
 <p>During the Song Dynasty, people traveled by horse and carriage, and “Dust all over my face” implies that the poet traveled a lot during the ten years. It also suggests that a lot had happened to him, and that complicated life experiences had made the older poet very different from his younger self.</p>
 </li>
 </ol>

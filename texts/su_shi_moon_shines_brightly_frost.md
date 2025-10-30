@@ -39,19 +39,19 @@ imagesource: "“Detail from 宋范安仁魚藻圖卷 (fish)”, 范安仁, Nati
 <h2>Further Reading</h2>
 <p>Chang, Kang-i Sun. <i> The Evolution of Tz’u Poetry: from Late Tang to Northern Sung</i> . Princeton UP, 1980.</p>
 <ul id="l1">
-<li data-list-text="•">
+<li>
 <p>A standard survey of the early history of Chinese song lyrics (romanized as both <em>ci</em> and <em>tz’u</em> ).</p>
 <p>Egan, Ronald. “The Song Lyric”. <i> The Cambridge History of Chinese Literature</i> , vol. 1, edited by Stephen Owen, Cambridge UP, 2010, pp. 434-452.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>An overview of the genre.</p>
 <p>Owen, Stephen. <i> Just a Song: Chinese Lyrics from the Eleventh and Early Twelfth Centuries</i> . Asia Center, Harvard UP, 2019.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>A recent new history of the genre.</p>
 <p>Tang, Guizhang <em>唐圭璋</em> , editor. <i> Quan Song Ci </i> <em>全宋詞</em> . Zhonghua shu ju, 1965. 5 vols.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</p>
 </li>
 </ul>
@@ -94,26 +94,26 @@ imagesource: "“Detail from 宋范安仁魚藻圖卷 (fish)”, 范安仁, Nati
 <h1>Critical Notes</h1>
 
 <ol id="l2">
-<li data-list-text="1">
+<li>
 <p>Pengcheng was the name of a place near present-day Xuzhou, Jiangsu Province. Guan Panpan was a courtesan and became the concubine of a Tang Dynasty general. She swore to remain chaste for her lover and kept that promise for ten years after her lover’s death, until she herself passed away. The Swallow Tower was where she lived alone after her lover’s death.</p>
 </li>
-<li data-list-text="2">
+<li>
 <p>This probably refers to a U-shaped pond.</p>
 </li>
-<li data-list-text="3">
+<li>
 <p>The speaker uses hyperbole, comparing the sound of a leaf falling to the beat of a drum to emphasize the quietness of the night.</p>
 </li>
-<li data-list-text="4">
+<li>
 <p>“Dream of cloud” alludes to a work by Song Yu <em>宋玉</em> , who lived during the Warring States period (453–221 BCE). This work, the Song of Gao Tang (<em>高唐赋</em> ), narrates a brief love affair between the Huai King</p>
 <p><em>of Chu</em> 楚<em>怀</em> 王 and a mountain fairy which takes place in the king’s dream; in this dream, the mountain</p>
 <p>fairy describes her residence after their lovemaking as “made from the cloud in the morning,</p>
 <p>but comprised of rain in the evening”. The imagery of cloud and rain is often used as a euphemism for sexual intercourse in Chinese poetry. Here, however, the context indicates that the “dream of cloud”</p>
 <p>simply refers to meeting a beautiful woman (Guan Panpan) in a dream.</p>
 </li>
-<li data-list-text="5">
+<li>
 <p>See first note, above.</p>
 </li>
-<li data-list-text="6">
+<li>
 <p>Yellow Tower is another famous tower near present-day Xuzhou, Jiangsu Province. Su Shi renovated the Yellow Tower while he was posted in Pengcheng.</p>
 </li>
 </ol>

@@ -39,24 +39,24 @@ imagesource: "Bibliothèque nationale de France, département Arsenal, RESERVE F
 <h2>Further Reading</h2>
 <p>Cardelle de Hartman, Carmen, and Estrella Pérez Rodríguez. “Las auctoritates del Contemptus Sublimitatis (Dialogus Creaturarum).” <i> Auctor et auctoritas in Latinis medii aevi litteris/Author and Authorship in Medieval Latin Literature: Proceedings of the VIth Congress of the International Medieval Latin Committee </i> (Benevento-Naples, November 9-13, 2010), edited by Edoardo D’Angelo and Jan Ziolkowski, Florence: SISMEL - Edizioni di Galluzzo, 2014, pp. 199-212.</p>
 <ul id="l1">
-<li data-list-text="•">
+<li>
 <p>Demonstrates that instead of nine manuscripts as previously thought, there exist fifteen complete manuscripts and a fragment, and outlines these manuscripts’ relationship to one another.</p>
 <p>Kratzmann, Gregory C, and Elizabeth Gee, eds. <i> The Dialoges of Creatures Moralysed: A Critical Edition</i> . Leiden: Brill, 1988, pp. 1-64.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>Edition of the medieval English translation first published in 1530 (original author unknown), but the introduction contains information on the translation history and dissemination of the Latin Dialogus more generally.</p>
 <p>Rajna, Pio. “Intorno al cosiddetto <i> Dialogus creaturarum </i> ed al suo autore.” <i> Giornale storico della letteratura italiana</i></p>
 <p>10, 1887, pp. 75-113.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>Advances arguments for two possible authors: Nicolaus Pergamenus and the Milanese doctor Mayno de Mayneriis, with a strong preference for the latter, and summarises the style and contents of the Dialogus.</p>
 <p>Ruelle, Pierre, ed. <i> Le “Dialogue des creatures”: Traduction par Colart Mansion (1482) du “Dialogus creaturarum’’ (XIVe siècle)</i> . (Classe des Lettres et des Sciences Morales et Politiques, Collections des Anciens Auteurs Belges, n.s. 8), Brussels: Palais des Académies, 1985, pp. 1-80.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>Annotated edition of the medieval French translation by Colart Mansion, but the introduction outlines the manuscript tradition and authorship of the Latin Dialogus.</p>
 <p>Schmitt, Jean-Claude. “Recueils franciscains d’exempla et perfectionnement des techniques intellectuelles du XIIIe au XVe siècle.” <i> Bibliothèque de l’École des chartes </i> 135, 1977, pp. 5-21.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>Discusses the front matter in early manuscripts of the Latin Dialogus, which contained both a list of titles and an alphabetical index of moral lessons to facilitate citation.</p>
 </li>
 </ul>
@@ -114,78 +114,78 @@ imagesource: "Bibliothèque nationale de France, département Arsenal, RESERVE F
 
 <p>Translation</p>
 <ol id="l2">
-<li data-list-text="1">
+<li>
 <p>Mancipia often refers to property more generally; however, as possessiones <em>are mentioned</em></p>
 <p>within this sentence, it is likely that the author refers to “slaves”, who along with “horses” – the next item listed – would reasonably have populated the promised “estates, manors, palaces”, etc.</p>
 </li>
-<li data-list-text="2">
+<li>
 <p>Psalm 88:49.</p>
 </li>
-<li data-list-text="3">
+<li>
 <p>A popular <i> memento mori </i> verse, inscribed below a painting in the 14th-century Benedictine monastery of Sacro Speco in Subiaco.</p>
 </li>
-<li data-list-text="4">
+<li>
 <p>There is no indication as to when Death’s speech ends, but this point is a logical break, and the narrtor certainly takes over by the end of this dialogue, for Death would ostensibly not end his speech with</p>
 <p>an “Amen”.</p>
 
 </li>
-<li data-list-text="5">
+<li>
 <p>These ideas are a loose paraphrase of Sen. Ep. 76.11-13.</p>
 </li>
-<li data-list-text="6">
+<li>
 <p>An approximation of Sen. Vit. Beat. 15.7: <i> Ad hoc sacramentum adacti sumus, ferre mortalia nec per turbari iis, quae vitare non est nostrae potestatis </i> (‘This is the sacred obligation by which we are bound – to submit to the human lot, and not to be disquieted by those things which we have no power to avoid’).</p>
 </li>
-<li data-list-text="7">
+<li>
 <p>2 Samuel 12:23.</p>
 </li>
-<li data-list-text="8">
+<li>
 <p>This line was spoken by no ‘philosopher’; it was originally spoken by Telamon, father of Ajax, in Ennius’ tragedy <i> Telamo</i> , line 319: ‘ego cum genui tum morituros scivi et ei rei sustuli’ (‘When I fathered child- ren, I knew that they must die, and I brought them up for this purpose’). The misattribution may have arisen from the transmission of these verses in Cic. Tusc. Disp. 3.13.28, or, more likely, in Sen. De Cons. 11.</p>
 </li>
-<li data-list-text="9">
+<li>
 <p>Novum also means ‘odd, strange’ in this context (cf. Hor. Carm. 1.2.6, nova monstra<em>, ‘bizarre portents’).</em></p>
 </li>
-<li data-list-text="10">
+<li>
 <p>These first two clauses (<i> nihil quidem…mortalem</i> , corresponding to ‘You announce…and mortal’ in the translation) are taken almost word-for-word from Anaxagoras’ speech at Val. Max. 5.10 ext.3, but the following sentences in Anaxagoras’ purported response have been cobbled together from Valerius’ own comments, as set out a few lines below in the aforementioned chapter.</p>
 </li>
-<li data-list-text="11">
+<li>
 <p>A summary, or rather a restructuring with large parts of the original Latin kept intact, of Val. Max. 5.10 ext.2.</p>
 </li>
-<li data-list-text="12">
+<li>
 <p>Paraphrased very closely from Hier. Ep. 39.4. Significantly, the first-person aside (‘I am going to tell… as Christ is my witness’) is not an address to the reader on the part of the <i> Dialogus</i> ’ author, but lifted near-directly (with <i> teste Christo </i> in the original instead of <i> Christo teste</i> ) from Jerome’s narration.</p>
 </li>
-<li data-list-text="13">
+<li>
 <p>Source untraceable; most likely from one of the hundreds of versions of Martin of Opava’s <i> Chronicon Pontificum et Imperatorum </i> (‘Chronicle of the Popes and Emperors’).</p>
 </li>
-<li data-list-text="14">
+<li>
 <p>Sen. Ep. 74.30, slightly simplified; the original <i> liberorum </i> (‘children’) has been changed to <i> filiorum</i></p>
 <p>(‘sons’), and <i> eodem animo </i> (‘in the same spirit’) to <i> eodem modo </i> (‘in the same way’).</p>
 </li>
-<li data-list-text="15">
+<li>
 <p>The term <i> meditatio mortis </i> is distinctively Senecan (Sen. Ep. 54.2) but often associated with Plato’s</p>
 <p>Phaedo , where Socrates repeatedly associates this phrase (μελέτη θανάτου) with philosophy.</p>
 </li>
-<li data-list-text="16">
+<li>
 <p>Paraphrased from the life of John (<i> De sancto Iohanne Elemosinario</i> ), chapter 27 of the <i> Golden Legend</i> .</p>
 </li>
-<li data-list-text="17">
+<li>
 <p>Ecclesiastes 7:40.</p>
 </li>
-<li data-list-text="18">
+<li>
 <p>Job 20:7.</p>
 </li>
-<li data-list-text="19">
+<li>
 <p>None of the following text is from Ecclesiastes 26. <i> Memento finis </i> (‘Remember the end’) is from Sirach 36:10, and <i> melius est…sit ei </i> (‘It is better to…will happen to him’) is from Ecclesiastes 7:3. The last phrase, <i> quia…claudendus sit </i> (‘Since he will…similar end’) is an addition by the <i> Dialogus</i> ’ author.</p>
 </li>
-<li data-list-text="20">
+<li>
 <p>This text is not from Ecclesiastes 7, but adapted from one of Odo of Cheriton’s <i> Sermones Dominicales </i> (‘Dominican Sermons’), specifically that on fol. 251 of British Library Egerton MS 2890, beginning: <i> Considera quod in morte cuiuscumque nasus frigescit</i> …</p>
 </li>
-<li data-list-text="21">
+<li>
 <p>[Ps.-]Bernard of Clairvaux, <i> Meditationes de humana conditione</i> , PL 184, 0490B.</p>
 </li>
-<li data-list-text="22">
+<li>
 <p>[Ps.-]Bernard of Clairvaux, <i> Meditationes de humana conditione</i> , PL 184, 0491.</p>
 </li>
-<li data-list-text="23">
+<li>
 <p>Adapted from Augustine, <i> Ad fratres in eremo commorantes </i> 48, PL 40, 1329.</p>
 </li>
 </ol>

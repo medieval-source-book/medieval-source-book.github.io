@@ -44,19 +44,19 @@ imagesource: "“Detail from 宋人江帆山市卷 (boat)”, Anonymous, Nationa
 <h2>Further Reading</h2>
 <p>Chang, Kang-i Sun. <i> The Evolution of Tz’u Poetry: from Late Tang to Northern Sung</i> . Princeton UP, 1980.</p>
 <ul id="l1">
-<li data-list-text="•">
+<li>
 <p>A standard survey of the early history of Chinese song lyrics (romanized as both <em>ci</em> and <em>tz’u</em> ).</p>
 <p>Egan, Ronald. “The Song Lyric”. <i> The Cambridge History of Chinese Literature</i> , vol. 1, edited by Stephen Owen, Cambridge UP, 2010, pp. 434-452.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>An overview of the genre.</p>
 <p>Owen, Stephen. <i> Just a Song: Chinese Lyrics from the Eleventh and Early Twelfth Centuries</i> . Asia Center, Harvard UP, 2019.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>A recent new history of the genre.</p>
 <p>Tang, Guizhang <em>唐圭璋</em> , editor. <i> Quan Song Ci </i> <em>全宋詞</em> . Zhonghua shu ju, 1965. 5 vols.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</p>
 </li>
 </ul>
@@ -82,13 +82,13 @@ imagesource: "“Detail from 宋人江帆山市卷 (boat)”, Anonymous, Nationa
 
 <p>Translation</p>
 <ol id="l2">
-<li data-list-text="1">
+<li>
 <p>See Introduction for a discussion of the image of willow trees.</p>
 </li>
-<li data-list-text="2">
+<li>
 <p>The “painted building” (<em>畫樓</em> ) refers to a highly ornate building. It implies a place of entertainment or a brothel, as it was a well-known trope that such establishments were so profitable that their buildings were often the most expensively and lavishly decorated in the town or city.</p>
 </li>
-<li data-list-text="3">
+<li>
 <p>See Introduction for a discussion of the term “cloud and rain” (<em>雲雨</em> ).</p>
 </li>
 </ol>

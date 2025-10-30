@@ -2,11 +2,11 @@
 layout: text
 sidebar: left
 title: |
-  Oh, how it troubles me! | Ha, qu'il m'ennuie!
+  Oh, how it troubles me! | Ha, qu’il m’ennuie!
 engtitle: |
   Oh, how it troubles me!
 origtitle: |
-  Ha, qu'il m'ennuie!
+  Ha, qu’il m’ennuie!
 breadcrumb: true
 permalink: "text/fesneau_agricola_oh_how_troubles_me"
 redirect_from: /text/oh-how-it-troubles-me
@@ -20,7 +20,7 @@ textcollections: [love-songs]
 sdr: https://purl.stanford.edu/cr338fw5858
 image: /assets/img/text/fesneau_agricola_oh_how_troubles_me.png
 thumb: /assets/img/text/fesneau_agricola_oh_how_troubles_me-thumb.png
-imagesource: "British Library MS King's 322 f.1 [Public Domain]"
+imagesource: "British Library MS King’s 322 f.1 [Public Domain]"
 ---
 <h1>Introduction to the Text</h1>
 <p>This fifteenth-century love song is a virelai for three voices. Although it draws on a common theme for French songs of this period—the heartache of someone whose lover is absent—it is somewhat unusual that it is written from a woman’s perspective.</p>

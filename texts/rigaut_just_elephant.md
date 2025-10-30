@@ -2,11 +2,11 @@
 layout: text
 sidebar: left
 title: |
-  Just as the elephant | “Atressi cum l'orifans”
+  Just as the elephant | “Atressi cum l’orifans”
 engtitle: |
   Just as the elephant
 origtitle: |
-  “Atressi cum l'orifans”
+  “Atressi cum l’orifans”
 breadcrumb: true
 permalink: "text/rigaut_just_elephant"
 redirect_from: /text/%E2%80%9Cjust-elephant%E2%80%9D

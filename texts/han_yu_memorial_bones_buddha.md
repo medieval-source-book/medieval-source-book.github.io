@@ -20,5 +20,5 @@ textcollections: [cross-cultural-encounters, prayer-spirituality]
 sdr: https://purl.stanford.edu/ny166vp6716
 image: /assets/img/text/han_yu_memorial_bones_buddha.jpg
 thumb: /assets/img/text/han_yu_memorial_bones_buddha.jpg
-imagesource: "Buddha, Probably Amitabha (Amituofo), Early 7th C., T'ang Dynasty, Hollow dry lacquer with traces of gilt and polychrome pigment and gilding. Metropolitan Museum of Art, Rogers Fund, 1919,  19.186. [Public Domain]]"
+imagesource: "Buddha, Probably Amitabha (Amituofo), Early 7th C., T’ang Dynasty, Hollow dry lacquer with traces of gilt and polychrome pigment and gilding. Metropolitan Museum of Art, Rogers Fund, 1919,  19.186. [Public Domain]]"
 ---

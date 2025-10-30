@@ -36,16 +36,16 @@ imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.136v [Publ
 <h2>Further Reading</h2>
 <p>Carvajal<i> . Poesie. </i> Edited by Emma Scoles. Edizioni dell’Ateneo, 1967.</p>
 <ul id="l1">
-<li data-list-text="•">
+<li>
 <p>Critical edition of Carvajal’s poetry.</p>
 <p>Gerli, E. Michael. “Chapter 6. The Libro in the Cancioneros.” <i> Reading, Performing, and Imagining the ‘Libro del Arcipreste’.</i></p>
 <p>University of North Carolina Press, 2016, esp. pp. 194-203.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>Reassessment of Caravajal’s <em>serranillas</em> in view of their intertextual relationship with the <em>Libro de buen amor</em> .</p>
 <p>Marino, Nancy F. <i> La serranilla española: notas para su historia e interpretación. </i> Scripta Humanistica, 1987.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>Study of the <em>serranilla</em> genre, with attention to Carvajal’s poems in chapter 5.</p>
 </li>
 </ul>
@@ -87,10 +87,10 @@ imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.136v [Publ
 <h1>Critical Notes</h1>
 
 <ol id="l2">
-<li data-list-text="1">
+<li>
 <p>The original manuscript states <i> quella </i> here.</p>
 </li>
-<li data-list-text="2">
+<li>
 <p>This is a correction of <i> nuestras </i> (Scoles 1967: 118n8).</p>
 </li>
 </ol>

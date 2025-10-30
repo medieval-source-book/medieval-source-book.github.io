@@ -39,14 +39,14 @@ imagesource: "Detail from New York, Metropolitan Museum, Manuscript Illumination
 <h2>Further Reading</h2>
 <p>Wood, Diana. <i> Women and Religion in Medieval England</i> . Oxford: Oxbow Books, 2003.</p>
 <ul id="l1">
-<li data-list-text="•">
+<li>
 <p>This book is a general overview of the religious life of medieval English women. There is a specific chapter on women and child- birth on pages 91-117.</p>
 <p>Olsan, Lea. “Latin Charms of Medieval England: Verbal Healing in a Christian Oral Tradition.” <i> Oral Tradition</i> , vol. 7, no. 1, 1992, pp. 116-42.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p> This paper provides a detailed analysis of childbirth charms and prayers and a discussion of the differences between them. Jones, Peter Murray, and Lea T Olsan. “Performative Rituals for Conception and Childbirth in England, 900-1500.” <i> Bulle- tin of the History of Medicine, </i> vol. 89, no. 3, 2015, pp. 406-33.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>This paper focuses on the performative aspect of childbirth prayers and explores the uses of chanting to aid childbirth.</p>
 </li>
 </ul>

@@ -2,9 +2,9 @@
 layout: text
 sidebar: left
 title: |
-  The Sultan's Daughter in the Flower Garden | Die Sultanstochter im Blumengarten
+  The Sultan’s Daughter in the Flower Garden | Die Sultanstochter im Blumengarten
 engtitle: |
-  The Sultan's Daughter in the Flower Garden
+  The Sultan’s Daughter in the Flower Garden
 origtitle: |
   Die Sultanstochter im Blumengarten
 breadcrumb: true
@@ -44,22 +44,22 @@ imagesource: "Berlin, Staatsbibliothek zu Berlin, Ms. germ. oct. 222, f160r (det
 <h2>Further Reading</h2>
 <p>Poor, Sara S. “Imagining the Origins of a Clever Woman: The ‘Sultanstochter’ and the Path to Learning in the Late Medieval Devotional Book.” In <i> Mendicant Gender Discourse(s) - Comparative Studies</i> , Reti Medievali 41 (forthcoming, 2021).</p>
 <ul id="l1">
-<li data-list-text="•">
+<li>
 <p>Thorough introduction to the text, including detailed analysis of manuscript context.</p>
 </li>
 </ul>
 <p>Poor, Sara S. “Women Teaching Men in the Medieval Devotional Imagination.” In <i> Partners in Spirit: Women, Men, and Religious Life in Germany, 1100-1500</i> , edited by Fiona J. Griffiths and Julie Hotchin, Turnhout, Belgium: Brepols, 2014,</p>
 <p>pp. 339–65.</p>
 <ul id="l2">
-<li data-list-text="•">
+<li>
 <p>Readings of late medieval German narratives of docta ignorantia featuring women, the manuscripts that transmit them, and the historical context.</p>
 <p>Morgan, Ben. “The Pleasure of the Text: What Two Manuscripts Can Tell Us About Becoming God.” <i> Medieval Mystical Theology </i> 23, no. 1, 2014, pp. 52–64.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>Examination of the Kirchheim reception of the related narrative, the Sister Catherine Treatise, with a focus on its theological content.</p>
 <p>Winston-Allen, Anne. <i> Stories of the Rose: The Making of the Rosary in the Middle Ages</i> . University Park, Penn: Pennsylvania State University Press, 1997.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>Informative study of the late medieval Marian literature through the evolution of the rosary and the poems, texts, and gardens associated with it. Includes excellent bibliography and also many illustrations.</p>
 </li>
 </ul>

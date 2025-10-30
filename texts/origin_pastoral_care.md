@@ -20,7 +20,7 @@ textcollections: [making-history, prayer-spirituality]
 sdr: https://purl.stanford.edu/pd724hc5620
 image: /assets/img/text/origin_pastoral_care.jpg
 thumb: /assets/img/text/origin_pastoral_care-thumb.jpg
-imagesource: "Oxford, St John’s College, MS 28, fol. 6v [By permission of the President and Fellows of St John's College Oxford]"
+imagesource: "Oxford, St John’s College, MS 28, fol. 6v [By permission of the President and Fellows of St John’s College Oxford]"
 ---
 <h2>Introduction to the Text</h2>
 <p>This short preface to Pope Gregory the Great’s <i> Regula Pastoralis </i> (<i> Pastoral Rule </i> or <i> Pastoral Care</i> ) offers an unusual account of the genesis of that text, composed—so the preface says—during travel that Gregory undertook through Gaul in an attempt to avoid becoming pope. By contrast, the standard narrative of the <i> Pastoral Care</i> ’s origin sees it completed presumably in Rome, not long after Gregory’s papal inauguration, and sent off thence to John, Bishop of Ravenna. (History supports the second version of events: Gregory was first in Constantinople, then Rome, prior to assuming the papacy.) Gregory’s initial reluctance to become pope is a constant in both origin stories, however, even if he is more active in his escapism in the preface presented here. The tally noted in the preface extends Gregory’s time in office by four months. He was pope from September 3, 590 to March 12, 604: thirteen years, six months (not ten months), and nine days. The etymology of Gregory’s name is sound.</p>
@@ -47,10 +47,10 @@ imagesource: "Oxford, St John’s College, MS 28, fol. 6v [By permission of the 
 <h1>Critical Notes</h1>
 
 <ol id="l1">
-<li data-list-text="1">
+<li>
 <p>Vigil <em>= alert</em></p>
 </li>
-<li data-list-text="2">
+<li>
 <p>Vigilate <em>= you (pl.) watch</em></p>
 </li>
 </ol>

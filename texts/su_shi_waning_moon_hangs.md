@@ -39,19 +39,19 @@ imagesource: "“Detail from 宋崔白蘆雁軸 (wild goose)”, 崔白, Nationa
 <h2>Further Reading</h2>
 <p>Chang, Kang-i Sun. <i> The Evolution of Tz’u Poetry: from Late Tang to Northern Sung</i> . Princeton UP, 1980.</p>
 <ul id="l1">
-<li data-list-text="•">
+<li>
 <p>A standard survey of the early history of Chinese song lyrics (romanized as both <em>ci</em> and <em>tz’u</em> ).</p>
 <p>Egan, Ronald. “The Song Lyric”. <i> The Cambridge History of Chinese Literature</i> , vol. 1, edited by Stephen Owen, Cambridge UP, 2010, pp. 434-452.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>An overview of the genre.</p>
 <p>Owen, Stephen. <i> Just a Song: Chinese Lyrics from the Eleventh and Early Twelfth Centuries</i> . Asia Center, Harvard UP, 2019.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>A recent new history of the genre.</p>
 <p>Tang, Guizhang <em>唐圭璋</em> , editor. <i> Quan Song Ci </i> <em>全宋詞</em> . Zhonghua shu ju, 1965. 5 vols.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</p>
 </li>
 </ul>
@@ -78,13 +78,13 @@ imagesource: "“Detail from 宋崔白蘆雁軸 (wild goose)”, 崔白, Nationa
 <h1>Critical Notes</h1>
 
 <ol id="l2">
-<li data-list-text="1">
+<li>
 <p>Su Shi was banished to Huangzhou. Without a place to live, and shunned by the locals who feared being implicated if they associated with him, he had no choice but to lodge at the monastery.</p>
 </li>
-<li data-list-text="2">
+<li>
 <p>The dripping clock is a water clock; when all the water drips down, the clock stops, indicating that it is midnight.</p>
 </li>
-<li data-list-text="3">
+<li>
 <p>There is a Chinese proverb that “good birds choose branches (that suit them) to rest on”, which means that good officials should choose their kings carefully to ensure that they (the officials) will be allowed to pursue their ambitions. Here, Su Shi depicts the goose’s refusal to pick from the branches to imply that he is unwilling to pursue his political ambitions any further.</p>
 </li>
 </ol>

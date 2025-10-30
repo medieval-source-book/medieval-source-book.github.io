@@ -20,5 +20,5 @@ textcollections: [making-history]
 sdr: https://purl.stanford.edu/gy556cm1937
 image: /assets/img/text/reno_incident_university_paris.jpg
 thumb: /assets/img/text/reno_incident_university_paris-thumb.jpg
-imagesource: "“Conclusions de la Nation d'Angleterre. « Anno Mo CCCCo sexto, die quinta mensis maii — Mo CCCCo XXIIII, die septima mensis martii »”, NuBIS (Bibliothèque interuniversitaire de la Sorbonne)"
+imagesource: "“Conclusions de la Nation d’Angleterre. « Anno Mo CCCCo sexto, die quinta mensis maii — Mo CCCCo XXIIII, die septima mensis martii »”, NuBIS (Bibliothèque interuniversitaire de la Sorbonne)"
 ---

@@ -39,19 +39,19 @@ imagesource: "“Detail from 宋人柳陰高士圖軸 (beneath the willow)”, A
 <h2>Further Reading</h2>
 <p>Chang, Kang-i Sun. <i> The Evolution of Tz’u Poetry: from Late Tang to Northern Sung</i> . Princeton UP, 1980.</p>
 <ul id="l1">
-<li data-list-text="•">
+<li>
 <p>A standard survey of the early history of Chinese song lyrics (romanized as both <em>ci</em> and <em>tz’u</em> ).</p>
 <p>Egan, Ronald. “The Song Lyric”. <i> The Cambridge History of Chinese Literature</i> , vol. 1, edited by Stephen Owen, Cambridge UP, 2010, pp. 434-452.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>An overview of the genre.</p>
 <p>Owen, Stephen. <i> Just a Song: Chinese Lyrics from the Eleventh and Early Twelfth Centuries</i> . Asia Center, Harvard UP, 2019.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>A recent new history of the genre.</p>
 <p>Tang, Guizhang <em>唐圭璋</em> , editor. <i> Quan Song Ci </i> <em>全宋詞</em> . Zhonghua shu ju, 1965. 5 vols.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</p>
 </li>
 </ul>
@@ -85,19 +85,19 @@ imagesource: "“Detail from 宋人柳陰高士圖軸 (beneath the willow)”, A
 <h1>Critical Notes</h1>
 
 <ol id="l2">
-<li data-list-text="1">
+<li>
 <p>Refers to the willow catkins.</p>
 </li>
-<li data-list-text="2">
+<li>
 <p>The literal translation of <em>落紅</em> is “fallen red”. When “red” is used as a noun, it often refers to flowers, so here the translator chooses to translate the phrase as “fallen flowers”. The flowers refer to the willow catkins.</p>
 </li>
-<li data-list-text="3">
+<li>
 <p>It was believed that when catkins fell into water they became duckweed.</p>
 </li>
-<li data-list-text="4">
+<li>
 <p>Refers to the catkin.</p>
 </li>
-<li data-list-text="5">
+<li>
 <p>The “leaving men” here are not men willfully abandoning others, but those who are reluctant to depart.</p>
 </li>
 </ol>

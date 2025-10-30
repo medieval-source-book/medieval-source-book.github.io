@@ -2,9 +2,9 @@
 layout: text
 sidebar: left
 title: |
-  The Bordesholm Virgin Mary's Lament | Marienklage
+  The Bordesholm Virgin Mary’s Lament | Marienklage
 engtitle: |
-  The Bordesholm Virgin Mary's Lament
+  The Bordesholm Virgin Mary’s Lament
 origtitle: |
   Marienklage
 breadcrumb: true

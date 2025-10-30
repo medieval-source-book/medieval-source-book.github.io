@@ -45,15 +45,15 @@ imagesource: "New Haven, Beinecke Rarebook Library, Marston MS 22, ff. 91v-92r [
 <p>Jones, Peter Murray, and Lea T Olsan. “Performative Rituals for Conception and Childbirth in England, 900-1500.”</p>
 <p>Bulletin of the History of Medicine , vol. 89,3 (2015): 406-33.</p>
 <ul id="l1">
-<li data-list-text="•">
+<li>
 <p>This paper focuses on the performative aspect of childbirth prayers and explores the uses of chanting to aid childbirth.</p>
 <p>Olsan, Lea. “Latin Charms of Medieval England: Verbal Healing in a Christian Oral Tradition.” <i> Oral Tradition</i> , 7/1 (1992):116-142.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>This paper provides a detailed analysis of childbirth charms and prayers and a discussion of the differences between them.</p>
 <p>Wood, Diana. <i> Women and Religion in Medieval England</i> . Oxford: Oxbow Books, 2003.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>This book is a general overview of the religious life of medieval English women. There is a specific chapter on women and child birth on pages 91-117.</p>
 </li>
 </ul>
@@ -73,10 +73,10 @@ imagesource: "New Haven, Beinecke Rarebook Library, Marston MS 22, ff. 91v-92r [
 <h1>Critical Notes</h1>
 
 <ol id="l2">
-<li data-list-text="1">
+<li>
 <p>The apparent implication is that the sea will never overwhelm the land.</p>
 </li>
-<li data-list-text="2">
+<li>
 <p>That is, the law of human pregnancy.</p>
 </li>
 </ol>

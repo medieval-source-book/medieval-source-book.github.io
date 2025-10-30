@@ -38,20 +38,20 @@ imagesource: "Detail from \"Buda, Vulgo Ofen, Prima et Regia Ungarici\" (1572). 
 <p>Czigány, Lóránt, <i> Oxford History of Hungarian Literature from the Earliest Times to the Mid-1970s</i> . Oxford, Clarendon, 1984.</p>
 <p><a href="http://mek.niif.hu/02000/02042/html/index.html" target="_blank"> pp. 40–43. </a> <a href="http://mek.niif.hu/02000/02042/html/index.html" target="_blank"> http://mek.niif.hu/02000/02042/html/index.html</a></p>
 <ul id="l1">
-<li data-list-text="•">
+<li>
 <p>Short, reliable introduction to Tinódi. Available electronically.</p>
 <p>Dobozy, Maria “Two Cultural Perspectives on the Battle of Lippa, Transylvania, 1551.” <i> Fifteenth Century Studies</i> . 2013. Vol. 38, pp. 21–39.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>Discusses the influence of German event poetry on Tinódi and the historical accuracy of the two poems.</p>
 </li>
 </ul>
 <ul id="l2">
-<li data-list-text="—">
+<li>
 <p>“Sebestyén Tinódi Lantos.” <i> Christian-Muslim Relations 1500 - 1900</i> <a href="http://dx.doi.org/10.1163/2451-9537_cmrii_COM_26618" target="_blank"> . Ed. David Thomas. Brill, 2015. </a> <a href="http://dx.doi.org/10.1163/2451-9537_cmrii_COM_26618" target="_blank"> http://dx.doi.org/10.1163/2451-9537_cmrii_COM_26618</a></p>
 <p>Seláf, Levente, “Between Lyric and Epic: The Great Turkish War in German, Italian and Hungarian Ereignisliedern,” Controversial Poetry, 1400–1635. Ed. Judith Keßler, Ursula Kundert, Johan Oosterman. Brill, 2020. pp. 61–86.</p>
 <ul id="l3">
-<li data-list-text="•">
+<li>
 <p>Analyses genre and function of Italian, German, and Hungarian poetry that deals with religious, political and military conflicts.</p>
 </li>
 </ul>
@@ -334,47 +334,47 @@ imagesource: "Detail from \"Buda, Vulgo Ofen, Prima et Regia Ungarici\" (1572). 
 </table>
 
 <ol id="l4">
-<li data-list-text="1">
+<li>
 <p>Called Príni in the songs, Peter Perényi (1502-1548) was the wealthy landowner and voivoda (ruler) of Transylvania and also the Guardian of the Hungarian Crown. He assisted at the coronation of King John I Szapolya in 1526, and the coronation of the competing Archduke Ferdinand of Austria in 1527. Perényi primarily supported Ferdinand.</p>
 </li>
-<li data-list-text="2">
+<li>
 <p>Perényi was imprisoned twice by the Porte, in 1529, and 1532. The first time he was ransomed. Tinódi refers here to the second when the Porte required that he send his son to Constantinople in exchange. See</p>
 <p>Ferenc Szakály. <i> Tinódi Sebesytén Kronika</i> . Budapest: Europa Kiado, 1984, p. 571.</p>
 </li>
-<li data-list-text="3">
+<li>
 <p>Kucsuk is probably Malkoçoğlu Bali Bey (1495–1555) who became the governor of Buda eyalet Feb 1542 - May 1543.</p>
 </li>
-<li data-list-text="4">
+<li>
 <p>István Majlád (1502-1550) voivode (ruler) of Transylvania, supporter of the Habsburgs was taken prisoner in 1541 during the Turkish campaign in Transylvania and later died in captivity.</p>
 </li>
-<li data-list-text="5">
+<li>
 <p>Peter Rareş, voivode campaigned with Kucsuk Bali Beg at that time, Szakaly, pp. 571-2.</p>
 </li>
-<li data-list-text="6">
+<li>
 <p>Romanian privileged landed gentry.</p>
 </li>
-<li data-list-text="7">
+<li>
 <p>The term for a Transylvanian ruler.</p>
 </li>
-<li data-list-text="8">
+<li>
 <p>Taken prisoner in July, 1541.</p>
 </li>
-<li data-list-text="9">
+<li>
 <p>Török (1502–1550) is the protagonist of “The Loss of Buda” song, that tells of his fighting against the Habsburg army and his imprisonment. At the writing of this poem, he was thought to be held in Belgrade.</p>
 </li>
-<li data-list-text="10">
+<li>
 <p>This is the rex electus John II Sigismund, the infant son and heir of John I.</p>
 </li>
-<li data-list-text="11">
+<li>
 <p>This stanza and the next refer to events in “The Loss of Buda and Captivity of Bálint Török.”</p>
 </li>
-<li data-list-text="12">
+<li>
 <p>The reference here is to the region between the Danube and Tisza rivers.</p>
 </li>
-<li data-list-text="13">
+<li>
 <p>Baranya county, southwestern Hungary.</p>
 </li>
-<li data-list-text="14">
+<li>
 <p>The date of the song is April 24, 1542. Tinódi refers here to the acrostic in this poem: <i> Sebastianus Literatus de Tinodh föcit</i> (E) (Scholar Sebastian Tinódi made it).</p>
 </li>
 </ol>

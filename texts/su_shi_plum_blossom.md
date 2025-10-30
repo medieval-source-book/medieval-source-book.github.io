@@ -39,19 +39,19 @@ imagesource: "“Detail from 宋人歲朝圖軸 (plum blossom)”, Anonymous, Na
 <h2>Further Reading</h2>
 <p>Chang, Kang-i Sun. <i> The Evolution of Tz’u Poetry: from Late Tang to Northern Sung</i> . Princeton UP, 1980.</p>
 <ul id="l1">
-<li data-list-text="•">
+<li>
 <p>A standard survey of the early history of Chinese song lyrics (romanized as both <em>ci</em> and <em>tz’u</em> ).</p>
 <p>Egan, Ronald. “The Song Lyric”. <i> The Cambridge History of Chinese Literature</i> , vol. 1, edited by Stephen Owen, Cambridge UP, 2010, pp. 434-452.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>An overview of the genre.</p>
 <p>Owen, Stephen. <i> Just a Song: Chinese Lyrics from the Eleventh and Early Twelfth Centuries</i> . Asia Center, Harvard UP, 2019.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>A recent new history of the genre.</p>
 <p>Tang, Guizhang <em>唐圭璋</em> , editor. <i> Quan Song Ci </i> <em>全宋詞</em> . Zhonghua shu ju, 1965. 5 vols.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</p>
 </li>
 </ul>
@@ -72,27 +72,27 @@ imagesource: "“Detail from 宋人歲朝圖軸 (plum blossom)”, Anonymous, Na
 <h1>Critical Notes</h1>
 
 <ol id="l2">
-<li data-list-text="1">
+<li>
 <p>Huizhou, in China’s far south, was considered uninhabitable due to its hot and humid weather. Northerners believed that its air contained harmful vapors.</p>
 </li>
-<li data-list-text="2">
+<li>
 <p>Imagery of ice and jade was used to convey the beauty of women’s bodies, clean like ice and smooth like jade. It comes from a philosophical work by Zhuangzi, in which he uses “skin of ice and bones of jade” to describe a deity living in the Gu Ye Mountain. The phrase suggests an otherworldly quality to Zhaoyun’s beauty.</p>
 </li>
-<li data-list-text="3">
+<li>
 <p>According to Chinese mythology, four dragon kings control the sea, but nymphs who live beneath the waves maintain its balance. This line implies that the plum blossom/Zhaoyun was so extraordinary that even</p>
 <p>the sea nymphs sought to learn about it/her.</p>
 </li>
-<li data-list-text="4">
+<li>
 <p>Refers to the plum blossom.</p>
 </li>
-<li data-list-text="5">
+<li>
 <p>This image of a remarkable bird as the envoy emphasises the specialness of the object of its research: the plum blossom/Zhaoyun. The phoenix has a special significance in Chinese mythology, and the color green is often associated with purity and luxury (and the jade already mentioned).</p>
 </li>
-<li data-list-text="6">
+<li>
 <p>The “dawn cloud” (<em>曉雲</em> , Xiao Yun) is a coded reference to Zhaoyun (<em>朝雲</em> ): the only difference between the two Chinese words is the first character, yet these characters (<em>曉</em> and <em>朝</em> ) are synonymous in Chinese, both meaning dawn, so the full expression means “dawn cloud” in both cases. Su Shi is using word play to</p>
 <p>hint that he’s writing about Zhaoyun.</p>
 </li>
-<li data-list-text="7">
+<li>
 <p>This is a reference to a poem by a famous Tang Dynasty poet, Wang Changling <em>王昌 龄</em> . In the only surviving line of the poem, Wang Changling writes that after he saw plum blossoms, he dreamt of pear blossoms. By contrast, the final line here implies that Su Shi will not be dreaming of pear blossoms, i.e. he</p>
 </li>
 </ol>

@@ -44,19 +44,19 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <h2>Further Reading</h2>
 <p>Chang, Kang-i Sun. <i> The Evolution of Tz’u Poetry: from Late Tang to Northern Sung</i> . Princeton UP, 1980.</p>
 <ul id="l1">
-<li data-list-text="•">
+<li>
 <p>A standard survey of the early history of Chinese song lyrics (romanized as both <em>ci</em> and <em>tz’u</em> ).</p>
 <p>Egan, Ronald. “The Song Lyric”. <i> The Cambridge History of Chinese Literature</i> , vol. 1, edited by Stephen Owen, Cambridge UP, 2010, pp. 434-452.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>An overview of the genre.</p>
 <p>Owen, Stephen. <i> Just a Song: Chinese Lyrics from the Eleventh and Early Twelfth Centuries</i> . Asia Center, Harvard UP, 2019.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>A recent new history of the genre.</p>
 <p>Tang, Guizhang <em>唐圭璋</em> , editor. <i> Quan Song Ci </i> <em>全宋詞</em> . Zhonghua shu ju, 1965. 5 vols.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</p>
 </li>
 </ul>
@@ -92,20 +92,20 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <h1>Critical Notes</h1>
 
 <ol id="l2">
-<li data-list-text="1">
+<li>
 <p>Refers to the segment of the Yangtze River by Chu.</p>
 </li>
-<li data-list-text="2">
+<li>
 <p>The barbarian lute is a traditional Chinese instrument with two strings.</p>
 </li>
-<li data-list-text="3">
+<li>
 <p>In Chinese poetry, beautiful women’s eyebrows are often compared with mountains because of their shape.</p>
 </li>
-<li data-list-text="4">
+<li>
 <p>The “Qin building” is a place for men to have sex with courtesans. According to legend, the original Qin building was built by the Qinmu King as a palace for his daughter and son-in-law. They</p>
 <p>were both so good at playing the vertical bamboo flute that their music attracted phoenixes, and the building where they played became famous. The meaning of the Qin building changed over time, and was later used to refer to brothels.</p>
 </li>
-<li data-list-text="5">
+<li>
 <p>That is, the souls in travel mentioned in the previous line.</p>
 </li>
 </ol>

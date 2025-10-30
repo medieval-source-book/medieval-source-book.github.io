@@ -41,19 +41,19 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <h2>Further Reading</h2>
 <p>Chang, Kang-i Sun. <i> The Evolution of Tz’u Poetry: from Late Tang to Northern Sung</i> . Princeton UP, 1980.</p>
 <ul id="l1">
-<li data-list-text="•">
+<li>
 <p>A standard survey of the early history of Chinese song lyrics (romanized as both <em>ci</em> and <em>tz’u</em> ).</p>
 <p>Egan, Ronald. “The Song Lyric”. <i> The Cambridge History of Chinese Literature</i> , vol. 1, edited by Stephen Owen, Cambridge UP, 2010, pp. 434-452.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>An overview of the genre.</p>
 <p>Owen, Stephen. <i> Just a Song: Chinese Lyrics from the Eleventh and Early Twelfth Centuries</i> . Asia Center, Harvard UP, 2019.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>A recent new history of the genre.</p>
 <p>Tang, Guizhang <em>唐圭璋</em> , editor. <i> Quan Song Ci </i> <em>全宋詞</em> . Zhonghua shu ju, 1965. 5 vols.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations</p>
 </li>
 </ul>
@@ -94,29 +94,29 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <h1>Critical Notes</h1>
 
 <ol id="l2">
-<li data-list-text="1">
+<li>
 <p>The “golden title board” refers to the pass list for <i> keju</i> , a civil service examination system in Imperial China for selecting candidates for the state bureaucracy. The pass list was called the “golden title board” because the names of successful candidates were written in the color gold. When the list was published, the names of all those who passed were read aloud in the presence of the emperor and recorded in the dynasty’s archive.</p>
 </li>
-<li data-list-text="2">
+<li>
 <p>The literal translation for “<em>龍頭</em> ” is “the head of the dragon”. Here, it refers to the title given to the scholar with the highest ranking in the exam, whose name would be at the top of the golden title board. This line indicates that Liu Yong has failed <i> keju</i> .</p>
 </li>
-<li data-list-text="3">
+<li>
 <p>The literal translation for “<em>風雲</em> ” is “the wind and the cloud” and it is an expression meaning “the good opportunity”. Here, it refers to the chance of becoming a state official.</p>
 </li>
-<li data-list-text="4">
+<li>
 <p>In Imperial China, wearing white means someone is not in the state bureaucracy.</p>
 </li>
-<li data-list-text="5">
+<li>
 <p>“Smoke and flowers” refers to prostitutes and female singers. “The streets of smoke and flowers” refers to where brothels and song houses are located.</p>
 </li>
-<li data-list-text="6">
+<li>
 <p>“<em>丹青</em> ” is the ink used for painting. Here, using it to describe the screens means that the screens are painted.</p>
 </li>
-<li data-list-text="7">
+<li>
 <p>The literal translation for “<em>紅翠</em> ” is “the red and the green”, which refers to prostitutes. This comes from a self- description by Li Yu <em>李煜</em> (c. 937 – 978) the last ruler of the Southern Tang state during imperial China’s</p>
 <p>Five Dynasties and Ten Kingdoms period. Despite being an unsuccessful ruler, Li Yu was known as the “first true master” of the <i> ci </i> form, and he described himself as “the one who drinks wine and hums tunes, the master of lying beside the beauties (the red and the green), and the king of the temple of mandarin ducks” (“<em>浅斟低唱，偎紅倚翠大師，鴛鴦寺主</em> ”). Note that the mandarin duck is also a symbol for marriage or romance. Liu Yong here is trying to compare himself to Li Yu.</p>
 </li>
-<li data-list-text="8">
+<li>
 <p>This line also borrows from Li Yu’s self-description (see previous note).</p>
 </li>
 </ol>

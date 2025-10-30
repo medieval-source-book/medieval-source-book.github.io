@@ -41,19 +41,19 @@ imagesource: "“Detail from 宋錢選蘭亭觀鵝圖卷 (pavilion)”, 錢選, 
 <h2>Further Reading</h2>
 <p>Chang, Kang-i Sun. <i> The Evolution of Tz’u Poetry: from Late Tang to Northern Sung</i> . Princeton UP, 1980.</p>
 <ul id="l1">
-<li data-list-text="•">
+<li>
 <p>A standard survey of the early history of Chinese song lyrics (romanized as both <em>ci</em> and <em>tz’u</em> ).</p>
 <p>Egan, Ronald. “The Song Lyric”. <i> The Cambridge History of Chinese Literature</i> , vol. 1, edited by Stephen Owen, Cambridge UP, 2010, pp. 434-452.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>An overview of the genre.</p>
 <p>Owen, Stephen. <i> Just a Song: Chinese Lyrics from the Eleventh and Early Twelfth Centuries</i> . Asia Center, Harvard UP, 2019.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>A recent new history of the genre.</p>
 <p>Tang, Guizhang <em>唐圭璋</em> , editor. <i> Quan Song Ci </i> <em>全宋詞</em> . Zhonghua shu ju, 1965. 5 vols.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</p>
 </li>
 </ul>
@@ -79,10 +79,10 @@ imagesource: "“Detail from 宋錢選蘭亭觀鵝圖卷 (pavilion)”, 錢選, 
 
 <p>Translation</p>
 <ol id="l2">
-<li data-list-text="1">
+<li>
 <p>“Taoye” was the name of the concubine of Wang Xianzhi <em>王獻之</em> (344-386 CE), a famous literatus and calligrapher. Wang wrote “Taoye Song” for her when he parted from her. Here the name is used to refer to the speaker’s own beloved.</p>
 </li>
-<li data-list-text="2">
+<li>
 <p>In ancient China, the night time is divided into five periods (<em>更</em> ). At the beginning of each period, drums are beaten. <em>五更</em> refers to the fifth period, which is equivalent to time after 4:48am. Here the translator translates it into “dawn.” Keeping the lamp lit until dawn implies that the speaker was with his lover the whole night.</p>
 </li>
 </ol>

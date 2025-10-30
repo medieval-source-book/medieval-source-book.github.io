@@ -42,19 +42,19 @@ imagesource: "“Detail from 宋趙伯駒瑤島仙真卷 (immortal island)”, �
 <h2>Further Reading</h2>
 <p>Chang, Kang-i Sun. <i> The Evolution of Tz’u Poetry: from Late Tang to Northern Sung</i> . Princeton UP, 1980.</p>
 <ul id="l1">
-<li data-list-text="•">
+<li>
 <p>A standard survey of the early history of Chinese song lyrics (romanized as both <em>ci</em> and <em>tz’u</em> ).</p>
 <p>Egan, Ronald. “The Song Lyric”. <i> The Cambridge History of Chinese Literature</i> , vol. 1, edited by Stephen Owen, Cambridge UP, 2010, pp. 434-452.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>An overview of the genre.</p>
 <p>Owen, Stephen. <i> Just a Song: Chinese Lyrics from the Eleventh and Early Twelfth Centuries</i> . Asia Center, Harvard UP, 2019.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>A recent new history of the genre.</p>
 <p>Tang, Guizhang <em>唐圭璋</em> , editor. <i> Quan Song Ci </i> <em>全宋詞</em> . Zhonghua shu ju, 1965. 5 vols.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</p>
 </li>
 </ul>
@@ -86,19 +86,19 @@ imagesource: "“Detail from 宋趙伯駒瑤島仙真卷 (immortal island)”, �
 
 <p>Translation</p>
 <ol id="l2">
-<li data-list-text="1">
+<li>
 <p>“The place where the sea meets the sky” refers to the Ten Isles in the third line. Here the scene on the screen reminds the speaker of what he dreamt about.</p>
 </li>
-<li data-list-text="2">
+<li>
 <p>See introduction for a discussion on “Ten Isles.”</p>
 </li>
-<li data-list-text="3">
+<li>
 <p>Red paper is often used for writing letters or poetry.</p>
 </li>
-<li data-list-text="4">
+<li>
 <p>Jiangnan is the area to the south of the Yangzi River.</p>
 </li>
-<li data-list-text="5">
+<li>
 <p>The translation of the last three lines are reordered for the preservation of meanings in English. The original sequence is: Mingling with the sound of the forking river below / were that day / the tears I shed on the high building.</p>
 </li>
 </ol>

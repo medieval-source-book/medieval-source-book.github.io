@@ -39,19 +39,19 @@ imagesource: "“Detail from 宋夏珪溪山清遠卷 (stream)”, 夏珪, Natio
 <h2>Further Reading</h2>
 <p>Chang, Kang-i Sun. <i> The Evolution of Tz’u Poetry: from Late Tang to Northern Sung</i> . Princeton UP, 1980.</p>
 <ul id="l1">
-<li data-list-text="•">
+<li>
 <p>A standard survey of the early history of Chinese song lyrics (romanized as both <em>ci</em> and <em>tz’u</em> ).</p>
 <p>Egan, Ronald. “The Song Lyric”. <i> The Cambridge History of Chinese Literature</i> , vol. 1, edited by Stephen Owen, Cambridge UP, 2010, pp. 434-452.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>An overview of the genre.</p>
 <p>Owen, Stephen. <i> Just a Song: Chinese Lyrics from the Eleventh and Early Twelfth Centuries</i> . Asia Center, Harvard UP, 2019.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>A recent new history of the genre.</p>
 <p>Tang, Guizhang <em>唐圭璋</em> , editor. <i> Quan Song Ci </i> <em>全宋詞</em> . Zhonghua shu ju, 1965. 5 vols.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</p>
 </li>
 </ul>
@@ -83,18 +83,18 @@ imagesource: "“Detail from 宋夏珪溪山清遠卷 (stream)”, 夏珪, Natio
 <h1>Critical Notes</h1>
 
 <ol id="l2">
-<li data-list-text="1">
+<li>
 <p>Refers to cups of alcohol, but the type of alcohol is unspecified.</p>
 </li>
-<li data-list-text="2">
+<li>
 <p>The dust (<em>塵</em> ) here means the dust scattered on the road when the carriages and horses pass through. <em>塵世</em> (“dusty world”) was originally used to describe the noisy and bustling city, but became a metaphor for a society filled with distractions and false appearances. It often implies a sentiment of rejecting or being bored</p>
 <p>by this kind of lifestyle, and wanting to have something truthful (love, tranquility, or religious</p>
 <p>belief) which will transcend the pursuit of money or fame. It may also bear a spiritual meaning, in which the “dusty world” signifies the mortal world.</p>
 </li>
-<li data-list-text="3">
+<li>
 <p>With a writing brush specifically for calligraphy.</p>
 </li>
-<li data-list-text="4">
+<li>
 <p>“It” refers to the horse.</p>
 </li>
 </ol>

@@ -36,16 +36,16 @@ imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.153r [Publ
 <h1>Further Reading</h1>
 <p>Carvajal<i> . Poesie. </i> Edited by Emma Scoles. Edizioni dell’Ateneo, 1967.</p>
 <ul id="l1">
-<li data-list-text="•">
+<li>
 <p>Critical edition of Carvajal’s poetry.</p>
 <p>Gerli, E. Michael. “Chapter 6. The Libro in the Cancioneros.” <i> Reading, Performing, and Imagining the ‘Libro del Arcipreste’.</i></p>
 <p>University of North Carolina Press, 2016, esp. pp. 194-203.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>Reassessment of Caravajal’s <em>serranillas</em> in view of their intertextual relationship with the <em>Libro de buen amor</em> .</p>
 <p>Marino, Nancy F. <i> La serranilla española: notas para su historia e interpretación. </i> Scripta Humanistica, 1987.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>Study of the <em>serranilla</em> genre, with attention to Carvajal’s poems in chapter 5.</p>
 </li>
 </ul>

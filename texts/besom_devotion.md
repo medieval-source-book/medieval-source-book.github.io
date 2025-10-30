@@ -38,24 +38,24 @@ imagesource: ""
 <h2>Further Reading</h2>
 <p>Meyer, Kuno ed., “Stories and songs from Irish manuscripts: VI. Colcu ua Duinechda’s Scúap Chrábaid or ‘Besom of Devotion.’” <i> Otia Merseiana</i> , vol. 2, 1900-1901, pp. 75-105.</p>
 <ul id="l1">
-<li data-list-text="•">
+<li>
 <p>An early edition and translation of early Irish materials, some of which are associated with prayers and litanies like those under discussion.</p>
 
 <p>O’Loughlin, Thomas. <i> Celtic Theology: Humanity, World and God in Early Irish Writings</i> . Continuum, 2000.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>A discussion of the historical context of early Irish Christianity and the theological ideas and writings that emanated from it.</p>
 <p>O’ Cróinín, Dáibhi (ed.). <i> A New History of Ireland, Vol. 1: Prehistoric and Early Ireland</i> . Clarendon Press, 2008.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>A definitive and indispensable volume treating many aspects of early Irish history, culture, literature and religion.</p>
 <p>O’Sullivan, Tomás, “Texts and transmissions of the Scúap Chrábaid: an Old-Irish litany in its manuscript context.” <i> Studia Celtica Fennica</i> , vol. 7, 2010, pp. 26-47.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>An in-depth and up-to-date discussion of the complex series of texts and processes associated with the imagery of the Scúap Chrábaid (besom of devotion).</p>
 <p>Plummer, Charles (ed.). <i> Irish Litanies: Text and Translation</i> . Henry Bradshaw Society, 1925.</p>
 </li>
-<li data-list-text="•">
+<li>
 <p>Early twentieth-century edition and translation of a variety of Irish litanies.</p>
 </li>
 </ul>

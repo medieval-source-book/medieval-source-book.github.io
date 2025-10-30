@@ -37,7 +37,7 @@ imagesource: "Detail from BSB MS Clm 6260, fol.158v"
 <p>Haug, Walter and Benedikt Konrad Vollmann. <i> Frühe Deutsche Literatur und Lateinische Literatur in Deutschland 800-1150</i> .</p>
 <p>Deutscher Klassiker Verlag, 1991.</p>
 <ul id="l1">
-<li data-list-text="•">
+<li>
 <p>Old High German text and modern German translation (130-131); commentary and extensive bibliography (1117-1120).</p>
 </li>
 </ul>
@@ -71,10 +71,10 @@ imagesource: "Detail from BSB MS Clm 6260, fol.158v"
 <h1>Critical Notes</h1>
 
 <ol id="l2">
-<li data-list-text="1">
+<li>
 <p>This verse can also be found in Otfrid’s <i> Gospel Harmony </i> (I7,28), but with the Frankish form <i> ginadon </i> which results in an assonance instead of a rhyme.</p>
 </li>
-<li data-list-text="2">
+<li>
 <p>Peter’s words can possibly be understood as the key to the gates of Heaven. According to Haug (1991), p.1119, this idea is present in other Latin hymns.</p>
 </li>
 </ol>
