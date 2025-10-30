@@ -29,21 +29,16 @@ imagesource: "Detail from 南宋 佚名 “三元得祿”圖扇頁 (Gibbons Rai
 <h1>Further Reading</h1>
 <p>Allen, Sarah M. <i> Shifting Stories : History, Gossip, and Lore in Narratives from Tang Dynasty China</i> . Harvard- Yenching Institute Monograph Series. Cambridge, Massachusetts: Harvard University Asia Center, 2014.</p>
 <ul>
-<li>
-<p>Explores the tale literature of eighth- and ninth-century China to show how the written tales we have today grew out of a fluid culture of hearsay that circulated within elite society. Contains a chapter that explains the modern (mis)understanding of the tale as a genre.</p>
+<li>Explores the tale literature of eighth- and ninth-century China to show how the written tales we have today grew out of a fluid culture of hearsay that circulated within elite society. Contains a chapter that explains the modern (mis)understanding of the tale as a genre.</li></ul>
 <p>Hansen, Valerie. <i> Changing Gods in Medieval China, 1127-1276. </i> Princeton, N.J.: Princeton University Press, 1990.</p>
-</li>
-<li>
-<p>Uses the Yi Jian Zhi tales as historical documents and shows that social and economic developments underlay religious changes in the Southern Song (1127 - 1276).</p>
+<ul>
+<li>Uses the Yi Jian Zhi tales as historical documents and shows that social and economic developments underlay religious changes in the Southern Song (1127 - 1276).</li></ul>
 <p>Inglis, Alister David. <i> Hong Mai’s Record of the Listener and Its Song Dynasty Context</i> . SUNY Series in Chinese Philosophy and Culture. Albany: State University of New York Press, 2006.</p>
-</li>
-<li>
-<p>A comprehensive survey of the scholarship on Yi Jian Zhi.</p>
+<ul>
+<li>A comprehensive survey of the scholarship on Yi Jian Zhi.</li></ul>
 <p>Luo, Manling. <i> Literati Storytelling in Late Medieval China</i> . The Modern Language Initiative. Seattle: University of Washington Press, 2015.</p>
-</li>
-<li>
-<p>Shows how the tales offer crucial insights into the reconfiguration of the Chinese elite, which monopoligzed literacy, social prestige, and political participation in tenth-century China.</p>
-</li>
+<ul>
+<li>Shows how the tales offer crucial insights into the reconfiguration of the Chinese elite, which monopoligzed literacy, social prestige, and political participation in tenth-century China.</li>
 </ul>
 
 <p>會稽姚宏買一妾, 善女工庖廚, 且有姿色, 又慧黠謹飭, 能承迎人, 自主母以下皆愛之。居數月久, 一夕, 姚氏舉家覺寒氣滿室, 切切逼人, 巳而聞鬼哨一聲, 從窗間出。家人驚怖,稍定, 方舉燭相存問, 獨此妾不見。視其榻,衣裘皆在焉。窗紙上小竅如錢大, 不知何怪也。郭堂老說。</p>

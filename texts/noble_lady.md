@@ -38,24 +38,17 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <h2>Further Reading</h2>
 <p>Julien, Catherine. “Inca Historical Forms.” <i> The Oxford History of Historical Writing: Volume 3: 1400-1800</i> , edited by José Rabasa et al., Oxford Univ. Press, 2012, pp. 620–39.</p>
 <ul>
-<li>
-<p>A study of how Inca historical forms appear in histories penned by indigenous historians.</p>
+<li>A study of how Inca historical forms appear in histories penned by indigenous historians.</li></ul>
 <p>Mazzotti, José Antonio. <i> Incan Insights: El Inca Garcilaso’s Hints to Andean Readers</i> . Iberoamericana ; Vervuert, 2008.</p>
-</li>
-<li>
-<p>Authored by one of the most prominent Inca Garcilaso scholars, this study focuses on Inca Garcilaso’s use of indigenous sources in the Comentarios Reales.</p>
+<ul>
+<li>Authored by one of the most prominent Inca Garcilaso scholars, this study focuses on Inca Garcilaso’s use of indigenous sources in the Comentarios Reales.</li></ul>
 <p>Ostenfeld-Suske, Kira von. “A New History for a ‘New World’: The First One Hundred Years of Hispanic New World Historical Writing.” <i> The Oxford History of Historical Writing: Volume 3: 1400-1800</i> , edited by José Rabasa et al., Oxford Univ. Press, 2012, pp. 557–74.</p>
-</li>
-<li>
-<p>General introduction to the writing of histories in Hispanic America.</p>
+<ul>
+<li>General introduction to the writing of histories in Hispanic America.</li></ul>
 <p>Valle, Ivonne del. “Playing with Fire: Mestizaje Run Amok.” <i> Aztlan: A Journal of Chicano Studies</i> , vol. 46, no. 2, Sept. 2021, pp. 195–208.</p>
-</li>
-<li>
-<p> Specialized article that discusses the topic of mestizaje, comparing the work of Inca Garcilaso and Guaman Poma de Ayala. Zamora, Margarita. <i> Language, Authority, and Indigenous History in the Comentarios Reales de Los Incas</i> . Cambridge University Press, 1988.</p>
-</li>
-<li>
-<p>Very influential book examining how Inca Garcilaso uses his position as an authoritative source of knowledge on Quechua language and culture in the Comentarios Reales.</p>
-</li>
+<ul>
+<li> Specialized article that discusses the topic of mestizaje, comparing the work of Inca Garcilaso and Guaman Poma de Ayala. Zamora, Margarita. <i> Language, Authority, and Indigenous History in the Comentarios Reales de Los Incas</i> . Cambridge University Press, 1988.</li>
+<li>Very influential book examining how Inca Garcilaso uses his position as an authoritative source of knowledge on Quechua language and culture in the Comentarios Reales.</li>
 </ul>
 <h1>“Noble Lady” | “Sumaq Ñusta”</h1>
 

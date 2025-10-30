@@ -43,27 +43,16 @@ imagesource: "British Library MS Additional 10294, f. 89 [Public Domain]"
 <p>The text exists in two versions. Version A is extant in the following manuscripts:</p>
 
 <ul>
-<li>
-<p>Aberystwyth, NLW MS Llanstephan 4, c. 1400, scribe: X91</p>
-</li>
-<li>
-<p>Aberystwyth, NLW MS Llanstephan 2, s. xv2/2, scribe: X93</p>
-</li>
-<li>
-<p>Cardiff, Central Library MS 4.22, c. 1717-18</p>
-</li>
-<li>
-<p>Cardiff, Central Library MS 2.40, c. 1714</p>
+<li>Aberystwyth, NLW MS Llanstephan 4, c. 1400, scribe: X91</li>
+<li>Aberystwyth, NLW MS Llanstephan 2, s. xv2/2, scribe: X93</li>
+<li>Cardiff, Central Library MS 4.22, c. 1717-18</li>
+<li>Cardiff, Central Library MS 2.40, c. 1714</li></ul>
 
 <p>Llanstephan 2, also part of the composite <i> Didrefn Gasgliad</i> , is very close to Llanstephan 4 but not a direct copy. The two Cardiff manuscripts are copies of Llanstephan 4. Version B is extant in the following manuscripts:</p>
 
-</li>
-<li>
-<p>London, British Library, Cotton Vitellius C. ix, s. xvi, scribe: Morris Kyffin for John Dee</p>
-</li>
-<li>
-<p>Aberystwyth, NLW MS Llanstephan 150, s. xviii, scribe of Moses Williams</p>
-</li>
+<ul>
+<li>London, British Library, Cotton Vitellius C. ix, s. xvi, scribe: Morris Kyffin for John Dee</li>
+<li>Aberystwyth, NLW MS Llanstephan 150, s. xviii, scribe of Moses Williams</li>
 </ul>
 
 <p>Dates are from Huws (forthcoming). As discussed by Lloyd-Morgan 2016 and Russell 2005, Cotton Vitellius C. ix version is particularly interesting for having been reworked from an earlier version. Extant in a manuscript in the possession</p>

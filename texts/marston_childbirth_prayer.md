@@ -45,17 +45,13 @@ imagesource: "New Haven, Beinecke Rarebook Library, Marston MS 22, ff. 91v-92r [
 <p>Jones, Peter Murray, and Lea T Olsan. “Performative Rituals for Conception and Childbirth in England, 900-1500.”</p>
 <p>Bulletin of the History of Medicine , vol. 89,3 (2015): 406-33.</p>
 <ul>
-<li>
-<p>This paper focuses on the performative aspect of childbirth prayers and explores the uses of chanting to aid childbirth.</p>
+<li>This paper focuses on the performative aspect of childbirth prayers and explores the uses of chanting to aid childbirth.</li></ul>
 <p>Olsan, Lea. “Latin Charms of Medieval England: Verbal Healing in a Christian Oral Tradition.” <i> Oral Tradition</i> , 7/1 (1992):116-142.</p>
-</li>
-<li>
-<p>This paper provides a detailed analysis of childbirth charms and prayers and a discussion of the differences between them.</p>
+<ul>
+<li>This paper provides a detailed analysis of childbirth charms and prayers and a discussion of the differences between them.</li></ul>
 <p>Wood, Diana. <i> Women and Religion in Medieval England</i> . Oxford: Oxbow Books, 2003.</p>
-</li>
-<li>
-<p>This book is a general overview of the religious life of medieval English women. There is a specific chapter on women and child birth on pages 91-117.</p>
-</li>
+<ul>
+<li>This book is a general overview of the religious life of medieval English women. There is a specific chapter on women and child birth on pages 91-117.</li>
 </ul>
 <h1>Marston Childbirth Prayer | “Omnipotens sempiterne Deus”</h1>
 

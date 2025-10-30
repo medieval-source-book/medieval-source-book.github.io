@@ -37,9 +37,7 @@ imagesource: "Detail from BSB MS Clm 6260, fol.158v"
 <p>Haug, Walter and Benedikt Konrad Vollmann. <i> Frühe Deutsche Literatur und Lateinische Literatur in Deutschland 800-1150</i> .</p>
 <p>Deutscher Klassiker Verlag, 1991.</p>
 <ul>
-<li>
-<p>Old High German text and modern German translation (130-131); commentary and extensive bibliography (1117-1120).</p>
-</li>
+<li>Old High German text and modern German translation (130-131); commentary and extensive bibliography (1117-1120).</li>
 </ul>
 <p>Liberman, Anatoly. “Petruslied.” <i> German Writers and Works of the Early Middle Ages: 800 – 1170</i> , edited by Will Hasty and James Hardin. Gale Research, 1995, 252-254.</p>
 <p>McLintock, David R. “Petruslied.” <i> Dictionary of the Middle Ages, </i> vol. 9, edited by Joseph Reese Strayer. Charles Scribners Sons, 1987, 546.</p>

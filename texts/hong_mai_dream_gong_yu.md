@@ -29,21 +29,16 @@ imagesource: "Detail from 南宋 佚名 “三元得祿”圖扇頁 (Gibbons Rai
 <h2>Further Reading</h2>
 <p>Allen, Sarah M. <i> Shifting Stories : History, Gossip, and Lore in Narratives from Tang Dynasty China</i> . Harvard- Yenching Institute Monograph Series. Cambridge, Massachusetts: Harvard University Asia Center, 2014.</p>
 <ul>
-<li>
-<p>Explores the tale literature of eighth- and ninth-century China to show how the written tales we have today grew out of a fluid culture of hearsay that circulated within elite society. Contains a chapter that explains the modern (mis)understanding of the tale as a genre.</p>
+<li>Explores the tale literature of eighth- and ninth-century China to show how the written tales we have today grew out of a fluid culture of hearsay that circulated within elite society. Contains a chapter that explains the modern (mis)understanding of the tale as a genre.</li></ul>
 <p>Hansen, Valerie. <i> Changing Gods in Medieval China, 1127-1276. </i> Princeton, N.J.: Princeton University Press, 1990.</p>
-</li>
-<li>
-<p>Uses the Yi Jian Zhi tales as historical documents and shows that social and economic developments underlay religious changes in the Southern Song (1127 - 1276).</p>
+<ul>
+<li>Uses the Yi Jian Zhi tales as historical documents and shows that social and economic developments underlay religious changes in the Southern Song (1127 - 1276).</li></ul>
 <p>Inglis, Alister David. <i> Hong Mai’s Record of the Listener and Its Song Dynasty Context</i> . SUNY Series in Chinese Philosophy and Culture. Albany: State University of New York Press, 2006.</p>
-</li>
-<li>
-<p>A comprehensive survey of the scholarship on Yi Jian Zhi.</p>
+<ul>
+<li>A comprehensive survey of the scholarship on Yi Jian Zhi.</li></ul>
 <p>Luo, Manling. <i> Literati Storytelling in Late Medieval China</i> . The Modern Language Initiative. Seattle: University of Washington Press, 2015.</p>
-</li>
-<li>
-<p>Shows how the tales offer crucial insights into the reconfiguration of the Chinese elite, which monopoligzed literacy, social prestige, and political participation in tenth-century China.</p>
-</li>
+<ul>
+<li>Shows how the tales offer crucial insights into the reconfiguration of the Chinese elite, which monopoligzed literacy, social prestige, and political participation in tenth-century China.</li>
 </ul>
 <p>潭州士人龔輿, 乾道四年冬, 與<em>鄉</em> 里六七人偕赴省試. 過宜春, 謁仰山廟祈夢。輿夢至官府, 見柱上掲紙一片, 書[龔輿不得]四字,而[不]字上下稍不聨接。既覺, 殊不樂, 自意必下第。及春榜至, 輿中選, 餘人盡黜, 始以語人, 謂夢不驗。好事者曰: “不字斷續如此,乃一个也. 神言龔輿一个得耳, 豈不昭然?”</p>
 

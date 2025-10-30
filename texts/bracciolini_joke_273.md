@@ -40,25 +40,19 @@ imagesource: "Cuthbert with the elderly Hildmaer and his wife. London, British L
 <h2>Further Reading</h2>
 <p>Kallendorf, Craig. “Poggio Bracciolini” in <i> Oxford Bibliographies</i> . DOI: 10.1093/OBO/9780195399301-0095.</p>
 <ul>
-<li>
-<p>Craig Kallendorf’s article in <em>Oxford Bibliographies</em> is a good starting point for researching Poggio. The article contains information about relevant editions, translations, and research.</p>
+<li>Craig Kallendorf’s article in <em>Oxford Bibliographies</em> is a good starting point for researching Poggio. The article contains information about relevant editions, translations, and research.</li></ul>
 <p>Pittaluga, Stefano, ed. <i> Facéties = Confabulationes: Édition bilingue</i> . Translated by Etienne Wolff. Bibliothèque italienne. Paris: Les Belles Lettres, 2005.</p>
-</li>
-<li>
-<p>The most recent critical edition of the <em>Facetiae</em> .</p>
+<ul>
+<li>The most recent critical edition of the <em>Facetiae</em> .</li></ul>
 <p>Beccadelli, Antonio. <i> The Hermaphrodite</i> . Edited and translated by Holt Parke, I Tatti Renaissance Library 42, Cam- bridge, MA: Harvard University Press, 2010.</p>
-</li>
-<li>
-<p>Another example of obscene elements in Renaissance Latin (also contains letters exchanged between Beccadelli and ` Bracciolini).</p>
+<ul>
+<li>Another example of obscene elements in Renaissance Latin (also contains letters exchanged between Beccadelli and ` Bracciolini).</li></ul>
 <p>Gordon, Phyllis W. G., ed. <i> Two Renaissance Book Hunters: The Letters of Poggius Bracciolini to Nicolaus de Nicco- lis</i> . New York: Columbia University Press, 1974.</p>
-</li>
-<li>
-<p>This letter exchange shows the scholarly side of Poggio.</p>
+<ul>
+<li>This letter exchange shows the scholarly side of Poggio.</li></ul>
 <p>Bracciolini, Poggio. <i> The Facetiae of Giovanni Francesco Poggio Bracciolini</i> . Translated by Bernhardt J. Hurwood. New York: Award Books, 1968.</p>
-</li>
-<li>
-<p>This is apparently an earlier translation of the <em>Facetiae</em> (I was not, however, able to consult this book for the present transla- tion).</p>
-</li>
+<ul>
+<li>This is apparently an earlier translation of the <em>Facetiae</em> (I was not, however, able to consult this book for the present transla- tion).</li>
 </ul>
 
 <p>ii</p>

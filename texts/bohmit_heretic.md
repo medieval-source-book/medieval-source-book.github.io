@@ -37,15 +37,11 @@ imagesource: "Russian State Library in Moscow, Manuscript РГБ, 228.162, fol. 
 <h2>Further Reading</h2>
 <p>Летописец Еллинский и Римский, vol. I, Текст , ed. О.В. Творогов, Санкт-Петербург 1999, p. 402–405</p>
 <ul>
-<li>
-<p>Edition of the original text.</p>
-</li>
+<li>Edition of the original text.</li>
 </ul>
 <p>Z.A. Brzozowska, <i> Zapożyczona czy własna wizja dziejów powszechnych? Wpływ autorów bizantyńskich na świado¬mość historyczną Sło¬wian Południowych i Wschodnich (na przykładzie opowieści o Ma-homecie i Historii paulicjan Piotra z Sy- cylii), [in:] Widmo Mahometa, cień Samuela. Cesar¬stwo Bizantyń¬skie w relacji z przedstawicielami innych religii i kultur (VII–XV w.)</i> , eds. Z.A. Brzozowska, M.J. Leszka, K. Marinow, T. Wolińska, Łódź 2020, p. 30–34</p>
 <ul>
-<li>
-<p>Edition of the original text.</p>
-</li>
+<li>Edition of the original text.</li>
 </ul>
 <h1>On Bohmit [Muhammad] the Heretic | <em>Ѡ Бохмитѣ еретицѣ</em></h1>
 

@@ -42,31 +42,25 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Laskaya, Anne and Eve Salisbury. <em>Middle English Breton Lays</em> <a href="http://d.lib.rochester.edu/teams/publication/laskaya-and-salisbury-middle-" target="_blank"> . Medieval Inst. Publ., Western Michigan Univ, 1995. Middle English Texts Series. Available online via </a> http://d.lib.rochester.edu/teams/publication/laskaya-and-salisbury-middle- english-breton-lays-emare. Last accessed 22.12.2021.</p>
 <p>Mahoux-Pauzin, Philippe. “Emaré.” <em>Les lais bretons moyen-anglais</em> . Ed. Colette Stévanovitch and Anne Mathieu. Brepols, 2010. 241–302. Textes vernaculaires du moyen âge 9.</p>
 <ul>
-<li>
-<p>Translation into Modern French based on Laskaya and Salisbury’s text.</p>
+<li>Translation into Modern French based on Laskaya and Salisbury’s text.</li></ul>
 <p>Mills, Maldwyn. <em>Six Middle English Romances</em> . Dent, 1973. 46–74.</p>
 <p>Rickert, Edith. The Romance of Emaré: Re-Edited from the Ms. / with Introd., Notes, and Glossary by Edith Rickert. Early English Text Society, Extra Series. Oxford University Press, 1958.</p>
 <p>Ritson, Joseph. Ancient English Metrical Romances: Selected and Published by Joseph Ritson, and Revised by Edmund Goldsmid . E &amp; G Goldsmid, 1885. 3 vols. Vol. II, 183–215.</p>
 
 <h2>Further Reading</h2>
 <p>Burge, Amy, and Lydia Kertz. “Fabricated Muslim Identity, Female Agency, and Cultural Complicity: The Imperial Project of Emaré.” Medieval Feminist Forum: A Journal of Gender and Sexuality . Vol. 56, No. 1 (2020). 38–69.</p>
-</li>
-<li>
-<p>Informed by assemblage theory; the most recent article to discuss the cloth’s connection to the narrative’s interfaith relations and its bearers’ complicity in empire-building.</p>
+<ul>
+<li>Informed by assemblage theory; the most recent article to discuss the cloth’s connection to the narrative’s interfaith relations and its bearers’ complicity in empire-building.</li></ul>
 
 <p>Hagby, Maryvonne. ‘Die Königstochter von Frankreich’ des Hans von Bühel: Fünf kontextualisierende Studien. Mit einer Bibliographie raisonée zum Manekine-Stoff . Waxmann, 2023.</p>
-</li>
-<li>
-<p>Hagby’s ‘Bibliographie Raisonnée’ is the most extensive and accurate list of adaptations of the narrative tradition to date, providing manuscript and editorial information, further reading, summaries, and brief commentaries on themes of 41 versions from the Latin and Islamic West. (In German.)</p>
+<ul>
+<li>Hagby’s ‘Bibliographie Raisonnée’ is the most extensive and accurate list of adaptations of the narrative tradition to date, providing manuscript and editorial information, further reading, summaries, and brief commentaries on themes of 41 versions from the Latin and Islamic West. (In German.)</li></ul>
 <p>Laskaya, Anne. “The Rhetoric of Incest in the Middle English Emaré.” Violence Against Women in Medieval Texts <em>.</em> Ed. Anna Roberts. University Press of Florida, 1998. 97–114.</p>
-</li>
-<li>
-<p>Discusses the connections of the incest theme with Tergaunte’s gift; Laskaya’s characterization of cloth establishing a “web of love and violence” (p. 110) is referred to frequently in subsequent discussions.</p>
+<ul>
+<li>Discusses the connections of the incest theme with Tergaunte’s gift; Laskaya’s characterization of cloth establishing a “web of love and violence” (p. 110) is referred to frequently in subsequent discussions.</li></ul>
 <p>Scala, Elizabeth. “The Texture of Emaré.” <em>Philological Quarterly</em> . Vol. 85, 3/4 (2006). 223–46.</p>
-</li>
-<li>
-<p>First extensive poetological discussion; considers the cloth as a figuration of both the text and the manuscript miscellany as consciously composed artworks with links to generic traditions and material culture.</p>
-</li>
+<ul>
+<li>First extensive poetological discussion; considers the cloth as a figuration of both the text and the manuscript miscellany as consciously composed artworks with links to generic traditions and material culture.</li>
 </ul>
 
 <p>iii</p>

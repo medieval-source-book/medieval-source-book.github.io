@@ -39,29 +39,22 @@ imagesource: "Detail from 明文徵明蕉陰仕女圖(Banana Tree) 軸, 文徵�
 <h2>Further Reading</h2>
 <p>Chang, Kang-i Sun. <i> The Evolution of Tz’u Poetry: from Late Tang to Northern Sung</i> . Princeton UP, 1980.</p>
 <ul>
-<li>
-<p>A standard survey of the early history of Chinese song lyrics (romanized as both <em>ci</em> and <em>tz’u</em> ).</p>
+<li>A standard survey of the early history of Chinese song lyrics (romanized as both <em>ci</em> and <em>tz’u</em> ).</li></ul>
 <p>Egan, Ronald. “The Song Lyric”. <i> The Cambridge History of Chinese Literature</i> , vol. 1, edited by Stephen Owen, Cambridge UP, 2010, pp. 434-452.</p>
-</li>
-<li>
-<p>An overview of the genre.</p>
-</li>
+<ul>
+<li>An overview of the genre.</li>
 </ul>
 <ul>
-<li>
-<p>The Works of Li Qingzhao . De Gruyter, 2019, pp. 94-198.</p>
+<li>The Works of Li Qingzhao . De Gruyter, 2019, pp. 94-198.</li></ul>
 <ul>
 <li>
 <p>A bilingual edition, with Chinese and English translations on facing pages.</p>
 <p>Owen, Stephen. <i> Just a Song: Chinese Lyrics from the Eleventh and Early Twelfth Centuries</i> . Asia Center, Harvard UP, 2019.</p>
-</li>
-<li>
-<p>A recent new history of the genre.</p>
+<ul>
+<li>A recent new history of the genre.</li></ul>
 <p>Tang, Guizhang <em>唐圭璋</em> , editor. <i> Quan Song Ci </i> <em>全宋詞</em> . Zhonghua shu ju, 1965. 5 vols.</p>
-</li>
-<li>
-<p>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</p>
-</li>
+<ul>
+<li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 </ul>
 </li>
 </ul>
