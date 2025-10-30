@@ -34,7 +34,7 @@ imagesource: "Star-Shaped Tile, second half 13th–14th century, Stonepaste; mol
 <p>I have maintained the lines and stanzas in this poem but have not preserved the meter, so as to better follow the literal meaning of the Syriac. The original Syriac is rhymed, but this was not preserved either. I have translated the month <i> nisan </i> into April, rather than transliterating it, for the sake of clarity, although it may not have exactly corresponded to the modern Gregorian month.</p>
 <h2>Further Reading</h2>
 <p>Bar ‘Ebroyo. <i> Bar Hebraeus’s Mush’hotho Book</i> . Monastery of St. Ephrem the Syrian, 1983.</p>
-<ul id="l1">
+<ul>
 <li>
 <p>This is the source used for this translation.</p>
 

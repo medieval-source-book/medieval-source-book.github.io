@@ -38,7 +38,7 @@ imagesource: "Detail from 明文徵明蕉陰仕女圖(Banana Tree) 軸, 文徵�
 
 <h2>Further Reading</h2>
 <p>Chang, Kang-i Sun. <i> The Evolution of Tz’u Poetry: from Late Tang to Northern Sung</i> . Princeton UP, 1980.</p>
-<ul id="l1">
+<ul>
 <li>
 <p>A standard survey of the early history of Chinese song lyrics (romanized as both <em>ci</em> and <em>tz’u</em> ).</p>
 <p>Egan, Ronald. “The Song Lyric”. <i> The Cambridge History of Chinese Literature</i> , vol. 1, edited by Stephen Owen, Cambridge UP, 2010, pp. 434-452.</p>
@@ -47,10 +47,10 @@ imagesource: "Detail from 明文徵明蕉陰仕女圖(Banana Tree) 軸, 文徵�
 <p>An overview of the genre.</p>
 </li>
 </ul>
-<ul id="l2">
+<ul>
 <li>
 <p>The Works of Li Qingzhao . De Gruyter, 2019, pp. 94-198.</p>
-<ul id="l3">
+<ul>
 <li>
 <p>A bilingual edition, with Chinese and English translations on facing pages.</p>
 <p>Owen, Stephen. <i> Just a Song: Chinese Lyrics from the Eleventh and Early Twelfth Centuries</i> . Asia Center, Harvard UP, 2019.</p>

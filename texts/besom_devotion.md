@@ -37,7 +37,7 @@ imagesource: ""
 
 <h2>Further Reading</h2>
 <p>Meyer, Kuno ed., “Stories and songs from Irish manuscripts: VI. Colcu ua Duinechda’s Scúap Chrábaid or ‘Besom of Devotion.’” <i> Otia Merseiana</i> , vol. 2, 1900-1901, pp. 75-105.</p>
-<ul id="l1">
+<ul>
 <li>
 <p>An early edition and translation of early Irish materials, some of which are associated with prayers and litanies like those under discussion.</p>
 

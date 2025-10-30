@@ -40,7 +40,7 @@ imagesource: "“Detail from 宋錢選蘭亭觀鵝圖卷 (pavilion)”, 錢選, 
 
 <h2>Further Reading</h2>
 <p>Chang, Kang-i Sun. <i> The Evolution of Tz’u Poetry: from Late Tang to Northern Sung</i> . Princeton UP, 1980.</p>
-<ul id="l1">
+<ul>
 <li>
 <p>A standard survey of the early history of Chinese song lyrics (romanized as both <em>ci</em> and <em>tz’u</em> ).</p>
 <p>Egan, Ronald. “The Song Lyric”. <i> The Cambridge History of Chinese Literature</i> , vol. 1, edited by Stephen Owen, Cambridge UP, 2010, pp. 434-452.</p>

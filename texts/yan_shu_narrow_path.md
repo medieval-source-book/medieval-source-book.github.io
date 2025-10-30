@@ -33,7 +33,7 @@ imagesource: "Detail from 宋劉松年山水(Red Leaves and Houses)卷, 劉松�
 <p>The original text of this <i> ci </i> is based on the edition by Tang Guizhang <em>唐圭璋</em> (<i> Quan Song Ci </i> <em>全宋詞</em> , vol 1. Beijing: Zhong- hua shu ju, 1965). Punctuation follows the edition. Since <i> ci </i> poetry rarely includes personal pronouns, and gender-differ- entiated pronouns did not exist in Classical Chinese of this period, the gender of the speaker as well as their perspective (e.g. first-, second- or third-person) must often be deduced by the translator from context.</p>
 <h2>Further Reading</h2>
 <p>Chang, Kang-i Sun. <i> The Evolution of Tz’u Poetry: from Late Tang to Northern Sung</i> . Princeton UP, 1980.</p>
-<ul id="l1">
+<ul>
 <li>
 <p>A standard survey of the early history of Chinese song lyrics (romanized as both <em>ci</em> and <em>tz’u</em> ).</p>
 <p>Egan, Ronald. “The Song Lyric”. <i> The Cambridge History of Chinese Literature</i> , vol. 1, edited by Stephen Owen, Cambridge UP, 2010, pp. 434-452.</p>

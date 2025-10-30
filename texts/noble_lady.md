@@ -37,7 +37,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 
 <h2>Further Reading</h2>
 <p>Julien, Catherine. “Inca Historical Forms.” <i> The Oxford History of Historical Writing: Volume 3: 1400-1800</i> , edited by José Rabasa et al., Oxford Univ. Press, 2012, pp. 620–39.</p>
-<ul id="l1">
+<ul>
 <li>
 <p>A study of how Inca historical forms appear in histories penned by indigenous historians.</p>
 <p>Mazzotti, José Antonio. <i> Incan Insights: El Inca Garcilaso’s Hints to Andean Readers</i> . Iberoamericana ; Vervuert, 2008.</p>

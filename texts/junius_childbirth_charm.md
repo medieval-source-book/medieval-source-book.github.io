@@ -38,7 +38,7 @@ imagesource: "Detail from New York, Metropolitan Museum, Manuscript Illumination
 <p>This text has been transcribed from Oxford Bodleian Library MS Junius 85/86, fol. 17r. Some spellings have been standardized and errors corrected. All occurrences of the letters “u” and “v” are preserved in their original form. Con- tractions have been expanded (expansions are not indicated). Punctuation follows the original but with modernized punctuation marks. Capitalization follows modern conventions.</p>
 <h2>Further Reading</h2>
 <p>Wood, Diana. <i> Women and Religion in Medieval England</i> . Oxford: Oxbow Books, 2003.</p>
-<ul id="l1">
+<ul>
 <li>
 <p>This book is a general overview of the religious life of medieval English women. There is a specific chapter on women and child- birth on pages 91-117.</p>
 <p>Olsan, Lea. “Latin Charms of Medieval England: Verbal Healing in a Christian Oral Tradition.” <i> Oral Tradition</i> , vol. 7, no. 1, 1992, pp. 116-42.</p>

@@ -42,7 +42,7 @@ imagesource: "British Library MS Additional 10294, f. 89 [Public Domain]"
 
 <p>The text exists in two versions. Version A is extant in the following manuscripts:</p>
 
-<ul id="l1">
+<ul>
 <li>
 <p>Aberystwyth, NLW MS Llanstephan 4, c. 1400, scribe: X91</p>
 </li>

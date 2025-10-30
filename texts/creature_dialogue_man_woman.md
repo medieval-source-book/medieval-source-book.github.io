@@ -37,7 +37,7 @@ imagesource: "Bibliothèque nationale de France, département Arsenal, RESERVE F
 
 <h2>Further Reading</h2>
 <p>Cardelle de Hartman, Carmen, and Estrella Pérez Rodríguez. “Las auctoritates del Contemptus Sublimitatis (Dialogus Creaturarum).” <i> Auctor et auctoritas in Latinis medii aevi litteris/Author and Authorship in Medieval Latin Literature: Proceedings of the VIth Congress of the International Medieval Latin Committee </i> (Benevento-Naples, November 9-13, 2010), edited by Edoardo D’Angelo and Jan Ziolkowski, Florence: SISMEL - Edizioni di Galluzzo, 2014, pp. 199-212.</p>
-<ul id="l1">
+<ul>
 <li>
 <p>Demonstrates that instead of nine manuscripts as previously thought, there exist fifteen complete manuscripts and a frag- ment, and outlines these manuscripts’ relationship to one another.</p>
 <p>Kratzmann, Gregory C, and Elizabeth Gee, eds. <i> The Dialoges of Creatures Moralysed: A Critical Edition</i> . Leiden: Brill, 1988, pp. 1-64.</p>

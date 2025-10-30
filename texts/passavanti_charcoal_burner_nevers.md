@@ -34,7 +34,7 @@ imagesource: "British Library MS Royal 15 E II f.38 [Public Domain]"
 
 <h2>Further Reading</h2>
 <p>Passavanti, Jacopo. <i> Lo Specchio della Vera Penitenza. </i> Ed. Ginetta Auzzas, Florence: Accademia della Crusca, 2014.</p>
-<ul id="l1">
+<ul>
 <li>
 <p>Critical edition in Italian.</p>
 <p>Corbari, Eliana. <i> Vernacular Theology: Dominican Sermons and Audience in Late Medieval Italy. </i> Berlin: De Gruyter, 2013 (especially pp. 29-36, 49-55, 107-125).</p>

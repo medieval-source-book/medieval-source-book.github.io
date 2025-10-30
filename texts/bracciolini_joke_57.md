@@ -39,7 +39,7 @@ imagesource: "Ugo Zannoni, Dante, Piazza dei Signori, Verona, c.1865. Photo: Did
 
 <h2>Further Reading</h2>
 <p>Kallendorf, Craig. “Poggio Bracciolini” in <i> Oxford Bibliographies</i> . DOI: 10.1093/OBO/9780195399301-0095.</p>
-<ul id="l1">
+<ul>
 <li>
 <p>Craig Kallendorf’s article in <em>Oxford Bibliographies</em> is a good starting point for researching Poggio. The article contains information about relevant editions, translations, and research.</p>
 <p>Pittaluga, Stefano, ed. <i> Facéties = Confabulationes: Édition bilingue</i> . Translated by Etienne Wolff. Bibliothèque italienne. Paris: Les Belles Lettres, 2005.</p>

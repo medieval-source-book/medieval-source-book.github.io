@@ -41,7 +41,7 @@ imagesource: "London, British Library Royal MS 16 G VI, f.442r"
 
 <h2>Further Reading</h2>
 <p>Hedeman, Anne D. <i> The Royal Image: Illustrations of the Grandes Chroniques de France: 1274-1422. </i> U of California P, 1991.</p>
-<ul id="l1">
+<ul>
 <li>
 <p>Discussion of the manuscript tradition of the Grandes Chroniques.</p>
 <p>Heng, Geraldine. <i> The Invention of Race in the European Middle Ages</i> . Cambridge UP, 2018.</p>
@@ -72,7 +72,7 @@ imagesource: "London, British Library Royal MS 16 G VI, f.442r"
 </ul>
 <p>Wollesen, Jens T. “East meets West and the Problem with those Picture.” <i> East meets West in the Middle Ages and Early Modern Times: Transcultural Experiences in the Premodern World</i> , edited by Albrecht Classen, Walter de Gruyter, 2013,</p>
 <p>pp. 341-388.</p>
-<ul id="l2">
+<ul>
 <li>
 <p>Offers an interpretation of the illumination on 442r as a conversion narrative.</p>
 </li>

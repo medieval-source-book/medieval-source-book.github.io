@@ -38,7 +38,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 
 <h2>Further Reading</h2>
 <p>Carey, John. editor and translator. “Scél Tuáin meic Chairill.” Éiru, vol. 35, 1984, pp. 93-111.</p>
-<ul id="l1">
+<ul>
 <li>
 <p>An edition and translation of Scél Tuáin meic Cairill do Finnen Maige Bile (“The story of Tuán mac Cairill to Finnen of Mag Bile”).</p>
 <p>Carey, John, translator. “Scél Tuáin meic Chairill. The Story of Tuán mac Cairill.” The Celtic Heroic Age: Literary Sources for Ancient Celtic Europe and Early Ireland &amp; Wales, edited by John T. Koch and John Carey. Celtic Studies Publications, 2000, pp. 223-225.</p>

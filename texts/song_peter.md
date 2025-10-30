@@ -36,7 +36,7 @@ imagesource: "Detail from BSB MS Clm 6260, fol.158v"
 <p>Bostock, John Knight. <i> A Handbook on Old High German Literature</i> . 2nd ed. Clarendon. 1976.</p>
 <p>Haug, Walter and Benedikt Konrad Vollmann. <i> Frühe Deutsche Literatur und Lateinische Literatur in Deutschland 800-1150</i> .</p>
 <p>Deutscher Klassiker Verlag, 1991.</p>
-<ul id="l1">
+<ul>
 <li>
 <p>Old High German text and modern German translation (130-131); commentary and extensive bibliography (1117-1120).</p>
 </li>

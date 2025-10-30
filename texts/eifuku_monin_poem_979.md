@@ -45,7 +45,7 @@ imagesource: "Detail from \"Reeds and Geese\", Tesshū Tokusai, Dated 11th Month
 
 <h2>Further Reading</h2>
 <p>Mulhern, Chieko I. “Eifuku Mon’in.” <i> Japanese Women Writers: A Bio- Critical Sourcebook</i> . Westport, CT: Greenwood Press, 1994.</p>
-<ul id="l1">
+<ul>
 <li>
 <p>This article gives an overview of Eifuku Mon’in’s biography and an introduction to her career as a poet. The book is an equal- ly useful introduction to many other Japanese women writing in various time periods.</p>
 <p>Brower, Robert H, and Earl R. Miner. “The Late Classical Period.” <i> Japanese Court Poetry</i> . Stanford, CA: Stanford University Press, 1961.</p>

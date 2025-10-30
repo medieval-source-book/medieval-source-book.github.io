@@ -35,7 +35,7 @@ imagesource: "Madrid, Biblioteca Nacional de España, VITR/17/7, fol. 154r [Publ
 
 <h2>Further Reading</h2>
 <p>Carvajal<i> . Poesie. </i> Edited by Emma Scoles. Edizioni dell’Ateneo, 1967.</p>
-<ul id="l1">
+<ul>
 <li>
 <p>Critical edition of Carvajal’s poetry.</p>
 <p>Gerli, E. Michael. “Chapter 6. The Libro in the Cancioneros.” <i> Reading, Performing, and Imagining the ‘Libro del Arcipreste’.</i></p>

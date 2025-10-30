@@ -44,7 +44,7 @@ imagesource: "New Haven, Beinecke Rarebook Library, Marston MS 22, ff. 91v-92r [
 <h2>Further Reading</h2>
 <p>Jones, Peter Murray, and Lea T Olsan. “Performative Rituals for Conception and Childbirth in England, 900-1500.”</p>
 <p>Bulletin of the History of Medicine , vol. 89,3 (2015): 406-33.</p>
-<ul id="l1">
+<ul>
 <li>
 <p>This paper focuses on the performative aspect of childbirth prayers and explores the uses of chanting to aid childbirth.</p>
 <p>Olsan, Lea. “Latin Charms of Medieval England: Verbal Healing in a Christian Oral Tradition.” <i> Oral Tradition</i> , 7/1 (1992):116-142.</p>

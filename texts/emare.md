@@ -41,7 +41,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Gough, Alfred Bradly. Emare: Edited by A.B. Gough . Winter, 1901. Old and Middle English Texts, II.</p>
 <p>Laskaya, Anne and Eve Salisbury. <em>Middle English Breton Lays</em> <a href="http://d.lib.rochester.edu/teams/publication/laskaya-and-salisbury-middle-" target="_blank"> . Medieval Inst. Publ., Western Michigan Univ, 1995. Middle English Texts Series. Available online via </a> http://d.lib.rochester.edu/teams/publication/laskaya-and-salisbury-middle- english-breton-lays-emare. Last accessed 22.12.2021.</p>
 <p>Mahoux-Pauzin, Philippe. “Emaré.” <em>Les lais bretons moyen-anglais</em> . Ed. Colette Stévanovitch and Anne Mathieu. Brepols, 2010. 241–302. Textes vernaculaires du moyen âge 9.</p>
-<ul id="l1">
+<ul>
 <li>
 <p>Translation into Modern French based on Laskaya and Salisbury’s text.</p>
 <p>Mills, Maldwyn. <em>Six Middle English Romances</em> . Dent, 1973. 46–74.</p>
