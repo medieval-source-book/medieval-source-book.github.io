@@ -36,8 +36,6 @@ imagesource: "Detail from 宋人洛陽耆英會圖(Wise Men Talking Together) �
 <h2>Further Reading</h2>
 
 
-
-
 <p>Chang, Kang-i Sun. <i> The Evolution of Tz’u Poetry: from Late Tang to Northern Sung</i> . Princeton UP, 1980.</p>
 <ul>
 <li>A standard survey of the early history of Chinese song lyrics (romanized as both <em>ci</em> and <em>tz’u</em> ).</li>
@@ -57,50 +55,31 @@ imagesource: "Detail from 宋人洛陽耆英會圖(Wise Men Talking Together) �
 </ul><h1>To the tune “Waves Scour the Sand”—“I hold up the wine and toast the eastern wind”</h1>
 <p>浪淘沙· 把酒祝東風</p>
 
-<table cellspacing="0">
-<tr>
-<td>
-<p>浪淘沙</p>
-</td>
-<td>
 
-</td>
-<td>
+<p>浪淘沙</p>
+
+
 <p>To the tune “Waves Scour the Sand”</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>把酒祝東風。且共從容。</p>
 <p>垂楊紫陌洛城東。總是當時攜手處，游遍芳叢。</p>
-</td>
-<td>
 
-<p>5</p>
-</td>
-<td>
+
 <p>I hold up the wine and toast the eastern wind, “Let us dally and not rush.”</p>
 <p>Along the lilac-laden path with drooping willows in the east of Luoyang, Is where we used to walk hand in hand,</p>
 <p>Roaming among the thickets of fragrance.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>聚散苦匆匆。此恨無窮。</p>
 <p>今年花勝去年紅。可惜明年花更好，</p>
 <p>知與誰同。</p>
-</td>
-<td>
 
-<p>10</p>
-</td>
-<td>
+
 <p>Gathering together is always fleeting and separating is always bitter. My regrets about this have no end.</p>
 <p>The flowers this year are redder than the last;</p>
 <p>It is a pity that when next year’s ones are even better, I do not know with whom I will look at them.</p>
-</td>
-</tr>
-</table>
+
 
 <h1>Critical Notes</h1>
 

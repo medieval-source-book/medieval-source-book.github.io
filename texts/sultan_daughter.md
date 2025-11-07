@@ -44,8 +44,6 @@ imagesource: "Berlin, Staatsbibliothek zu Berlin, Ms. germ. oct. 222, f160r (det
 <h2>Further Reading</h2>
 
 
-
-
 <p>Poor, Sara S. “Imagining the Origins of a Clever Woman: The ‘Sultanstochter’ and the Path to Learning in the Late Medieval Devotional Book.” In <i> Mendicant Gender Discourse(s) - Comparative Studies</i>, Reti Medievali 41 (forthcoming, 2021).</p>
 <ul>
 <li>Thorough introduction to the text, including detailed analysis of manuscript context.</li>
@@ -163,21 +161,7 @@ imagesource: "Berlin, Staatsbibliothek zu Berlin, Ms. germ. oct. 222, f160r (det
 <p>glob mir, ich hilff dir uss <i> [der] </i> novt! ir baid hend sy im dar bott:</p>
 <p>ich wil dir úmmer gehorsam sin</p>
 
-<p>75</p>
 
-<p>80</p>
-
-<p>85</p>
-
-<p>90</p>
-
-<p>95</p>
-
-<p>100</p>
-
-<p>105</p>
-
-<p>110</p>
 <p>— — — — — — — — —</p>
 <p>When she first looked at him directly, She spoke to him very courteously:</p>
 <p>“Ah, my very dear lord,</p>
@@ -222,19 +206,7 @@ imagesource: "Berlin, Staatsbibliothek zu Berlin, Ms. germ. oct. 222, f160r (det
 <p>Kúnsch ist des obrosten gemachel, Liebin ist vil sterker denn stachel. er seit ir sússikait noch gar vil,</p>
 <p>wie hoch got die kúnschait setzen wil: got nimpt si vornan an den tantz, kúnschait ist aller tugent ain krantz.</p>
 
-<p>115</p>
 
-<p>120</p>
-
-<p>125</p>
-
-<p>130</p>
-
-<p>135</p>
-
-<p>140</p>
-
-<p>145</p>
 <p>and ever until my death.”</p>
 <p>He took her gently by the hand, and whisked her off immediately, moving her in a short span of time</p>
 <p>more than three thousand miles away. Yet it seemed to her a very short journey, for she tread on neither bridge nor path. Very tender and sweet was the teaching that he taught her on the way.</p>
@@ -272,21 +244,8 @@ imagesource: "Berlin, Staatsbibliothek zu Berlin, Ms. germ. oct. 222, f160r (det
 <p>mit rotem gold, vnd wer es las, der sach, daz si ain haidin was vnd den tovff noch nie empfieng. der engel si vor dem altar lie; dise red, die er mit ir tett,</p>
 <p>ducht si minneclich vnd súss. der engel si vil geren sach,</p>
 <p>vil zartlich vnd schuon si zuo im sprach:</p>
-<p>150</p>
 
-<p>155</p>
 
-<p>160</p>
-
-<p>165</p>
-
-<p>170</p>
-
-<p>175</p>
-
-<p>180</p>
-
-<p>185</p>
 <p>Of God and of tender Maria</p>
 <p>he informed her: how she became His mother and conceived and also bore Him;</p>
 <p>of her life and all her suffering, and how God died on the cross</p>
@@ -314,1268 +273,690 @@ imagesource: "Berlin, Staatsbibliothek zu Berlin, Ms. germ. oct. 222, f160r (det
 <p>She gladly gazed at the angel.</p>
 <p>Very tenderly and beautifully she said to him:</p>
 
-<table cellspacing="0">
-<tr>
-<td>
+
 <p>ach lieber herr vnd engel min,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>“Ah, my dear lord and angel,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>lavss mich dir enpholchen sin;</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>Allow me to be received by you,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>ich havn mich dir ergeben gar,</p>
-</td>
-<td>
-<p>190</p>
-</td>
-<td>
+
+
 <p>I have given myself to you completely,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>nim min in minen nöten war!</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>Take me in my moment of need!</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>din red ist zuker súss,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>Your words are as sweet as sugar,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>minen herren du mir grúss;</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>Greet my lord for me;</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>mit dienst bin ich im berait,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>I am ready to serve Him,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>mit willeklicher arbait.</p>
-</td>
-<td>
-<p>195</p>
-</td>
-<td>
+
+
 <p>With willing toil.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>wan vatter vnd muoter vnd magen min,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>For your sake I am leaving</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>die lassen ich durch den willen din,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>my father, mother, and kin</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>grossen richtum lavss ich faren.</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>and I am letting go of great wealth.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>sag im, er sóll mich wol bewaren!</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>Tell Him to protect me well!</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>vnd <i> [grúss] </i> ovch mir die maget súss,</p>
-</td>
-<td>
-<p>200</p>
-</td>
-<td>
+
+
 <p>And also greet the sweet virgin [Mary] from me,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>von der du mir vil havst geseit,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>about whom you have told me so much,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>die die kúnschait des ersten anfieng;</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>and who was the first to be chaste;</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>sag ir, durch ir kind sitz ich hie</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>Tell her, I have sat down and am sitting here</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>vnd si allain gesessen,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>because of her child and her alone,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>si sol min nit vergessen;</p>
-</td>
-<td>
-<p>205</p>
-</td>
-<td>
+
+
 <p>and that she should not forget me.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>dz zimpt iren gnavden wol,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>That would befit her great compassion well,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>wan ich nit waiss, wav ich sol.</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>for otherwise, I do not know where I should (turn).”</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>vil zartlich schied er do von ir,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>Then he very tenderly took his leave.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>er sprach: wiss, iunkrow, got ist mit dir.</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>He said: “Know this, maiden, God is with you.”</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Nun wist si nit, wa siú sass,</p>
-</td>
-<td>
-<p>210</p>
-</td>
-<td>
+
+
 <p>Now, she did not know where she was,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>diú sprach des landes ir unbekant wz.</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>nor was the language of the land familiar to her.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>diú áptissinn des closters da</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>The abbess of the cloister</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>diu kam gegangen iesa</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>came along just then</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>navch ir aller gewonhait</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>which was her regular habit —</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>sú was táglich des ersten berait,</p>
-</td>
-<td>
-<p>215</p>
-</td>
-<td>
+
+
 <p>She was always the first to be ready</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>da man got dienen solt,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>when it was time to sing the office.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>in dem kor si wolt.</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>(And so) she headed to the choir.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>do siu aller erst tratt hin in,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>At the moment she stepped into the choir,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>si sach die maget vnd den schin;</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>She saw the maiden surrounded by light;</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>vil bald kert siú sich wider uss,</p>
-</td>
-<td>
-<p>220</p>
-</td>
-<td>
+
+
 <p>She turned around quickly and went back out.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>siu liuff bald in das schlavfhuss,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>She sped to the dormitory</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>diu frowan siu bald wakt</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>Where she immediately woke the ladies, though calmly</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>vil schuon, dz si si nit erschrakti.</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>So that they wouldn’t be alarmed.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>do siu si all ze samen bravcht,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>When she had brought them all together,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>siu seit in, was si sach vnd bedavcht;</p>
-</td>
-<td>
-<p>225</p>
-</td>
-<td>
+
+
 <p>She told them what she saw and thought;</p>
-</td>
-</tr>
-</table>
 
-<table cellspacing="0">
-<tr>
-<td>
+
 <p>siu sprach: ich wil hiut veriechen,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>She said: “I want to tell you today,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>ich havn Mariun selb gesechen,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>That I have seen Mary herself,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>diu wil úns hiut erun;</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>She wants to honor us today;</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>zuo der sond wir keren</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>We should return to her</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>vnd sóllent si enphavchen.</p>
-</td>
-<td>
-<p>230</p>
-</td>
-<td>
+
+
 <p>And should welcome her.”</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>siu begund vor an hin gavchen,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>She rushed ahead of them,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>nach ir was gavch in allen,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>and all of them rushed after her</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>si hettent sich navch erfallen.</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>so fast that they almost fell down.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>si savchent die iunkfrovwen sin</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>They saw the maiden</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>vil herlich sitzen in iren schin.</p>
-</td>
-<td>
-<p>235</p>
-</td>
-<td>
+
+
 <p>Sitting nobly in the light.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>si vielent fúr si an ir knie,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>They fell to their knees before her,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Salue regina sungent si,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>[and] sang the Salve Regina,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>dz betút: gotwilkomen kúnginn,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>which means: “God welcome you, Queen.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>von vns solt du gegrússet sin.</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>May you receive our greeting!”</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>hie von ich nit me sagen wil.</p>
-</td>
-<td>
-<p>240</p>
-</td>
-<td>
+
+
 <p>About that I have nothing more to say.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>der eren was ir doch ze vil,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>This honor was of course too much for her (the maiden).</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>súss sungent ir múnd rot,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>Their red mouths sang sweetly</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>den brief siu der áptissinen bot.</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>as she offered the letter to the abbess</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>vil bald siu den úber las</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>who read through it quickly</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>vnd las, wie es ergangen was.</p>
-</td>
-<td>
-<p>245</p>
-</td>
-<td>
+
+
 <p>and saw how things had gone.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>diss wunders wavrent sie alle frow,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>They were all happy about this miracle</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>dz si got geeret hett also</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>that God had thus honored them</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>fúr allú klóster in dem land,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>above all other cloisters in the land</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>den er sóllich botschaft litzel sant;</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>to which He had sent no such message;</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>vil fród an iren hertzen lag,</p>
-</td>
-<td>
-<p>250</p>
-</td>
-<td>
+
+
 <p>Their hearts were filled with great joy</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>si erbietten des tags.</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>(while) they waited for the day to dawn.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>ir aller sprách was ir vnkund,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>Their language was entirely unknown to her,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>vil schier funden si den fund,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>and so the sisters very quickly realized</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>dz si hain santent in die statt</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>that they should send a messenger into the city,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>ainen botten, der den bischof batt,</p>
-</td>
-<td>
-<p>255</p>
-</td>
-<td>
+
+
 <p>who would ask the bishop</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>das er kám zuo in dar</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>to come to them</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>vnd des wunders námi war.</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>and see the miracle.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>vil pfaffent er do zuo im nam,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>The Bishop gathered many clerics around him</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>mit fróden er do zuo in kam,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>and then gladly went to them.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>den brief er do úber lass,</p>
-</td>
-<td>
-<p>260</p>
-</td>
-<td>
+
+
 <p>He then read through the letter</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>er sach, das si ain haidin was</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>and saw that she was a heathen</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>vnd das diss alles got wolt,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>and that God wished</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>das man si da tóffen solt.</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>her to be baptized.</p>
-</td>
-</tr>
-</table>
 
-<table cellspacing="0">
-<tr>
-<td>
+
 <p>do er den brief hett vss gelesen,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>When he had read the letter to the end,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>er wolt do selb ir tott wesen</p>
-</td>
-<td>
-<p>265</p>
-</td>
-<td>
+
+
 <p>He himself wanted to be her Godfather</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>vnd töft si selb mit siner hand</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>and he baptized her with his own hand</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>vff der fart. diú äptissin si tovd fand</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>while he was there. The abbess</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>an allen sachen,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>found her dead</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>als man ain gaistlich mensch</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>in (to?) all things,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>sol machen.</p>
-</td>
-<td>
-<p>270</p>
-</td>
-<td>
+
+
 <p>as a spiritual person should be.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>do si was crastan worden,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>When she had become a Christian,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>do gab siu ir den orden</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>she (the abbess) then gave her the rule</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>vnd die pfrúnd zem kloster.</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>and her dowry to the cloister.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>da man schloft sy in gewand,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>Then they dressed her in a robe</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>daz wz graw — — — —</p>
-</td>
-<td>
-<p>275</p>
-</td>
-<td>
+
+
 <p>That was gray. — — —</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>si wavrent all des wunders frow,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>They were all happy about the miracle</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Te deum laudamus sungent si do,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>and then they sang Te deum laudamus,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>die priester alt vnd iung</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>all the priests, old and young</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>vnd di gantz samnung,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>and the whole assembly.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>diss lob si sungent avne spott</p>
-</td>
-<td>
-<p>280</p>
-</td>
-<td>
+
+
 <p>They sang this earnestly</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>der rosen vnd der gilgen got.</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>to the God of roses and lilies.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>dar navch hiess man si leren,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>After that they had her taught –</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>ir hail dz wolt sich meren;</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>her holiness wanted to grow!</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>siu gelernet in kurtzer frist,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>She learned in a short time</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>dz siu kund aller hand list</p>
-</td>
-<td>
-<p>285</p>
-</td>
-<td>
+
+
 <p>that she had all kinds of ability</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>singen, lesen vnd schriben,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>In singing, reading, and writing,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>— — — — — —</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>— — — — — — —</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>ir tugent was mengualt vnd grovss,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>Her virtue was manifold and great:</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>allú wisshait ir zuo floss.</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>all wisdom flowed to her.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>diu áptissin dar navch starb,</p>
-</td>
-<td>
-<p>290</p>
-</td>
-<td>
+
+
 <p>Soon thereafter, the abbess died.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>ir lútzel navch ir ampt warb,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>Few of the sisters applied for her office,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>wan si ducht allgemain,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>For it seemed to them all</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>wie disiu iunkfrow rain</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>that this pure maiden</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>vnder in diu best wár úber all;</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>was the best of all among them.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>dar zuo gäben si die wal,</p>
-</td>
-<td>
-<p>295</p>
-</td>
-<td>
+
+
 <p>For this reason, they voted</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>dz si diu áptissin sólt sin,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>that she should be the abbess</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>diu da vor was ein ha<i> [i]</i> din.</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>who had previously been a heathen.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>niement hie voll sagen kan,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>No one here can really say</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>wes glúks dz kloster do gewan</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>how much good fortune the convent won</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>an eren vnd an guot,</p>
-</td>
-<td>
-<p>300</p>
-</td>
-<td>
-<p>in honor and in goodness because of this.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>dz geschuof diu wolgemuot;</p>
-</td>
-<td>
 
-</td>
-<td>
+
+<p>an eren vnd an guot,</p>
+
+
+<p>in honor and in goodness because of this.</p>
+
+
+<p>dz geschuof diu wolgemuot;</p>
+
+
 <p>This created an atmosphere of good will and well-being.</p>
-</td>
-</tr>
-</table>
+
 
 <p>mit wishiat kund siu des klosters pflegen, got der het ir sinen segen</p>
 <p>vnd alles hail zuo gesent. wie schön si das wolt, si lert si all tugend nacht vnd tag, wie lútzel si dar an erlag.</p>
@@ -1592,19 +973,7 @@ imagesource: "Berlin, Staatsbibliothek zu Berlin, Ms. germ. oct. 222, f160r (det
 <p>dú iunkfrow ward der red frow, sinem sússen rat folget siu do, die frowan hiess si kommen dar. do kament si vnd nament war, was siu in seit an der stund,</p>
 <p>in ward ain laidiges már kunt.</p>
 
-<p>305</p>
 
-<p>310</p>
-
-<p>315</p>
-
-<p>320</p>
-
-<p>325</p>
-
-<p>330</p>
-
-<p>335</p>
 <p>She was able to manage the cloister with wisdom, for God had sent her his blessing</p>
 <p>and everything holy.</p>
 <p>As beautifully as she wanted, she taught them all the virtues night and day;</p>
@@ -1642,21 +1011,8 @@ imagesource: "Berlin, Staatsbibliothek zu Berlin, Ms. germ. oct. 222, f160r (det
 <p>das er si geren behalt;</p>
 <p>wan got der kúnschait walt vnd die vil lieb muoter sin,</p>
 <p>die hoch himel kúnigin vnd kaiserin, die wz die erst, die kúnschait erkos, da von ir hail ist worden grovss,</p>
-<p>340</p>
 
-<p>345</p>
 
-<p>350</p>
-
-<p>355</p>
-
-<p>360</p>
-
-<p>365</p>
-
-<p>370</p>
-
-<p>375</p>
 <p>She gave them her true counsel, she bid them love God diligently both morning and night</p>
 <p>with heart and mind,</p>
 <p>and keenly uphold all the virtues, so that it would go well for them. Their shared grief was so great that tears flowed out of their eyes,</p>
@@ -1689,15 +1045,7 @@ imagesource: "Berlin, Staatsbibliothek zu Berlin, Ms. germ. oct. 222, f160r (det
 <p>da mit havt diss buoch ain end, got vns sinen hailigen segen send</p>
 <p>vnd verlich vns allen ain guotes end. Amen</p>
 
-<p>380</p>
 
-<p>385</p>
-
-<p>390</p>
-
-<p>395</p>
-
-<p>400</p>
 <p>and after which very many maidens followed her, (that is, they followed) this lesson from her hand. She gives high praise to the chaste ones,</p>
 <p>she places the maidenly crown upon their heads. However, he who has neglected it,</p>
 <p>if he rids himself once again of corruption and then is very steadfast in this,</p>

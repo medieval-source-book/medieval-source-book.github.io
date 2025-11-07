@@ -37,8 +37,6 @@ imagesource: "Detail from 宋牟益擣衣圖(Women) 卷, 牟益, National Palace
 <h2>Further Reading</h2>
 
 
-
-
 <p>Chang, Kang-i Sun. <i> The Evolution of Tz’u Poetry: from Late Tang to Northern Sung</i> . Princeton UP, 1980.</p>
 <ul>
 <li>A standard survey of the early history of Chinese song lyrics (romanized as both <em>ci</em> and <em>tz’u</em> ).</li>
@@ -61,51 +59,32 @@ imagesource: "Detail from 宋牟益擣衣圖(Women) 卷, 牟益, National Palace
 </ul><h1>To the tune “Southland Song”—”In the sky, the Starry River turns”</h1>
 <p>南歌子 · 天上星河轉</p>
 
-<table cellspacing="0">
-<tr>
-<td>
-<p>南歌子</p>
-</td>
-<td>
 
-</td>
-<td>
+<p>南歌子</p>
+
+
 <p>To the tune “Southland Song”</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>天上星河轉，人間簾幕垂。</p>
 <p>涼生枕簟淚痕滋。起解羅衣聊問、 夜何其。</p>
-</td>
-<td>
 
-<p>5</p>
-</td>
-<td>
+
 <p>In the sky, the Starry River turns;</p>
 <p>In the human world, the curtain droops.</p>
 <p>The autumn chill rises from my pillow and my tears spread more and more around the mat.</p>
 <p>I sit up to untie my silk gown, and ask what time of night it is.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>翠貼蓮蓬小，金銷藕葉稀。</p>
 <p>舊時天氣舊時衣。只有情懷不似、</p>
 <p>舊家時。</p>
-</td>
-<td>
 
-<p>10</p>
-</td>
-<td>
+
 <p>The emerald that adorned the lotus seed-pod is smaller; The gold that covered the lotus leaves is sparse.</p>
 <p>Old weather and old clothes; Only my feelings are not the way</p>
 <p>They were before.</p>
-</td>
-</tr>
-</table>
+
 
 <h1>Critical Notes</h1>
 

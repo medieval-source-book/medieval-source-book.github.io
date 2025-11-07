@@ -37,8 +37,6 @@ imagesource: "Detail from 宋人花王圖(Flower) 軸, Anonymous, National Palac
 <h2>Further Reading</h2>
 
 
-
-
 <p>Chang, Kang-i Sun. <i> The Evolution of Tz’u Poetry: from Late Tang to Northern Sung</i> . Princeton UP, 1980.</p>
 <ul>
 <li>A standard survey of the early history of Chinese song lyrics (romanized as both <em>ci</em> and <em>tz’u</em> ).</li>
@@ -61,45 +59,27 @@ imagesource: "Detail from 宋人花王圖(Flower) 軸, Anonymous, National Palac
 </ul><h1>To the tune “Revealing Inmost Feelings”—”At night, I was drunk and did not take off my makeup”</h1>
 <p>訴衷情· 夜來沉醉卸妝遲</p>
 
-<table cellspacing="0">
-<tr>
-<td>
-<p>訴衷情</p>
-</td>
-<td>
 
-</td>
-<td>
+<p>訴衷情</p>
+
+
 <p>To the tune “Revealing Inmost Feelings”</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>夜來沉醉卸妝遲。梅萼插殘枝。</p>
 <p>酒醒熏破春睡，夢斷不成歸。</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>At night, I was drunk and did not take off my makeup. The plum blossom petals withered on the twig.</p>
 <p>As I sobered up, their smell broke the spring sleep; the dream ended before I was able to reach home.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>人悄悄， 月依依。翠簾垂。更挼殘蕊，更撚餘香，更得些時。</p>
-</td>
-<td>
-<p>5</p>
 
-<p>10</p>
-</td>
-<td>
+
+<p>人悄悄， 月依依。翠簾垂。更挼殘蕊，更撚餘香，更得些時。</p>
+
+
 <p>There was no sound of people, The moon lingered on,</p>
 <p>The emerald curtain rolled down. Again, I pinched the leftover petals,</p>
 <p>Again, I rubbed the remaining fragrance,</p>
 <p>Again, I obtained some more time.</p>
-</td>
-</tr>
-</table>
+
+

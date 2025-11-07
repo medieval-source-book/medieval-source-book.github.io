@@ -37,8 +37,6 @@ imagesource: "Detail from 元盛懋柳陰書屋(Willow House) 軸, 盛懋, Natio
 <h2>Further Reading</h2>
 
 
-
-
 <p>Chang, Kang-i Sun. <i> The Evolution of Tz’u Poetry: from Late Tang to Northern Sung</i> . Princeton UP, 1980.</p>
 <ul>
 <li>A standard survey of the early history of Chinese song lyrics (romanized as both <em>ci</em> and <em>tz’u</em> ).</li>
@@ -61,49 +59,30 @@ imagesource: "Detail from 元盛懋柳陰書屋(Willow House) 軸, 盛懋, Natio
 </ul><h1>To the tune “Immortal by the River”—“The courtyard is deep, how far does it extend”</h1>
 <p>臨江仙 · 庭院深深深幾許</p>
 
-<table cellspacing="0">
-<tr>
-<td>
-<p>臨江仙</p>
-</td>
-<td>
 
-</td>
-<td>
+<p>臨江仙</p>
+
+
 <p>To the tune “Immortal by the River”</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>庭院深深深幾許，雲窗霧閣常扃。 柳梢梅萼漸分明。春歸秣陵樹，</p>
 <p>人客建康城。</p>
-</td>
-<td>
 
-<p>5</p>
-</td>
-<td>
+
 <p>The courtyard is deep, how far does it extend?</p>
 <p>The windows and chambers, wrapped in mist, are always shut. New willow shoots and plum blossoms grow.</p>
 <p>Spring returns to the trees of Moling; I am a stranger in Jiankang City.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>感月吟風多少事，如今老去無成。 誰憐憔悴更凋零。試燈無意思，</p>
 <p>踏雪沒心情。</p>
-</td>
-<td>
 
-<p>10</p>
-</td>
-<td>
+
 <p>Moved by the moon and chanting to the wind, how many things have happened! Now I am old and have achieved nothing.</p>
 <p>Who would pity thin and withered me? I have no interest in the lantern trial,</p>
 <p>I am not in the mood to walk through the snow.</p>
-</td>
-</tr>
-</table>
+
 
 <h1>Critical Notes</h1>
 
