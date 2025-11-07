@@ -50,8 +50,6 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <h2>Further Reading</h2>
 
 
-
-
 <p>Burge, Amy, and Lydia Kertz. “Fabricated Muslim Identity, Female Agency, and Cultural Complicity: The Imperial Project of Emaré.” Medieval Feminist Forum: A Journal of Gender and Sexuality. Vol. 56, No. 1 (2020). 38–69.</p>
 <ul>
 <li>Informed by assemblage theory; the most recent article to discuss the cloth’s connection to the narrative’s interfaith relations and its bearers’ complicity in empire-building.</li>
@@ -187,19 +185,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Or ellys a vanytè.</p>
 <p>The kyng of Cysyle answered than,</p>
 
-<p>75</p>
 
-<p>80</p>
-
-<p>85</p>
-
-<p>90</p>
-
-<p>95</p>
-
-<p>100</p>
-
-<p>105</p>
 <p>The high-born emperor</p>
 <p>was a courteous and just lord in every respect.</p>
 <p>Later, when his wife had died, and he led his life as a widower,</p>
@@ -222,147 +208,88 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>“Certainly, this is fairywork, Or else an illusion!”</p>
 <p>Then the King of Sicily answered,</p>
 
-<table cellspacing="0">
-<tr>
-<td>
+
 <p>So ryche a jwell ys ther non In all Crystyante.</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>“There is no [other] jewel as precious in all of Christendom.”</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>The amerayle dowghter of hethennes Made this cloth withouten lees,</p>
-</td>
-<td>
 
-<p>110</p>
-</td>
-<td>
+
+<p>The amerayle dowghter of hethennes Made this cloth withouten lees,</p>
+
+
 <p>The daughter of the Muslim emir made this cloth, certainly,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>And wrowghte hit all with pride, And purtreyed hyt with gret honour, Wyth ryche golde and asowr,</p>
 <p>And stones on ylke a syde;</p>
 <p>And, as the story telles in honde,</p>
-</td>
-<td>
 
-<p>115</p>
-</td>
-<td>
+
 <p>and wrought it entirely and honorably and fashioned it with great virtues, with precious gold and azure,</p>
 <p>and [with] stones on every side.</p>
 <p>And, as the story at hand tells,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>The stones that yn this cloth stonde Sowghte they wer full wyde,</p>
 <p>Seven wynter hit was yn makynge, Or hit was browght to endynge,</p>
 <p>In herte ys not to hyde.</p>
-</td>
-<td>
 
-<p>120</p>
-</td>
-<td>
+
 <p>the stones that are positioned in this cloth were sought from very far away.</p>
 <p>It was in the making for seven years before it was completed,</p>
 <p>that is the truth of it.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>In that on korner made was Idoyne and Amadas,</p>
 <p>With love that was so trewe, For they loveden hem wit honour,</p>
 <p>Portrayed they wer with trewe-love flour,</p>
-</td>
-<td>
 
-<p>125</p>
-</td>
-<td>
+
 <p>In that one corner</p>
 <p>Ydoine and Amadas were made with love that was so steadfast;</p>
 <p>because they loved each other honorably</p>
 <p>they were portrayed with the true-love-flower</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Of stones bryght of hewe, Wyth carbunkull and safere, Kassydonys and onyx so clere,</p>
 <p>Sette in golde newe,</p>
 <p>Deamondes and rubyes,</p>
-</td>
-<td>
 
-<p>130</p>
-</td>
-<td>
+
 <p>[made] of stones of radiant hues: with carbuncle and sapphire, chalcedony and onyx, gleaming so, set in new gold;</p>
 <p>diamonds and rubies</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>And other stones of mychyll pryse, And menstrellys with her gle.</p>
-</td>
-<td>
 
-</td>
-<td>
+
+<p>And other stones of mychyll pryse, And menstrellys with her gle.</p>
+
+
 <p>and other stones of great worth and entertainers with their song.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>In that other corner was dyght, Trystram and Isowde so bryght,</p>
 <p>That semely wer to se,</p>
-</td>
-<td>
 
-<p>135</p>
-</td>
-<td>
+
 <p>In that other corner were assembled Tristan and Iseult, so radiant—</p>
 <p>they were beautiful to look at;</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>And for they loved hem ryght, As full of stones ar they dyght, As thykke as they may be,</p>
 <p>Of topase and of rubyes,</p>
 <p>And other stones of myche pryse,</p>
-</td>
-<td>
 
-<p>140</p>
-</td>
-<td>
+
 <p>and because they loved each other sincerely, they are composed of so many stones,</p>
 <p>[set] as thickly as possible, [composed] of topazes and rubies,</p>
 <p>and other stones of great worth,</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>That semely wer to se,</p>
-</td>
-<td>
 
-</td>
-<td>
+
+<p>That semely wer to se,</p>
+
+
 <p>that were beautiful to look at.</p>
-</td>
-</tr>
-</table>
+
 
 <p>Wyth crapawtes and nakette, Thykke of stones ar they sette,</p>
 <p>For sothe as y say the.</p>
@@ -387,19 +314,8 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>That semely was of syghte: “My fadyr was a nobyll man, Of the sowdan he hit wan,</p>
 <p>Wyth maystrye and wyth myghth; For gret love he yaf hyt me,</p>
 <p>I brynge hit the in specyaltè,</p>
-<p>145</p>
 
-<p>150</p>
 
-<p>155</p>
-
-<p>160</p>
-
-<p>165</p>
-
-<p>170</p>
-
-<p>175</p>
 <p>In the third corner, with great splendor, was Floris and Dame Blanchefleur, because love was between them.</p>
 <p>As they loved honorably</p>
 <p>they were depicted with the true-love-flower, with stones that were bright and luminous. There were knights and senators,</p>
@@ -420,139 +336,85 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Because of his love, he gave it to me.</p>
 <p>I bring it to you on account ofspecial affection;</p>
 
-<table cellspacing="0">
-<tr>
-<td>
+
 <p>Thys cloth ys rychely dyght.” He yaf hit the emperour,</p>
 <p>He receyved hit with gret honour, And thonkede hym fayr and ryght.</p>
-</td>
-<td>
 
-<p>180</p>
-</td>
-<td>
+
 <p>this cloth is put together magnificently.” He gave it to the emperor.</p>
 <p>He received it with great honor</p>
 <p>and thanked him eloquently and appropriately.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>The kyng of Cesyle dwelled ther As long as his wyll wer,</p>
 <p>Wyth the emperour for to play, And when he wolde wende,</p>
 <p>He toke his leve at the hende,</p>
-</td>
-<td>
 
-<p>185</p>
-</td>
-<td>
+
 <p>The King of Sicily stayed there as long as he wished</p>
 <p>to amuse himself with the emperor; and when he wanted to return home,</p>
 <p>he took his leave immediately,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>And wente forth on hys way. Now remeveth this nobyll kyng,</p>
 <p>The emperour after his dowghter hadde longyng, To speke with that may,</p>
 <p>Messengeres forth he sent,</p>
-</td>
-<td>
 
-<p>190</p>
-</td>
-<td>
+
 <p>and went on his way.</p>
 <p>Now this noble king had departed.</p>
 <p>The emperor had a longing for his daughter, [he desired] to speak with that maiden.</p>
 <p>He sent messengers</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Aftyr the mayde fayre and gent, That was bryght as someres day.</p>
-</td>
-<td>
 
-</td>
-<td>
+
+<p>Aftyr the mayde fayre and gent, That was bryght as someres day.</p>
+
+
 <p>to the beautiful and noble maiden</p>
 <p>who was as radiant as a summer’s day.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Messengeres dyghte hem in hye, With myche myrthe and melodye, Forth gon they fare,</p>
-</td>
-<td>
 
-<p>195</p>
-</td>
-<td>
+
+<p>Messengeres dyghte hem in hye, With myche myrthe and melodye, Forth gon they fare,</p>
+
+
 <p>Messengers hurriedly prepared themselves. With much merriment and music,</p>
 <p>they went forth,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Both by stretes and by stye, After that fayr lady,</p>
 <p>Was godely unther gare.</p>
 <p>Her norysse, that hyghte Abro, With her she goth forth also,</p>
-</td>
-<td>
 
-<p>200</p>
-</td>
-<td>
+
 <p>by street and by path, to that fair lady,</p>
 <p>[who] was virtuous underneath her garments. Her nurse, who was called Abro,</p>
 <p>also went with her,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>And wer sette in a chare, To the emperour gan the go,</p>
 <p>He come ayeyn hem a myle or two, A fayr metyng was there.</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>and they were seated in a carriage. Then they went to the emperor,</p>
 <p>who went a mile or two in their direction to meet them. A pleasant meeting was held there.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>The mayden, whyte as lylye flour. Lyghte ayeyn her fadyr, the emperour,</p>
 <p>Two knyghtes gan her lede.</p>
 <p>Her fadyr, that was of gret renowne, That of golde wered the crowne,</p>
 <p>Lyghte of hys stede;</p>
-</td>
-<td>
-<p>205</p>
 
-<p>210</p>
-</td>
-<td>
+
 <p>The maiden, white as a lily-flower, alighted facing her father, the emperor; two knights led her.</p>
 <p>Her father, who was of great fame, who wore the golden crown,</p>
 <p>alighted from his steed.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>When they wer bothe on her fete,</p>
-</td>
-<td>
 
-</td>
-<td>
+
+<p>When they wer bothe on her fete,</p>
+
+
 <p>When they were both on their feet,</p>
-</td>
-</tr>
-</table>
+
 
 <p>He klypped her ond kyssed her swete, And bothe on fote they yede,</p>
 <p>They wer glad and made good chere, To the palys they yede in fere.</p>
@@ -567,11 +429,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>So he was anamored hys thowghter tyll, With her he thowghth to worche his wyll,</p>
 <p>And wedde her to hys wyfe.</p>
 
-<p>215</p>
 
-<p>220</p>
-
-<p>225</p>
 <p>he embraced her and sweetly kissed her, and they both walked on foot.</p>
 <p>They were joyous and made good cheer and walked to the palace together,</p>
 <p>as we read in romance.</p>
@@ -582,594 +440,353 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>was fixated on loving her. He gazed at her often.</p>
 <p>He was so enamored by his daughter that he schemed how to have his way and wed her as his wife.</p>
 
-<table cellspacing="0">
-<tr>
-<td>
+
 <p>And when the mete-whyle was doun,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>And when dinner was over</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Into hys chamber he wente soun,</p>
-</td>
-<td>
-<p>230</p>
-</td>
-<td>
+
+
 <p>he soon went into his chamber</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>And called his counseyle nere,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>and called his council in.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>He bad they shulde sone go and come,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>He bade them to go and return quickly,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>And gete leve of the pope of Rome,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>and get leave from the Pope of Rome</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>To wedde that mayden clere.</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>to wed that beautiful maiden.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Messengeres forth they wente,</p>
-</td>
-<td>
-<p>235</p>
-</td>
-<td>
+
+
 <p>The messengers went forth.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>They durst not breke his commandement,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>They did not dare to break his command;</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>And erles with hem yn sere,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>and earls went with them, too.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>They wente to the courte of Rome,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>They went to the court in Rome</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>And browghte the popus bullus sone,</p>
-</td>
-<td>
 
-</td>
-<td>
+
+<p>And browghte the popus bullus sone,</p>
+
+
 <p>and soon brought (back) the Pope’s dispensation</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>To wedde hys dowghter dere.</p>
-</td>
-<td>
-<p>240</p>
-</td>
-<td>
+
+
 <p>[for Artyus] to wed his dear daughter.</p>
-</td>
-</tr>
-</table>
+
 
 <p>Then was the emperour gladde and blythe, And lette shape a robe swythe,</p>
 <p>Of that cloth of golde,</p>
 <p>And when hit was don her upon, She semed non erthely wommon,</p>
 <p>That marked was of molde.</p>
 
-<p>245</p>
+
 <p>Then the emperor was joyous and happy, and swiftly had a robe shaped</p>
 <p>from the gold cloth.</p>
 <p>And when it was put upon her</p>
 <p>she did not seem like an earthly woman who was created by God.</p>
 
-<table cellspacing="0">
-<tr>
-<td>
+
 <p>Then seyde the emperour so fre, Dowghtyr, y woll wedde the,</p>
 <p>Thow art so fresh to beholde.</p>
 <p>Then sayde that wordy unther wede,</p>
-</td>
-<td>
 
-<p>250</p>
-</td>
-<td>
+
 <p>Then the very noble emperor said, “Daughter, I want to wed you,</p>
 <p>you are so bright to behold.”</p>
 <p>Then that worthy one underneath the clothing said,</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Nay, syr, god of heven hit forbede, That ever do so we shulde!</p>
-</td>
-<td>
 
-</td>
-<td>
+
+<p>Nay, syr, god of heven hit forbede, That ever do so we shulde!</p>
+
+
 <p>“No, Sir, God of Heaven forbids that we should ever do so!</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Yyf hit so betydde that ye me wedde, And we shulde play togedere in bedde,</p>
 <p>Bothe we were forlorne;</p>
-</td>
-<td>
 
-<p>255</p>
-</td>
-<td>
+
 <p>“If it so happened that you married me and we were to amuse ourselves in bed we would both be lost!</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>The worde shulde sprynge fer and wyde In all the worlde on every syde,</p>
 <p>The worde shulde be borne. Ye ben a lorde of gret pryce,</p>
 <p>Lorde, lette never suche sorow aryce,</p>
-</td>
-<td>
 
-<p>260</p>
-</td>
-<td>
+
 <p>The word would spread far and wide; the news would be carried</p>
 <p>into every corner of the world.</p>
 <p>You are a lord of outstanding praise, [so] Lord, never let such sorrow arise:</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Take god you beforne;</p>
 <p>That my fader shulde wedde me, God forbede that i hyt so se,</p>
 <p>That wered the crowne of thorne!</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>pay heed to God!</p>
 <p>That my father should wed me,</p>
 <p>God forbid that I should witness that,</p>
 <p>(God) who was adorned with a crown of thorns!”</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>The emperour was ryght wrothe, And swore many a gret othe,</p>
 <p>That deed shulde she be; He lette make a nobull boot,</p>
 <p>And dede her theryn god wote,</p>
 <p>In the robe of nobull ble.</p>
-</td>
-<td>
-<p>265</p>
 
-<p>270</p>
-</td>
-<td>
+
 <p>The emperor was consumed with rage, and swore many a great oath</p>
 <p>that she must die.</p>
 <p>He had a magnificent boat made and put her inside, God knows,</p>
 <p>in that robe of magnificent brightness.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>She moste have with her no spendyng, Nother mete ne drynke,</p>
 <p>Bot shote her yn to the se; Now the lady dwelled thore,</p>
 <p>Wythowte anker or ore,</p>
-</td>
-<td>
 
-<p>275</p>
-</td>
-<td>
+
 <p>She was not permitted to have any spendable wealth with her, nor food, nor drink,</p>
 <p>and he cast her into the sea.</p>
 <p>Now the lady remained there for a long time without anker or [steering] oar</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>And that was gret pytè.</p>
-</td>
-<td>
 
-</td>
-<td>
+
+<p>And that was gret pytè.</p>
+
+
 <p>and that was a great misery!</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Ther come a wynd, y untherstonde, And blewe the boot fro the londe,</p>
 <p>Of her they lost the syght,</p>
 <p>The emperour hym bethowght,</p>
-</td>
-<td>
 
-<p>280</p>
-</td>
-<td>
+
 <p>There came a wind, I understand,</p>
 <p>and [it] blew her boat away from the shore. They lost sight of her.</p>
 <p>The emperor thought to himself</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>That he hadde all myswrowht,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>that he had done a great wrong</p>
-</td>
-</tr>
-</table>
 
-<table cellspacing="0">
-<tr>
-<td>
+
 <p>And was a sory knyghte. And as he stode yn studyÿnge, He fell down in sowenynge,</p>
 <p>To the yrthe was he dyght ;</p>
-</td>
-<td>
 
-<p>285</p>
-</td>
-<td>
+
 <p>and he was a sorry knight.</p>
 <p>And as he stood in contemplation, he fell down into a swoon,</p>
 <p>he fell down onto the ground.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Gret lordes stode therby,</p>
 <p>And toke yn the emperour hastyly, And comforted hym fayr and ryght.</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>Great lords stood nearby</p>
 <p>and hastily helped up the emperor and comforted him kindly and well.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>When he of sownyng kovered was, Sore he wepte and sayde, Alas,</p>
-</td>
-<td>
 
-<p>290</p>
-</td>
-<td>
+
+<p>When he of sownyng kovered was, Sore he wepte and sayde, Alas,</p>
+
+
 <p>When he had regained consciousness he wept sorely and said, “Alas,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>For my dowhter dere! Alas, that y was made man,</p>
 <p>Wrecched kaytyf that i hit am! ǂ The teres ronne by his lere.</p>
 <p>I wrawght ayeyn goddes lay,</p>
-</td>
-<td>
 
-<p>295</p>
-</td>
-<td>
+
 <p>for my dear daughter! Alas, that I was born,</p>
 <p>miserable wretch that I am!” The tears ran down his face.</p>
 <p>“I acted against God’s law</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>To her that was so trewe of fay: Alas, why ner she here!</p>
 <p>The teres lasshed out of his yyen, The grete lordes that hyt syyen,</p>
 <p>Wepte and made yll chere.</p>
-</td>
-<td>
 
-<p>300</p>
-</td>
-<td>
+
 <p>towards her, who was so true of faith, alas, why is she not here!”</p>
 <p>The tears flooded out of his eyes;</p>
 <p>the high-ranked lords who witnessed this wept and displayed their grief.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Ther was nother olde ny yynge, That kowthe stynte of wepynge, For that comely unther kelle,</p>
 <p>Into shypys faste gan they thrynge,</p>
 <p>For to seke that mayden yynge,</p>
-</td>
-<td>
 
-<p>305</p>
-</td>
-<td>
+
 <p>Nobody, neither old nor young could abstain from weeping</p>
 <p>for that beautiful one under the cloak.</p>
 <p>They quickly rushed onto ships</p>
 <p>in order to seek the young maiden</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>That was so fayr of flesh and fell; They her sowght over all yn the see, And myghte not fynde that lady fre,</p>
 <p>Ayeyn they come full snell.</p>
 <p>At the emperour now leve we,</p>
-</td>
-<td>
 
-<p>310</p>
-</td>
-<td>
+
 <p>who was so fair of flesh and skin. They searched for her all over the sea and could not find that noble lady.</p>
 <p>Quickly they came back.</p>
 <p>We now leave the emperor,</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>And of the lady yn the see, I shall begynne to tell.</p>
-</td>
-<td>
 
-</td>
-<td>
+
+<p>And of the lady yn the see, I shall begynne to tell.</p>
+
+
 <p>and I shall begin to speak of the lady at sea.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>The ladye fleted forth alone,</p>
 <p>To god of heven she made her mone, And to hys modyr also;</p>
-</td>
-<td>
 
-<p>315</p>
-</td>
-<td>
+
 <p>The lady drifted forth alone;</p>
 <p>to God in Heaven she made her complaint and also to His mother.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>She was dryven with wynde and rayn,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>She was propelled by the wind and the rain</p>
-</td>
-</tr>
-</table>
 
-<table cellspacing="0">
-<tr>
-<td>
+
 <p>With strong stormes her agayn, Of the water so blo.</p>
 <p>As y have herd menstrelles syng yn sawe,</p>
 <p>Hows ny lond myghth she non knawe,</p>
-</td>
-<td>
 
-<p>320</p>
-</td>
-<td>
+
 <p>and opposed by the dark water’s fierce storms.</p>
 <p>As I have heard storytellers sing and tell</p>
 <p>she could neither see settlements nor land;</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Aferd she was to go,</p>
 <p>She was so dryven fro wawe to wawe, She hyd her hede and laye full lawe,</p>
 <p>For watyr she was full woo.</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>she was afraid to move.</p>
 <p>She was tossed from wave to wave. She hid her head and lay low.</p>
 <p>The water tormented her.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Now this lady dwelled thore</p>
 <p>A good seven nyghth and more, As hit was goddys wylle,</p>
 <p>With carefull herte, and sykyng sore, Such sorow was here yarked yore,</p>
 <p>And ever lay she styll.</p>
-</td>
-<td>
-<p>325</p>
 
-<p>330</p>
-</td>
-<td>
+
 <p>Now this lady remained there</p>
 <p>for a good seven nights and longer</p>
 <p>—as it was God’s will—</p>
 <p>with a heavy heart and sighing loudly; this misfortune was her destiny</p>
 <p>and she always lay still.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>She was dryven ynto a lond, Thorow the grace of goddes sond,</p>
 <p>That all thyng may fulfylle,</p>
 <p>She was on the see so harde bestadde, For hunger and thurste almost madde,</p>
-</td>
-<td>
 
-<p>335</p>
-</td>
-<td>
+
 <p>She was driven to a land</p>
 <p>through the grace of God’s mercy which encompasses all things.</p>
 <p>She had been harassed so severely at sea</p>
 <p>that she was almost crazed from hunger and thirst.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Woo worth wederus yll!</p>
-</td>
-<td>
 
-</td>
-<td>
+
+<p>Woo worth wederus yll!</p>
+
+
 <p>Cursed be ill weather!</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>She was dryven into a lond,</p>
 <p>That hyghth Galys, y untherstond, That was a fayr cuntre,</p>
 <p>The kynges steward dwelled ther bysyde,</p>
-</td>
-<td>
 
-<p>340</p>
-</td>
-<td>
+
 <p>She was driven into a land</p>
 <p>that was called “Galys,” as I understand, which was a pleasant country.</p>
 <p>The king’s steward dwelled there beside [the sea]</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>In a kastell of mykyll pryde, Syr Kadore hyght he.</p>
 <p>Every day wolde he go,</p>
 <p>And take with hym a sqwyer or two, And play hym by the see;</p>
-</td>
-<td>
 
-<p>345</p>
-</td>
-<td>
+
 <p>in a castle of great worth; he was called Sir Kadore.</p>
 <p>Every day he would go</p>
 <p>and take a squire or two with him</p>
 <p>and they would amuse themselves on the beach.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>On a tyme he toke the eyr,</p>
 <p>With two knyghtes gode and fayr, The wedur was lythe of le.</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>On one of these occasions he went outside for a walk with two good and fair knights;</p>
 <p>the weather was pleasant and calm.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>A boot he fond by the brym, And a glysteryng thyng theryn,</p>
-</td>
-<td>
 
-<p>350</p>
-</td>
-<td>
+
 <p>He found a boat by the sea and a glistening thing inside it</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Therof they had ferly,</p>
-</td>
-<td>
 
-</td>
-<td>
+
+<p>Therof they had ferly,</p>
+
+
 <p>which made them marvel.</p>
-</td>
-</tr>
-</table>
+
 
 <p>They went forth on the sond, To the boot i untherstond,</p>
 <p>And fond theryn that lady. She hadde so longe meteles be, That hym thowht dele to se,</p>
@@ -1195,19 +812,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 
 <p>Syr Kadore lette make a feste, That was fayr and honeste,</p>
 
-<p>355</p>
 
-<p>360</p>
-
-<p>365</p>
-
-<p>370</p>
-
-<p>375</p>
-
-<p>380</p>
-
-<p>385</p>
 <p>They went across the sand to the boat, as I understand, and found that lady inside.</p>
 <p>She had been without food for so long that it grieved them greatly to see [that] she was on the point of dying. They asked her what her name was: she changed it there on the spot</p>
 <p>and said she was called Egaré.</p>
@@ -1233,112 +838,71 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>The cloth upon her shone so bryghth, When she was theryn ydyghth,</p>
 <p>She semed non erdly thyng.</p>
 
-<p>390</p>
 
-<p>395</p>
 <p>for his lord, the king.</p>
 <p>There was much entertainment, trumpets, tambourines, and zithers, harps, as well as fiddle-playing.</p>
 <p>The lady who was noble and [yet] lowly, served in the hall in just her frock before that noble king.</p>
 <p>The cloth upon her shone so intensely when she was in dressed in it</p>
 <p>that she did not seem to be an earthly thing.</p>
 
-<table cellspacing="0">
-<tr>
-<td>
+
 <p>The kyng loked her upon,</p>
 <p>So fayr a lady he sygh nevur non, His herte she hadde yn wolde,</p>
 <p>He was so anamered of that syghth,</p>
-</td>
-<td>
 
-<p>400</p>
-</td>
-<td>
+
 <p>The king gazed at her.</p>
 <p>He had never seen such a beautiful lady before. She held his heart in her grasp.</p>
 <p>He was so enamored of that sight</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Of the mete non he myghth, But faste gan her beholde ;</p>
 <p>She was so fayr and gent,</p>
 <p>The kynges love on her was lent, In tale as hyt ys tolde;</p>
-</td>
-<td>
 
-<p>405</p>
-</td>
-<td>
+
 <p>that he was unable to eat</p>
 <p>but quickly fixed his gaze upon her.</p>
 <p>She was so beautiful and noble</p>
 <p>that the king’s love was bestowed on her as it is told in the tale.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>And when the mete-whyle was doun, In to the chamber he wente soun,</p>
 <p>And called his barouns bolde.</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>And when the dinner was over he went quickly into his chamber</p>
 <p>and confidently called his barons.</p>
-</td>
-</tr>
-<tr>
-<td>
+
 
 <p>Fyrst he called syr Kadore,</p>
 <p>And other knyghtes that ther wore,</p>
-</td>
-<td>
 
-<p>410</p>
-</td>
-<td>
 
 <p>First he called Sir Kadore,</p>
 <p>and other knights that were present,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Hastely come hym tyll, Dukes and erles, wyse of lore, Hastely come the kyng before,</p>
 <p>And askede what was his wyll.</p>
 <p>Then spakke the ryche yn ray,</p>
-</td>
-<td>
 
-<p>415</p>
-</td>
-<td>
+
 <p>to come to him quickly.</p>
 <p>Well-educated dukes and earls hastily came before the king and asked him what he required.</p>
 <p>Then the powerful sovereign spoke.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>To syr Kadore gan he say, Wordes fayr and stylle:</p>
 <p>Syr, whenns ys that lovely may, That yn the halle served this day?</p>
 <p>Tell me yyf hyt be thy wyll.</p>
-</td>
-<td>
 
-<p>420</p>
-</td>
-<td>
+
 <p>He started uttering</p>
 <p>affectionate and secret words to Sir Kadore: “Sir, where is that lovely maiden from,</p>
 <p>who was serving in the hall today?</p>
 <p>Tell me if you may.”</p>
-</td>
-</tr>
-</table>
+
 
 <p>Then sayde syr Kadore, Y untherstonde, Then Sir Kadore said, as I understand,</p>
 
@@ -1355,13 +919,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>And her self a gentell may. The olde qwene sayde anon, I sawe never wommon</p>
 <p>Halvendell so gay!</p>
 
-<p>425</p>
 
-<p>430</p>
-
-<p>435</p>
-
-<p>440</p>
 <p>“She is an earl’s daughter from a faraway land who is beautiful to look at.</p>
 <p>Truthfully I sent for her to nurture my children,</p>
 <p>and to keep them company in their chamber. She is the most erudite woman,</p>
@@ -1374,140 +932,78 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>and [she was] herself a noble maiden. The old queen immediately said,</p>
 <p>“I have never seen a woman even half as magnificent!”</p>
 
-<table cellspacing="0">
-<tr>
-<td>
+
 <p>The olde quene spakke wordes unhende,</p>
-</td>
-<td>
-<p>445</p>
-</td>
-<td>
+
+
 <p>The old queen spoke unkind words</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>And sayde, Sone, thys ys a fende,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>and said, “Son, this is a fiend</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>In this wordy wede,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>in this costly dress!</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>As thou lovest my blessynge,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>Since you have asked for my blessing,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Make thou never this weddynge,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>do not ever go through with this wedding.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Cryst hit de forbede!</p>
-</td>
-<td>
-<p>450</p>
-</td>
-<td>
+
+
 <p>Christ forbids you to do it!”</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Then spakke the ryche ray,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>Then the powerful sovereign said,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Modyr, y wyll have this may,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>“Mother, I will possess this maiden!”</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>And forth gan her lede.</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>And he led her away.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>The olde quene, for certayne,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>The old queen, truthfully,</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Turnede with ire hom agayne,</p>
-</td>
-<td>
-<p>455</p>
-</td>
-<td>
-<p>furiously went back home</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>And wolde not be at that dede.</p>
-</td>
-<td>
 
-</td>
-<td>
+
+<p>Turnede with ire hom agayne,</p>
+
+
+<p>furiously went back home</p>
+
+
+<p>And wolde not be at that dede.</p>
+
+
 <p>and would not attend the wedding.</p>
-</td>
-</tr>
-</table>
+
 
 <p>The kyng wedded that lady bryght, Grete purvyance ther was dyghth,</p>
 <p>In that semely sale,</p>
@@ -1530,19 +1026,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>In armour bryght and shene; Then sayde the kyng to Syr Kadore, And other lordes that ther wore,</p>
 <p>Take good hede to my qwene.</p>
 
-<p>460</p>
 
-<p>465</p>
-
-<p>470</p>
-
-<p>475</p>
-
-<p>480</p>
-
-<p>485</p>
-
-<p>490</p>
 <p>The king wed that radiant lady,</p>
 <p>and great hospitality was arranged for there in that beautiful hall.</p>
 <p>Distinguished lords were served according to courtly protocol: dukes, earls, barons, and knights</p>
@@ -1573,9 +1057,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>That semely unther serke; Thyll ther was of her body</p>
 <p>A fayre chyld borne, and a godele, Hadde a dowbyll kynges marke.</p>
 
-<p>495</p>
 
-<p>500</p>
 <p>The King of France spared nobody, but sent for all of them:</p>
 <p>kings, knights, and clergy.</p>
 <p>The steward who was left at home</p>
@@ -1584,140 +1066,78 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>for as long as it was God’s will, that beautiful one under her shift, until from her body</p>
 <p>a beautiful and handsome child was delivered [who] had a double king’s mark.</p>
 
-<table cellspacing="0">
-<tr>
-<td>
+
 <p>They hit crystened wyth grete honour,</p>
-</td>
-<td>
-<p>505</p>
-</td>
-<td>
+
+
 <p>They christened him with great honor,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>And called hym Segramour,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>and called him Segramour;</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Frely was that fode;</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>that baby was of noble lineage.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Then the steward syr Kadore,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>Then the steward, Sir Kadore,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>A nobull letter made he thore,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>wrote a noble letter right away</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>And wrowghte hit all with gode.</p>
-</td>
-<td>
-<p>510</p>
-</td>
-<td>
+
+
 <p>and crafted it well.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>He wrowghte hit yn hyghynge,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>He crafted it in haste,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>And sente hit to his lorde the kynge,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>and sent it to his lord, the king,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>That gentyll was of blode;</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>who was of noble lineage.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>The messenger forth gan wende,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>The messenger then went on his way.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>And with the kynges moder gan lende,</p>
-</td>
-<td>
-<p>515</p>
-</td>
-<td>
-<p>He came by the king’s mother[‘s place]</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>And yn to the castell he yode.</p>
-</td>
-<td>
 
-</td>
-<td>
+
+<p>And with the kynges moder gan lende,</p>
+
+
+<p>He came by the king’s mother[‘s place]</p>
+
+
+<p>And yn to the castell he yode.</p>
+
+
 <p>and went into the castle.</p>
-</td>
-</tr>
-</table>
+
 
 <p>He was resseyved rychely, And she hym askede hastyly,</p>
 <p>How the qwene hadde spedde; “Madame, ther ys of her yborne</p>
@@ -1726,9 +1146,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>And rychely hym cladde:</p>
 <p>She made hym dronken of ale and wyne; And when she sawe that hit was tyme,</p>
 
-<p>520</p>
 
-<p>525</p>
 <p>He was received splendidly and she eagerly asked him</p>
 <p>how the queen had been faring. “My Lady, she has given birth to</p>
 <p>a beautiful male child, I am telling you truthfully, and she is lying in [child]bed.”</p>
@@ -1759,19 +1177,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>And sygh wedded the fayrest thyng That on erthe myght go;</p>
 <p>That evur Jhesu hymself wolde sende,</p>
 
-<p>530</p>
 
-<p>535</p>
-
-<p>540</p>
-
-<p>545</p>
-
-<p>550</p>
-
-<p>555</p>
-
-<p>560</p>
 <p>And when he had fallen asleep, the queen, who had an evil mind, went to the chamber.</p>
 <p>She took his letter from him and then burnt it in a fire;</p>
 <p>her machinations were unkind.</p>
@@ -1798,140 +1204,78 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>such a foul, loathly fiend,</p>
 <p>to come between the two of us.”</p>
 
-<table cellspacing="0">
-<tr>
-<td>
+
 <p>When he sawe hit myght no better be,</p>
-</td>
-<td>
-<p>565</p>
-</td>
-<td>
+
+
 <p>When he saw it could not be helped,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Another letter then made he,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>he made another letter,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>And seled hit with his sele ;</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>and sealed it with his seal.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>He commanded yn al thynge,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>He commanded that above all,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>To kepe well that lady yynge,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>the young lady was to be kept safe</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Tyll she hadde her hele;</p>
-</td>
-<td>
-<p>570</p>
-</td>
-<td>
+
+
 <p>until she had recovered [from the birth];</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Bothe gode men and ylle,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>everybody, righteous or evil,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>To serve her at her wylle,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>was to serve her as she commanded</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Bothe yn wo and wele:</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>for better or worse.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>He toke this letter of his honde,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>[The messenger] took the letter from his hands,</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>And rode thorow the same londe,</p>
-</td>
-<td>
-<p>575</p>
-</td>
-<td>
-<p>and rode back along the same route</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>By the kynges modur castell.</p>
-</td>
-<td>
 
-</td>
-<td>
+
+<p>And rode thorow the same londe,</p>
+
+
+<p>and rode back along the same route</p>
+
+
+<p>By the kynges modur castell.</p>
+
+
 <p>via the king’s mother’s castle.</p>
-</td>
-</tr>
-</table>
+
 
 <p>And then he dwelled ther all nyght, He was resseyved and rychely dyght,</p>
 <p>And wyst of no treson,</p>
@@ -1946,13 +1290,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>But lede her out of that kyth. Ɨ Upon payn of chylde and wyfe And also upon your owene lyfe</p>
 <p>Lette her have no gryth;</p>
 
-<p>580</p>
 
-<p>585</p>
-
-<p>590</p>
-
-<p>595</p>
 <p>And then he stayed there all night;</p>
 <p>he was received well and outfitted richly and he was not aware of any treason.</p>
 <p>He made himself comfortable, perfectly at ease, with bread, ale, and wine,</p>
@@ -1969,440 +1307,266 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>or you will be punished by death</p>
 <p>along with your own children and your wife!”</p>
 
-<table cellspacing="0">
-<tr>
-<td>
+
 <p>The messenger knew no gyle, But rode hom mony a myle,</p>
 <p>By forest and by fryth.</p>
-</td>
-<td>
 
-<p>600</p>
-</td>
-<td>
+
 <p>The messenger was completely unaware [of this] and he rode home for many a mile</p>
 <p>through forests and estates.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>And when the messenger come home, The steward toke the letter sone,</p>
 <p>And bygan to rede ;</p>
 <p>Sore he syght and sayde, alas ! Sertes this ys a fowle case,</p>
-</td>
-<td>
 
-<p>605</p>
-</td>
-<td>
+
 <p>And when the messenger came home the steward quickly took the letter and started to read.</p>
 <p>He sighed heavily and said, “Alas,</p>
 <p>certainly this is a foul case,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>And a defull dede.</p>
 <p>And as he stode yn redyng, He fell downe yn swounynge,</p>
 <p>For sorow his hert gan blede;</p>
 <p>Ther was nother olde ny yynge,</p>
-</td>
-<td>
 
-<p>610</p>
-</td>
-<td>
+
 <p>and a doleful deed!”</p>
 <p>And as he stood reading, he fell down swooning;</p>
 <p>his heart was bleeding from sorrow.</p>
 <p>There was nobody, neither old nor young,</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>That myghte forbere of wepynge, For that worthy unther wede.</p>
-</td>
-<td>
 
-</td>
-<td>
+
+<p>That myghte forbere of wepynge, For that worthy unther wede.</p>
+
+
 <p>who would not weep</p>
 <p>for that worthy one underneath her dress.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>The lady herde gret dele yn halle, On the steward gan she calle,</p>
 <p>And sayde, What may this be</p>
-</td>
-<td>
 
-<p>615</p>
-</td>
-<td>
+
 <p>The lady heard the great clamour in the hall.</p>
 <p>She called the steward</p>
 <p>and said, “What can this be about?</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Yyf any thyng be amys, Tell me what that hit ys, And lette not for me.</p>
 <p>Then sayde the steward verament,</p>
 <p>Lo her a letter my lorde hath sente,</p>
-</td>
-<td>
 
-<p>620</p>
-</td>
-<td>
+
 <p>If anything is amiss, tell me what it is</p>
 <p>and conceal nothing from me.” Then the steward said, truthfully,</p>
 <p>“Lo, my lord has sent a letter,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>And therfore woos ys me:</p>
 <p>She toke the letter and bygan to rede, Then fonde she wryten all the dede,</p>
 <p>How she moste ynto the see.</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>and that is why I am distressed!”</p>
 <p>She took the letter and began to read.</p>
 <p>There she found the entire command written down: how she must [be thrown] into the sea.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Be stylle, syr, sayde the qwene, Lette syche morynge bene,</p>
 <p>For me have thou no kare; Loke thou be not shente,</p>
 <p>But do my lordes commaundement,</p>
 <p>God forbede thou spare;</p>
-</td>
-<td>
-<p>625</p>
 
-<p>630</p>
-</td>
-<td>
+
 <p>“Be quiet, Sir,” said the queen, “Refrain from such mourning for my sake.</p>
 <p>Make sure that you will not be disgraced but do my lord’s bidding.</p>
 <p>God forbid you spare [me].</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>For he weddede so porely,</p>
 <p>On me a sympull lady,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>Because he made such a poor marriage,</p>
 <p>with me, a plain lady,</p>
-</td>
-</tr>
-</table>
 
-<table cellspacing="0">
-<tr>
-<td>
+
 <p>He ys ashamed sore; Grete well my lord fro me,</p>
 <p>So gentyll of blode yn Cristyante,</p>
-</td>
-<td>
 
-<p>635</p>
-</td>
-<td>
+
 <p>he is profoundly ashamed. Send my greetings to my lord.</p>
 <p>Nevermore will he obtain</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Gete he never more.</p>
-</td>
-<td>
 
-</td>
-<td>
+
+<p>Gete he never more.</p>
+
+
 <p>[one] of such noble lineage in all Christendom.”</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Then was ther sorow and myche woo, When the lady to shype shulde go,</p>
 <p>They wepte and wronge her honde; Ɨ</p>
 <p>The lady that was meke and mylde,</p>
-</td>
-<td>
 
-<p>640</p>
-</td>
-<td>
+
 <p>Then there was misery and much sorrow when the lady had to go to the ship.</p>
 <p>They wept and wrought their hands.</p>
 <p>The lady who was humble and compassionate</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>In her arme she bar her chylde And toke leve of the londe. When she wente ynto the see,</p>
 <p>In that robe of ryche ble,</p>
 <p>Men sowened on the sonde;</p>
-</td>
-<td>
 
-<p>645</p>
-</td>
-<td>
+
 <p>bore the child in her arms and took leave of the land. When she went into the sea in the robe of radiant hues,</p>
 <p>people swooned on the beach.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Sore they wepte, and sayde, Alas! Certes this ys a wykked kase,</p>
 <p>Wo worth dedes wronge!</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>They wept bitterly and said, “Alas, this is certainly a cruel case.</p>
 <p>Cursed be malicious deeds!”</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>The lady and the lytyll chylde, Fleted forth on the water wylde,</p>
-</td>
-<td>
 
-<p>650</p>
-</td>
-<td>
+
+<p>The lady and the lytyll chylde, Fleted forth on the water wylde,</p>
+
+
 <p>The lady and the little child drifted away on the raging water</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>With full harde happes;</p>
 <p>Her surkote that was large and wyde, Therwith her vysage she gan hyde,</p>
 <p>With the hynther lappes.</p>
 <p>She was aferde of the see,</p>
-</td>
-<td>
 
-<p>655</p>
-</td>
-<td>
+
 <p>in a stroke of bad luck.</p>
 <p>Her surcoat was large and wide: she sheltered her face</p>
 <p>in its outer folds;</p>
 <p>she was afraid of the sea,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>And layde her gruf upon a tre, The chylde to her pappes;</p>
 <p>The wawes that were grete and strong, On the bote faste they thronge, Ɨ</p>
 <p>With mony unsemely rappes.</p>
-</td>
-<td>
 
-<p>660</p>
-</td>
-<td>
+
 <p>and lay face downward on a plank with the child at her breast.</p>
 <p>The waves were huge and forceful; they violently flogged the boat with many harsh thuds.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>And when the chyld gan to wepe, With sory hert she songe hit aslepe,</p>
 <p>And put the pappe yn his mowth, And sayde, Myghth y ones gete lond,</p>
 <p>Of the water that ys so stronge,</p>
-</td>
-<td>
 
-<p>665</p>
-</td>
-<td>
+
 <p>And when the child began to weep she sang it to sleep with a heavy heart and put her nipple into his mouth</p>
 <p>and said, “If only I could get to land</p>
 <p>from this sea which is so fierce,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>By northe or by sowthe!</p>
 <p>Wele owth y to warye the see,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>whether in the North or South!</p>
 <p>I ought to curse you, Sea,</p>
-</td>
-</tr>
-</table>
 
-<table cellspacing="0">
-<tr>
-<td>
+
 <p>I have myche shame yn the, And ever she lay and growht;</p>
 <p>Then she made her prayer,</p>
-</td>
-<td>
 
-<p>670</p>
-</td>
-<td>
+
 <p>you are causing me such disgrace!”</p>
 <p>And she lay there the whole time and grieved, then she prayed</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>To Jhesu and his moder dere, In all that she kowthe.</p>
-</td>
-<td>
 
-</td>
-<td>
+
+<p>To Jhesu and his moder dere, In all that she kowthe.</p>
+
+
 <p>to Jesus and His dear Mother in all the ways that she knew.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Now this lady dwelled thore A full sevene nyght and more,</p>
 <p>As hit was goddys wylle ;</p>
-</td>
-<td>
 
-<p>675</p>
-</td>
-<td>
+
 <p>Now this lady remained there</p>
 <p>for a full seven nights and longer, as was God’s will.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>With karefull herte and sykyng sore, Such sorow was her yarked yore,</p>
 <p>And she lay full stylle.</p>
 <p>She was dryven toward Rome, Thorow the grace of god yn trone,</p>
-</td>
-<td>
 
-<p>680</p>
-</td>
-<td>
+
 <p>With a frightened heart and sighing heavily,</p>
 <p>she had been destined for such misfortune long ago, and she lay very still.</p>
 <p>She was driven towards Rome</p>
 <p>through the grace of God on His throne</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>That all thyng may fulfylle:</p>
 <p>On the see she was so harde bestadde For hunger and thurste allmoste madde,</p>
 <p>Wo worth chawnses ylle!</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>who pervades all things.</p>
 <p>While at sea she was harassed so badly</p>
 <p>[that she was] almost crazed from hunger and thirst. Cursed be ill chance!</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>A marchaunte dwelled yn that cytè, A ryche mon of golde and fee,</p>
 <p>Jurdan was hys name; Eevery day wolde he,</p>
 <p>Go to playe hym by the see,</p>
 <p>The eyer for to tane.</p>
-</td>
-<td>
-<p>685</p>
 
-<p>690</p>
-</td>
-<td>
+
 <p>A merchant lived in that city,</p>
 <p>a rich man who owned gold and bonds; Jurdan was his name.</p>
 <p>Every day he would</p>
 <p>go and amuse himself on the beach and go outside for a walk.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>He wente forth yn that tyde, Walkynge by the see sythe,</p>
 <p>Alle hym selfe alone:</p>
 <p>A bote he fonde by the brymme, And a fayr lady therynne,</p>
-</td>
-<td>
 
-<p>695</p>
-</td>
-<td>
+
 <p>While he was out, walking by the seaside by himself, all alone,</p>
 <p>he found a boat by the shore,</p>
 <p>and a beautiful lady inside</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>That was ryght wo-bygone.</p>
-</td>
-<td>
 
-</td>
-<td>
+
+<p>That was ryght wo-bygone.</p>
+
+
 <p>who was very wretched.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>The cloth on her shon so bryth He was aferde of that syght,</p>
 <p>For glysteryng of that wede;</p>
 <p>And yn his herte he thowghth ryght,</p>
-</td>
-<td>
 
-<p>700</p>
-</td>
-<td>
+
 <p>The fabric on her gleamed so radiantly that he was terrified by the sight</p>
 <p>because of the glistening that came from the dress.</p>
 <p>And in his heart he was convinced</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>That she was non erdyly wyght;</p>
 <p>He sawe never non shuch yn leede.</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>that she was not an earthly being.</p>
 <p>Never had he seen such folk.</p>
-</td>
-</tr>
-</table>
+
 
 <p>He sayde, What hette ye, fayr ladye? Lord, she sayde, y hette Egarye,</p>
 <p>That lye here yn drede:</p>
@@ -2429,19 +1593,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>And wele made of flesh and bone; He was worthy unther wede,</p>
 <p>And ryght well kowthe prike a stede,</p>
 
-<p>705</p>
 
-<p>710</p>
-
-<p>715</p>
-
-<p>720</p>
-
-<p>725</p>
-
-<p>730</p>
-
-<p>735</p>
 <p>He said, “What are you called, fair lady?” “Lord,” she said, “I am called Egaré,</p>
 <p>who lies here in terror.”</p>
 <p>He helped the beautiful lady up</p>
@@ -2472,197 +1624,125 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Leve we at the lady clere of vyce, And speke of the kyng of Galys,</p>
 <p>Fro the sege when he come home.</p>
 
-<p>740</p>
+
 <p>There was no other child as courteous. Everbody loved Segramour,</p>
 <p>in the hall and in the bower, wherever he went.</p>
 <p>Now we shall leave our tale of the lady who is unspoiled by vice and speak instead of the King of “Galys”</p>
 <p>when he comes home from the siege.</p>
 
-<table cellspacing="0">
-<tr>
-<td>
+
 <p>Now the sege broken ys,</p>
 <p>The kyng come home to Galys, With mykyll myrthe and pride; Dukes and erles of ryche asyce,</p>
 <p>Barones and knyghtes of mykyll pryse,</p>
 <p>Come rydynge be hys syde.</p>
-</td>
-<td>
-<p>745</p>
 
-<p>750</p>
-</td>
-<td>
+
 <p>Now that the siege is over,</p>
 <p>the king comes home to “Galys” with great joy and pride.</p>
 <p>Dukes and earls of prosperous estates,</p>
 <p>barons and knights who were of great worth come riding by his side.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Syr Kodore his steward thanne, Ayeyn hym rode with mony a man,</p>
 <p>As faste as he myght ryde; He tolde the kyng aventowres.</p>
 <p>Of his halles and his bowres,</p>
-</td>
-<td>
 
-<p>755</p>
-</td>
-<td>
+
 <p>Sir Kadore, who had been his steward, rode towards him with many a man</p>
 <p>as fast as he could.</p>
 <p>He told the king the fortunes of his halls and his bowers</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>And of his londys wyde.</p>
-</td>
-<td>
 
-</td>
-<td>
+
+<p>And of his londys wyde.</p>
+
+
 <p>and of his wide lands.</p>
-</td>
-</tr>
-<tr>
-<td>
+
 
 <p>The kyng sayde, By goddys name, Syr Kadore, thou art to blame</p>
 <p>For thy fyrst tellynge;</p>
 <p>Thou sholdest fyrst have tolde me</p>
-</td>
-<td>
 
-<p>760</p>
-</td>
-<td>
 
 <p>The king said, “For God’s sake, Sir Kadore, you are to blame for what you have told me first! You should have told me first</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Of my lady Egare,</p>
 <p>I love most of all thyng,</p>
 <p>Then was the stewardes herte wo, And sayde, Lorde, why sayst thou so?</p>
 <p>Art not thou a trewe kynge?</p>
-</td>
-<td>
 
-<p>765</p>
-</td>
-<td>
+
 <p>of my lady Egaré</p>
 <p>whom I love above all things!”</p>
 <p>Then the steward’s heart sank</p>
 <p>and [he] said, “Lord, why do you say so? Are you not a steadfast king?</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Lo her the letter ye sente me,</p>
 <p>Yowr owene self the sothe may se, I have don your byddynge.</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>Look here at the letter you sent me. You may see it for yourself:</p>
 <p>I have done your bidding.”</p>
-</td>
-</tr>
-</table>
+
 
 <p>The kyng toke the letter to rede, And when he sawe that ylke dede,</p>
 <p>He wax all pale and wanne; Sore he grette and sayde, Alas!</p>
 
-<p>770</p>
+
 <p>The king took the letter to read it</p>
 <p>and when he saw the aforementioned document [the letter] he went very pale and wan.</p>
 <p>He cried out deeply and said, “Alas,</p>
 
-<table cellspacing="0">
-<tr>
-<td>
+
 <p>That ever born y was,</p>
 <p>Or ever was made manne! Syr Kadore, so mot y the,</p>
-</td>
-<td>
 
-<p>775</p>
-</td>
-<td>
+
 <p>that I was ever born,</p>
 <p>or was ever made a man! Sir Kadore, by my life,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Thys letter come never fro me, I telle the her anone.</p>
 <p>Bothe they wepte and yaf hem ylle; Alas ! he sayde, saf goddys wylle,</p>
 <p>And both they* sowened than.</p>
-</td>
-<td>
 
-<p>780</p>
-</td>
-<td>
+
 <p>this letter never originated with me, I am telling you here and now.”</p>
 <p>They both wept and berated themselves. “Alas!” they said, “May God’s will be done!”</p>
 <p>And then they both swooned.</p>
-</td>
-</tr>
-<tr>
-<td>
+
 
 <p>Grete lordes stode by,</p>
 <p>And toke up the kyng hastyly, Of hem was grete pytè;</p>
 <p>And when they both kevered were,</p>
 <p>The kyng toke hym the letter ther,</p>
-</td>
-<td>
 
-<p>785</p>
-</td>
-<td>
 
 <p>Distinguished lords stood nearby and they hastily helped up the king; he was a wretched sight.</p>
 <p>And when they had both recovered</p>
 <p>the king examined the letter</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Of the heddys thre.</p>
 <p>A lord, he sayde, be goddes grace, I sawe never this letter in place,</p>
 <p>Alas! how may this be?</p>
 <p>After the messenger ther they sente,</p>
-</td>
-<td>
 
-<p>790</p>
-</td>
-<td>
+
 <p>about the three heads:</p>
 <p>“Oh Lord,” he said, “by God’s grace, I have never seen this letter before! Alas, how can this be?”</p>
 <p>They sent for the messenger.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>The kyng askede what way he wente;</p>
 <p>“Lord, Ɨ be your moder fre.”</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>The king asked which way he had gone:</p>
 <p>“Lord, past your noble mother’s.”</p>
-</td>
-</tr>
-</table>
+
 
 <p>Alas! then sayde the kynge,</p>
 <p>Whether my moder was so unhende, To make thys treson;</p>
@@ -2673,11 +1753,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>When she was fled over the see fome, The nobull kyng dwelled at hom,</p>
 <p>With full hevy chere;</p>
 
-<p>795</p>
 
-<p>800</p>
-
-<p>805</p>
 <p>“Alas!” the king then said.</p>
 <p>“Could my mother be so discourteous as to commit this treason?</p>
 <p>By my crown, she shall be burned without a trial.</p>
@@ -2688,1204 +1764,696 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>When she was cast out upon the sea foam, the noble king remained at home</p>
 <p>in a miserable state.</p>
 
-<table cellspacing="0">
-<tr>
-<td>
+
 <p>With karefull hert and drury mone, Sykynges made he many on,</p>
 <p>For Egarye the clere:</p>
-</td>
-<td>
 
-<p>810</p>
-</td>
-<td>
+
 <p>With a heavy heart and a mournful mind he sighed a lot</p>
 <p>for the beautiful Egaré.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>And when he sawe chylderen play, He wepte and sayde, Well awey !</p>
 <p>For my sone so dere.</p>
 <p>Such lyf he lyved mony a day, That no mon hym stynte may,</p>
-</td>
-<td>
 
-<p>815</p>
-</td>
-<td>
+
 <p>And when he saw children playing, he wept and said, “Oh, woe, woe, for my son who is so dear to me!” That was his life for many days,</p>
 <p>[and] nobody could put an end to [his suffering]</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Fully seven yere.</p>
-</td>
-<td>
 
-</td>
-<td>
+
+<p>Fully seven yere.</p>
+
+
 <p>for a full seven years—</p>
-</td>
-</tr>
-<tr>
-<td>
+
 
 <p>Tyll a thowght yn hys herte come, How his lady whyte as fome,</p>
 <p>Was drowned for his sake:</p>
 <p>“Thorow the grace of gode yn trone,</p>
-</td>
-<td>
 
-<p>820</p>
-</td>
-<td>
 
 <p>until [one day] a thought came into his heart: how his lady who was white as foam</p>
 <p>had been drowned for his sake.</p>
 <p>“Through the grace of God on His throne,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>I woll to the pope of Rome, My penans for to take.”</p>
 <p>He lette ordeyne shypus fele,</p>
 <p>And fylled hem full of wordes wele, Hys men mery with to make;</p>
-</td>
-<td>
 
-<p>825</p>
-</td>
-<td>
+
 <p>I want to see the Pope in Rome, to receive my penance!”</p>
 <p>He had many ships prepared</p>
 <p>and loaded them with worldly wealth with which to make his men merry.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Dolys he lette dyghth and dele, For to wynnen hym sowles hele,</p>
 <p>To the shyp he toke the gate.</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>He had alms distributed</p>
 <p>in order to gain salvation for his soul, [then] he made his way to the ship.</p>
-</td>
-</tr>
-<tr>
-<td>
+
 
 <p>Shypmen, that wer so mykyll of price, Dyght her takull on ryche acyse,</p>
-</td>
-<td>
 
-<p>830</p>
-</td>
-<td>
 
 <p>Sailors who were very skilled prepared the rigging,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>That was fayr and fre;</p>
 <p>They drowgh up sayl, and leyd out ore, The wynde stode as her lust wore</p>
 <p>The wether was lythe on le.</p>
 <p>They sayled over the salt fome,</p>
-</td>
-<td>
 
-<p>835</p>
-</td>
-<td>
+
 <p>which was beautiful and precious, in a splendid manner. They hoisted the sails and positioned the rudder;</p>
 <p>the wind was as they had desired, the weather was pleasant and calm.</p>
 <p>They sailed over the salty foam,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Thorow the grace of god in trone, That most ys of powstè;</p>
 <p>To the cyté when they come,</p>
 <p>At the burgeys hous his yn he nome, Ther as woned Emarye.</p>
-</td>
-<td>
 
-<p>840</p>
-</td>
-<td>
+
 <p>by the grace of God on His throne who is most powerful of all.</p>
 <p>When they came to that city,</p>
 <p>[the king] took his lodgings at the burgher’s house where Emaré lived.</p>
-</td>
-</tr>
-</table>
+
 
 <p>Emare called her sone, Hastely to here come,</p>
 <p>Emaré called her son to come to her quickly</p>
 
-<table cellspacing="0">
-<tr>
-<td>
+
 <p>Wythoute ony lettynge;</p>
 <p>And sayde, My dere sone so fre, Do a lytull aftur me,</p>
-</td>
-<td>
 
-<p>845</p>
-</td>
-<td>
+
 <p>without any delay</p>
 <p>and said, “My dear noble son, do as I tell you,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>And thou shalt have my blessynge. To-morowe thou shall serve yn halle, In a kurtyll of ryche palle,</p>
 <p>Byfore this nobull kyng :</p>
 <p>Loke sone so curtays thou be,</p>
-</td>
-<td>
 
-<p>850</p>
-</td>
-<td>
+
 <p>and you shall have my blessing. Tomorrow you shall serve in the hall in a gown of splendid silk</p>
 <p>in front of this noble king.</p>
 <p>Look, son, you are so well-mannered</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>That no mon fynde chalange to the, In no manere thynge.</p>
-</td>
-<td>
 
-</td>
-<td>
+
+<p>That no mon fynde chalange to the, In no manere thynge.</p>
+
+
 <p>that no one could find your match in any manner of things!</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>When the kyng ys served of spycerye, Knele thou downe hastylye,</p>
 <p>And take iys hond yn thyn ;</p>
-</td>
-<td>
 
-<p>855</p>
-</td>
-<td>
+
 <p>“When the king is served dessert, kneel down hastily</p>
 <p>and take his hand in yours.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>And when thou hast so done, Take the kuppe of golde sone, And serve hym of the wyne :</p>
 <p>And what that he speketh to the,</p>
 <p>Cum anon and tell me,</p>
-</td>
-<td>
 
-<p>860</p>
-</td>
-<td>
+
 <p>And when you have done so, quickly take the golden chalice and serve him wine.</p>
 <p>And then come quickly</p>
 <p>and tell me what he says to you,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>On goddes blessyng and myne. The chylde wente ynto the hall, Amonge the lordes grete and small,</p>
 <p>That lufsume were unther lyne.</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>by God’s and my grace!” The child went into the hall,</p>
 <p>among the greater and lesser nobles, who was lovely underneath the linen.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Then the lordes that wer grete, Wysh and wente to her mete,</p>
 <p>Menstrelles* browght yn the kowrs. The chylde hem served so curteysly, All hym loved that hym sy,</p>
 <p>And spake hym gret honowres.</p>
-</td>
-<td>
-<p>865</p>
 
-<p>870</p>
-</td>
-<td>
+
 <p>Then the lords, who were distinguished, washed [their hands] and proceeded to eat; servants brought in the courses.</p>
 <p>The child served them so gracefully that everyone who saw him loved him</p>
 <p>and gave him much praise.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Then sayde all that loked hym upon,</p>
 <p>So curteys a chyld sawe they never non, In halle ny yn bowres.</p>
 <p>The kynge sayde to hym yn game,</p>
 <p>Swete sone, what ys thy name?</p>
-</td>
-<td>
 
-<p>875</p>
-</td>
-<td>
+
 <p>Then all who looked at him said</p>
 <p>that they had never seen such a courteous child, either in halls or in bowers.</p>
 <p>The king said to him, in jest,</p>
 <p>“Sweet son, what is your name?”</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Lord, he seyd, y hyghth Segramowres.</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>“Lord,” he said, “I am called Segramour.”</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Then that nobull kyng</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>Then that noble king</p>
-</td>
-</tr>
-</table>
 
-<table cellspacing="0">
-<tr>
-<td>
+
 <p>Toke up a grete sykynge, For hys sone hyght so,</p>
 <p>Certys, withowten lesynge,</p>
-</td>
-<td>
 
-<p>880</p>
-</td>
-<td>
+
 <p>started to sigh heavily,</p>
 <p>because his son was also called that. The truth is—I am not lying—</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>The teres out of his yën gan wryng, In herte he was full woo.</p>
 <p>Neverthelese he lette be,</p>
 <p>And loked on the chylde so fre, And mykell he lovede hym thoo.</p>
-</td>
-<td>
 
-<p>885</p>
-</td>
-<td>
+
 <p>the tears were filling his eyes;</p>
 <p>in his heart he was very sorrowful. Nevertheless, he did not inquire further,</p>
 <p>but looked upon the child who was so noble</p>
 <p>and felt much love for him in that instant.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>The kyng sayde to the burgeys anone, Swete syr, ys this thy sone ?</p>
 <p>The burgeys sayde, Yoo.</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>The king then said to the burgher: “Sweet Sir, is this your son?”</p>
 <p>The burgher said: “Yes.”</p>
-</td>
-</tr>
-<tr>
-<td>
+
 
 <p>Then the lordes, that were grete, Whesshen ayeyn aftyr mete,</p>
-</td>
-<td>
 
-<p>890</p>
-</td>
-<td>
 
 <p>Then the distinguished lords cleaned [their hands] after the meal</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>And then come spycerye,</p>
 <p>The chyld, that was of ehere swete, On his kne downe he sete,</p>
 <p>And served hym curteyslye.</p>
 <p>The kynge called the burgeys hym tyll</p>
-</td>
-<td>
 
-<p>895</p>
-</td>
-<td>
+
 <p>and in came the sweet course.</p>
 <p>The child, who was of a pleasant disposition, knelt down on his knee</p>
 <p>and served [the king] courteously.</p>
 <p>The king called the burgher to tell him,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>And sayde, Syr, yf hit be thy wyll, Yyf me this lytyll body;</p>
 <p>I shall hym make lorde of town and towr, Of hye halles and of bowre.</p>
 <p>I love hym speeyally.</p>
-</td>
-<td>
 
-<p>900</p>
-</td>
-<td>
+
 <p>saying: “Sir, if you are willing, give me this little body!</p>
 <p>I shall make him a lord over towns and fortresses, over high halls and bowers.</p>
 <p>I feel a particular affection for him.”</p>
-</td>
-</tr>
-<tr>
-<td>
+
 
 <p>When he had served the kyng at wylle, Fayr he wente his modyr tyll,</p>
 <p>And tellys her how hyt ys.</p>
 <p>“Soone, when he shall to chambur wende, Take his hond at the grete ende,</p>
-</td>
-<td>
 
-<p>905</p>
-</td>
-<td>
 
 <p>When he had served the king for a while [the child] went to his mother</p>
 <p>to tell her how things stood.</p>
 <p>“Son, when he turns to go to his chamber, take his hand [...]</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>For he ys thy fadur, y wysse,</p>
 <p>And byd hym come speke with Emare, That changed her name to Egare,</p>
 <p>In the lond of Galys.”</p>
 <p>The chylde wente ayeyn to halle,</p>
-</td>
-<td>
 
-<p>910</p>
-</td>
-<td>
+
 <p>because he is your father, no doubt;</p>
 <p>and bid him to come and speak with Emaré who changed her name to Egaré</p>
 <p>in the land of ‘Galys.’”</p>
 <p>The child went again to the hall</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Amonge the grete lordes alle,</p>
 <p>And served on ryche asyse.</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>among all the distinguished lords</p>
 <p>and served them splendidly.</p>
-</td>
-</tr>
-</table>
 
-<table cellspacing="0">
-<tr>
-<td>
+
 <p>When they wer well at ese afyne, Bothe of brede, ale, and wyne,</p>
 <p>They rose up more and myn;</p>
-</td>
-<td>
 
-<p>915</p>
-</td>
-<td>
+
 <p>When they were finally satisfied with bread, ale, and wine,</p>
 <p>they rose up, more or less.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>When the kyng shulde to chambur wende, He toke his hond at the grete ende,</p>
 <p>And fayre he helpe hym yn ; And sayde, Syr, if your wyll be,</p>
 <p>Take me your honde, and go with me,</p>
-</td>
-<td>
 
-<p>920</p>
-</td>
-<td>
+
 <p>When the king was to go to his chamber, [Segramour] took his hand [...]</p>
 <p>and helped him inside; he said: “Sir, if you may,</p>
 <p>take me by your hand and go with me,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>For y am of yowr kynne.</p>
 <p>Ye shull come speke with Emare, That changed her nome to Egare, That berys the whyte chynne.</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>because I am of your kin!</p>
 <p>You shall come speak with Emaré who changed her name to Egaré and who bears a white chin.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>The kyng yn herte was full woo, When he herd mynge tho</p>
 <p>Of her that was his qwene;</p>
 <p>And sayde, Sone, why sayest thou so? Wherto umbraydest thou me of my wo?</p>
 <p>That may never bene.</p>
-</td>
-<td>
-<p>925</p>
 
-<p>930</p>
-</td>
-<td>
+
 <p>In his heart, the king was miserable when he heard the [child’s] speech about the one who had been his queen and [he] said, “Son, why do you say so?</p>
 <p>Why do you reproach me with my misery?</p>
 <p>That may never be!”</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Nevertheles with hym he wente, Ayeyn hem come the lady gent, In the robe bryght and shene,</p>
 <p>He toke her yn his armes two,</p>
 <p>For joy they sowened both to,</p>
-</td>
-<td>
 
-<p>935</p>
-</td>
-<td>
+
 <p>Nevertheless, he went with him. The noble lady came towards them in the bright and glistening robe.</p>
 <p>[The king] took her into his two arms;</p>
 <p>they both swooned from joy,</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Such love was hem bytwene.</p>
-</td>
-<td>
 
-</td>
-<td>
+
+<p>Such love was hem bytwene.</p>
+
+
 <p>such was the love between them.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>A joyfull metyng was ther thore, Of that lady goodly unther-gore,</p>
 <p>Frely in armes to folde;</p>
 <p>Lorde! gladde was syr Kadore,</p>
-</td>
-<td>
 
-<p>940</p>
-</td>
-<td>
+
 <p>That was a joyful meeting there, [the king] freely folding that lady, so virtuous under her garment,</p>
 <p>into his arms.</p>
 <p>Lord! Sir Kadore was glad,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>And other lordes that ther wore, Semely to beholde.</p>
 <p>Of the lady that * was put yn the see, Thorow grace of god in trinite,</p>
 <p>Thar was kevered of cares colde.</p>
-</td>
-<td>
 
-<p>945</p>
-</td>
-<td>
+
 <p>as were the other lords who were present there</p>
 <p>—beautiful to behold—</p>
 <p>to see that the lady who had been put to sea, through the grace of God in Trinity,</p>
 <p>had been restored from cold care.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Leve we at the lady whyte as flour,</p>
 <p>And speke we of her fadur the emperour, That fyrste the tale of ytolde,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>We shall now leave the lady who was as white as a flower, and speak of her father, the emperor,</p>
 <p>of whom this tale first told.</p>
-</td>
-</tr>
-</table>
 
-<table cellspacing="0">
-<tr>
-<td>
+
 <p>The emperour her fadyr then</p>
 <p>Was Ɨ woxen an olde man,</p>
-</td>
-<td>
 
-<p>950</p>
-</td>
-<td>
+
 <p>By then, her father the emperor</p>
 <p>had become an old man,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>And thowght on hys synne; Of hys thowghtyr Emare, That was putte ynto the see,</p>
 <p>That was so bryght of skynne.</p>
 <p>He thowght that he wolde go,</p>
-</td>
-<td>
 
-<p>955</p>
-</td>
-<td>
+
 <p>and [he] thought of his sin, [and] of his daughter Emaré, who had been put to sea,</p>
 <p>and who had had such luminous skin.</p>
 <p>He thought that he would go</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>For his penance to the pope tho, And heven for to wynne ;</p>
 <p>Messengeres he sente forth sone, And they come to the kowrt of Rome,</p>
 <p>To take her lordes inne.</p>
-</td>
-<td>
 
-<p>960</p>
-</td>
-<td>
+
 <p>to the Pope to receive his penance there, and gain [entry to] Heaven.</p>
 <p>He soon sent messengers ahead and they came to the Roman court to take lodgings for their lord.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Emare prayde her lorde the kyng, Syr, abyde that lordys komyng,</p>
 <p>That ys so fayr and fre; And, swete syr, yn all thyng,</p>
 <p>Aqweynte you with that lordyng,</p>
-</td>
-<td>
 
-<p>965</p>
-</td>
-<td>
+
 <p>Emaré implored her lord, the king, “Sir, wait for that lord who is coming, who is so handsome and noble,</p>
 <p>and, sweet Sir, above all,</p>
 <p>acquaint yourself with that lord;</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Hit ys worshyp to the.</p>
 <p>The kyng of Galys seyde than, So grete a lord ys ther nan*</p>
 <p>In all crystyantè.</p>
 <p>“Now, swete syr, whatever betyde,</p>
-</td>
-<td>
 
-<p>970</p>
-</td>
-<td>
+
 <p>it is an honor for you.”</p>
 <p>The King of <em>Galys</em> then said, “There is no lord so great</p>
 <p>in all Christendom.”</p>
 <p>“Now, sweet Sir, whatever happens,</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Ayayn that grete lord ye ryde, And all thy knyghtys with the.”</p>
-</td>
-<td>
 
-</td>
-<td>
+
+<p>Ayayn that grete lord ye ryde, And all thy knyghtys with the.”</p>
+
+
 <p>ride towards that lord,</p>
 <p>and all your knights with you.”</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Emare thawghte her sone yynge, Ayeyn the emperour komynge,</p>
 <p>How that he sholde done:</p>
-</td>
-<td>
 
-<p>975</p>
-</td>
-<td>
+
 <p>Emaré, anticipating the emperor’s arrival, instructed her young son</p>
 <p>on how it should be done:</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Swete sone, yn all thyng,</p>
 <p>Be redy with my lord the kyng, And be my swete sone.</p>
 <p>When the emperour kysseth thy fadyr so fre,</p>
 <p>Loke yyf he wyll kysse the,</p>
-</td>
-<td>
 
-<p>980</p>
-</td>
-<td>
+
 <p>“Sweet son, above all,</p>
 <p>be ready with my lord, the king, and be my sweet son!</p>
 <p>When the emperor kisses your noble father,</p>
 <p>see if he will return the kiss,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Abowe the to hym sone;</p>
 <p>Add bydde hym come speke with Emare, That was putte ynto the see,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>then bow down before him</p>
 <p>and ask him to come speak with Emaré who was put to sea.</p>
-</td>
-</tr>
-</table>
 
-<table cellspacing="0">
-<tr>
-<td>
+
 <p>Hymself yaf the dome.</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>He himself gave the command.”</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Now kometh the emperour of pryse, Ayeyn hym rode the kyng of Galys,</p>
-</td>
-<td>
-<p>985</p>
-</td>
-<td>
+
+
 <p>Now the worthy emperor arrived; the King of “Galys” rode to meet him</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>With full mykull pryde ;</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>with much honor.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>The chyld was worthy unther-wede,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>The child was worthy under his dress</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>A satte upon a nobyll stede,</p>
-</td>
-<td>
 
-</td>
-<td>
+
+<p>A satte upon a nobyll stede,</p>
+
+
 <p>and sat upon a noble steed</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>By his fadyr syde :</p>
 <p>And, when he mette the emperour,</p>
-</td>
-<td>
-<p>990</p>
-</td>
-<td>
+
+
 <p>by his father’s side;</p>
 <p>and when he met the emperor</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>He valed his hode with gret honour,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>he lowered his hood with great honor,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>And kyssed hym yn that tyde ;</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>and kissed him that time,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>And other lordys of gret valowre,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>and other lords of great courage</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>They also kessed Segramowre ; In herte ys not to hyde.</p>
-</td>
-<td>
-<p>995</p>
-</td>
-<td>
+
+
 <p>also kissed Segramour, that is the truth of it.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>The emperours hert anamered gretlye</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>The Emperor’s heart was greatly enamored</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Of the chylde that rode hym by,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>by the child who rode by his side</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>With so lovely chere.</p>
-</td>
-<td>
 
-</td>
-<td>
+
+<p>With so lovely chere.</p>
+
+
 <p>with such a lovely disposition.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Segramowre he sayde his stede,</p>
 <p>Hys owene fadyr toke good hede,</p>
-</td>
-<td>
-<p>1000</p>
-</td>
-<td>
+
+
 <p>Segramour reined in his steed,</p>
 <p>his own father listened carefully,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>And other lordys that ther were.</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>and so did the other lords who were present.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>The chylde spake to the emperour,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>The child spoke to the emperor</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>And sayde, Lord, for thyn honour,</p>
-</td>
-<td>
 
-</td>
-<td>
+
+<p>And sayde, Lord, for thyn honour,</p>
+
+
 <p>and said, “Lord, for the sake of your honor</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>My worde that thou wyll here;</p>
 <p>Ye shull come speke with Emare,</p>
-</td>
-<td>
-<p>1005</p>
-</td>
-<td>
+
+
 <p>mark my words:</p>
 <p>you shall come and speak with Emaré</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>That changede her name to Egare.</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>who changed her name to Egaré</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>That was thy thowghthur dere.</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>who was your dear daughter.”</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>The emperour wax all pale,</p>
-</td>
-<td>
 
-</td>
-<td>
+
+<p>The emperour wax all pale,</p>
+
+
 <p>The emperor grew very pale</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>And sayde, Sone, why umbraydest me of bale,</p>
 <p>And thou may se no bote?</p>
-</td>
-<td>
-<p>1010</p>
-</td>
-<td>
+
+
 <p>and said, “Son, why do you reproach me with grief</p>
 <p>when you cannot see any remedy?”</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>“Syr, and ye wyll go with me,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>“Sir, if you come with me now</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>I shall the brynge with that lady fre,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>I shall bring forth that noble lady</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>That ys lovesom on to loke.”</p>
-</td>
-<td>
 
-</td>
-<td>
+
+<p>That ys lovesom on to loke.”</p>
+
+
 <p>who is lovely to look at.”</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Neverthelesse, with hym he wente,</p>
 <p>Ayeyn hym come that lady gent,</p>
-</td>
-<td>
-<p>1015</p>
-</td>
-<td>
+
+
 <p>Nevertheless, he [the emperor] went with him.</p>
 <p>The noble lady came towards him,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Walkynge on her fote;</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>walking on foot.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>And the emperour alyghte tho.</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>And the emperor dismounted</p>
-</td>
-</tr>
-</table>
 
-<table cellspacing="0">
-<tr>
-<td>
+
 <p>And toke her yn his armes two, And clypte and kyssed her fote.</p>
-</td>
-<td>
 
-<p>1020</p>
-</td>
-<td>
+
 <p>and took her into his two arms;</p>
 <p>he embraced her and kissed her sweetly.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Ther was a joyfull metynge</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>That was a joyful meeting</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Of the emperour and of the kynge,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>of the emperor and the king,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>And also of Emare;</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>and also of Emaré,</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>And so ther was of syr Segramour,</p>
-</td>
-<td>
 
-</td>
-<td>
+
+<p>And so ther was of syr Segramour,</p>
+
+
 <p>and Sir Segramour was also there,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>That aftyr was emperour,</p>
 <p>A full gode man was he.</p>
-</td>
-<td>
-<p>1025</p>
-</td>
-<td>
+
+
 <p>who later became emperor—</p>
 <p>he was a very good man.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>A grette feste ther was holde,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>They held a great feast</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Of erles and barones bolde,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>with valiant earls and barons,</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>As testymonyeth thys story.</p>
-</td>
-<td>
 
-</td>
-<td>
+
+<p>As testymonyeth thys story.</p>
+
+
 <p>as the story tells.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Thys ys on of Brytayne layes,</p>
 <p>That was used by olde dayes,</p>
-</td>
-<td>
-<p>1030</p>
-</td>
-<td>
+
+
 <p>This is one of the Breton lays</p>
 <p>that has been told since the olden days.</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Men callys playn the garye.</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>Men call it <em>Playn d’Egarye</em> .</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>Jhesu, that settes yn thy trone,</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>Jesus on Your throne,</p>
-</td>
-</tr>
-<tr>
-<td>
+
+
 <p>So graunte us with the to wone</p>
-</td>
-<td>
 
-</td>
-<td>
+
 <p>grant us to live with You</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>In thy perpetuall glorye ! Amen</p>
-</td>
-<td>
-<p>1035</p>
-</td>
-<td>
-<p>in perpetual glory! Amen.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Explicit Emare.</p>
-</td>
-<td>
 
-</td>
-<td>
+
+<p>In thy perpetuall glorye ! Amen</p>
+
+
+<p>in perpetual glory! Amen.</p>
+
+
+<p>Explicit Emare.</p>
+
+
 <p>Here ends <em>Emaré.</em></p>
-</td>
-</tr>
-</table>
+
 
 <h1>Critical Notes</h1>
 
