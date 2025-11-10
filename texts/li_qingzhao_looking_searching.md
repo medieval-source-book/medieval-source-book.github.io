@@ -35,10 +35,6 @@ imagesource: "Detail from 宋朱銳春社醉歸圖(Drunk in the Trip) 卷, 朱�
 <p>The original text of this <i> ci </i> is based on the edition by Tang Guizhang <em>唐圭璋</em> (<i> Quan Song Ci </i> <em>全宋詞</em>, vol 1. Beijing: Zhonghua shu ju, 1965). Punctuation follows the edition. Since <i> ci </i> poetry rarely includes personal pronouns, and gender-differentiated pronouns did not exist in Classical Chinese of this period, the gender of the speaker as well as their perspective (e.g. first-, second- or third-person) must often be deduced by the translator from context.</p>
 
 <h2>Further Reading</h2>
-
-
-
-
 <p>Chang, Kang-i Sun. <i> The Evolution of Tz’u Poetry: from Late Tang to Northern Sung</i>. Princeton UP, 1980.</p>
 <ul>
 <li>A standard survey of the early history of Chinese song lyrics (romanized as both <em>ci</em> and <em>tz’u</em>).</li>
@@ -58,11 +54,9 @@ imagesource: "Detail from 宋朱銳春社醉歸圖(Drunk in the Trip) 卷, 朱�
 <p>Tang, Guizhang <em>唐圭璋</em>, editor. <i> Quan Song Ci </i> <em>全宋詞</em>. Zhonghua shu ju, 1965. 5 vols.</p>
 <ul>
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
+</ul>
 
-
-
-</ul><h1>To the tune “Note after Note, Long Song”—“Looking and searching, looking and searching”</h1>
-<h1>聲聲慢 · 尋尋覓覓</h1>
+<h1>To the tune “Note after Note, Long Song”—“Looking and searching, looking and searching” | <em>聲聲慢 · 尋尋覓覓</em></h1>
 
 <p>聲聲慢</p>
 
