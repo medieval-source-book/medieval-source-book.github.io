@@ -28,18 +28,26 @@ imagesource: "Dijon Chansonnier (Dijon, Bibliothèque Municipale, 517), f.127v (
 <h1>Introduction to the Source</h1>
 <p><a href="http://patrimoine.bm-dijon.fr/pleade/img-viewer/MS00517/viewer" target="_blank"> The song can be found in the Dijon Chansonnier (Dijon, Bibliothèque Municipale, 517), ff.127v-128r (new foliation: 130v-131r). The manuscript is available to view at </a> http://patrimoine.bm-dijon.fr/pleade/img-viewer/MS00517/viewer. html?ns=FR212316101_CITEAUX_MS00517_130_V.jpg.</p>
 
-<p>Depuis Deux ou trois jours enca / Sen est alle mon doux ami</p>
-<p>Sans ce quil ait parle a my / helas quy me confortera</p>
-<p>Ne scay se vuel retournera</p>
+<h1>Two or three days ago | Depuis deux ou trois jours enca</h1>
+<p>Depuis Deux ou trois jours enca /</p>
+<p>Sen est alle mon doux ami</p>
+<p>Sans ce quil ait parle a my /</p>
+<p>helas quy me confortera</p>
+<p>5 Ne scay se vuel retournera</p>
 
-<p>Mais il ma mise en grant soussi Demander le me conviendra</p>
-<p>A ceulx quy sont amis de luy Car par ma foi je vous dis</p>
-<p>Quen temps mieulx con cuer ne lama</p>
-<p>Two or three days ago my sweet love went away</p>
-<p>without saying anything to me. Alas, who will comfort me?</p>
+<p>Mais il ma mise en grant soussi</p>
+<p>Demander le me conviendra</p>
+<p>A ceulx quy sont amis de luy</p>
+<p>Car par ma foi je vous dis</p>
+<p>10 Quen temps mieulx con cuer ne lama</p>
+<p>Two or three days ago</p>
+<p>my sweet love went away</p>
+<p>without saying anything to me.</p>
+<p>Alas, who will comfort me?</p>
 <p>5 I don’t know whether he wants to return</p>
 
 <p>but he has made me very worried.</p>
 <p>I will have to ask</p>
-<p>those friends of his about it because, truly, I say to you</p>
+<p>those friends of his about it</p>
+<p>because, truly, I say to you</p>
 <p>10 that my heart never loved him better.</p>
