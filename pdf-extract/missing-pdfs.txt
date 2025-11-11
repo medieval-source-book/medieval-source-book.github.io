@@ -1,0 +1,212 @@
+Missing PDFs - Empty Text Files
+================================
+These 69 text files have empty content (only YAML front matter) and reference PDFs that don't exist in /assets/pdf/
+
+1. al_shafii_let_days_do_they_please.md
+   → /assets/pdf/al_shafii_let_days_do_they_please.pdf
+
+2. greven_blessed_haseka.md
+   → /assets/pdf/greven_blessed_haseka.pdf
+
+3. sengxiang_monk_huisi.md
+   → /assets/pdf/sengxiang_monk_huisi.pdf
+
+4. andre_romance_of_the_french.md
+   → /assets/pdf/andre_romance_of_the_french.pdf
+
+5. creature_dialogue_sun_moon.md
+   → /assets/pdf/creature_dialogue_sun_moon.pdf
+
+6. grunau_prussian_chronicle.md
+   → /assets/pdf/grunau_prussian_chronicle.pdf
+
+7. han_yu_memorial_bones_buddha.md
+   → /assets/pdf/han_yu_memorial_bones_buddha.pdf
+
+8. divination_through_apostles.md
+   → /assets/pdf/divination_through_apostles.pdf
+
+9. von_schondoch_queen_france.md
+   → /assets/pdf/von_schondoch_queen_france.pdf
+
+10. reno_incident_university_paris.md
+    → /assets/pdf/reno_incident_university_paris.pdf
+
+11. testament_magnus.md
+    → /assets/pdf/testament_magnus.pdf
+
+12. al_mulhalhil_twilights_ruins.md
+    → /assets/pdf/al_mulhalhil_twilights_ruins.pdf
+
+13. explanation_dreams.md
+    → /assets/pdf/explanation_dreams.pdf
+
+14. two_confessions.md
+    → /assets/pdf/two_confessions.pdf
+
+15. lopes_chronicle_peter_i.md
+    → /assets/pdf/lopes_chronicle_peter_i.pdf
+
+16. rabanus_maurus_honor_holy_cross.md
+    → /assets/pdf/rabanus_maurus_honor_holy_cross.pdf
+
+17. miracles_vladimir_mother_god.md
+    → /assets/pdf/miracles_vladimir_mother_god.pdf
+
+18. millstatt_plaint_sin.md
+    → /assets/pdf/millstatt_plaint_sin.pdf
+
+19. al_nuwayri_cypriots_victory.md
+    → /assets/pdf/al_nuwayri_cypriot_victory.pdf
+
+20. gosling.md
+    → /assets/pdf/gosling.pdf
+
+21. memorial_father_ignatios.md
+    → /assets/pdf/memorial_father_ignatios.pdf
+
+22. cabello_valboa_anthropomorphic_americas.md
+    → /assets/pdf/cabello_valboa_anthropomorphic_americas.pdf
+
+23. miracle_mother_god_sign.md
+    → /assets/pdf/miracle_mother_god_sign.pdf
+
+24. daubigne_spring_sonnet_vi.md
+    → /assets/pdf/daubigne_spring_sonnet_vi.pdf
+
+25. sermon_on_st_nobody.md
+    → /assets/pdf/sermon_on_st_nobody.pdf
+
+26. efrosin_solomon_kitovras.md
+    → /assets/pdf/efrosin_solomon_kitovras.pdf
+
+27. folz_song_gutenberg.md
+    → /assets/pdf/folz_song_gutenberg.pdf
+
+28. king_tars.md
+    → /assets/pdf/king_tars.pdf
+
+29. second_battle_moytura.md
+    → /assets/pdf/second_battle_moytura.pdf
+
+30. twinger_chronicle.md
+    → /assets/pdf/twinger_chronicle.pdf
+
+31. creature_dialogue_preface.md
+    → /assets/pdf/creature_dialogue_preface.pdf
+
+32. li_qingzhao_outside_window_spring_color.md
+    → /assets/pdf/li_qingzhao_outside_window_spring_color.pdf
+
+33. pictor_concerning_wicked_woman.md
+    → /assets/pdf/pictor_concerning_wicked_woman.pdf
+
+34. sachs_farmer_pregnant_foal.md
+    → /assets/pdf/sachs_farmer_pregnant_foal.pdf
+
+35. creature_dialogue_saturn_cloud.md
+    → /assets/pdf/creature_dialogue_saturn_cloud.pdf
+
+36. ouyang_xiu_phoenix-like_bun.md
+    → /assets/pdf/ouyang_xiu_phoenix-like_bun.pdf
+
+37. filbert_vision.md
+    → /assets/pdf/filbert_vision.pdf
+
+38. death_king_john.md
+    → /assets/pdf/discourse_angels_pagans.pdf
+
+39. prologue_psalms_czech.md
+    → /assets/pdf/prologue_psalms_czech.pdf
+
+40. sanai_on_merciful_god.md
+    → /assets/pdf/sanai_on_merciful_god.pdf
+
+41. creature_dialogue_precious_topaz.md
+    → /assets/pdf/creature_dialogue_precious_topaz.pdf
+
+42. yan_shu_moments_time.xml.md
+    → /assets/pdf/yan_shu_moments_time.xml.pdf
+
+43. tractate_sotah.md
+    → /assets/pdf/tractate_sotah.pdf
+
+44. vorau_plaint_sin.md
+    → /assets/pdf/vorau_plaint_sin.pdf
+
+45. al_shafii_were_it_not_that_poesy.md
+    → /assets/pdf/al_shafii_were_it_not_that_poesy.pdf
+
+46. perez_de_pineda_brief_treatise_doctrine.md
+    → /assets/pdf/perez_de_pineda_brief_treatise_doctrine.pdf
+
+47. wessobrun_prayer.md
+    → /assets/pdf/wessobrun_prayer.pdf
+
+48. eckhart_sermon_coming_lord.md
+    → /assets/pdf/eckhart_sermon_coming_lord.pdf
+
+49. alcuin_song_4_go_quickly.md
+    → /assets/pdf/alcuin_song_4_go_quickly.pdf
+
+50. al_harith_toward_demise.md
+    → /assets/pdf/al_harith_toward_demise.pdf
+
+51. adam_st_victor_hymn_honor_augustine.md
+    → /assets/pdf/adam_st_victor_hymn_honor_augustine.pdf
+
+52. roman_origins_lithuanians.md
+    → /assets/pdf/roman_origins_lithuanians.pdf
+
+53. roman_prologue_republics_world.md
+    → /assets/pdf/roman_prologue_republics_world.pdf
+
+54. trojan_war.md
+    → /assets/pdf/trojan_war.pdf
+
+55. prologue_book_histories.md
+    → /assets/pdf/prologue_book_histories.pdf
+
+56. hakim_iranshah_monstrous_courtship.md
+    → /assets/pdf/hakim_iranshah_monstrous_courtship.pdf
+
+57. tinodi_loss_buda.md
+    → /assets/pdf/tinodi_loss_buda.pdf
+
+58. wino.md
+    → /assets/pdf/wino.pdf
+
+59. girl_wanted_fly.md
+    → /assets/pdf/girl_wanted_fly.pdf
+
+60. daubigne_spring_sonnet_vii.md
+    → /assets/pdf/daubigne_spring_sonnet_vii.pdf
+
+61. sant_jordi_underneath_my_forehead.md
+    → /assets/pdf/sant_jordi_underneath_my_forehead.pdf
+
+62. shoemakers_new_faith.md
+    → /assets/pdf/shoemakers_new_faith.pdf
+
+63. efrosin_tale_dracula.md
+    → /assets/pdf/efrosin_tale_dracula.pdf
+
+64. riddle_temple_saturn.md
+    → /assets/pdf/riddle_temple_saturn.pdf
+
+65. discourse_angels_pagans.md
+    → /assets/pdf/discourse_angels_pagans.pdf
+
+66. al_shafii_your_friend_contests.md
+    → /assets/pdf/al_shafii_your_friend_contests.pdf
+
+67. rigaut_just_elephant.md
+    → /assets/pdf/rigaut_just_elephant.pdf
+
+68. damsel_carcayciona.md
+    → /assets/pdf/damsel_carcayciona.pdf
+
+69. virgin_mary_lament_bordesholm.md
+    → /assets/pdf/virgin_mary_lament_bordesholm.pdf
+
+Note: death_king_john.md references discourse_angels_pagans.pdf (possible mismatch in YAML)
