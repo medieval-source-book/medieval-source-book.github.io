@@ -30,6 +30,10 @@
   side: left
   alternate:
   dropdown:
+     - title: "5th Century"
+       url: "/periods/5th_century/"
+     - title: "6th Century"
+       url: "/periods/6th_century/"
      - title: "7th Century"
        url: "/periods/7th_century/"
      - title: "8th Century"
@@ -50,6 +54,8 @@
        url: "/periods/15th_century/"
      - title: "16th Century"
        url: "/periods/16th_century/"
+     - title: "17th Century"
+       url: "/periods/17th_century/"
 - title: "Translators"
   url: "/translators/"
 - title: "About"
