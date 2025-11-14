@@ -28,7 +28,7 @@ imagesource: "Madrid, Biblioteca Nacional de España, VITR/17/7, fol. 154r [Publ
 <p>In this poem, the poet meets a peasant whose gentle appearance, modesty, and simple life are described in detail and praised.</p>
 
 <h2>Introduction to the Source</h2>
-<p>The poem is copied in Madrid, Biblioteca Nacional de España, VITR/17/7, fol. 136v-137r. This manuscript is a copy of the poetry collection known as the <i> Cancionero de Estúñiga</i> <a href="http://bdh-rd.bne.es/view-" target="_blank"> , ca. 1465. It has been digitized: </a> http://bdh-rd.bne.es/view- er.vm?id=0000051837. It contains a compilation of mostly Castilian poems, including ballads, as well as a few Italian compositions. Their authors accompanied the King of Aragon, Alfonso the Magnanimous, in Naples in the mid-fifteenth century.</p>
+<p>The poem is copied in Madrid, Biblioteca Nacional de España, VITR/17/7, fol. 136v-137r. This manuscript is a copy of the poetry collection known as the <i> Cancionero de Estúñiga</i> <a href="http://bdh-rd.bne.es/view-" target="_blank">, ca. 1465. It has been digitized: </a> http://bdh-rd.bne.es/viewer.vm?id=0000051837. It contains a compilation of mostly Castilian poems, including ballads, as well as a few Italian compositions. Their authors accompanied the King of Aragon, Alfonso the Magnanimous, in Naples in the mid-fifteenth century.</p>
 
 <h2>About this Edition</h2>
 <p>The text has been punctuated. Word separation and capitalization follow modern usage. Elisions have been marked with an apostrophe.</p>

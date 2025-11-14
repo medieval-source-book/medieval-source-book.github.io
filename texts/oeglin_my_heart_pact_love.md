@@ -33,14 +33,14 @@ imagesource: "Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.24
 <p>Saunders, Steven. “Music in Early Modern Germany.” <i> Early Modern German Literature 1350-1700</i>, edited by Max Reinhart, Rochester: Camden House, 2007.</p>
 
 <h1>My heart has made a pact with love | Mein hertz hat sich mit lieb verpflicht</h1>
-<p>Mein hertz hat sich mit lieb verpflicht / zů dir mich irrt auch nicht / des klaffers dicht / ob jm sein hals zerpricht / durch falschen has auch bösen neyd / sein gifftig schneyd / glaub das jch dich darumb nit meyd / kayn unmůt leid / und wer er noch so ges- cheyd.</p>
+<p>Mein hertz hat sich mit lieb verpflicht / zů dir mich irrt auch nicht / des klaffers dicht / ob jm sein hals zerpricht / durch falschen has auch bösen neyd / sein gifftig schneyd / glaub das jch dich darumb nit meyd / kayn unmůt leid / und wer er noch so gescheyd.</p>
 
 <p>Du bist meins gfallens uberal / nach wunsch unnd rechter wal / frewd one zal / han ich von dir zumal / an die doch gar kayn mangel ist / falsch red ist mist / deshalb nicht schafft des klaffers list / zů kayner frist / man ways wol wer er ist.</p>
 
 <p>Was glücks ich im wünsch und gan / das gee den schwetzer an / sein untrew kann / nit unvergolten stan / erscheinen wird in kurtzer zeit / wye vast er schreit / an seinem plerr mir gar nichtz leyt / es felt im weit / mein hertz sich dir ergeit.</p>
 
-<p>My heart has made a pact with love for you. The slander- er’s lies won’t lead me astray; even if he broke his neck because of his false hate and the poisoned blade of his base envy: Believe me, I will not avoid you because of this and won’t tolerate any trouble however sly he may be.</p>
+<p>My heart has made a pact with love for you. The slanderer’s lies won’t lead me astray; even if he broke his neck because of his false hate and the poisoned blade of his base envy: Believe me, I will not avoid you because of this and won’t tolerate any trouble however sly he may be.</p>
 
-<p>I’ve fallen for you above all things following my desire and true choice. You above all bring me infinite joy. You are completely flawless, the deceitful talk is garbage, that’s why the trickery of a slanderer never achieves any- thing; his ways are well known to everybody.</p>
+<p>I’ve fallen for you above all things following my desire and true choice. You above all bring me infinite joy. You are completely flawless, the deceitful talk is garbage, that’s why the trickery of a slanderer never achieves anything; his ways are well known to everybody.</p>
 
-<p>However much fortune I wish and grant him, the windbag may enjoy, his faithlessness cannot go unrepaid. We’ll find out soon how loud he screams, none of his blabber- ing will distract me; he’s way off the mark. I commend my heart to you.</p>
+<p>However much fortune I wish and grant him, the windbag may enjoy, his faithlessness cannot go unrepaid. We’ll find out soon how loud he screams, none of his blabbering will distract me; he’s way off the mark. I commend my heart to you.</p>

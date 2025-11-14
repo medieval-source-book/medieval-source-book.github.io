@@ -41,6 +41,6 @@ imagesource: "Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.28
 
 <p>Now the depths of my heart have discovered separation’s sorrow, my heart, spirit and senses, which I have only experienced because of her, were scattered far and wide: I thought I’d die of a broken heart.</p>
 
-<p>Now fortune has returned and saved me from sepa- ration’s pain, through which all my blood was dulled. Fortune has played its part in this game, in which I will gain much joy, pleasure and favor.</p>
+<p>Now fortune has returned and saved me from separation’s pain, through which all my blood was dulled. Fortune has played its part in this game, in which I will gain much joy, pleasure and favor.</p>
 
 <p>Now it’s very hard for me that such joy is gone forever. Turned to pain, I leave again; this brings new sorrow, even greater than before: my heart had come to know and had felt joy: only now separation brings me to despair.</p>

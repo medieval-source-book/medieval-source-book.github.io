@@ -43,4 +43,4 @@ imagesource: "Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.40
 
 <p>F., wherever you go, you deserve my praise above all others; you have no equals in this realm, no matter their conduct, cultivation, bearing or air. So, take care, my heart rejoices and always aims to increase its joy with you.</p>
 
-<p>I am graciously disposed to you, may your heart be faith- fully mine, as you find me to be just and charitable, with no ill intentions, and straightforward. I will not leave you until my end: this I guarantee you.</p>
+<p>I am graciously disposed to you, may your heart be faithfully mine, as you find me to be just and charitable, with no ill intentions, and straightforward. I will not leave you until my end: this I guarantee you.</p>

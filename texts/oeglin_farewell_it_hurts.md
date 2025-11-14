@@ -35,11 +35,11 @@ imagesource: "Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.22
 <h1>Farewell! It hurts | Ade mit layd</h1>
 <p>Ade mit layd / ich von dir schayd / dardurch mein hertz / unseglich schmertz / all stund empfind / und ist entzynd / in jamers wee / ade ade / on dich lusst mich kaynr frewden me.</p>
 
-<p>Ade mein freyd / der ich kayn zeit / zů sechen an / verd- riess möcht han / das ist mir gwenndt / und bin ellendt / in layd ich stee / ade ade / on dich lusst mich kaynr frewden me.</p>
+<p>Ade mein freyd / der ich kayn zeit / zů sechen an / verdriess möcht han / das ist mir gwenndt / und bin ellendt / in layd ich stee / ade ade / on dich lusst mich kaynr frewden me.</p>
 
 <p>Ade / gedenck dein trew nit krenck / und hallt recht maß / vergiß nit das / als du wol waist / dein trew mir laist / hinfür als ee ade ade / on dich lusst mich kaynr frewden me.</p>
 
-<p>Farewell! It hurts to part from you; my heart feels un- speakable torment constantly and burns with sorrow’s woe. Farewell, farewell! Without you, no joy can amuse me.</p>
+<p>Farewell! It hurts to part from you; my heart feels unspeakable torment constantly and burns with sorrow’s woe. Farewell, farewell! Without you, no joy can amuse me.</p>
 
 <p>Goodbye to you, my joy, whom I could never look at with revulsion. Things have changed for me and I’m a wretch: I live in pain. Farewell, farewell! Without you no joy can amuse me.</p>
 

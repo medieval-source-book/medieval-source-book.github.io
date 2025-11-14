@@ -33,11 +33,11 @@ imagesource: "Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.15
 <p>Saunders, Steven. “Music in Early Modern Germany.” <i> Early Modern German Literature 1350-1700</i>, edited by Max Reinhart, Rochester: Camden House, 2007.</p>
 
 <h1>Fortune grants me comfort and hope | Gelück mir trost und hoffnug geit</h>
-<p>Gelück mir trost und hoffnug geit / alain gen deiner werden zucht / und mit mein gmüt so hoch erfreyt / meins hertzen all erhöchste frustt / glaub mir für- war / in weybes schar / liebstu mir obin allen / alain du bist / on argen list / meins hertzen wolgefallen.</p>
+<p>Gelück mir trost und hoffnug geit / alain gen deiner werden zucht / und mit mein gmüt so hoch erfreyt / meins hertzen all erhöchste frustt / glaub mir fürwar / in weybes schar / liebstu mir obin allen / alain du bist / on argen list / meins hertzen wolgefallen.</p>
 
-<p>Hyerumb mein trost und früntlichs pild / halt vesst an mir an solchem ort / mit weis unnd perd erzayg dich mild / dann ich gib glauben deinem wort / der- gleich auch ich / will allzeit mich dein fleissen un- verdrossen / doch ist das pest / lad nit frömd gesst / es wurden sunnst faul possen.</p>
+<p>Hyerumb mein trost und früntlichs pild / halt vesst an mir an solchem ort / mit weis unnd perd erzayg dich mild / dann ich gib glauben deinem wort / dergleich auch ich / will allzeit mich dein fleissen unverdrossen / doch ist das pest / lad nit frömd gesst / es wurden sunnst faul possen.</p>
 
-<p>An mir hab auch kain zweifel nicht / dye lieb sol sein verporgen / mein synn sein mir also gericht / und stee gen dir in sorgen / so ich gedenck / vil gůter schwenck / gib ich mich dir in stillen / glaub mir fürwar / für ander zwar / mit meinem freyen wil- len.</p>
+<p>An mir hab auch kain zweifel nicht / dye lieb sol sein verporgen / mein synn sein mir also gericht / und stee gen dir in sorgen / so ich gedenck / vil gůter schwenck / gib ich mich dir in stillen / glaub mir fürwar / für ander zwar / mit meinem freyen willen.</p>
 
 <p>Fortune grants me comfort and hope of alone being granted your worthy favor and it brings cheer to my senses; you are the highest fruit of my heart. Believe me, I truly love you above all others in the ranks of women; you are, without any deceit, the joy of my heart.</p>
 

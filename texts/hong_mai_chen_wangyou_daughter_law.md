@@ -28,7 +28,7 @@ imagesource: "Detail from 南宋 佚名 “三元得祿”圖扇頁 (Gibbons Rai
 <p>The corpus of the <i> Record </i> originally consisted of 420 chapters. What we have today, however, is but a small fraction of the original text. The <i> Record </i> shows a remarkable degree of accuracy when we compare it with the official documents and other texts of the same period. Nevertheless, many stories in the <i> Record </i> are outright fictitious or based on highly unreliable sources. The <i> Record </i> preserved much information about the society, culture, and religion of the Southern Song Dynasty and was a source of inspiration for generations of writers after Hong Mai. Writers in late imperial China, for instance, took up many stories in the <i> Record </i> and refashioned them into stories that met the demands and expectations of their own times.</p>
 
 <h1>Further Reading</h1>
-<p>Allen, Sarah M. <i> Shifting Stories : History, Gossip, and Lore in Narratives from Tang Dynasty China</i>. Harvard- Yenching Institute Monograph Series. Cambridge, Massachusetts: Harvard University Asia Center, 2014.</p>
+<p>Allen, Sarah M. <i> Shifting Stories : History, Gossip, and Lore in Narratives from Tang Dynasty China</i>. Harvard-Yenching Institute Monograph Series. Cambridge, Massachusetts: Harvard University Asia Center, 2014.</p>
 <ul>
 <li>Explores the tale literature of eighth- and ninth-century China to show how the written tales we have today grew out of a fluid culture of hearsay that circulated within elite society. Contains a chapter that explains the modern (mis)understanding of the tale as a genre.</li>
 </ul>

@@ -33,7 +33,7 @@ imagesource: "Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.6v
 <p>Saunders, Steven. “Music in Early Modern Germany.” <i> Early Modern German Literature 1350-1700</i>, edited by Max Reinhart, Rochester: Camden House, 2007.</p>
 
 <h1>Between hill and valley deep | Zwischen perg und tieffe tal</h1>
-<p>Zwischen perg und tieffe tal / da ligt ain freie stras- sen / wer seinen půll nit haben mag / der můß yn faren lassen.</p>
+<p>Zwischen perg und tieffe tal / da ligt ain freie strassen / wer seinen půll nit haben mag / der můß yn faren lassen.</p>
 
 <p>Far hin, far hin, du hast die wal / ich kann mich dein wol maßen / im jar sind noch vil langer tag / glück ist in allen gassen.</p>
 

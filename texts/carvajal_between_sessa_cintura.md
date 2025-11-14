@@ -28,7 +28,7 @@ imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.136v [Publ
 <p>In this poem, Carvajal subverts some of the genre’s conventions, as he does not meet a <i> serrana </i> but a lady of the court—the Princess of Rossano—in the context in which he would have normally run into a rustic woman. Upon encountering the lady, the poet ponders her beauty with references to biblical and mythological characters.</p>
 
 <h2>Introduction to the Source</h2>
-<p>The poem is copied in Madrid, Biblioteca Nacional de España, VITR/17/7, fol. 136v-137r. This manuscript is a copy of the poetry collection known as the <i> Cancionero de Estúñiga</i> <a href="http://bdh-rd.bne.es/view-" target="_blank"> , ca. 1465. It has been digitized: </a> http://bdh-rd.bne.es/view- er.vm?id=0000051837. It contains a compilation of mostly Castilian poems, including ballads, as well as a few Italian compositions. Their authors accompanied the King of Aragon, Alfonso the Magnanimous, in Naples in the mid-fifteenth century.</p>
+<p>The poem is copied in Madrid, Biblioteca Nacional de España, VITR/17/7, fol. 136v-137r. This manuscript is a copy of the poetry collection known as the <i> Cancionero de Estúñiga</i> <a href="http://bdh-rd.bne.es/view-" target="_blank">, ca. 1465. It has been digitized: </a> http://bdh-rd.bne.es/viewer.vm?id=0000051837. It contains a compilation of mostly Castilian poems, including ballads, as well as a few Italian compositions. Their authors accompanied the King of Aragon, Alfonso the Magnanimous, in Naples in the mid-fifteenth century.</p>
 
 <h2>About this Edition</h2>
 <p>The text has been punctuated. Word separation and capitalization follow modern usage. Elisions have been marked with an apostrophe.</p>
