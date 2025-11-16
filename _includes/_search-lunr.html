@@ -66,15 +66,19 @@ function lunr_search(term) {
 </script>
 <style>
     .lunrsearchresult {margin-bottom: 1rem;}
-    .lunrsearchresult .title {color: #d9230f; font-weight: bold;}
-    .lunrsearchresult .author {color: #666; font-style: italic; margin-left: 0.5rem;}
+    .lunrsearchresult .title {color: $secondary-color; font-weight: bold;}
+    .lunrsearchresult .author {color: $grey-9; font-style: italic; margin-left: 0.5rem;}
     .lunrsearchresult .body {display: block; margin: 0.25rem 0;}
     .lunrsearchresult .url {color: silver; font-size: 0.9rem;}
-    .lunrsearchresult a {display: block; color: #777;}
+    .lunrsearchresult a {display: block; color: $grey-9;}
     .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
     .lunrsearchresult a:hover .title {text-decoration: underline;}
 </style>
 
-<form onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
-    <p><input type="text" class="form-control" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Search texts..." /></p>
+<form onSubmit="return lunr_search(document.getElementById('lunrsearch').value);" role="search" aria-label="Site search">
+        <p>
+            <label for="lunrsearch" class="visually-hidden">Search texts</label>
+            <input type="text" class="form-control" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Search texts" />
+            <button type="submit">Search</button>
+        </p>
 </form>

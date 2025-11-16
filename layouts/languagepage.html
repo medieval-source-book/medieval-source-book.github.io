@@ -15,10 +15,10 @@ format: page
  				<div itemprop="name" class="large-8 columns">
  					<h1 id="pagetitle" class="landing">{{ title | default: page.title }}</h1>
  				</div>
- 				<div itemprop="image" class="large-4 columns">
- 					<img src="{{page.image}}" />
- 					<p class="caption">{{page.imagesource}}</p>
- 				</div>
+				<div itemprop="image" class="large-4 columns">
+					<img src="{{page.image}}" alt="Representative image for {{ title | default: page.title }} language" />
+					<p class="caption">{{page.imagesource}}</p>
+				</div>
  			</header>
 
  			<div itemprop="articleSection">

@@ -4,17 +4,19 @@
 {% include "_head.html" %}
 </head>
 <body id="top-of-page" class="{{ layout.format }}">
+  <a href="#main-content" class="skip-link">Skip to main content</a>
   {% unless page.skip_navigation %}
   <div class="title-surround">
-    <a href="{{ '/' | relative_url }}"><img src="{{ '/assets/img/LogoPrint_trans.png' | relative_url }}" id="main-logo"></a>
+    <a href="{{ '/' | relative_url }}"><img src="{{ '/assets/img/LogoPrint_trans.png' | relative_url }}" id="main-logo" alt="{{ site.sitetitle }} logo"></a>
     <h1 class="site_title">{{ site.sitetitle }}
       <small>{{ site.slogan }}</small>
     </h1>
   </div>
   {% include "_navigation.html" %}
   {% endunless %}
-  
-  {{ content | safe }}
+  <main id="main-content" role="main" tabindex="-1">
+    {{ content | safe }}
+  </main>
   
   {% unless page.skip_footer %}
   {% include "_footer.html" %}

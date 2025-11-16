@@ -1,8 +1,8 @@
 <div id="navigation" class="{{ page.navigation_type | default: '' }}">
-  <nav class="top-bar" role="navigation" data-topbar>
+  <nav class="top-bar" role="navigation" aria-label="Primary" data-topbar>
     <ul class="title-area">
-      <li class="name"><a href="{{ '/' | relative_url }}" title="home"><img src="{{ '/assets/img/gms_topright.png' | relative_url }}" class="dhlg-menu-logo"></a></li>
-      <li class="toggle-topbar menu-icon"><a href="#"><span>&nbsp;</span></a></li>
+      <li class="name"><a href="{{ '/' | relative_url }}" title="home"><img src="{{ '/assets/img/gms_topright.png' | relative_url }}" alt="{{ site.sitetitle }} logo" class="dhlg-menu-logo"></a></li>
+      <li class="toggle-topbar menu-icon"><a href="#" aria-label="Toggle menu"><span>&nbsp;</span></a></li>
     </ul>
     <section class="top-bar-section">
       <ul class="right">
@@ -14,7 +14,7 @@
             {% else %}
               <li class="divider"></li>
               <li class="has-dropdown{% if link.url == page.url %} active{% endif %}">
-                {% if link.url == '#' %}<a{% else %}<a href="{{ link.url | relative_url }}"{% endif %} class="{% if link.class %}{{link.class}}{% endif %}">{{ link.title | escape }}</a>
+                {% if link.url == '#' %}<a role="button" aria-haspopup="true" aria-expanded="false"{% else %}<a href="{{ link.url | relative_url }}" aria-haspopup="true" aria-expanded="false"{% endif %} class="{% if link.class %}{{link.class}}{% endif %} topbar-parent">{{ link.title | escape }}</a>
                 <ul class="dropdown">
                   {% for dropdown_link in link.dropdown %}
                     <li><a {% if dropdown_link.class %}class="{{dropdown_link.class}}"{% endif %} href="{{ dropdown_link.url | relative_url }}">{{ dropdown_link.title | escape }}</a></li>
@@ -33,7 +33,7 @@
               <li class="divider"></li>
             {% else %}
               <li class="has-dropdown {% if link.url == page.url %} active{% endif %}">
-                {% if link.url == '#' %}<a{% else %}<a href="{{ link.url | relative_url }}"{% endif %} class="{% if link.class %}{{link.class}}{% else %} a-pseudo{% endif %} {% if link.alternate == '?' %} alternateprefix{% endif %}">{{ link.title | escape }}</a>
+                {% if link.url == '#' %}<a role="button" aria-haspopup="true" aria-expanded="false"{% else %}<a href="{{ link.url | relative_url }}" aria-haspopup="true" aria-expanded="false"{% endif %} class="{% if link.class %}{{link.class}}{% else %} a-pseudo{% endif %} {% if link.alternate == '?' %} alternateprefix{% endif %} topbar-parent">{{ link.title | escape }}</a>
                 <ul class="dropdown">
                   {% for dropdown_link in link.dropdown %}
                     {% if dropdown_link.dropdown == nil %}
@@ -41,7 +41,7 @@
                       <li class="divider"></li>
                     {% else %}
                       <li class="has-dropdown{% if dropdown_link.url == page.url %} active{% endif %}">
-                        <a class="{% if dropdown_link.class %}{{dropdown_link.class}}{% endif %}" href="{{ dropdown_link.url | relative_url }}">{{ dropdown_link.title | escape }}</a>
+                        <a class="{% if dropdown_link.class %}{{dropdown_link.class}}{% endif %} topbar-parent" href="{{ dropdown_link.url | relative_url }}" aria-haspopup="true" aria-expanded="false">{{ dropdown_link.title | escape }}</a>
                         <ul class="dropdown">
                           {% for nested_link in dropdown_link.dropdown %}
                             <li><a href="{{ nested_link.url | relative_url }}">{{ nested_link.title | escape }}</a></li>

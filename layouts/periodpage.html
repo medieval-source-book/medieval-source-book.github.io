@@ -11,7 +11,7 @@ format: page
 }
 
 .text-card {
-  border: 1px solid #ddd;
+  border: 1px solid $grey-3;
   border-radius: 4px;
   overflow: hidden;
   transition: transform 0.2s, box-shadow 0.2s;
@@ -30,7 +30,7 @@ format: page
   width: 100%;
   height: 200px;
   object-fit: cover;
-  background: #f0f0f0;
+  background: $grey-1;
 }
 
 .text-info {
@@ -39,7 +39,7 @@ format: page
 
 .text-origtitle {
   font-style: italic;
-  color: #666;
+  color: $grey-9;
   font-size: 0.9rem;
   margin: 0.25rem 0;
   min-height: 1.2rem;
@@ -54,7 +54,7 @@ format: page
 
 .text-meta {
   font-size: 0.85rem;
-  color: #888;
+  color: $grey-9;
   margin-top: 0.5rem;
 }
 
@@ -82,14 +82,14 @@ format: page
  				<div itemprop="name">
  					<h1 id="pagetitle" class="landing">{{ title }}</h1>
  				</div>
- 				{% if image %}
- 				<div itemprop="image">
- 					<img src="{{image}}" class="period-image" />
- 					{% if imagesource %}
- 					<p class="caption">{{imagesource}}</p>
- 					{% endif %}
- 				</div>
- 				{% endif %}
+				{% if image %}
+				<div itemprop="image">
+					<img src="{{image}}" class="period-image" alt="Representative image for {{ title }} period" />
+					{% if imagesource %}
+					<p class="caption">{{imagesource}}</p>
+					{% endif %}
+				</div>
+				{% endif %}
  			</header>
 
  			<div itemprop="articleSection">

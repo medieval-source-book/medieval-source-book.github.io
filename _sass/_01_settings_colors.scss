@@ -138,7 +138,7 @@ $subfooter-link-color: $white;
 $code-background-color: color.scale($secondary-color, $lightness: 70%);
 
 $highlight-background: #ffffff;
-$highlight-comment: #999988;
+$highlight-comment: #6b6b6b; // darkened for WCAG AA (>=4.5)
 $highlight-error: #a61717;
 $highlight-comment-special: #999999;
 $highlight-deleted: #000000;
