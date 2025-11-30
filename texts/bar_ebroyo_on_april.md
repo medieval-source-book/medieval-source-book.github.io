@@ -23,51 +23,43 @@ thumb: /assets/img/text/bar_ebroyo_on_april-thumb.JPG
 imagesource: "Star-Shaped Tile, second half 13th–14th century, Stonepaste; molded, overglaze painted and leaf gilded (lajvardina), Metropolitan Museum of Art 40.181.16, H.O. Havemeyer Collection, Gift of Horace Havemeyer, 1940 [Public Domain]]"
 ---
 <h2>Introduction to the Text</h2>
-<p>This poem by Maphrian Mor Gregorios Bar ‘Ebroyo (1226-1286) is from a collection of his poems (<i> musḥotho</i> ) compiled by Mor Philoxenos Yuhanon Dolabani in 1929 and republished by the Mor Ephrem Monastery in Glane, Holland in 1983. Bar ‘Ebroyo (also latinized as Bar Hebraeus) was a prolific author who wrote on topics ranging from astronomy, medicine, theology, poetry, grammar, canon law, and more. He wrote in Arabic and Syriac and many of his works are translations of earlier Arabic works, or at least rely heavily upon such works. As maphrian, Bar ‘Ebroyo oversaw the eastern half of the Syriac Orthodox Church, with his seat being in the Mor Matay Monastery, near Mosul, Iraq. This office was second only to the patriarch of Antioch, although in function the two were largely equal.</p>
+<p>This poem by Maphrian Mor Gregorios Bar ‘Ebroyo (1226-1286) is from a collection of his poems (<i> musḥotho</i>) compiled by Mor Philoxenos Yuhanon Dolabani in 1929 and republished by the Mor Ephrem Monastery in Glane, Holland in 1983. Bar ‘Ebroyo (also latinized as Bar Hebraeus) was a prolific author who wrote on topics ranging from astronomy, medicine, theology, poetry, grammar, canon law, and more. He wrote in Arabic and Syriac and many of his works are translations of earlier Arabic works, or at least rely heavily upon such works. As maphrian, Bar ‘Ebroyo oversaw the eastern half of the Syriac Orthodox Church, with his seat being in the Mor Matay Monastery, near Mosul, Iraq. This office was second only to the patriarch of Antioch, although in function the two were largely equal.</p>
 
-<p>The title of this poem implies that the month of April (<i> nisan</i> , in Syriac) is the subject of the author’s praise, yet the rose is really the recipient of the panegyric. The author seems to be alluding to the popular Arabic genre of the disputation poem, where two or more inanimate objects, animals, or even abstract concepts are an- thropomorphized and debate their qualities. The rose and narcissus (daffodil) flowers were common interlocutors in such poems. In this poem, the rose is heralded as the most beautiful of all flowers but is scolded by the narrator because it allows its beauty to be plucked and used by disreputable people. The Syriac text uses a 12-syllable meter with stanzas of four lines.</p>
+<p>The title of this poem implies that the month of April (<i> nisan</i>, in Syriac) is the subject of the author’s praise, yet the rose is really the recipient of the panegyric. The author seems to be alluding to the popular Arabic genre of the disputation poem, where two or more inanimate objects, animals, or even abstract concepts are an- thropomorphized and debate their qualities. The rose and narcissus (daffodil) flowers were common interlocutors in such poems. In this poem, the rose is heralded as the most beautiful of all flowers but is scolded by the narrator because it allows its beauty to be plucked and used by disreputable people. The Syriac text uses a 12-syllable meter with stanzas of four lines.</p>
 
 <h2>Introduction to the Source</h2>
 <p>Bar ‘Ebroyo’s poetry is largely undated, and relatively little has been written about it, although he wrote over 300 poems on topics as diverse as those found in his prose corpus. His poetry exists in several manuscripts, but there has been no critical edition published that includes an apparatus and discussion of the manuscripts. Two collections have been published, the one I have used for this poem (Dolabani) and an earlier one by Augustinus Scebabi (1877). In Dolabani’s collection, the poems are grouped by subject, and this poem is the first a section that focuses on the theme of nature.</p>
 
 <h2>About this Edition</h2>
 <p>I have maintained the lines and stanzas in this poem but have not preserved the meter, so as to better follow the literal meaning of the Syriac. The original Syriac is rhymed, but this was not preserved either. I have translated the month <i> nisan </i> into April, rather than transliterating it, for the sake of clarity, although it may not have exactly corresponded to the modern Gregorian month.</p>
+
 <h2>Further Reading</h2>
-
-
-
-
-<p>Bar ‘Ebroyo. <i> Bar Hebraeus’s Mush’hotho Book</i> . Monastery of St. Ephrem the Syrian, 1983.</p>
+<p>Bar ‘Ebroyo. <i> Bar Hebraeus’s Mush’hotho Book</i>. Monastery of St. Ephrem the Syrian, 1983.</p>
 <ul>
 <li>This is the source used for this translation.</li>
-
 </ul>
-<p>Bar ‘Ebroyo, Gregorius Abū Al-Faraǧ, and Augustin Scebabi. <i> Gregorii Bar-Hebraei carmina a patre Augustino Scebabi monaco maronita libanensi aleppensi correcta, ac ab eodem lexicon adjunctum</i> . Ex Typographia Polyglotta S. C. De Propaganda Fide, 1877.</p>
+<p>Bar ‘Ebroyo, Gregorius Abū Al-Faraǧ, and Augustin Scebabi. <i> Gregorii Bar-Hebraei carmina a patre Augustino Scebabi monaco maronita libanensi aleppensi correcta, ac ab eodem lexicon adjunctum</i>. Ex Typographia Polyglotta S. C. De Propaganda Fide, 1877.</p>
 <ul>
 <li>Here is another earlier collection of Bar ‘Ebroyo’s poetry which includes this poem.</li>
-
 </ul>
-<p>Heinrichs, Wolfhart. “Rose versus Narcissus: Observations on an Arabic Literary Debate.” <i> Dispute Poems and Dialogues in the Ancient and Medieval Near East: Forms and Types of Literary Debates in Semitic and Related Literatures</i> , edited by G. J. Reinink and H. L. J. Vanstiphout. Peeters, 1991, pp. 179-198.</p>
+<p>Heinrichs, Wolfhart. “Rose versus Narcissus: Observations on an Arabic Literary Debate.” <i> Dispute Poems and Dialogues in the Ancient and Medieval Near East: Forms and Types of Literary Debates in Semitic and Related Literatures</i>, edited by G. J. Reinink and H. L. J. Vanstiphout. Peeters, 1991, pp. 179-198.</p>
 <ul>
 <li>This essay, from a collection on the Arabic dispute poem genre, discusses specifically the debate between the rose and narcissus flowers which Bar ‘Ebroyo alludes to.</li>
-
 </ul>
-<p>Takahashi, Hidemi. <i> Barhebraeus: A Bio-Bibliography</i> . Gorgias Press, 2013.</p>
+<p>Takahashi, Hidemi. <i> Barhebraeus: A Bio-Bibliography</i>. Gorgias Press, 2013.</p>
 <ul>
 <li>This is a thorough biography of the author with an exhaustive bibliography of primary and secondary sources.</li>
-
 </ul>
 <p>Takahashi, Hidemi. “The Poems of Barhebraeus: A Preliminary Concordance.” <i> Khristianskiĭ Vostok </i> 6, no. 7, 2013, pp. 78–139.</p>
 <ul>
 <li>Further discussion of Bar ‘Ebroyo’s poetry with a list of major manuscripts.</li>
-
 </ul>
 <p>Taylor, C. “The Dirge of Coheleth.” <i> The Jewish Quarterly Review </i> 4, no. 4, July 1892, pp. 533-549.</p>
 <ul>
 <li>This is a discussion on the biblical book of Ecclesiastes but contains a translation of the first two stanzas of this poem, in relation to the word <em>ܛܺܝܛܟܘܣ ( ṭ</em> ēyṭkūs, “cicada”). To my knowledge, this is the only other English translation of this poem.</li>
-
 </ul>
-<p> “On April - to the Praise of its Creator” | “<em>ܗܢܢܝܟܡܠ ܐܚܒܘܫ ܢܣܝܢ ܠܥ</em> ”</p>
+
+<h1> “On April - to the Praise of its Creator” | “<em>ܗܢܢܝܟܡܠ ܐܚܒܘܫ ܢܣܝܢ ܠܥ</em> ”</h1>
 
 <p>Behold, April has arrived and has given refreshment to those who grieve ܃ܫܦܶܢܰ ܐܝܰܒ ܐܩܝ݂̈ܝܥܰܠܘܰ ܢܣ݂ܳܝܢܺ ܐܛܳܡܐܗܳ</p>
 <p>And in glory has clothed mountain and pasture with flowers.</p>
