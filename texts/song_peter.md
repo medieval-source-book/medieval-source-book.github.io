@@ -33,44 +33,31 @@ imagesource: "Detail from BSB MS Clm 6260, fol.158v"
 <p>The song survives in only one manuscript, Bayerische Staatsbibliothek Clm 6260, now held in Munich. The manuscript originally stems from the Freising Cathedral library and was written in the second half of the ninth century CE. It contains discussions, in Latin, of religious texts. The <i> Song of Peter </i> was written down later, on the very last page below the end of Hrabanus’s Maurus Commentary on Genesis (f.158v).</p>
 
 <h2>Further Reading</h2>
-
-
-
-
-<p>Bostock, John Knight. <i> A Handbook on Old High German Literature</i> . 2nd ed. Clarendon. 1976.</p>
-<p>Haug, Walter and Benedikt Konrad Vollmann. <i> Frühe Deutsche Literatur und Lateinische Literatur in Deutschland 800-1150</i> .</p>
-<p>Deutscher Klassiker Verlag, 1991.</p>
+<p>Bostock, John Knight. <i> A Handbook on Old High German Literature</i>. 2nd ed. Clarendon. 1976.</p>
+<p>Haug, Walter and Benedikt Konrad Vollmann. <i> Frühe Deutsche Literatur und Lateinische Literatur in Deutschland 800-1150</i>. Deutscher Klassiker Verlag, 1991.</p>
 <ul>
 <li>Old High German text and modern German translation (130-131); commentary and extensive bibliography (1117-1120).</li>
 </ul>
-<p>Liberman, Anatoly. “Petruslied.” <i> German Writers and Works of the Early Middle Ages: 800 – 1170</i> , edited by Will Hasty and James Hardin. Gale Research, 1995, 252-254.</p>
+<p>Liberman, Anatoly. “Petruslied.” <i> German Writers and Works of the Early Middle Ages: 800 – 1170</i>, edited by Will Hasty and James Hardin. Gale Research, 1995, 252-254.</p>
 <p>McLintock, David R. “Petruslied.” <i> Dictionary of the Middle Ages, </i> vol. 9, edited by Joseph Reese Strayer. Charles Scribners Sons, 1987, 546.</p>
+
 <h1>The Song of Peter | Petruslied</h1>
 
 <p>Unsar trohtin hat farsalt sancte petre giuualt daz er mac ginerian</p>
-
 <p>ze imo dingenten man. kyrie eleyson christe eleyson.</p>
-
 <p>Er hapet ouh mit vuortun himriches portun. dar in mach er skerian</p>
-
 <p>den er uuili nerian. kirie eleison criste [eleyson]</p>
+<p>5 Pittemes den gotes trut alla samant uparlut. daz er uns firtanen giuuer</p>
+<p>do ginaden<sup>1</sup>. kirie eleyson criste eleyson</p>
 
-<p>Pittemes den gotes trut alla samant uparlut. daz er uns firtanen giuuer</p>
-
-<p>do ginaden<em>1</em> . kirie eleyson criste eleyson</p>
 <p>Our Lord gave Saint Peter the power to save</p>
-
 <p>those entrusted to him. <i> Kyrie eleison. Christe eleison.</i></p>
-
 <p>With words, he also guards the gates of heaven through which he admits</p>
-
-<p>those whom he wishes to save. <i> Kyrie eleison. Christe eleison</i> <em>2 .</em></p>
-
+<p>those whom he wishes to save. <i> Kyrie eleison. Christe eleison</i> <sup>2.</sup></p>
 <p>5 Let us entreat God’s disciple, loudly and in unison, so that he grants</p>
-
 <p>mercy to us sinners. <i> Kyrie eleison. Christe eleison.</i></p>
 
-<h1>Critical Notes</h1>
+<h2>Critical Notes</h2>
 
 <ol id="l2">
 <li>
