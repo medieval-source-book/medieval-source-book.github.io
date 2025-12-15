@@ -24,8 +24,11 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 ---
 <h2>Introduction to the Text</h2>
 <p>Emaré is a 14th-century Middle English adaptation of a narrative type known as “maiden-without-hands” (AT 706), “Manekine-story,” or “Constance-saga”. It follows the misadventures of a female protagonist whom most versions characterize as royal, pious, educated, and beautiful. Refusing her father’s incestuous advances, she flees or is exiled. In exile, the local ruler wishes to marry her; many versions emphasize her otherworldly beauty. A relative or courtier does not trust the beautiful stranger. When her husband is absent for the birth of their child, the mistrustful relative or courtier intercepts a letter (or series of letters) delivering the news and replaces them with slanderous content, resulting in a second exile. Ultimately, the family reunites, in most versions in Rome, where the protagonist’s husband and father seek absolution for their sins and find the protagonist and her child (or children).</p>
-<p>The oldest known versions of this narrative date to the 13th century (<em>Vitae Offarum Duorum</em>, insular Latin, 1250 or earlier; <em>Mai und Beaflor</em>, German, dated variously from 1220–80; <em>La Manekine</em>, French, dated variously from 1230–80), but it has been retold over centuries across languages, genre, and faith communities. Its origins and the connections between different versions cannot be established. In the (Latin) West, Maryvonne Hagby counts 41 distinct versions in medieval English, German, Latin and Romance languages (including Catalan, Spanish, French, and Italian), with manuscripts spanning from insular Britain across the European Continent to North Africa, as stand-alone romances, novellas, exempla, miracle tales, or plays, or as chronicle or romance subplots. The <em>Global Medieval Sourcebook</em> <a href="http://sourcebook.stanford.edu/text/damsel_carcayciona" target="_blank"> contains an Aragonese version of the story found in a 16th-century Aljamiado manuscript: </a> http://sourcebook.stanford.edu/text/damsel_carcayciona. <em>Emaré</em> adapts the tale as a short, tail-rhymed narrative which identifies itself as a Breton Lay (see l. 1030). It thus associates itself with a “Celtic” or Breton story matter, to which it establishes further links by way of Arthurian character names.</p>
+
+<p>The oldest known versions of this narrative date to the 13th century (<em>Vitae Offarum Duorum</em>, insular Latin, 1250 or earlier; <em>Mai und Beaflor</em>, German, dated variously from 1220–80; <em>La Manekine</em>, French, dated variously from 1230–80), but it has been retold over centuries across languages, genre, and faith communities. Its origins and the connections between different versions cannot be established. In the (Latin) West, Maryvonne Hagby counts 41 distinct versions in medieval English, German, Latin and Romance languages (including Catalan, Spanish, French, and Italian), with manuscripts spanning from insular Britain across the European Continent to North Africa, as stand-alone romances, novellas, exempla, miracle tales, or plays, or as chronicle or romance subplots. The <em>Global Medieval Sourcebook</em> contains an Aragonese version of the story found in a 16th-century Aljamiado manuscript: http://sourcebook.stanford.edu/text/damsel_carcayciona. <em>Emaré</em> adapts the tale as a short, tail-rhymed narrative which identifies itself as a Breton Lay (see l. 1030). It thus associates itself with a “Celtic” or Breton story matter, to which it establishes further links by way of Arthurian character names.</p>
+
 <p>A prevalent stylistic feature of this text is its use of repetition. Another noteworthy feature is its long ekphrasis (description) of a wondrous cloth which the Sicilian King Tergaunte brings to the protagonist’s father, the Emperor Artyus. While Artyus is blinded by the rich, gem-encrusted textile, the description makes visible the embroidery and provides a biography of the object. The narrator tells us that it was worked with rare materials by the Emir of Babylon’s daughter as a love-token for the Sultan of Babylon’s son. Four panels in the cloth depict romance couples: Amadas and Ydoine, Tristan and Yseut, Floire and Blancheflur, and the Babylonian lovers themselves. It comes to Tergaunte as a spoil of war. After Tergaunte’s departure, the Emperor desires his daughter and has a wedding dress shaped from the cloth; he exiles her while she is still wearing the dress. Emaré and her son Segramour are frequently referred to as being “worthy beneath their clothing.” Narrative attention is directed to her dazzling robe at all major plot points.</p>
+
 <p>Scholarly discussion to date has often focused on the ekphrasis of the wondrous cloth, including its connection with genre, incest, the narrative’s relation to the organizing principles of Cotton Caligula Aii (the miscellany in which it was transmitted), its poetics, and its negotiation of interfaith relations. However, the text is barely acknowledged outside of English Studies and is usually aligned with more famous versions, such as Chaucer’s “Man of Law’s Tale”, Gower’s <em>Confessio Amantis</em>, or <em>La Manekine</em>. Fruitful comparisons could be made with less acclaimed versions and, more generally, <em>Emaré</em> could be studied from the perspective of its position within a transcultural textual network transcending modern notions of separated national literatures.</p>
 
 <h2>Introduction to the Source</h2>
@@ -39,7 +42,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <h2>Published Editions of the Text</h2>
 <p>French, Walter Hoyt, and Charles B. Hale. <em>Middle English Metrical Romances</em>. Russel and Russel, 1964. 2 vols. Vol. I, 423–55.</p>
 <p>Gough, Alfred Bradly. Emare: Edited by A.B. Gough. Winter, 1901. Old and Middle English Texts, II.</p>
-<p>Laskaya, Anne and Eve Salisbury. <em>Middle English Breton Lays</em> <a href="http://d.lib.rochester.edu/teams/publication/laskaya-and-salisbury-middle-" target="_blank"> . Medieval Inst. Publ., Western Michigan Univ, 1995. Middle English Texts Series. Available online via </a> http://d.lib.rochester.edu/teams/publication/laskaya-and-salisbury-middle- english-breton-lays-emare. Last accessed 22.12.2021.</p>
+<p>Laskaya, Anne and Eve Salisbury. <em>Middle English Breton Lays</em>. Medieval Inst. Publ., Western Michigan Univ, 1995. Middle English Texts Series. Available online via http://d.lib.rochester.edu/teams/publication/laskaya-and-salisbury-middle- english-breton-lays-emare. Last accessed 22.12.2021.</p>
 <p>Mahoux-Pauzin, Philippe. “Emaré.” <em>Les lais bretons moyen-anglais</em>. Ed. Colette Stévanovitch and Anne Mathieu. Brepols, 2010. 241–302. Textes vernaculaires du moyen âge 9.</p>
 <ul>
 <li>Translation into Modern French based on Laskaya and Salisbury’s text.</li></ul>
@@ -48,12 +51,9 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Ritson, Joseph. Ancient English Metrical Romances: Selected and Published by Joseph Ritson, and Revised by Edmund Goldsmid. E &amp; G Goldsmid, 1885. 3 vols. Vol. II, 183–215.</p>
 
 <h2>Further Reading</h2>
-
-
 <p>Burge, Amy, and Lydia Kertz. “Fabricated Muslim Identity, Female Agency, and Cultural Complicity: The Imperial Project of Emaré.” Medieval Feminist Forum: A Journal of Gender and Sexuality. Vol. 56, No. 1 (2020). 38–69.</p>
 <ul>
 <li>Informed by assemblage theory; the most recent article to discuss the cloth’s connection to the narrative’s interfaith relations and its bearers’ complicity in empire-building.</li>
-
 </ul>
 <p>Hagby, Maryvonne. ‘Die Königstochter von Frankreich’ des Hans von Bühel: Fünf kontextualisierende Studien. Mit einer Bibliographie raisonée zum Manekine-Stoff. Waxmann, 2023.</p>
 <ul>
@@ -66,568 +66,646 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Scala, Elizabeth. “The Texture of Emaré.” <em>Philological Quarterly</em>. Vol. 85, 3/4 (2006). 223–46.</p>
 <ul>
 <li>First extensive poetological discussion; considers the cloth as a figuration of both the text and the manuscript miscellany as consciously composed artworks with links to generic traditions and material culture.</li>
-
 </ul>
 
-<h1>Emare | Emar<em>é</em></h1>
+
+
+<h1>Emare | Emaré</h1>
 
 <p>Jhesu, that ys kyng in trone,</p>
-<p>As thou shoope bothe sonne and mone, And all that shall dele and dyghte,</p>
-<p>Now lene us grace such dedes to done, In thy blys that we may wone,</p>
+<p>As thou shoope bothe sonne and mone,
+<p>And all that shall dele and dyghte,</p>
+<p>Now lene us grace such dedes to done,</p>
+<p>5 In thy blys that we may wone,</p>
 <p>Men calle hit heven lyghte;</p>
-<p>And thy moder, Mary, hevyn qwene, Bere our arunde so bytwene,</p>
-<p>That semely ys of syght, To thy sone that ys so fre,</p>
-<p>In heven with hym that we may be, That lord ys most of myght.</p>
+<p>And thy moder, Mary, hevyn qwene,</p>
+<p>Bere our arunde so bytwene,</p>
+<p>That semely ys of syght,</p>
+<p>10 To thy sone that ys so fre,</p>
+<p>In heven with hym that we may be,</p>
+<p>That lord ys most of myght.</p>
 
-<p>Menstrelles, that walken fer and wyde, Her and ther in every a syde,</p>
-<p>In mony a dyverse londe, Sholde, at her begynnyng, Speke of that ryhtwes kyng,</p>
-<p>That made both see and sonde. Whoso wyll a stounde dwelle,</p>
-<p>Of mykyll myrght y may you telle, And mornyng ther amonge,</p>
+<p>Menstrelles, that walken fer and wyde,</p>
+<p>Her and ther in every a syde,</p>
+<p>15 In mony a dyverse londe,</p>
+<p>Sholde, at her begynnyng,</p>
+<p>Speke of that ryhtwes kyng,</p>
+<p>That made both see and sonde.</p>
+<p>Whoso wyll a stounde dwelle,</p>
+<p>20 Of mykyll myrght y may you telle,</p>
+<p>And mornyng ther amonge,</p>
 <p>Of a lady fayr and fre,</p>
-<p>Her name was called Emare, As i here synge in songe.</p>
+<p>Her name was called Emare,</p>
+<p>As i here synge in songe.</p>
 
-<p>Her fadyr was an emperour, Of castell, and of ryche towre,</p>
+<p>25 Her fadyr was an emperour,</p>
+<p>Of castell, and of ryche towre,</p>
 <p>Syr Artyus was hys nome;</p>
-<p>He hadde bothe hallys and bowrys, Frythes fayr, forestes with flowrys,</p>
-<p>So gret a lord was none. Weddedde he had a lady,</p>
-<p>That was both fayr and semely, Whyte as whalës bone,</p>
-<p>Dame Erayne hette that emperes, She was full of love and goodnesse,</p>
+<p>He hadde bothe hallys and bowrys,</p>
+<p>Frythes fayr, forestes with flowrys,</p>
+<p>30 So gret a lord was none.</p>
+<p>Weddedde he had a lady,</p>
+<p>That was both fayr and semely,</p>
+<p>Whyte as whalës bone,</p>
+<p>Dame Erayne hette that emperes,</p>
+<p>35 She was full of love and goodnesse,</p>
 <p>So curtays lady was none.</p>
+
+<p>Syr Artyus was the best manne</p>
+<p>In the worlde that lyvede thanne,</p>
+<p>Both hardy and therto wyght,</p>
+<p>40 He was curtays in all thyng,</p>
+<p>Bothe to olde and to yynge,</p>
+<p>And well kowth dele and dyght.</p>
+<p>He hadde but on chyld in hys lyve,</p>
+<p>Begeten on hys weddedde wyfe,</p>
+<p>45 And that was fayr and bryght;</p>
+<p>For sothe, as y may telle the,</p>
+<p>They called that chyld Emare,</p>
+<p>That semely was of syght.</p>
+
+<p>When she was of her moder born,</p>
+<p>50 She was the fayrest creature borne,</p>
+<p>That yn the lond was thoo,</p>
+<p>The emperes, that fayr ladye,</p>
+<p>Fro her lord gan she dye,</p>
+<p>Or hyt kowthe speke or goo.</p>
+<p>55 The chyld, that was fayr and gent,</p>
+<p>To a lady was hyt sente,</p>
+<p>That men called Abro,</p>
+<p>She thawghth hit curtesye and thewe,</p>
+<p>Golde and sylke for to sewe,</p>
+<p>60 Amonge maydenes moo.</p>
+
+<p>Abro tawghte thys mayden small,</p>
+<p>Nortour that men usedenn in sale,</p>
+<p>Whyle she was in her bowre;</p>
+<p>She was curtays in all thynge,</p>
+<p>65 Bothe to old and to yynge,</p>
+<p>And whythe as lylye flowre;</p>
+<p>Of her hondes she was slye,</p>
+<p>All he loved that her sye,</p>
+<p>Wyth menske and mychel honour.</p>
+<p>70 At the meydene leve we,</p>
+<p>And at the lady fayr and fre;</p>
+<p>And speke we of the emperour.</p>
+
+<p>The emperour of gentyll blode,</p>
+<p>Was a curteys lorde and a gode,</p>
+<p>75 In all maner of thynge,</p>
+<p>Aftur when his wyf was dede,</p>
+<p>And ledde his lyf yn weddewede,</p>
+<p>And myche loved playnge.</p>
+<p>Sone aftur yn a whyle,</p>
+<p>80 The ryche kynge of Cesyle</p>
+<p>To the emperour gann wende,</p>
+<p>A ryche present wyth hym he browght,</p>
+<p>A cloth that was wordylye wroght,</p>
+<p>He wellcomed hym as the hende.</p>
+
+<p>85 Syr Tergaunte, that nobyll knyght hyghte.</p>
+<p>He presented the emperour ryght,</p>
+<p>And sette hym on hys kne,</p>
+<p>Wyth that cloth rychyly dyght,</p>
+<p>Full of stones ther hit was pyght,</p>
+<p>90 As thykke as hit myght be,</p>
+<p>Off topaze and rubyes,</p>
+<p>And other stones of myche prys,</p>
+<p>That semely wer to se,</p>
+<p>Of crapowtes and nakette,</p>
+<p>95 As thykke ar they sette,</p>
+<p>For sothe as y say the.</p>
+
+<p>The cloth was displayed sone,</p>
+<p>The emperoer lokede therupone,</p>
+<p>And myght hyt not se,</p>
+<p>100 For glysteryng of the ryche ston</p>
+<p>Redy syght had he non,</p>
+<p>And sayde, How may thys be?</p>
+<p>The emperour sayde on hygh,</p>
+<p>Sertes, thys ys a fayry,</p>
+<p>105 Or ellys a vanytè.</p>
+<p>The kyng of Cysyle answered than,</p>
+<p>So ryche a jwell ys ther</p>
+<p>non In all Crystyante.</p>
+
+<p>The amerayle dowghter of hethennes</p>
+<p>110 Made this cloth withouten lees,</p>
+<p>And wrowghte hit all with pride,</p>
+<p>And purtreyed hyt with gret honour,</p>
+<p>Wyth ryche golde and asowr,</p>
+<p>And stones on ylke a syde;</p>
+<p>115 And, as the story telles in honde,</p>
+<p>The stones that yn this cloth stonde</p>
+<p>Sowghte they wer full wyde,</p>
+<p>Seven wynter hit was yn makynge,</p>
+<p>Or hit was browght to endynge,</p>
+<p>120 In herte ys not to hyde.</p>
+
+<p>In that on korner made was</p>
+<p>Idoyne and Amadas,</p>
+<p>With love that was so trewe,</p>
+<p>For they loveden hem wit honour,</p>
+<p>125 Portrayed they wer with trewe-love flour,</p>
+<p>Of stones bryght of hewe,</p>
+<p>Wyth carbunkull and safere,</p>
+<p>Kassydonys and onyx so clere,</p>
+<p>Sette in golde newe,</p>
+<p>130 Deamondes and rubyes,</p>
+<p>And other stones of mychyll pryse,</p>
+<p>And menstrellys with her gle.</p>
+
+<p>In that other corner was dyght,</p>
+<p>Trystram and Isowde so bryght,</p>
+<p>135 That semely wer to se,</p>
+<p>And for they loved hem ryght,</p>
+<p>As full of stones ar they dyght,</p>
+<p>As thykke as they may be,</p>
+<p>Of topase and of rubyes,</p>
+<p>140 And other stones of myche pryse,</p>
+<p>That semely wer to se,</p>
+<p>Wyth crapawtes and nakette,</p>
+<p>Thykke of stones ar they sette,</p>
+<p>For sothe as y say the.</p>
+
+<p>145 In the thrydde korner, with gret honour,</p>
+<p>Was Florys and dam Blawncheflour,</p>
+<p>As love was hem betwene,</p>
+<p>For they loved wyth honour,</p>
+<p>Purtrayed they wer with trewe-love-flower,</p>
+<p>150 Wyth stones bryght and shene.</p>
+<p>Ther wer knyghtes and senatowres,</p>
+<p>Emerawdes of gret vertues,</p>
+<p>To wyte withouten wene,</p>
+<p>Deamondes and koralle,</p>
+<p>155 Perydotes and crystall,</p>
+<p>And gode garnettes bytwene.</p>
+
+<p>In the fowrthe korner was oon </p>
+<p>Of Babylone the sowdan sonne,</p>
+<p>The amerayles dowghtyr hym by,</p>
+<p>160 For his sake the cloth was wrowght,</p>
+<p>She loved hym in hert and thowght,</p>
+<p>As testymoyeth this storye.</p>
+<p>The fayr mayden her byforn</p>
+<p>Was portrayed an unykorn,</p>
+<p>165 With hys horn so hye,</p>
+<p>Flowres and bryddes on ylke a syde,</p>
+<p>With stones that wer sowght wyde,</p>
+<p>Stuffed wyth ymagerye.</p>
+
+<p>When the cloth to ende was wrowght,</p>
+<p>170 To the sowdan sone hit was browght,</p>
+<p>That semely was of syghte:</p>
+<p>“My fadyr was a nobyll man,</p>
+<p>Of the sowdan he hit wan,</p>
+<p>Wyth maystrye and wyth myghth;</p>
+<p>175 For gret love he yaf hyt me,</p>
+<p>I brynge hit the in specyaltè,</p>
+<p>Thys cloth ys rychely dyght.”</p>
+<p>He yaf hit the emperour,</p>
+<p>He receyved hit with gret honour,</p>
+<p>180 And thonkede hym fayr and ryght.</p>
+
+<p>The kyng of Cesyle dwelled ther</p>
+<p>As long as his wyll wer,</p>
+<p>Wyth the emperour for to play,</p>
+<p>And when he wolde wende,</p>
+<p>185 He toke his leve at the hende,</p>
+<p>And wente forth on hys way.</p>
+<p>Now remeveth this nobyll kyng,</p>
+<p>The emperour after his dowghter hadde longyng,</p>
+<p>To speke with that may,</p>
+<p>190 Messengeres forth he sent,</p>
+<p>Aftyr the mayde fayre and gent,</p>
+<p>That was bryght as someres day.</p>
+
+<p>Messengeres dyghte hem in hye,</p>
+<p>With myche myrthe and melodye,</p>
+<p>195 Forth gon they fare,</p>
+<p>Both by stretes and by stye,</p>
+<p>After that fayr lady,</p>
+<p>Was godely unther gare.</p>
+<p>Her norysse, that hyghte Abro,</p>
+<p>200 With her she goth forth also,</p>
+<p>And wer sette in a chare,</p>
+<p>To the emperour gan the go,</p>
+<p>He come ayeyn hem a myle or two,</p>
+<p>A fayr metyng was there.</p>
+
+<p>205 The mayden, whyte as lylye flour.</p>
+<p>Lyghte ayeyn her fadyr, the emperour,</p>
+<p>Two knyghtes gan her lede.</p>
+<p>Her fadyr, that was of gret renowne,</p>
+<p>That of golde wered the crowne,</p>
+<p>210 Lyghte of hys stede;</p>
+<p>When they wer bothe on her fete,</p>
+<p>He klypped her ond kyssed her swete,</p>
+<p>And bothe on fote they yede,</p>
+<p>They wer glad and made good chere,</p>
+<p>215 To the palys they yede in fere.</p>
+<p>In romans as we rede.</p>
+
+<p>Then the lordes that wer grete,</p>
+<p>They wesh and seten doun to mete,</p>
+<p>And folk hem served swyde,</p>
+<p>220 The mayden, that was of sembelant swete,</p>
+<p>Byfore her owene fadur sete,</p>
+<p>The fayrest wommon on lyfe.</p>
+<p>That all his hert and all his thowghth,</p>
+<p>Her to love was yn browght,</p>
+<p>225 He byhelde her ofte sythe,</p>
+<p>So he was anamored hys thowghter tyll,</p>
+<p>With her he thowghth to worche his wyll,</p>
+<p>And wedde her to hys wyfe.</p>
+
+<p>And when the mete-whyle was doun,</p>
+<p>230 Into hys chamber he wente soun,</p>
+<p>And called his counseyle nere,</p>
+<p>He bad they shulde sone go and come,</p>
+<p>And gete leve of the pope of Rome,</p>
+<p>To wedde that mayden clere.</p>
+<p>235 Messengeres forth they wente,</p>
+<p>They durst not breke his commandement,</p>
+<p>And erles with hem yn sere,</p>
+<p>They wente to the courte of Rome,</p>
+<p>And browghte the popus bullus sone,</p>
+<p>240 To wedde hys dowghter dere.</p>
+
+<p>Then was the emperour gladde and blythe,</p>
+<p>And lette shape a robe swythe,</p>
+<p>Of that cloth of golde,</p>
+<p>And when hit was don her upon,</p>
+<p>245 She semed non erthely wommon,</p>
+<p>That marked was of molde.</p>
+<p>Then seyde the emperour so fre,</p>
+<p>Dowghtyr, y woll wedde the,</p>
+<p>Thow art so fresh to beholde.</p>
+<p>250 Then sayde that wordy unther wede,</p>
+<p>Nay, syr, god of heven hit forbede,</p>
+<p>That ever do so we shulde!</p>
+
+<p>Yyf hit so betydde that ye me wedde,</p>
+<p>And we shulde play togedere in bedde,</p>
+<p>255 Bothe we were forlorne;</p>
+<p>The worde shulde sprynge fer and wyde</p>
+<p>In all the worlde on every syde,</p>
+<p>The worde shulde be borne.</p>
+<p>Ye ben a lorde of gret pryce,</p>
+<p>260 Lorde, lette never suche sorow aryce,</p>
+<p>Take god you beforne;</p>
+<p>That my fader shulde wedde me,</p>
+<p>God forbede that i hyt so se,</p>
+<p>That wered the crowne of thorne!</p>
+
+<p>265 The emperour was ryght wrothe,</p>
+<p>And swore many a gret othe,</p>
+<p>That deed shulde she be;</p>
+<p>He lette make a nobull boot,</p>
+<p>And dede her theryn god wote,</p>
+<p>270 In the robe of nobull ble.</p>
+<p>She moste have with her no spendyng,</p>
+<p>Nother mete ne drynke,</p>
+<p>Bot shote her yn to the se;</p>
+<p>Now the lady dwelled thore,</p>
+<p>275 Wythowte anker or ore,</p>
+<p>And that was gret pytè.</p>
+
+<p>Ther come a wynd, y untherstonde,</p>
+<p>And blewe the boot fro the londe,</p>
+<p>Of her they lost the syght,</p>
+<p>280 The emperour hym bethowght,</p>
+<p>That he hadde all myswrowht,</p>
+<p>And was a sory knyghte.</p>
+<p>And as he stode yn studyÿnge,</p>
+<p>He fell down in sowenynge,</p>
+<p>285 To the yrthe was he dyght ;</p>
+<p>Gret lordes stode therby,</p>
+<p>And toke yn the emperour hastyly,</p>
+<p>And comforted hym fayr and ryght.</p>
+
+
+
+
+
+
+
+<h2> Emare </h2>
 <p>Jesus, who is king on the throne,</p>
-<p>as You shaped both the sun and the moon and all that will judge and govern,</p>
+<p>as You shaped both the sun and the moon</p>
+<p>and all that will judge and govern,</p>
 <p>bestow upon us grace to do such deeds</p>
-<p>5 that we may dwell in Your exultation. People call it the heavenly light.</p>
-<p>And Your mother, Mary, heavenly Queen, intercede on our behalf—</p>
+<p>5 that we may dwell in Your exultation.</p>
+<p>People call it the heavenly light.</p>
+<p>And Your mother, Mary, heavenly Queen,</p>
+<p>intercede on our behalf—</p>
 <p>[Mary], who is beautiful to look at—</p>
 <p>10 with Your Son, who is so noble,</p>
-<p>so that we may be with Him in Heaven. That Lord is the most powerful.</p>
+<p>so that we may be with Him in Heaven.</p>
+<p>That Lord is the most powerful.</p>
 
-<p>Entertainers who walk far and wide, here and there, everywhere,</p>
-<p>15 in many a different country, should [first], when they start, speak of that righteous King</p>
-<p>who made both the sea and the sand. Whoever would like to stop and linger:</p>
-<p>20 I will tell you of much joy, interspersed with sorrow, of a fair and noble lady. Her name was Emaré,</p>
+<p>Entertainers who walk far and wide,</p>
+<p>here and there, everywhere,</p>
+<p>15 in many a different country,</p>
+<p>should [first], when they start,</p>
+<p>speak of that righteous King</p>
+<p>who made both the sea and the sand.</p>
+<p>Whoever would like to stop and linger:</p>
+<p>20 I will tell you of much joy,</p>
+<p>interspersed with sorrow,</p>
+<p>of a fair and noble lady.</p>
+<p>Her name was Emaré,</p>
 <p>as I am singing here in song.</p>
 
 <p>25 Her father was an emperor</p>
-<p>overseeing castles and splendid strongholds, Sir Artyus was his name.</p>
+<p>overseeing castles and splendid strongholds,</p>
+<p>Sir Artyus was his name.</p>
 <p>He had halls as well as bowers,</p>
 <p>considerable hunting grounds, forests with flowers;</p>
 <p>30 there was no lord as noble as him.</p>
 <p>He had married a lady</p>
-<p>who was both fair and beautiful, white as whalebone:</p>
+<p>who was both fair and beautiful,</p>
+<p>white as whalebone:</p>
 <p>Dame Erayne that empress was called.</p>
-<p>35 She was full of love and virtue, no lady was as courteous.</p>
+<p>35 She was full of love and virtue,</p>
+<p>no lady was as courteous.</p>
 
-<p>Syr Artyus was the best manne In the worlde that lyvede thanne,</p>
-<p>Both hardy and therto wyght, He was curtays in all thyng, Bothe to olde and to yynge,</p>
-<p>And well kowth dele and dyght. He hadde but on chyld in hys lyve, Begeten on hys weddedde wyfe,</p>
-<p>And that was fayr and bryght; For sothe, as y may telle the, They called that chyld Emare,</p>
-<p>That semely was of syght.</p>
-
-<p>When she was of her moder born, She was the fayrest creature borne,</p>
-<p>That yn the lond was thoo, The emperes, that fayr ladye, Fro her lord gan she dye,</p>
-<p>Or hyt kowthe speke or goo. The chyld, that was fayr and gent, To a lady was hyt sente,</p>
-<p>That men called Abro,</p>
-<p>She thawghth hit curtesye and thewe, Golde and sylke for to sewe,</p>
-<p>Amonge maydenes moo.</p>
-
-<p>Abro tawghte thys mayden small, Nortour that men usedenn in sale,</p>
-<p>Whyle she was in her bowre; She was curtays in all thynge, Bothe to old and to yynge,</p>
-<p>And whythe as lylye flowre; Of her hondes she was slye, All he loved that her sye,</p>
-<p>Wyth menske and mychel honour. At the meydene leve we,</p>
-<p>And at the lady fayr and fre;</p>
 <p>Of all men that were alive then</p>
-<p>Sir Artyus was the most excellent. [He was] both valiant and brave.</p>
-<p>40 He was courteous in every respect, both to the old and to the young,</p>
-<p>and he was able to judge and govern well. He had but one child in his life,</p>
+<p>Sir Artyus was the most excellent.</p>
+<p>[He was] both valiant and brave.</p>
+<p>40 He was courteous in every respect,</p>
+<p>both to the old and to the young,</p>
+<p>and he was able to judge and govern well.</p>
+<p>He had but one child in his life,</p>
 <p>conceived with his wedded wife,</p>
-<p>45 and [the child] was fair and radiant. Truthfully, I can tell you,</p>
-<p>they called that child Emaré who was beautiful to look at.</p>
+<p>45 and [the child] was fair and radiant.</p>
+<p>Truthfully, I can tell you,</p>
+<p>they called that child Emaré</p>
+<p>who was beautiful to look at.</p>
 
 <p>When she was delivered from her mother,</p>
-<p>50 she was the fairest creature born [and alive] in that country.</p>
-<p>Then the empress, that fair lady, was parted from her lord by death</p>
+<p>50 she was the fairest creature born</p>
+<p>[and alive] in that country.</p>
+<p>Then the empress, that fair lady,</p>
+<p>was parted from her lord by death</p>
 <p>before she [Emaré] could walk or talk.</p>
-<p>55 The child, who was beautiful and noble, was sent to a lady</p>
+<p>55 The child, who was beautiful and noble,</p>
+<p>was sent to a lady</p>
 <p>who was called Abro.</p>
-<p>She taught her courtly manners and good conduct, how to embroider with golden and silken threads,</p>
-<p>60 <em>alongside other young girls.</em></p>
+<p>She taught her courtly manners and good conduct,</p>
+<p>how to embroider with golden and silken threads,</p>
+<p>60 alongside other young girls.</p>
 
 <p>Abro taught this small maiden</p>
-<p>the correct manners to be used in the dining hall, while she was staying in her quarters.</p>
+<p>the correct manners to be used in the dining hall,</p>
+<p>while she was staying in her quarters.</p>
 <p>She was courteous in every respect,</p>
 <p>65 both to the old and to the young,</p>
-<p>and [she was] as white as a lily-flower. She was skillful with her hands.</p>
-<p>All who saw her loved her with honor and much respect.</p>
-<p>70 Here we shall leave the maiden and the fair and noble lady,</p>
-
-<p>And speke we of the emperour. and speak of the emperor.</p>
-
-<p>The emperour of gentyll blode, Was a curteys lorde and a gode,</p>
-<p>In all maner of thynge, Aftur when his wyf was dede,</p>
-<p>And ledde his lyf yn weddewede, And myche loved playnge.</p>
-<p>Sone aftur yn a whyle, The ryche kynge of Cesyle</p>
-<p>To the emperour gann wende,</p>
-<p>A ryche present wyth hym he browght, A cloth that was wordylye wroght,</p>
-<p>He wellcomed hym as the hende.</p>
-
-<p>Syr Tergaunte, that nobyll knyght hyghte. He presented the emperour ryght,</p>
-<p>And sette hym on hys kne, Wyth that cloth rychyly dyght, Full of stones ther hit was pyght,</p>
-<p>As thykke as hit myght be, Off topaze and rubyes,</p>
-<p>And other stones of myche prys, That semely wer to se,</p>
-<p>Of crapowtes and nakette, As thykke ar they sette,</p>
-<p>For sothe as y say the.</p>
-
-<p>The cloth was displayed sone, The emperoer lokede therupone,</p>
-<p>And myght hyt not se,</p>
-<p>For glysteryng of the ryche ston Redy syght had he non,</p>
-<p>And sayde, How may thys be? The emperour sayde on hygh, Sertes, thys ys a fayry,</p>
-<p>Or ellys a vanytè.</p>
-<p>The kyng of Cysyle answered than,</p>
-
+<p>and [she was] as white as a lily-flower.</p>
+<p>She was skillful with her hands.</p>
+<p>All who saw her loved her</p>
+<p>with honor and much respect.</p>
+<p>70 Here we shall leave the maiden</p>
+<p>and the fair and noble lady,</p>
+<p>and speak of the emperor.</p>
 
 <p>The high-born emperor</p>
-<p>was a courteous and just lord in every respect.</p>
-<p>Later, when his wife had died, and he led his life as a widower,</p>
-<p>he much liked to keep himself amused. Some time later,</p>
-<p>the powerful king of Sicily made his way to the emperor.</p>
-<p>He brought a costly gift with him, a fabric that was made skillfully.</p>
+<p>was a courteous and just lord</p>
+<p>75 in every respect.</p>
+<p>Later, when his wife had died,</p>
+<p>and he led his life as a widower,</p>
+<p>he much liked to keep himself amused.</p>
+<p>Some time later,</p>
+<p>80 the powerful king of Sicily</p>
+<p>made his way to the emperor.</p>
+<p>He brought a costly gift with him,</p>
+<p>a fabric that was made skillfully.</p>
 <p>He [the emperor] received him in a courtly manner.</p>
 
-<p>Sir Tergaunte was the name of that noble knight. He offered a gift to the emperor in a courtly manner, having bent down on his knee:</p>
+<p>85 Sir Tergaunte was the name of that noble knight.</p>
+<p>He offered a gift to the emperor in a courtly manner,</p>
+<p>having bent down on his knee:</p>
 <p>a cloth that was richly ornamented.</p>
-<p>It was bejeweled over and over with stones, as densely as possible,</p>
+<p>It was bejeweled over and over with stones,</p>
+<p>90 as densely as possible,</p>
 <p>with topazes and rubies</p>
-<p>and other stones of great worth that were beautiful to look at, with toadstones and nakettes. They are set so thickly, truthfully, as I am telling you.</p>
+<p>and other stones of great worth</p>
+<p>that were beautiful to look at,</p>
+<p>with toadstones and nakettes.</p>
+<p>95 They are set so thickly,</p>
+<p>truthfully, as I am telling you.</p>
 
 <p>The fabric was displayed quickly.</p>
 <p>The emperor gazed upon it</p>
 <p>and was not able to identify anything on it</p>
-<p>—because of the glistening of the precious stones— he did not have ready sight of it,</p>
-<p>and [he] said, “How is this possible?” The emperor hastily said,</p>
-<p>“Certainly, this is fairywork, Or else an illusion!”</p>
+<p>100 —because of the glistening of the precious stones—</p>
+<p>he did not have ready sight of it,</p>
+<p>and [he] said, “How is this possible?”</p>
+<p>The emperor hastily said,</p>
+<p>“Certainly, this is fairywork,</p>
+<p>105 Or else an illusion!”</p>
 <p>Then the King of Sicily answered,</p>
+<p>“There is no [other] jewel as precious</p>
+<p>in all of Christendom.”</p>
 
-
-<p>So ryche a jwell ys ther non In all Crystyante.</p>
-
-
-<p>“There is no [other] jewel as precious in all of Christendom.”</p>
-
-
-<p>The amerayle dowghter of hethennes Made this cloth withouten lees,</p>
-
-
-<p>The daughter of the Muslim emir made this cloth, certainly,</p>
-
-
-<p>And wrowghte hit all with pride, And purtreyed hyt with gret honour, Wyth ryche golde and asowr,</p>
-<p>And stones on ylke a syde;</p>
-<p>And, as the story telles in honde,</p>
-
-
-<p>and wrought it entirely and honorably and fashioned it with great virtues, with precious gold and azure,</p>
+<p>The daughter of the Muslim emir</p>
+<p>made this cloth, certainly,</p>
+<p>and wrought it entirely and honorably</p>
+<p>and fashioned it with great virtues,</p>
+<p>with precious gold and azure,</p>
 <p>and [with] stones on every side.</p>
-<p>And, as the story at hand tells,</p>
-
-
-<p>The stones that yn this cloth stonde Sowghte they wer full wyde,</p>
-<p>Seven wynter hit was yn makynge, Or hit was browght to endynge,</p>
-<p>In herte ys not to hyde.</p>
-
-
-<p>the stones that are positioned in this cloth were sought from very far away.</p>
-<p>It was in the making for seven years before it was completed,</p>
-<p>that is the truth of it.</p>
-
-
-<p>In that on korner made was Idoyne and Amadas,</p>
-<p>With love that was so trewe, For they loveden hem wit honour,</p>
-<p>Portrayed they wer with trewe-love flour,</p>
-
+<p>115 And, as the story at hand tells,</p>
+<p>the stones that are positioned in this cloth</p>
+<p>were sought from very far away.</p>
+<p>It was in the making for seven years</p>
+<p>before it was completed,</p>
+<p>120 that is the truth of it.</p>
 
 <p>In that one corner</p>
-<p>Ydoine and Amadas were made with love that was so steadfast;</p>
+<p>Ydoine and Amadas were made</p>
+<p>with love that was so steadfast;</p>
 <p>because they loved each other honorably</p>
-<p>they were portrayed with the true-love-flower</p>
+<p>125 they were portrayed with the true-love-flower</p>
+<p>[made] of stones of radiant hues:</p>
+<p>with carbuncle and sapphire,</p>
+<p>chalcedony and onyx, gleaming so,</p>
+<p>set in new gold;</p>
+<p>130 diamonds and rubies</p>
+<p>and other stones of great worth</p>
+<p>and entertainers with their song.</p>
 
-
-<p>Of stones bryght of hewe, Wyth carbunkull and safere, Kassydonys and onyx so clere,</p>
-<p>Sette in golde newe,</p>
-<p>Deamondes and rubyes,</p>
-
-
-<p>[made] of stones of radiant hues: with carbuncle and sapphire, chalcedony and onyx, gleaming so, set in new gold;</p>
-<p>diamonds and rubies</p>
-
-
-<p>And other stones of mychyll pryse, And menstrellys with her gle.</p>
-
-
-<p>and other stones of great worth and entertainers with their song.</p>
-
-
-<p>In that other corner was dyght, Trystram and Isowde so bryght,</p>
-<p>That semely wer to se,</p>
-
-
-<p>In that other corner were assembled Tristan and Iseult, so radiant—</p>
-<p>they were beautiful to look at;</p>
-
-
-<p>And for they loved hem ryght, As full of stones ar they dyght, As thykke as they may be,</p>
-<p>Of topase and of rubyes,</p>
-<p>And other stones of myche pryse,</p>
-
-
-<p>and because they loved each other sincerely, they are composed of so many stones,</p>
-<p>[set] as thickly as possible, [composed] of topazes and rubies,</p>
-<p>and other stones of great worth,</p>
-
-
-<p>That semely wer to se,</p>
-
-
+<p>In that other corner were assembled</p>
+<p>Tristan and Iseult, so radiant—</p>
+<p>135 they were beautiful to look at;</p>
+<p>and because they loved each other sincerely,</p>
+<p>they are composed of so many stones,</p>
+<p>[set] as thickly as possible,</p>
+<p>[composed] of topazes and rubies,</p>
+<p>140 and other stones of great worth,</p>
 <p>that were beautiful to look at.</p>
-
-
-<p>Wyth crapawtes and nakette, Thykke of stones ar they sette,</p>
-<p>For sothe as y say the.</p>
 <p>With toadstone and nakettes</p>
-<p>they [Tristan and Iseult] are set thickly with stones, truthfully, as I am telling you.</p>
+<p>they [Tristan and Iseult] are set thickly with stones,</p>
+<p>truthfully, as I am telling you.</p>
 
-<p>In the thrydde korner, with gret honour, Was Florys and dam Blawncheflour,</p>
-<p>As love was hem betwene, For they loved wyth honour,</p>
-<p>Purtrayed they wer with trewe-love-flower, Wyth stones bryght and shene.</p>
-<p>Ther wer knyghtes and senatowres, Emerawdes of gret vertues,</p>
-<p>To wyte withouten wene, Deamondes and koralle, Perydotes and crystall,</p>
-<p>And gode garnettes bytwene.</p>
-
-<p>In the fowrthe korner was oon Of Babylone the sowdan sonne,</p>
-<p>The amerayles dowghtyr hym by, For his sake the cloth was wrowght, She loved hym in hert and thowght,</p>
-<p>As testymoyeth this storye. The fayr mayden her byforn Was portrayed an unykorn,</p>
-<p>With hys horn so hye,</p>
-<p>Flowres and bryddes on ylke a syde, With stones that wer sowght wyde,</p>
-<p>Stuffed wyth ymagerye.</p>
-
-<p>When the cloth to ende was wrowght, To the sowdan sone hit was browght,</p>
-<p>That semely was of syghte: “My fadyr was a nobyll man, Of the sowdan he hit wan,</p>
-<p>Wyth maystrye and wyth myghth; For gret love he yaf hyt me,</p>
-<p>I brynge hit the in specyaltè,</p>
-
-
-<p>In the third corner, with great splendor, was Floris and Dame Blanchefleur, because love was between them.</p>
+<p>145 In the third corner, with great splendor,</p>
+<p>was Floris and Dame Blanchefleur,</p>
+<p>because love was between them.</p>
 <p>As they loved honorably</p>
-<p>they were depicted with the true-love-flower, with stones that were bright and luminous. There were knights and senators,</p>
-<p>emeralds of great virtues, truthfully, no doubt, diamonds and coral, chrysolites and crystal,</p>
+<p>they were depicted with the true-love-flower,</p>
+<p>150 with stones that were bright and luminous.</p>
+<p>There were knights and senators,</p>
+<p>emeralds of great virtues,</p>
+<p>truthfully, no doubt,</p>
+<p>diamonds and coral,</p>
+<p>155 chrysolites and crystal,</p>
 <p>and good garnets in between.</p>
 
-<p>In the fourth corner was the Sultan of Babylon’s son,</p>
+<p>In the fourth corner was</p>
+<p>the Sultan of Babylon’s son,</p>
 <p>the emir’s daughter by his side.</p>
-<p>For his sake the cloth had been made. She loved him in her heart and mind, as this story testifies.</p>
-<p>In front of the fair maiden a unicorn was depicted</p>
-<p>with his horn held up so high, flowers and birds on each side,</p>
-<p>with stones that were sought from far away, endowed with [figural] decorations.</p>
+<p>160 For his sake the cloth had been made.</p>
+<p>She loved him in her heart and mind,</p>
+<p>as this story testifies.</p>
+<p>In front of the fair maiden</p>
+<p>a unicorn was depicted</p>
+<p>165 with his horn held up so high,</p>
+<p>flowers and birds on each side,</p>
+<p>with stones that were sought from far away,</p>
+<p>endowed with [figural] decorations.</p>
 
-<p>When the making of the cloth was finished, it was brought to the sultan’s son,</p>
+<p>When the making of the cloth was finished,</p>
+<p>170 it was brought to the sultan’s son,</p>
 <p>so beautiful to look at.</p>
 <p>“My father was a noble man;</p>
-<p>he gained [the cloth] from the sultan with violence and force.</p>
-<p>Because of his love, he gave it to me.</p>
+<p>he gained [the cloth] from the sultan</p>
+<p>with violence and force.</p>
+<p>175 Because of his love, he gave it to me.</p>
 <p>I bring it to you on account ofspecial affection;</p>
-
-
-<p>Thys cloth ys rychely dyght.” He yaf hit the emperour,</p>
-<p>He receyved hit with gret honour, And thonkede hym fayr and ryght.</p>
-
-
-<p>this cloth is put together magnificently.” He gave it to the emperor.</p>
+<p>this cloth is put together magnificently.”</p>
+<p>He gave it to the emperor.</p>
 <p>He received it with great honor</p>
-<p>and thanked him eloquently and appropriately.</p>
+<p>180 and thanked him eloquently and appropriately.</p>
 
-
-<p>The kyng of Cesyle dwelled ther As long as his wyll wer,</p>
-<p>Wyth the emperour for to play, And when he wolde wende,</p>
-<p>He toke his leve at the hende,</p>
-
-
-<p>The King of Sicily stayed there as long as he wished</p>
-<p>to amuse himself with the emperor; and when he wanted to return home,</p>
-<p>he took his leave immediately,</p>
-
-
-<p>And wente forth on hys way. Now remeveth this nobyll kyng,</p>
-<p>The emperour after his dowghter hadde longyng, To speke with that may,</p>
-<p>Messengeres forth he sent,</p>
-
-
+<p>The King of Sicily stayed there</p>
+<p>as long as he wished</p>
+<p>to amuse himself with the emperor;</p>
+<p>and when he wanted to return home,</p>
+<p>185 he took his leave immediately,</p>
 <p>and went on his way.</p>
 <p>Now this noble king had departed.</p>
-<p>The emperor had a longing for his daughter, [he desired] to speak with that maiden.</p>
-<p>He sent messengers</p>
-
-
-<p>Aftyr the mayde fayre and gent, That was bryght as someres day.</p>
-
-
+<p>The emperor had a longing for his daughter,</p>
+<p>[he desired] to speak with that maiden.</p>
+<p>190 He sent messengers</p>
 <p>to the beautiful and noble maiden</p>
 <p>who was as radiant as a summer’s day.</p>
 
+<p>Messengers hurriedly prepared themselves.</p>
+<p>With much merriment and music,</p>
+<p>195 they went forth,</p>
+<p>by street and by path,</p>
+<p>to that fair lady,</p>
+<p>[who] was virtuous underneath her garments.</p>
+<p>Her nurse, who was called Abro,</p>
+<p>200 also went with her,</p>
+<p>and they were seated in a carriage.</p>
+<p>Then they went to the emperor,</p>
+<p>who went a mile or two in their direction to meet them.</p>
+<p>A pleasant meeting was held there.</p>
 
-<p>Messengeres dyghte hem in hye, With myche myrthe and melodye, Forth gon they fare,</p>
-
-
-<p>Messengers hurriedly prepared themselves. With much merriment and music,</p>
-<p>they went forth,</p>
-
-
-<p>Both by stretes and by stye, After that fayr lady,</p>
-<p>Was godely unther gare.</p>
-<p>Her norysse, that hyghte Abro, With her she goth forth also,</p>
-
-
-<p>by street and by path, to that fair lady,</p>
-<p>[who] was virtuous underneath her garments. Her nurse, who was called Abro,</p>
-<p>also went with her,</p>
-
-
-<p>And wer sette in a chare, To the emperour gan the go,</p>
-<p>He come ayeyn hem a myle or two, A fayr metyng was there.</p>
-
-
-<p>and they were seated in a carriage. Then they went to the emperor,</p>
-<p>who went a mile or two in their direction to meet them. A pleasant meeting was held there.</p>
-
-
-<p>The mayden, whyte as lylye flour. Lyghte ayeyn her fadyr, the emperour,</p>
-<p>Two knyghtes gan her lede.</p>
-<p>Her fadyr, that was of gret renowne, That of golde wered the crowne,</p>
-<p>Lyghte of hys stede;</p>
-
-
-<p>The maiden, white as a lily-flower, alighted facing her father, the emperor; two knights led her.</p>
-<p>Her father, who was of great fame, who wore the golden crown,</p>
-<p>alighted from his steed.</p>
-
-
-<p>When they wer bothe on her fete,</p>
-
-
+<p>205 The maiden, white as a lily-flower,</p>
+<p>alighted facing her father, the emperor;</p>
+<p>two knights led her.</p>
+<p>Her father, who was of great fame,</p>
+<p>who wore the golden crown,</p>
+<p>210 alighted from his steed.</p>
 <p>When they were both on their feet,</p>
-
-
-<p>He klypped her ond kyssed her swete, And bothe on fote they yede,</p>
-<p>They wer glad and made good chere, To the palys they yede in fere.</p>
-<p>In romans as we rede.</p>
-
-<p>Then the lordes that wer grete, They wesh and seten doun to mete,</p>
-<p>And folk hem served swyde,</p>
-<p>The mayden, that was of sembelant swete, Byfore her owene fadur sete,</p>
-<p>The fayrest wommon on lyfe.</p>
-<p>That all his hert and all his thowghth, Her to love was yn browght,</p>
-<p>He byhelde her ofte sythe,</p>
-<p>So he was anamored hys thowghter tyll, With her he thowghth to worche his wyll,</p>
-<p>And wedde her to hys wyfe.</p>
-
-
-<p>he embraced her and sweetly kissed her, and they both walked on foot.</p>
-<p>They were joyous and made good cheer and walked to the palace together,</p>
+<p>he embraced her and sweetly kissed her,</p>
+<p>and they both walked on foot.</p>
+<p>They were joyous and made good cheer</p>
+<p>215 and walked to the palace together,</p>
 <p>as we read in romance.</p>
 
-<p>Then the lords, who were distinguished, washed [their hands] and sat down to eat, and people served them swiftly.</p>
-<p>The young woman, who was of a delightful shape, sat down in front of her own father.</p>
-<p>[She was] the most beautiful woman alive. [So] all his heart and all his mind</p>
-<p>was fixated on loving her. He gazed at her often.</p>
-<p>He was so enamored by his daughter that he schemed how to have his way and wed her as his wife.</p>
-
-
-<p>And when the mete-whyle was doun,</p>
-
+<p>Then the lords, who were distinguished,</p>
+<p>washed [their hands] and sat down to eat,</p>
+<p>and people served them swiftly.</p>
+<p>220 The young woman, who was of a delightful shape,</p>
+<p>sat down in front of her own father.</p>
+<p>[She was] the most beautiful woman alive.</p>
+<p>[So] all his heart and all his mind</p>
+<p>was fixated on loving her.</p>
+<p>225 He gazed at her often.</p>
+<p>He was so enamored by his daughter</p>
+<p>that he schemed how to have his way</p>
+<p>and wed her as his wife.</p>
 
 <p>And when dinner was over</p>
-
-
-<p>Into hys chamber he wente soun,</p>
-
-
-<p>he soon went into his chamber</p>
-
-
-<p>And called his counseyle nere,</p>
-
-
+<p>230 he soon went into his chamber</p>
 <p>and called his council in.</p>
-
-
-<p>He bad they shulde sone go and come,</p>
-
-
 <p>He bade them to go and return quickly,</p>
-
-
-<p>And gete leve of the pope of Rome,</p>
-
-
 <p>and get leave from the Pope of Rome</p>
-
-
-<p>To wedde that mayden clere.</p>
-
-
 <p>to wed that beautiful maiden.</p>
-
-
-<p>Messengeres forth they wente,</p>
-
-
-<p>The messengers went forth.</p>
-
-
-<p>They durst not breke his commandement,</p>
-
-
+<p>235 The messengers went forth.</p>
 <p>They did not dare to break his command;</p>
-
-
-<p>And erles with hem yn sere,</p>
-
-
 <p>and earls went with them, too.</p>
-
-
-<p>They wente to the courte of Rome,</p>
-
-
 <p>They went to the court in Rome</p>
-
-
-<p>And browghte the popus bullus sone,</p>
-
-
 <p>and soon brought (back) the Pope’s dispensation</p>
+<p>240 [for Artyus] to wed his dear daughter.</p>
 
-
-<p>To wedde hys dowghter dere.</p>
-
-
-<p>[for Artyus] to wed his dear daughter.</p>
-
-
-<p>Then was the emperour gladde and blythe, And lette shape a robe swythe,</p>
-<p>Of that cloth of golde,</p>
-<p>And when hit was don her upon, She semed non erthely wommon,</p>
-<p>That marked was of molde.</p>
-
-
-<p>Then the emperor was joyous and happy, and swiftly had a robe shaped</p>
+<p>Then the emperor was joyous and happy,</p>
+<p>and swiftly had a robe shaped</p>
 <p>from the gold cloth.</p>
 <p>And when it was put upon her</p>
-<p>she did not seem like an earthly woman who was created by God.</p>
-
-
-<p>Then seyde the emperour so fre, Dowghtyr, y woll wedde the,</p>
-<p>Thow art so fresh to beholde.</p>
-<p>Then sayde that wordy unther wede,</p>
-
-
-<p>Then the very noble emperor said, “Daughter, I want to wed you,</p>
+<p>245 she did not seem like an earthly woman</p>
+<p>who was created by God.</p>
+<p>Then the very noble emperor said,</p>
+<p>“Daughter, I want to wed you,</p>
 <p>you are so bright to behold.”</p>
-<p>Then that worthy one underneath the clothing said,</p>
+<p>250 Then that worthy one underneath the clothing said,</p>
+<p>“No, Sir, God of Heaven forbids</p>
+<p>that we should ever do so!</p>
 
-
-<p>Nay, syr, god of heven hit forbede, That ever do so we shulde!</p>
-
-
-<p>“No, Sir, God of Heaven forbids that we should ever do so!</p>
-
-
-<p>Yyf hit so betydde that ye me wedde, And we shulde play togedere in bedde,</p>
-<p>Bothe we were forlorne;</p>
-
-
-<p>“If it so happened that you married me and we were to amuse ourselves in bed we would both be lost!</p>
-
-
-<p>The worde shulde sprynge fer and wyde In all the worlde on every syde,</p>
-<p>The worde shulde be borne. Ye ben a lorde of gret pryce,</p>
-<p>Lorde, lette never suche sorow aryce,</p>
-
-
-<p>The word would spread far and wide; the news would be carried</p>
+<p>“If it so happened that you married me</p>
+<p>and we were to amuse ourselves in bed</p>
+<p>255 we would both be lost!</p>
+<p>The word would spread far and wide;</p>
+<p>the news would be carried</p>
 <p>into every corner of the world.</p>
-<p>You are a lord of outstanding praise, [so] Lord, never let such sorrow arise:</p>
-
-
-<p>Take god you beforne;</p>
-<p>That my fader shulde wedde me, God forbede that i hyt so se,</p>
-<p>That wered the crowne of thorne!</p>
-
-
+<p>You are a lord of outstanding praise,</p>
+<p>260 [so] Lord, never let such sorrow arise:</p>
 <p>pay heed to God!</p>
 <p>That my father should wed me,</p>
 <p>God forbid that I should witness that,</p>
 <p>(God) who was adorned with a crown of thorns!”</p>
 
-
-<p>The emperour was ryght wrothe, And swore many a gret othe,</p>
-<p>That deed shulde she be; He lette make a nobull boot,</p>
-<p>And dede her theryn god wote,</p>
-<p>In the robe of nobull ble.</p>
-
-
-<p>The emperor was consumed with rage, and swore many a great oath</p>
+<p>265 The emperor was consumed with rage,</p>
+<p>and swore many a great oath</p>
 <p>that she must die.</p>
-<p>He had a magnificent boat made and put her inside, God knows,</p>
-<p>in that robe of magnificent brightness.</p>
-
-
-<p>She moste have with her no spendyng, Nother mete ne drynke,</p>
-<p>Bot shote her yn to the se; Now the lady dwelled thore,</p>
-<p>Wythowte anker or ore,</p>
-
-
-<p>She was not permitted to have any spendable wealth with her, nor food, nor drink,</p>
+<p>He had a magnificent boat made</p>
+<p>and put her inside, God knows,</p>
+<p>270 in that robe of magnificent brightness.</p>
+<p>She was not permitted to have any spendable wealth with her,</p>
+<p>nor food, nor drink,</p>
 <p>and he cast her into the sea.</p>
-<p>Now the lady remained there for a long time without anker or [steering] oar</p>
-
-
-<p>And that was gret pytè.</p>
-
-
+<p>Now the lady remained there for a long time</p>
+<p>275 without anker or [steering] oar</p>
 <p>and that was a great misery!</p>
 
-
-<p>Ther come a wynd, y untherstonde, And blewe the boot fro the londe,</p>
-<p>Of her they lost the syght,</p>
-<p>The emperour hym bethowght,</p>
-
-
 <p>There came a wind, I understand,</p>
-<p>and [it] blew her boat away from the shore. They lost sight of her.</p>
-<p>The emperor thought to himself</p>
-
-
-<p>That he hadde all myswrowht,</p>
-
-
+<p>and [it] blew her boat away from the shore.</p>
+<p>They lost sight of her.</p>
+<p>280 The emperor thought to himself</p>
 <p>that he had done a great wrong</p>
-
-
-<p>And was a sory knyghte. And as he stode yn studyÿnge, He fell down in sowenynge,</p>
-<p>To the yrthe was he dyght ;</p>
-
-
 <p>and he was a sorry knight.</p>
-<p>And as he stood in contemplation, he fell down into a swoon,</p>
-<p>he fell down onto the ground.</p>
-
-
-<p>Gret lordes stode therby,</p>
-<p>And toke yn the emperour hastyly, And comforted hym fayr and ryght.</p>
-
-
+<p>And as he stood in contemplation,</p>
+<p>he fell down into a swoon,</p>
+<p>285 he fell down onto the ground.</p>
 <p>Great lords stood nearby</p>
-<p>and hastily helped up the emperor and comforted him kindly and well.</p>
+<p>and hastily helped up the emperor</p>
+<p>and comforted him kindly and well.</p>
+
+
+
+
 
 
 <p>When he of sownyng kovered was, Sore he wepte and sayde, Alas,</p>
@@ -1046,7 +1124,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 
 <p>At that time, the King of France was assailed by many “Saracens”</p>
 <p>and [thus] encumbered with distress; he sent for the King of <em>Galys</em></p>
-<p>and other lords of great worth who were beautiful to look at. The King of <em>Galys</em> , at that time, gathered men around him</p>
+<p>and other lords of great worth who were beautiful to look at. The King of <em>Galys</em>, at that time, gathered men around him</p>
 <p>in radiant and bright armor.</p>
 <p>Then the king said to Sir Kadore and other lords that were present, “Take good care of my queen.”</p>
 
@@ -2463,65 +2541,65 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Line 9 Variations of this line (“That semely ys of sight”) are reiterated throughout the poem and in most cases “that” (who or what is beautiful to look at) has multiple referents. Here, an alternative referent is arunde : “Mary, heavenly queen, bear our message in between [heaven and earth] so that it is of gracious appearance.” As this grammatical ambiguity might be precisely the point, some instances of this line will retain their ambiguity in translation.</p>
 <p>Line 13 <em>Middle English</em> minstral is a term for professional entertainers, self-employed or working as court functionaries, who would perform as storytellers, musicians, singers, actors, jugglers, and occasionally as servants.</p>
 <p>Line 85 All editions but Rickert omit hyȝte and all editions end the line with a comma. White’s diplomatic transcription reads “Syr Tergaunte þt nobyll knyȝt hyȝte”, p. 327. Rickert puts hyȝte in brackets and adds, “The omission of hyȝte improves the metre; but although the yȝ is blotted, the word is not unmistakingly crossed out by the scribe. Kölbing, however, considers it erased (Eng. Stud., xv, 248)”, p. 3 note 5. Laskaya and Salisbury omit hyghte in the main text, but add in their apparatus, note 85: “The MS includes the word hyght at the end of the line. The word is blotted and, since it disrupts the meter, Kö[lbing] and G[ough] considered it erased. Ru[mble], M[ills], and F[rench] &amp; H[ale] all leave the word out; R[ickert] leaves it in.” https://d.lib.rochester.edu/teams/text/laskaya-and-salisbury- middle-english-breton-lays-emare#85. I agree with Rickert’s interpretation of the text, as blots are common throughout the manuscript and as hyȝten takes on the grammatical function of a predicate. The next line has a full SPO structure; introducing Tergaunte in a full rather than elliptic sentence makes sense from a grammatical point of view, even if it irregularizes the metre.</p>
-<p>Line 86 <em>Two senses of</em> ryghte , adv., would fit in this context: “Suitably for the purpose, well, thoroughly, properly; […],” i.e., as one should present gifts to an emperor, bending the knee, etc.; “sincerely,” i.e., like the emir’s daughter in l.</p>
+<p>Line 86 <em>Two senses of</em> ryghte, adv., would fit in this context: “Suitably for the purpose, well, thoroughly, properly; […],” i.e., as one should present gifts to an emperor, bending the knee, etc.; “sincerely,” i.e., like the emir’s daughter in l.</p>
 <p>110, with no false intentions. See https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED37511/ track?counter=4&amp;search_id=11749846.</p>
 <p>Line 89 <em>Rickert notes that</em> was dye <em>(crossed out) precedes</em> pyght in the MS; this is neither rendered in White’s transcription nor commented on by Laskaya and Salisbury.</p>
-<p>Line 94 nakette: the MED’s only quotations for nakette <em>as agate are from</em> Emaré . See https://quod.lib.umich.edu/m/ middle-english-dictionary/dictionary/MED29047/track?counter=1&amp;search_id=11382432. Laskaya and Salisbury consider “agate,” as explained in note 94: “ Nakette <em>is ‘agate,’ with the</em> n from the definite article allided to the initial vowel.” See https://d.lib.rochester.edu/teams/text/laskaya-and-salisbury-middle-english-breton-lays- emare#94. Gough agrees (p. 35). Rickert, however, proposes „perhaps (n)achate” (p. 35, note 4/95) but adds, “[t]he text shows a tendency to write e <em>for</em> a<em>, as:</em> cledde<em>, wesh ,</em> wes ; but ‘Destruction of Troy’ has achatas<em>,</em> Wars of Alexander<em>,</em> acats . Or, the word may be some derivative (perhaps corrupted) from nacre <em>= mother-of-pearl.</em></p>
-<p>There is also a rare stone <em>echite</em> , but this is more remote phonetically. Cf. also Godefroi under <em>nace</em> = cloth of gold.” Line 244 refers to the robe shaped from Tergaunte’s gift as “cloth of golde.” Historical variations of “pearl” appear closer to <em>nakettes</em> than <em>nacre</em> : the OED lists occurences of “post-classical <em>naccara , nacara</em> mother-of- pearl” in 1295 and 1347, and points to the Italian loan word <em>naqqāra</em> <a href="http://www.oed.com/view/" target="_blank"> from Arabic for kettledrum, which in turn likely relates back to “the technical language of pearlers in the Gulf region.” See https://</a> www.oed.com/view/ Entry/124778?redirectedFrom=nacre&amp;. Compare with the <em>Französisches Etymologisches Wörterbuch</em> vol. 19 col. 137b–138a, which provides a similar etymology for Old French <em>(a)nacaire</em> , It. <em>(g)naccera</em> , Cat. <em>nacra</em> , Sp. <em>nàcara</em> . The term entered the lexicon in the time of the crusades. https://lecteur-few.atilf.fr/lire/190/137.</p>
+<p>Line 94 nakette: the MED’s only quotations for nakette <em>as agate are from</em> Emaré . See https://quod.lib.umich.edu/m/ middle-english-dictionary/dictionary/MED29047/track?counter=1&amp;search_id=11382432. Laskaya and Salisbury consider “agate,” as explained in note 94: “ Nakette <em>is ‘agate,’ with the</em> n from the definite article allided to the initial vowel.” See https://d.lib.rochester.edu/teams/text/laskaya-and-salisbury-middle-english-breton-lays- emare#94. Gough agrees (p. 35). Rickert, however, proposes „perhaps (n)achate” (p. 35, note 4/95) but adds, “[t]he text shows a tendency to write e <em>for</em> a<em>, as:</em> cledde<em>, wesh,</em> wes ; but ‘Destruction of Troy’ has achatas<em>,</em> Wars of Alexander<em>,</em> acats . Or, the word may be some derivative (perhaps corrupted) from nacre <em>= mother-of-pearl.</em></p>
+<p>There is also a rare stone <em>echite</em>, but this is more remote phonetically. Cf. also Godefroi under <em>nace</em> = cloth of gold.” Line 244 refers to the robe shaped from Tergaunte’s gift as “cloth of golde.” Historical variations of “pearl” appear closer to <em>nakettes</em> than <em>nacre</em> : the OED lists occurences of “post-classical <em>naccara, nacara</em> mother-of- pearl” in 1295 and 1347, and points to the Italian loan word <em>naqqāra</em> <a href="http://www.oed.com/view/" target="_blank"> from Arabic for kettledrum, which in turn likely relates back to “the technical language of pearlers in the Gulf region.” See https://</a> www.oed.com/view/ Entry/124778?redirectedFrom=nacre&amp;. Compare with the <em>Französisches Etymologisches Wörterbuch</em> vol. 19 col. 137b–138a, which provides a similar etymology for Old French <em>(a)nacaire</em>, It. <em>(g)naccera</em>, Cat. <em>nacra</em>, Sp. <em>nàcara</em> . The term entered the lexicon in the time of the crusades. https://lecteur-few.atilf.fr/lire/190/137.</p>
 <p>Lines 98–101 “The emperor could not establish visual power over the cloth and was unable to hold his gaze and penetrate the cloth with it.” This is due to the stones. Stones, in medieval scientific discourse, were believed to possess powers (which may be reflected in the repeated use of myche prise to qualify the stones and is referenced directly by</p>
 <p>the virtues of emeralds, l. 152). Encyclopedias or stone books, called lapidaries, would present virtues which manifest in color, hue, and radiance, and in medicinal, talismanic, and spiritual uses. Laskaya and Salisbury, notes 91, 94, 127–130, 139, 152–156 provide some of the cloth’s individual stones’ virtues as accounted for in select lapidaries. More important for the meaning of ll. 99–101 is that a frequent lithic power across various gemstones is their capacity to reflect or even to emit endogenic light. By reflecting the emperor’s gaze back and dazzling</p>
 
 
 <p>Line 108</p>
 <p>him with blinding light, the stones “refuse” to be discerned and prevent him from reading the lithic mosaic text of lovers recounted in the following lines. Thus, they in turn establish power over the emperor. Grammatically, l. 100, “For glysteryng of the ryche ston,” could either explain the preceding or the subsequent line: “The emperor was not able to discern anything on the cloth because of the light emitted/reflected by the stones” or “Because of the light emitted/reflected by the stones, he could not establish visual access.” In any case, <em>Emaré</em> emphasizes the emperor’s temporary blindness and attributes it to the stones.</p>
-<p>As medieval manuscripts do not use punctuation, it is unclear whether the following description of the cloth is in the voice of an omniscient narrator or in the voice of Tergaunte, who has brought the gift. Laskaya and Salisbury and Rickert indicate that Tergaunte ends his speech here (l. 108) and speaks again in ll. 172–177, which would leave the description to the heterodiegetic narrator. French and Hale extend his speech to l. 113. Perkins cautions against “the absolute boundary that modern punctuation creates here, and the point of view that it creates.” See “Ekphrasis and Narrative in Emaré and Sir Eglamour of Artois.” <em>Medieval Romance, Medieval Contexts</em> , edited by Rhiannon Purdie, Brewer, 2011. Studies in Medieval Romance, pp. 47–68 (p. 58).</p>
+<p>As medieval manuscripts do not use punctuation, it is unclear whether the following description of the cloth is in the voice of an omniscient narrator or in the voice of Tergaunte, who has brought the gift. Laskaya and Salisbury and Rickert indicate that Tergaunte ends his speech here (l. 108) and speaks again in ll. 172–177, which would leave the description to the heterodiegetic narrator. French and Hale extend his speech to l. 113. Perkins cautions against “the absolute boundary that modern punctuation creates here, and the point of view that it creates.” See “Ekphrasis and Narrative in Emaré and Sir Eglamour of Artois.” <em>Medieval Romance, Medieval Contexts</em>, edited by Rhiannon Purdie, Brewer, 2011. Studies in Medieval Romance, pp. 47–68 (p. 58).</p>
 <p>Line 109 hethenes means “non-Christian people”. From the subsequent ranks (emir, sultan), the place-name Babylon, which could refer to present-day Cairo, and the fact that Muslim-held territories produced, along with Byzantium, the most coveted fabrics and silks to a higher technical and material standard than available in the Latin West, the meaning “Muslim” can be inferred. Sicily in turn remained multi-ethnic and multi-religious for centuries after the Muslim (Byzantine) conquest in the ninth century and the Norman (Latin Christian) conquest in the twelfth century. Note that the poem uses two different terms, hethen <em>for the princess but</em> Saracen for an enemy that is a religious Other (l. 481, note 71).</p>
-<p>Line 110 wythouten lees , as a fixed phrase and rhyme tag, asserts truth. In a more literal sense, the emir’s daughter’s intentions may have been honest, i.e. wythouten lees<em>. See https://quod.lib.umich.edu/m/middle-english- dictionary/dictionary/MED34602/track?counter=3&amp;search_id=11382432.</em></p>
+<p>Line 110 wythouten lees, as a fixed phrase and rhyme tag, asserts truth. In a more literal sense, the emir’s daughter’s intentions may have been honest, i.e. wythouten lees<em>. See https://quod.lib.umich.edu/m/middle-english- dictionary/dictionary/MED34602/track?counter=3&amp;search_id=11382432.</em></p>
 <p>Line 111 wyth pryde is ambiguous: both negative and positive senses of pride—honorable, vainglorious—would fit. By way of such ambiguous descriptors, the cloth becomes multivalent, which reflects in the multivalency of Emaré later on, who, when she wears the fabric, is perceived by different characters as a fairy or demon, as a noble woman, and as an object or a treasure trove. See https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/ MED34602/ track?counter=3&amp;search_id=11382432.</p>
 <p>Line 123 The referent of this line is unclear: it could either be Amadas and Ydoine (i.e. as a faithful couple), or the mode of embroidering (i.e. being one of faithful love).</p>
 <p>Line 125 Line 125 Rickert, p. 36, note 5/125, identifies this flower with the “Herb Paris (Paris Quadrifolia), similar to trillium” whose leaves are set “to resemble a true-love knot”; she cites its use in Sir Degravent <em>(ll. 1032, 1039, 1484),</em> The Awntyrs off Arthure at the Terne Wathelyne <em>(ll. 354, 510),</em> Sir Gawain and the Green Knight <em>(l. 612), and</em> The Tale of Ralph Collier (l. 473); she assumes the actual herb was worked into the cloth as a magical charm.</p>
 <p>Medieval silk embroidery, however, would often include scattered vegetal or figural ornaments.</p>
-<p>Line 142 nakettes , see note for l. 94.</p>
+<p>Line 142 nakettes, see note for l. 94.</p>
 <p>Line 149 See note for l. 151.</p>
 <p>Line 151 Rickert, p. 36, note 5/151, remarks: “Possibly here as in l. 131 the pattern suddenly intrudes upon the materials; but the names of stones are expected. If the poem was at any time taken down from hearing, the line might have been corrupted by ‘Ther wer onyx and centaureus,’ which would rhyme correctly with vertues<em>. My authority for</em> centaureus is Heinrich von Neustadt (quoted by Smith, Shakespeare’s <em>Pericles</em> and <em>Apollonius of Tyre,</em></p>
-<p>Philadelphia, 1898, pp. 75–76); the nearest that Pannier [<em>Les Lapidaires Français</em> , Paris, 1882, index] gives is <em>ceraunus</em> . The plant, <em>centaurus</em> , was well known.” Laskaya and Salisbury also note that “knyghtus and senatowres […] seem out of place in a list of gems.” https://d.lib.rochester.edu/teams/text/laskaya-and-salisbury-middle- english-breton-lays-emare#151. Gough concurs, p. 35.</p>
+<p>Philadelphia, 1898, pp. 75–76); the nearest that Pannier [<em>Les Lapidaires Français</em>, Paris, 1882, index] gives is <em>ceraunus</em> . The plant, <em>centaurus</em>, was well known.” Laskaya and Salisbury also note that “knyghtus and senatowres […] seem out of place in a list of gems.” https://d.lib.rochester.edu/teams/text/laskaya-and-salisbury-middle- english-breton-lays-emare#151. Gough concurs, p. 35.</p>
 <p>Line 158 Based on dreams and visions in Books 2 and 7 of Daniel, medieval Christian historiography developed the theory of four kingdoms, or ages, to follow each other before the end of days: the first kingdom would be the Babylonian Empire, the second the Persian Empire, the third the Greek Empire (Alexander the Great), the final earthly kingdom the Roman Empire. Rulership, knowledge, and literature would be “translated” from one empire to the next ( translatio imperii ). Babylon could simultaneously refer to the historical empire and to contemporary Cairo. In the context of the “translated” cloth, both associations come together.</p>
 
 <p>Line 172 See note for l. 108 on speech marks.</p>
 <p>Line 174 <em>Ritson omits the MS’s</em> wyth ; it is included by Rickert and Laskaya and Salisbury.</p>
 <p>Line 187 Ritson, without commentary, changes to Remeneth.</p>
-<p>Line 216 Romances are a narrative genre. Frequent subject matters are Arthurian tales (such as Tristan and Iseut ) or stories of the repeated union and separation of lovers (such as Floire and Blanchefleur <em>and</em> Amadas and Ydoine<em>).</em> romans , as it spelled in l. 216, can also simply mean “French” and thus implicate a French source. Many romances were in fact copied or adapted from French into English.</p>
+<p>Line 216 Romances are a narrative genre. Frequent subject matters are Arthurian tales (such as Tristan and Iseut ) or stories of the repeated union and separation of lovers (such as Floire and Blanchefleur <em>and</em> Amadas and Ydoine<em>).</em> romans, as it spelled in l. 216, can also simply mean “French” and thus implicate a French source. Many romances were in fact copied or adapted from French into English.</p>
 <p>Line 234 As marriage was considered a sacrament, any commitments outside of clerical law would have to be sanctioned by a clerical authority, which is represented here by the Pope. Historically, noble families might appeal to the Pope if a marriage was not in line with clerical regulations regarding consanguinity, either to go ahead with</p>
 <p>a planned alliance or to dissolve an existing one. After the Fourth Lateran council of 1215, which relaxed regulations, any relations within the fourth degree were considered consanguinuous. Certain spiritual relations were also prohibited, such as adoptive and baptismal relations (godparents), as well as immediate relatives</p>
 <p>of deceased partners—as partners were believed to become one flesh by the sacrament of marriage (<em>una caro</em> doctrine). This would greatly limit the choice of eligible partners for feudal families who sought to enhance their power through marriage alliances, but it also gave leeway to rid themselves of partners who had become</p>
 <p>undesirable. A famous example of the application and contestation of incest laws is Henry VIII’s (failed) attempt to receive a papal bull allowing him to dissolve his marriage to Catherine of Aragon on the grounds of incest,</p>
 <p>as she had previously been wedded to his brother. There are no historical cases of father-daughter marriages sanctioned by any Pope, but nuclear family incest, especially a daughter’s flight from her incestuous father, is a recurring theme in medieval literature, as is the unsavory role of the Pope in the “maiden without hands” tradition.</p>
 <p>Line 246 Literally “who was made of clay.” Adam, the first human, was believed to have been created by God from dust.</p>
-<p>Line 272 Ritson adds “[givying]” to the line, explaining: “It is very singular that these lines should nearly occur again in V. 593: ‘And lette her have no spending, / For no mete, ny for drynke .’ Thus in the original; but as the word drynke by no means answers in rhyme to spendyng ; and either line is too short for the metre […] the editor has taken the liberty to insert, after drynke , in the first passage, (giving), and to alter it, in the other, to drynkynge […]” (p. 194). No other edition follows this conjecture.</p>
+<p>Line 272 Ritson adds “[givying]” to the line, explaining: “It is very singular that these lines should nearly occur again in V. 593: ‘And lette her have no spending, / For no mete, ny for drynke .’ Thus in the original; but as the word drynke by no means answers in rhyme to spendyng ; and either line is too short for the metre […] the editor has taken the liberty to insert, after drynke, in the first passage, (giving), and to alter it, in the other, to drynkynge […]” (p. 194). No other edition follows this conjecture.</p>
 <p>Line 275 The protagonist’s exposure in a rudderless vessel is a defining motif of the “maiden without hands” tradition.</p>
 <p>Line 287 <em>Ritson replaces the MS’s</em> toke yn <em>with</em> toke up<em>, p. 194.</em></p>
 <p>Line 288 Ritson reads “consorted”, Laskaya and Salisbury “comforted”, Rickert “conforted”, White transcribes “cōforted.”</p>
 <p>Line 293 Ritson suggests emending to “that I am!”, p. 194.</p>
 <p>Line 310 The MS inserts “now” in the margin with a caret: “At þe emꝑor ^ leve we ^now.” Compare White, p. 329 (f. 72vb).</p>
 <p>Line 331 This line, in the MS, is followed by “That hyght Galys y unþrstond.” Compare White, p. 329 (f. 72vb). This crossed out line is repeated in l. 338.</p>
-<p>Line 338 Galys is identified by some as Wales. See, most recently, Corinne Saunders, “Ch. 11: The Romance Genre,” in A Companion to British literature , ed. by Heesok Chang, Samantha Zacher, and Robert DeMaria, Blackwell</p>
-<p>Companions to Literature and Culture (Chichester, West Sussex, UK: Wiley-Blackwell, 2014, pp. 161–79, (p. 167). Others have identified it as Galicia in Spain, most recently Amy Burge and Lydia Kertz. ‘Fabricated Muslim Identity, Female Agency, and Cultural Complicity: The Imperial Project of <em>Emaré</em> ’, Medieval Feminist Forum: A Journal of Gender and Sexuality , 56.1 (2020), pp. 38–69 (p. 29). There are no conclusive arguments for either. The majority of adaptations of the story-type of <em>Emaré</em> provide a Mediterranean setting; at the same time, <em>Emaré</em> ’s association with the Breton lays and certain names such as Artyus, Segramour, or Erayne, make an Arthurian setting and</p>
+<p>Line 338 Galys is identified by some as Wales. See, most recently, Corinne Saunders, “Ch. 11: The Romance Genre,” in A Companion to British literature, ed. by Heesok Chang, Samantha Zacher, and Robert DeMaria, Blackwell</p>
+<p>Companions to Literature and Culture (Chichester, West Sussex, UK: Wiley-Blackwell, 2014, pp. 161–79, (p. 167). Others have identified it as Galicia in Spain, most recently Amy Burge and Lydia Kertz. ‘Fabricated Muslim Identity, Female Agency, and Cultural Complicity: The Imperial Project of <em>Emaré</em> ’, Medieval Feminist Forum: A Journal of Gender and Sexuality, 56.1 (2020), pp. 38–69 (p. 29). There are no conclusive arguments for either. The majority of adaptations of the story-type of <em>Emaré</em> provide a Mediterranean setting; at the same time, <em>Emaré</em> ’s association with the Breton lays and certain names such as Artyus, Segramour, or Erayne, make an Arthurian setting and</p>
 <p>thus Wales likely. To prevent forcing a certain interpretation of the poem upon readers, I leave this place name untranslated.</p>
-<p>Line 345 Line 345 Andrew M. Richmond draws attention to Sir Kadore’s and later Jurdan’s (ll. 688–690) play as a form of beachcombing. “‘The broken schippus he ther fonde’: Shipwrecks and the Human Costs of Investment Capital in Middle English Romance.” Neophilologus , 99.2 (2015), pp. 315–33, (pp. 326–27). This resonates with the sense of ME play as “gamble”. https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED33654/ track?counter=2&amp;search_id=11382432.</p>
+<p>Line 345 Line 345 Andrew M. Richmond draws attention to Sir Kadore’s and later Jurdan’s (ll. 688–690) play as a form of beachcombing. “‘The broken schippus he ther fonde’: Shipwrecks and the Human Costs of Investment Capital in Middle English Romance.” Neophilologus, 99.2 (2015), pp. 315–33, (pp. 326–27). This resonates with the sense of ME play as “gamble”. https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED33654/ track?counter=2&amp;search_id=11382432.</p>
 
-<p>Line 357 Laskaya and Salisbury note that the MS spells poyn , which is “universally emended to poynt.” See https://d.lib. rochester.edu/teams/text/laskaya-and-salisbury-middle-english-breton-lays-emare#357.</p>
+<p>Line 357 Laskaya and Salisbury note that the MS spells poyn, which is “universally emended to poynt.” See https://d.lib. rochester.edu/teams/text/laskaya-and-salisbury-middle-english-breton-lays-emare#357.</p>
 <p>Line 360</p>
 <p>An audience knowing French would recognize her alias’ similarity to the Old French/Anglo Norman <em>esgaré(e)</em> : outcast, lost, stray.</p>
-<p>Line 377 Ritson does not indicate having emended sylkyn and White, p. 330 (f. 73rb), transcribes sylkyn , but Laskaya and Salisbury note “MS: sylkly is partially erased; I have emended to sylkyn following M[ills, ed.]; F[rench]&amp;H[ale, ed.], and Ru[mble, ed.].” https://d.lib.rochester.edu/teams/text/laskaya-and-salisbury-middle-english-breton-lays- emare#377. Rickert, also reads the MS as sylkly and adds that “a letter has evidently been erased after it,” p. 12, note 3.</p>
+<p>Line 377 Ritson does not indicate having emended sylkyn and White, p. 330 (f. 73rb), transcribes sylkyn, but Laskaya and Salisbury note “MS: sylkly is partially erased; I have emended to sylkyn following M[ills, ed.]; F[rench]&amp;H[ale, ed.], and Ru[mble, ed.].” https://d.lib.rochester.edu/teams/text/laskaya-and-salisbury-middle-english-breton-lays- emare#377. Rickert, also reads the MS as sylkly and adds that “a letter has evidently been erased after it,” p. 12, note 3.</p>
 <p>Line 391 While audiences are aware of her nobility, Emaré/Egaré presents as a “nobody” in Galys. The phrase plays on this tension and taps into medieval literary representations of saints, whose ordeal is a “low” life despite their high birth.</p>
-<p>Line 409 Ritson does not indicate having emended called and White, p. 330 (f. 73rb), transcribes called , but Laskaya and Salisbury indicate that the MS spells calle<em>. https://d.lib.rochester.edu/teams/text/laskaya-and-salisbury-middle- english-breton-lays-emare#409.</em></p>
+<p>Line 409 Ritson does not indicate having emended called and White, p. 330 (f. 73rb), transcribes called, but Laskaya and Salisbury indicate that the MS spells calle<em>. https://d.lib.rochester.edu/teams/text/laskaya-and-salisbury-middle- english-breton-lays-emare#409.</em></p>
 <p>Line 411 Laskaya and Salisbury and Rickert note, as White’s transcription indicates, that this line was added in the margin of the MS.</p>
 <p>Line 415 <em>Laskaya and Salisbury gloss</em> ryche yn ray as “array” but point to Mills’ emendation to ryche ray <em>in accordance with</em></p>
-<p>l. 430. Gough, p. 37, notes that “all three lines [containing <em>ray</em> , 415, 430, 451] are metrically defective. <em>Ray</em> is a kind of striped cloth, O. Fr. <em>drap de ray</em> […].[There is a]nother word <em>ray</em> = prince […]. The scribe may have been misled by one of these words.” Rickert, p. 40, note 14/430, lists quotations for <em>ryche ray</em> in the sense of “powerful sovereign” as an interpretation to ll. 415, 430, and 451. It is unclear whether to translate as “the powerful sovereign” or “the powerful one in array/striped cloth.”</p>
-<p>Line 441 In medieval literature, nobility often manifests in a radiant body and in noble behavior, such as the mastery of certain courtly activities (chess and board games, dance and music, certain athletic skills in men, silk-working skills in women); often, other characters recognize the nobility of impoverished protagonists through such manifestations. In Emaré , there are no clear-cut signs, rather, there is only the multivalent robe which her mother- in-law suspects to be of demonic or otherwise unsavory origin.</p>
+<p>l. 430. Gough, p. 37, notes that “all three lines [containing <em>ray</em>, 415, 430, 451] are metrically defective. <em>Ray</em> is a kind of striped cloth, O. Fr. <em>drap de ray</em> […].[There is a]nother word <em>ray</em> = prince […]. The scribe may have been misled by one of these words.” Rickert, p. 40, note 14/430, lists quotations for <em>ryche ray</em> in the sense of “powerful sovereign” as an interpretation to ll. 415, 430, and 451. It is unclear whether to translate as “the powerful sovereign” or “the powerful one in array/striped cloth.”</p>
+<p>Line 441 In medieval literature, nobility often manifests in a radiant body and in noble behavior, such as the mastery of certain courtly activities (chess and board games, dance and music, certain athletic skills in men, silk-working skills in women); often, other characters recognize the nobility of impoverished protagonists through such manifestations. In Emaré, there are no clear-cut signs, rather, there is only the multivalent robe which her mother- in-law suspects to be of demonic or otherwise unsavory origin.</p>
 <p>Line 444 gay operates on a spectrum of positive to negative senses that each fit the context, from “handsomely attired, shining, beautiful, noble,” to “lewd, lascivious.” https://quod.lib.umich.edu/m/middle-english-dictionary/ dictionary/MED18063/track?counter=3&amp;search_id=11382432.</p>
 <p>Line 482 “Saracen” is a (Roman) Christian term for a non-(Roman)-Christian or otherwise Orientalized Other. In the tradition of crusading literature especially, it is frequently but not exclusively mapped onto Muslim Arabs. It conflates categories such as faith, ethnicity, and race. The “Saracens” of the literary crusading tradition, which encompasses epic, romance, saint’s lives, and chronicles, are written from a Latin (Roman Catholic)</p>
-<p>perspective which associates them with a range of negative attributes such as idolatry, ignorance, monstrosity, and physical deformity. This is why, in Shokoofeh Rajazabdeh’s words, the term is “not a depoliticized substitute for Muslim.” “The Depoliticized Saracen and Muslim Erasure.” <em>Literature Compass</em> , vol. 16, 9-10, 2019, p. 3/8. To avoid erasing or reproducing the discursive violence attached to the term, I have not translated it, but signaled its constructedness typographically. Emaré uses this term when tapping into a narrative mode of crusading,</p>
+<p>perspective which associates them with a range of negative attributes such as idolatry, ignorance, monstrosity, and physical deformity. This is why, in Shokoofeh Rajazabdeh’s words, the term is “not a depoliticized substitute for Muslim.” “The Depoliticized Saracen and Muslim Erasure.” <em>Literature Compass</em>, vol. 16, 9-10, 2019, p. 3/8. To avoid erasing or reproducing the discursive violence attached to the term, I have not translated it, but signaled its constructedness typographically. Emaré uses this term when tapping into a narrative mode of crusading,</p>
 <p>but employs a more general term for the non-Christian Other when describing the origin of the textile with the</p>
 <p>hethenes<em>, in l. 109.</em></p>
 <p>Line 496 <em>Ritson emends the MS’s</em> stward <em>to</em> stiward<em>, p. 200.</em></p>
@@ -2544,10 +2622,10 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Line 779 he sayde translates as “he” or “they”; “they” is inferred from the context.</p>
 <p>Line 780 <em>Ritson emends the MS’s</em> the <em>to</em> they<em>, p. 207.</em></p>
 <p>Line 792 <em>Ritson emends the MS’s</em> Lor <em>to</em> Lord<em>, p. 207.</em></p>
-<p>Line 804 Rickert notes that the MS has town <em>between</em> Castelle <em>and</em> towre , “with a dotted line beneath them to signify erasure,” p. 25, note 4; White’s transcription reads “Castell town et towre et towne”, p. 335 (f.75va).</p>
+<p>Line 804 Rickert notes that the MS has town <em>between</em> Castelle <em>and</em> towre, “with a dotted line beneath them to signify erasure,” p. 25, note 4; White’s transcription reads “Castell town et towre et towne”, p. 335 (f.75va).</p>
 <p>Line 810 cler denotes beauty, but also light-reflecting qualities (radiance, shine, hue), magnificence, and excellence/ praiseworthiness, all of which would also fit. See https://quod.lib.umich.edu/m/middle-english-dictionary/ dictionary/MED7975/track?counter=3&amp;search_id=20439830.</p>
 <p>Line 838 The MS repeats l. 837, “That most ys of powste,” following l. 839, crossed out. See White, p. 335 (f. 75vb) and Laskaya and Salisbury, note 839. https://d.lib.rochester.edu/teams/text/laskaya-and-salisbury-middle-english- breton-lays-emare#839. Rickert adds that it is also underlined, p. 26, note 5.</p>
-<p>Line 845 Laskaya and Salisbury note that the MS reads shat . https://d.lib.rochester.edu/teams/text/laskaya-and-salisbury- middle-english-breton-lays-emare#846. White’s transcription reads shalt , p. 335 (f. 75vb).</p>
+<p>Line 845 Laskaya and Salisbury note that the MS reads shat . https://d.lib.rochester.edu/teams/text/laskaya-and-salisbury- middle-english-breton-lays-emare#846. White’s transcription reads shalt, p. 335 (f. 75vb).</p>
 <p>Line 847 <em>The Middle English</em> palle could also indicate a purple or deep red silk, a dye reserved for emperors and significant liturgical vestments.</p>
 <p>Line 866 <em>Ritson emends the MS’s</em> Mentrelles <em>to</em> Menstrelles<em>, p. 209.</em></p>
 <p>Line 896 <em>The MS reads</em> Yyf me þs lytyll chylde body<em>, crossing out</em> chylde <em>between</em> lytyll <em>and</em> body . See White, p. 336 (f. 76rb), Rickert, p. 28, note 2, and Laskaya and Salisbury, note 897. https://d.lib.rochester.edu/teams/text/laskaya-and- salisbury-middle-english-breton-lays-emare#897.</p>
@@ -2561,9 +2639,9 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Line 967 <em>Ritson emends the MS’s</em> non <em>to</em> nan<em>, p. 212.</em></p>
 <p>Line 988 <em>The MS reads</em> A . Ritson does not indicate his emendation. Laskaya and Salisbury gloss “he” and note that “R[itson, ed.] and G[ough, ed.] both emend A <em>to</em> And . R[ickert, ed.], Ru[mble, ed.] and M[ills, ed.] gloss the A <em>as ‘he.’” https://d.lib.rochester.edu/teams/text/laskaya-and-salisbury-middle-english-breton-lays-emare#989.</em></p>
 <p>Line 999 Laskaya and Salisbury gloss “reined in”. They note that Rickert emends the MS’s sayde <em>to</em> stayde and “G[ough, ed.] emends to say[s]sde <em>(seized).” https://d.lib.rochester.edu/teams/text/laskaya-and-salisbury-middle-english- breton-lays-emare#1000.</em></p>
-<p>Line 1023 Ritson reads the MS as Egramour <em>and emends to</em> Segramour , p. 213; Rickert as well as Laskaya and Salisbury read the MS as egramour <em>which they emend to</em> Segramour<em>. White’s transcription reads</em> segramour , p. 337 (f. 76vb).</p>
+<p>Line 1023 Ritson reads the MS as Egramour <em>and emends to</em> Segramour, p. 213; Rickert as well as Laskaya and Salisbury read the MS as egramour <em>which they emend to</em> Segramour<em>. White’s transcription reads</em> segramour, p. 337 (f. 76vb).</p>
 <p>Line 1031 <em>“Complaint of Egaré.”</em> Emaré thus inserts itself into two generic traditions: the complaint/plaint is a type of first- person elegiac poetry lamenting misfortune and injustice; the (Middle English) Breton lay (l. 1030) is a novelistic type of poetry relating short tales of love and adventure of “Breton” (insular Celtic) heritage or subject matter, e.g. elements of the fairy world, or the Arthurian marvellous. In fact, Emaré belongs to a large group of transcultually circulating tales that share the same basic plot structure. Their origin cannot be pinpointed (see Introduction).</p>
 <p>The reasons for its self-insertion into two other generic traditions are up for interpretation.</p>
-<p>Line 1032 <em>White’s transcription reads</em> Jħu , p. 337 (f. 76vb). On variant spelling across editions, see Laskaya and Salisbury’s note on l. 1033. https://d.lib.rochester.edu/teams/text/laskaya-and-salisbury-middle-english-breton-lays- emare#1033.</p>
-<p>Line 1035 <em>Ritson omits the MS’s</em> Amen , Gough, Salisbury and Laskaya and Rickert do not.</p>
+<p>Line 1032 <em>White’s transcription reads</em> Jħu, p. 337 (f. 76vb). On variant spelling across editions, see Laskaya and Salisbury’s note on l. 1033. https://d.lib.rochester.edu/teams/text/laskaya-and-salisbury-middle-english-breton-lays- emare#1033.</p>
+<p>Line 1035 <em>Ritson omits the MS’s</em> Amen, Gough, Salisbury and Laskaya and Rickert do not.</p>
 <p>Line 1036 See note for l. 944 regarding the position of the explicit in the MS.</p>
