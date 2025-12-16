@@ -59,96 +59,147 @@ imagesource: "Star-Shaped Tile, second half 13th–14th century, Stonepaste; mol
 <li>This is a discussion on the biblical book of Ecclesiastes but contains a translation of the first two stanzas of this poem, in relation to the word <em>ܛܺܝܛܟܘܣ ( ṭ</em> ēyṭkūs, “cicada”). To my knowledge, this is the only other English translation of this poem.</li>
 </ul>
 
+
+
 <h1> “On April - to the Praise of its Creator” | “<em>ܗܢܢܝܟܡܠ ܐܚܒܘܫ ܢܣܝܢ ܠܥ</em> ”</h1>
 
-<p>Behold, April has arrived and has given refreshment to those who grieve ܃ܫܦܶܢܰ ܐܝܰܒ ܐܩܝ݂̈ܝܥܰܠܘܰ ܢܣ݂ܳܝܢܺ ܐܛܳܡܐܗܳ</p>
+
+
+<p>܃ܫܦܶܢܰ ܐܝܰܒ ܐܩܝ݂̈ܝܥܰܠܘܰ ܢܣ݂ܳܝܢܺ ܐܛܳܡܐܗܳ</p>
+<p>܂ܫܒܶܠܐܰ ܐܚܳܒܘܫ ܐܪܳܒܕܰܘ ܐ݂ܪܳܘܛܠ ܐܶܒ̈ܒܳܗܰܒܘܰ ܃ܫܢܶܟܰ ܦܐܳ ܐܪܳܩ ܐܶܢܝܡ̈ܺܐ ܐܶܚ̈ܩܦܰܠ ܐܕܳܪܘܰ ܠܘܠܚ ܀ܫܪܶܕܳ ܐܚܳܪܘܐ ܐܢܳܬܚܰ ܩܘܦܢܶ ܐܢܳܘܢܓ ܢܡܶܕܘܰ</p>
+
+<p>܃ܐܪܳܒܕܰ ܝܚܼܩ̈ܦܰ ܘ̄ܬܒܛܰ ܨܐܶ ܐܗܳ ܐܬܳ̈ܠܟܰ ܬ݁ܘܡܽܕ ܂ܐܪ݂ܳܪܘܚ ܘܢܰܩ ܐܘܳܬܣܰܕ ܐܙ݂ܳܘܥܕ ܐܪ̈ܶܳܠ݂ܘܩ ܢܡܶܘ ܃ܐܪܳܡܙܳ ܢܝܡܺܐܒܰܘ ܣܘܟܛܝܛܺ ܢܫܳܶܠ ܗܠ ܝܪܬ݁ܫܐܶ ܐܗܳ ܀ܐܪܨܳܢܰܡ ܐܕܳܪܘܰܠ ܐܣܳܐܘܳ ܣܝܩܪܢܰܕ ܐܛܰܡܰܒܶ ܠܥܰܘ</p>
+
+<p>܃ܐ݂ܢ̈ܘܛ݂ܝܩܰ ܢܡܶ ܐܬܳ̈ܳܠܟܰ ܬ݁ܘܡܽܕ ܐܢ̈ܶܫܘܰܫ ܐܗܳ ܂ܐܢ̈ܶܘܓܰܕ ܐܪܳܦܘܫܒ ܢܝܐܶܓܰܬܡܶ ܦܐܳ ܢܝܩܦܢܳ ܢܝܬܒܨܰܡ ܃ܐܶܢ̈ܫܰܘܫ ܒ݂ܘܚܒ ܣܘܟܛܝܛܺ ܗܳܠ ܬ݁ܘܳܗ ܐܬܳܝܢܫܳ ܐܗܳ ܀ܐܶܢ̈ܓܰ ܬܥܰܨܡܶ ܐܕܪܘܰܠ ܐܪܨܢܰܡ ܐܬܳܛܝ̣ܐ̣ܘܦ ܟܝܐܘܰ</p>
+
+<p>܃ܐܬܳܕܚܰ ܐܕܳܪܘܳ ܐܘܳܗ ܝܗ̄ܘܬ݂ܝܐ ܕܟ ܐܪܳܘܥܙ ܐܢܳܒܙܰ ܂ܐܬܳܢܓܰ ܬ݁ܥܰܨܡܶ ܡܝܟܺܣܐܒܶ ܒܬܶܢܶ ܪܬ݁ܬܰܣܢܶ ܐܒܳܨ ܃ܐܬܳܘܳܢ̈ܚܳ ܬܝܒܶ ܐܣܶܪܦܰܬܡܶ ܕܟܰ ܗܬܶܝܙܺܚ ܟܝܕܝܗܳ ܀ܐܬ݂ܳܝܢܙܳ ܟܝܐܰ ܐܶܛܘ̈ܣܐܳ ܠܥܰ ܗܫܦܢܰ ܐܡܶܪܳܘ</p>
+
+<p>܃ܐܒܳܘܥܘ ܐܕ݂ܝܒ ܐܘܶܗܬܶ ܢܘܡܠܕܰ ܬܪܶܡܐܶ ܐܕܳܪܘܰܠ ܂ܐܒܳܥܰܠ ܐܚ݂ܝܪܫ ܐܝܳܘܰܪܳ ܦܐܳ ܐܛܳܘܣܐܳ ܠܟܽܕ ܃ܐܒܳܘܪܰ ܝܢܡܶ ܝܠܬ ݂ܝܶܠܫܘܰ ܟܠ ܥܘܓܽܕ ݂ܝܢܦܰ ܐܕܳܪܘܰ</p>
+<p>܀ܐܒ݂ܳܘܟ ܬܘܪܒܚܰܒ ܘ̄ܝܛܡܰܬܐܘܶ ܘ̄ܒܪܶܩ ܠܘܝܽܒܰܠ ܝ̄̈ܝܰܚܰܕ</p>
+
+<p>܃ܐܙܳܚܦܰ ܬܘܡܽܕܒܰ ܠܰܠܕܰܨܬܶ ܢܘܡܽܠ ܬܪܶܡܐܶ ܐܕܳܪܘܰܠ ܂ܐ݂ܙܳܘܥ ܢܒܰܙܒܰ ܐܝܳܐܦܰ ܟܪܦܘܫ ܪܬܰܣܰܬ ܐܠ ܢܘܡܽܠ ܃ܐܙܳܘܪܽܟܳ ܝܘܺܗ ܬܢܐܰ ܟܫܳܦܢܰܠܕ ܝܢܦܰ ܐܕܳܪܘܰ</p>
+<p>܀ܐܙܳܝܪܺܚ ܐܘܶܗܐܶ ܐܒ݂̈ܶܘܟܽܒܕܰ ܢܡܶ ܐܪܳܚܘܦ ܝܠ ܒܛܳ</p>
+
+<p>25 ܃ܠܬܬܶܫܢܳܐ ܠܟܽܠ ܟܫܳܦܢܰ ܢܘܡܽܠܕܰ ܬܚܶܦܩܰ ܐܕܳܪܘܳܠ ܂ܠܥܶܡܰ ܠܟܽ ܟܠ ܐܒܳܘܥܽܒ ܐܝܳܘܪܰܕ ܐܬܝܢܺܫܳ ܟܝܐܘ</p>
+<p>܃ܠܙܶܐܳ ܐܗܳ ܝ̄ܘܝܙܺܘ ܐܶܝܚ<em>�ܲ</em> ܢܝܪܶܟܕܰ ܝܢܺܦܰ ܐܕܪܘܳ</p>
+<p>܀ܠܡܶܚܳ ܐܪܳܦܘܫ ܗܬܘܝܐܦܰܠܕܰ ܛܰܠܦܰܬܐ ܢܘܡܽܠ</p>
+
+<p>܃ܦܛܶܩܳ ܘܗ̱ ܟܳܠ ܐܢܳܢܳܓܰ ܕܟܰ ܬܪܶܡܐܶ ܐܕܳܪܘܲ� ܠ</p>
+<p>30 ܂ܦܛܶܚܳܐܗܶܢ ܟܳܠܕ ܝܗܝܩܟܘܒܽܫܬܶ ܐܠܘ ܐܒܳܘܟܒ ܝܗ̄ܝܪܳܘܩܽܕ ܃ܦܶܠܝ ܐܕܶܗܳ ܝ̱ܬܝܥܺܪܬܰ ܘܓܰ ܢܡܶܕ ݂ܝܢܦܰ ܐܕܳܪܘܳ</p>
+<p>܀ܦܶܠܚܰܢ ܐܝܳܢܣܰܕ ܗܬܘܪܒܚܰ ܢܡܶ ܝܬܘܪܽܝܦܫܰܠܕܰ</p>
+
+<p>܃ܩܘܣܳܦܢܶ ܟܟܳܕ ܐܒܳܨ ܐܢܳܢܳܓܰ ܕܟ ܬܪܶܡܐܶ ܐܕܪܘܠ ܂ܩܘܒܫܬܶ ܐܳܠ ܟܣܳ ܟܦܳܛܚܢܶܕܘܰ ܝܗܝܪܳܘܩܕ ܐܒܳܘܥܒ</p>
+<p>35 ܃ܩܘܫܐܕܶ ܬܚܶܬܦܶ ܐܕܗܳ ܠܥ ܝܡܘܦܽܕ ܝܢܦܰ ܐܕܳܪܘܳ ܀ܩܘܪܽܦܢܶ ܐܝܳܢܣܰܕ ܘܕܽܒܥܰ ܢܡܶ ܝܠܕ ܐܢܳܝܐܰ ܠܟܽ ܕܝܐܺ</p>
+
+<p>܃ܪܘܛܽܝܪܺ ܠܟܽ ܡܘܦܽ ܒܐܶܚܳ ܐܕܳܪܘܰ ܟܝ̈ܣܰܳܠܘܩ ܢܡܶ ܂ܪܛܳܫܐܶ ܘܒܽܪܶ ܗܬܶܓܳܘ̈ܣ ܢܡܶ ܐܶܠܡܢܶ ܢܦܶܐܘܳ ܃ܪܘܛܪܰܘܩܽ ݂ܘܗܘ ܐܚ̈ܶܳܠܦܰ ܟܝܐܰ ܐܚ̈ܶܩܦܰ ܢܘܗܠܟܽ</p>
+<p>40 ܀ܪܘܛܐܪܘܛܘܐ ܪܘܚܽܠ ݂ܘܗܘ ܐܚ̈ܶܠܦܳ ܐܢ̈ܶܫܰܘܫܽ ܦܐܳ</p>
+
+<p>܃ܐܢܳܫܳܶܠ ܠܟܽ ܒܐܶܚܳ ܐܕܳܪܘܰ ܝܣ̈ܰܳܠܘܩܽ ܢܡܶ</p>
+<p>܂ܐܢܳܫܪܳܘܦܽ ܐܢܶܩ ܐܪ݂ܝܕܗ ܐܪ̈ܶܒܚܰ ܐܢ̈ܶܫܰܘܫ ܢܡܶܕ ܃ܐܢܳܫܳܝܪܺ ܘ݂ܗܘ ܐܚ̈ܶܳܠܦܰ ܟܝܐܰ ܐܚ̈ܶܩܦܰ ܢܘܗܠܟܽ ܀ܐܢܳܫܕܳܐܳ ݂ܘܗܘ ܐܝ̈ܢܳܫܳܕܓܶ ܐܪ̈ܗܙܳ ܢܘܗܽܠܟܽ</p>
+
+<p>45 ܃ܐܪܳܒܫܲ� ܐܕܳܪܘܰܠ ܐܙܚܬܶ ܐܡܳܠܕܰ ܐܫܳܘܪܦܳ ܘܐܳ ܂ܐܪܳܦܘܫܽ ܝܝܰܢ̈ܩܰ ܐܪ̈ܶܝܕܺܗ ܐܒ̈ܶܣܳ ܐܢܶܫ̈ܘܰܫܠܘ</p>
+<p>܃ܐܪܳܐܚܺ ݂ܘܗ ܕܟ ܢܘܢܐܶ ܐܪܶܒ̈ܥܰ ܐܚ̈ܶܩܦܰ ܢܘܗܠܟܽ ܀ܐܪܳܡܳܠܕܰ ܟܝܐܰ ݂ܡܘܝ ܠܟܽ ܢܘܗܠܟܽ ܢܝܕܓܣܳ ݂ܘܗ ܗܶܠܘ</p>
+
+<p>܃ܐ݂ܪ̈ܶܘܪܙܥܰ ܘܓܰܒ ܐܳܠܘܥܽ ܬܘܡܽܕܒܰ ܐܕܳܪܘܰܠ ܐܙܚܺ ܐܬܳ</p>
+<p>50 ܂ܐܪ̈ܶܝܕܗ ܐܒ̈ܶܣܳ ܐܟܳܪܫܰܕ ܐܢܶܪ̈ܚܐِ ܐܢ̈ܶܫܰܘܫܠܘܰ</p>
+<p>܃ܐܪ̈ܶܐܚܺ ܪܒ ܗܠ ܢܝܚܺܠܦܳ ݂ܘܕܒܥܰ ܢܘܗܠܟܽ ܐܠܐܶ</p>
+<p>܀ܐܪ̈ܶܝܣܐܺ ܗܠ ܐܚ̈ܶܩܦܰܘ ܐܪܳܡܳ ܕܘܚܽܠܒܰ ܘ݂ܝܘܗܕ</p>
+
+<p>܃ܐܢܳܘܢܽܓ ܐܢܳܗܳܒ ܐܓܳܪܦܰܬܐܶ ܐܬܳ ܐܫܳܘܪܽܦܳ ܘܐܳ</p>
+<p>܂ܐܢܳܘܓܰܘ ܐܚܳܝܪܺܕ ܐܪܳܦܘܫ ܬܳܘܝܽܐܦܰܒ ܐܡܳܚܦܶ ܗܶܠ ܬܝܰܠܕ ܃ܐܢܳܝܬܘܟ ܦܝܛܺܥ ܐܬܳܝܶܠܥܶܡܕܰ ܕܨܐܶ ܐܕܳܪܘܰܒ</p>
+<p>܀ܐܢܳܬܚܰ ܘܝ݂ܽܘܗܽܕ ܓܰܠܦܰܬܬܶ ܐܠܘ ܐܚܶܩ̈ܦܰ ܬ݁ܥܰܨܡܶ</p>
+
+<p>܃ܐܢܳܟܘܒܽ ܐܕܪܘܰܘ ܐܶܠܝ̈ܦܺܩܳ ܟܝܐܰ ܐܚܶܩ̈ܦܰ ܢܘܗܠܟܽ ܂ܐܢܳܬܚܰ ܐܕܳܪܘܰܘ ܐܢ̈ܝܡܙ ܢܘܗܠܟܽ ܐܢ̈ܫܰܘܫܽ ܦܐܳ ܃ܐܢܳܝܥܰ ܐܕܪܳܘܰܘ ܐܪ̈ܶܝܗܢܰ ܟܝܐ ܐܪ̈ܶܗܙܰ ܢܘܗܠܟܽ ܀ܐܢܳܬܳܚܘܡܨܰ ܐܕܳܪܘܰ ܪܘܚܽܠܘܗ ܢܘܗܢܡܶ ܪܝܬܝܰܘ</p>
+
+<p>܃ܐܫܳܝܢܺ ܝܗ̄ܘܬ݂ܝܐ ܕܘܚܽܠܒܰ ܐܕܳܪܘܰ ܐܪ̈ܶܗܙܰ ܢܘܗܠܟܽܒ ܂ܐܫܝܳܕ ܐܪܳܚܘܦܽܒ ܐܝܶܘܳܪ̈ܰ ܢܡܶ ܐܘܗܢܶ ܢܦܶܐܘ ܃ܐܫ݂ܳܝܪ ܐܕܪܘܰܘ ܐܶܠܓܪ̈ܶ ܬܘܡܽܕܒܰ ܐܚܶܩ̈ܦܰ ܢܘܗܠܟܽ ܀ܐܫܳܝܛ ܢܘܗܠܝܕܺܘ ܐܝܢܳܠܝܕܺ ܐܪܳܦܘܫ ܗܠܝܕܺܘ</p>
+
+<p>܃ܐܟܳܡܳܘ ܐܟܳܠܡ ܐܫܳܦܢ ܠܟܽ ܠܥܰ ܐܕܪܘܲ� ܘܗ ܓܝܓܺܪ ܂ܐܟܳܠܡܰ ܘܝ݂ܘܗ ܐܚ̈ܶܠܦܳ ܢܘܗܠܟܽ ܐܚܶܩ̈ܦܰ ܠܥܰ ܕܒܰ ܃ܐܟܳܪܘܒ ܢܝܡܶܝܣܳ ܝܗ̄ܘܕܰ ܘܚܠܒܰ ܗܠ ܐܪ̈ܶܗܙܰ ܢܘܗܠܟܽ ܀ܐܟܳܠܡܶ ܢܝܒܺܣܢܳ ܐܚܳܒܘܫܕ ܐܢ̈ܶܫܕܳ ܗܠ ܢܘܒ ܪܩܢܪܰܘ</p>
+
+
+<p>Behold, April has arrived and has given refreshment to those who grieve</p>
 <p>And in glory has clothed mountain and pasture with flowers.</p>
-<p>At the wedding feast of the rose, it invited, indeed, gathered blossoms as guests And prepared the way for the bridegroom to leave the bridal chamber.</p>
-<p>Blossoms of the field are adorned like beautiful brides<em> 5</em></p>
-<p>And they have attained freedom from the iron bands of winter’s fierceness. Behold, the tongue of the cicada has been loosened and it ever sings</p>
+<p>At the wedding feast of the rose, it invited, indeed, gathered blossoms as guests </p>
+<p>And prepared the way for the bridegroom to leave the bridal chamber.</p>
+
+<p>5 Blossoms of the field are adorned like beautiful brides</p>
+<p>And they have attained freedom from the iron bands of winter’s fierceness. </p>
+<p>Behold, the tongue of the cicada has been loosened and it ever sings</p>
 <p>And, on the seat of the narcissus and the myrtle, twitters to the rose.</p>
 
 <p>O! the lilies look like brides from their bed-chambers.</p>
-<p>He is adorned and he goes out, indeed, he bears himself grandly in colorful beauty. <em>10</em></p>
+<p>10 He is adorned and he goes out, indeed, he bears himself grandly in colorful beauty. </p>
 <p>O! It is madness to the cicada – the love of the lilies.</p>
 <p>His chirping is poetry to the rose in the midst of the garden.</p>
 
 <p>The time when the rose is new is brief.</p>
 <p>It prefers to be destroyed, and will appear to rest amidst the garden,</p>
-<p>Then it sees the house of stalls when it is spread out <em>15</em></p>
+<p>15 Then it sees the house of stalls when it is spread out </p>
 <p>And it lays itself down among the gluttons like a prostitute.</p>
 
-<p>I said to the rose, “Why will you be in the hand and on the bosom Of every prodigal, and indeed, wanton, greedy drunkard?”</p>
-<p>“Pooh to you!” answered the rose, and it ceased and drew back from my uproar. They who are companions of thorns are reduced to dust and brought to Sheol. <em>20</em></p>
-<p>I said to the rose, “Why are you unrestrained in the appearance of licentiousness? Why not reject your comely beauty in the harsh time?”</p>
+<p>I said to the rose, “Why will you be in the hand and on the bosom </p>
+<p>Of every prodigal, and indeed, wanton, greedy drunkard?”</p>
+<p>“Pooh to you!” answered the rose, and it ceased and drew back from my uproar.</p>
+<p>20 They who are companions of thorns are reduced to dust and brought to Sheol.</p>
+
+<p>I said to the rose, “Why are you unrestrained in the appearance of licentiousness? </p>
+<p>Why not reject your comely beauty in the harsh time?”</p>
 <p>The rose answered, “Be a preacher to yourself,</p>
 <p>The banquet of thorns is better to me than to become strung together.”</p>
-<p>܂ܫܒܶܠܐܰ ܐܚܳܒܘܫ ܐܪܳܒܕܰܘ ܐ݂ܪܳܘܛܠ ܐܶܒ̈ܒܳܗܰܒܘܰ ܃ܫܢܶܟܰ ܦܐܳ ܐܪܳܩ ܐܶܢܝܡ̈ܺܐ ܐܶܚ̈ܩܦܰܠ ܐܕܳܪܘܰ ܠܘܠܚ ܀ܫܪܶܕܳ ܐܚܳܪܘܐ ܐܢܳܬܚܰ ܩܘܦܢܶ ܐܢܳܘܢܓ ܢܡܶܕܘܰ</p>
-<p>܃ܐܪܳܒܕܰ ܝܚܼܩ̈ܦܰ ܘ̄ܬܒܛܰ ܨܐܶ ܐܗܳ ܐܬܳ̈ܠܟܰ ܬ݁ܘܡܽܕ ܂ܐܪ݂ܳܪܘܚ ܘܢܰܩ ܐܘܳܬܣܰܕ ܐܙ݂ܳܘܥܕ ܐܪ̈ܶܳܠ݂ܘܩ ܢܡܶܘ ܃ܐܪܳܡܙܳ ܢܝܡܺܐܒܰܘ ܣܘܟܛܝܛܺ ܢܫܳܶܠ ܗܠ ܝܪܬ݁ܫܐܶ ܐܗܳ ܀ܐܪܨܳܢܰܡ ܐܕܳܪܘܰܠ ܐܣܳܐܘܳ ܣܝܩܪܢܰܕ ܐܛܰܡܰܒܶ ܠܥܰܘ</p>
-<p>܃ܐ݂ܢ̈ܘܛ݂ܝܩܰ ܢܡܶ ܐܬܳ̈ܳܠܟܰ ܬ݁ܘܡܽܕ ܐܢ̈ܶܫܘܰܫ ܐܗܳ ܂ܐܢ̈ܶܘܓܰܕ ܐܪܳܦܘܫܒ ܢܝܐܶܓܰܬܡܶ ܦܐܳ ܢܝܩܦܢܳ ܢܝܬܒܨܰܡ ܃ܐܶܢ̈ܫܰܘܫ ܒ݂ܘܚܒ ܣܘܟܛܝܛܺ ܗܳܠ ܬ݁ܘܳܗ ܐܬܳܝܢܫܳ ܐܗܳ ܀ܐܶܢ̈ܓܰ ܬܥܰܨܡܶ ܐܕܪܘܰܠ ܐܪܨܢܰܡ ܐܬܳܛܝ̣ܐ̣ܘܦ ܟܝܐܘܰ</p>
-<p>܃ܐܬܳܕܚܰ ܐܕܳܪܘܳ ܐܘܳܗ ܝܗ̄ܘܬ݂ܝܐ ܕܟ ܐܪܳܘܥܙ ܐܢܳܒܙܰ ܂ܐܬܳܢܓܰ ܬ݁ܥܰܨܡܶ ܡܝܟܺܣܐܒܶ ܒܬܶܢܶ ܪܬ݁ܬܰܣܢܶ ܐܒܳܨ ܃ܐܬܳܘܳܢ̈ܚܳ ܬܝܒܶ ܐܣܶܪܦܰܬܡܶ ܕܟܰ ܗܬܶܝܙܺܚ ܟܝܕܝܗܳ ܀ܐܬ݂ܳܝܢܙܳ ܟܝܐܰ ܐܶܛܘ̈ܣܐܳ ܠܥܰ ܗܫܦܢܰ ܐܡܶܪܳܘ</p>
-<p>܃ܐܒܳܘܥܘ ܐܕ݂ܝܒ ܐܘܶܗܬܶ ܢܘܡܠܕܰ ܬܪܶܡܐܶ ܐܕܳܪܘܰܠ ܂ܐܒܳܥܰܠ ܐܚ݂ܝܪܫ ܐܝܳܘܰܪܳ ܦܐܳ ܐܛܳܘܣܐܳ ܠܟܽܕ ܃ܐܒܳܘܪܰ ܝܢܡܶ ܝܠܬ ݂ܝܶܠܫܘܰ ܟܠ ܥܘܓܽܕ ݂ܝܢܦܰ ܐܕܳܪܘܰ</p>
-<p>܀ܐܒ݂ܳܘܟ ܬܘܪܒܚܰܒ ܘ̄ܝܛܡܰܬܐܘܶ ܘ̄ܒܪܶܩ ܠܘܝܽܒܰܠ ܝ̄̈ܝܰܚܰܕ</p>
-<p>܃ܐܙܳܚܦܰ ܬܘܡܽܕܒܰ ܠܰܠܕܰܨܬܶ ܢܘܡܽܠ ܬܪܶܡܐܶ ܐܕܳܪܘܰܠ ܂ܐ݂ܙܳܘܥ ܢܒܰܙܒܰ ܐܝܳܐܦܰ ܟܪܦܘܫ ܪܬܰܣܰܬ ܐܠ ܢܘܡܽܠ ܃ܐܙܳܘܪܽܟܳ ܝܘܺܗ ܬܢܐܰ ܟܫܳܦܢܰܠܕ ܝܢܦܰ ܐܕܳܪܘܰ</p>
-<p>܀ܐܙܳܝܪܺܚ ܐܘܶܗܐܶ ܐܒ݂̈ܶܘܟܽܒܕܰ ܢܡܶ ܐܪܳܚܘܦ ܝܠ ܒܛܳ</p>
 
-<p>I reprimanded the rose, “Why do you give yourself to any man?</p>
-<p>And he who is like a mad drunkard in the bosom every time you are new?” The rose answered, “My life is short and of little value,</p>
+<p>25 I reprimanded the rose, “Why do you give yourself to any man?</p>
+<p>And he who is like a mad drunkard in the bosom every time you are new?”</p>
+<p>The rose answered, “My life is short and of little value,</p>
 <p>Why should its elegance and beauty flee when it is gathered?”</p>
 
 <p>To the rose, I said, “When your gardener gathers you</p>
-<p>And you gore him with a thorn, he will not forgive, and you will be snatched.” And the rose answered, “I thought to myself, he would have learned this: His ugly companion will be renewed by my loveliness.”</p>
+<p>30 And you gore him with a thorn, he will not forgive, and you will be snatched.” </p>
+<p>And the rose answered, “I thought to myself, he would have learned this: </p>
+<p>His ugly companion will be renewed by my loveliness.”</p>
 
-<p>To the rose I said, “When the gardener wants to prune you Interiorly, and you poke him, you will be snatched and not forgiven.”</p>
-<p>And the rose answered, “Concerning my mouth, you open it and I will kiss The hand of all who will remove me from the thornbush.”</p>
+<p>To the rose I said, “When the gardener wants to prune you </p>
+<p>Interiorly, and you poke him, you will be snatched and not forgiven.”</p>
+<p>35 And the rose answered, “Concerning my mouth, you open it and I will kiss </p>
+<p>The hand of all who will remove me from the thornbush.”</p>
 
 <p>The rose succumbs to the praises of every rhetor,</p>
-<p>Even those who will fill up with myriad senseless songs. All blossoms are like laborers and he a curator,</p>
-<p>Even lilies are laborers and he alone is the emperor.</p>
+<p>Even those who will fill up with myriad senseless songs. </p>
+<p>All blossoms are like laborers and he a curator,</p>
+<p>40 Even lilies are laborers and he alone is the emperor.</p>
 
 <p>Colossian roses are conquered by every tongue</p>
-<p>Because magnificent lilies are obtained as a gift by charmers. All blossoms are like laborers and he is the ruler,</p>
+<p>Because magnificent lilies are obtained as a gift by charmers. </p>
+<p>All blossoms are like laborers and he is the ruler,</p>
 <p>Every brightness is accidental and his is essential.</p>
 
-<p>O! Is the rose not distinguished above Syrian rue?</p>
-<p>And are not the lilies’ old splendors hated by beautiful ones? All blossoms are servants while he is noble</p>
+<p>45 O! Is the rose not distinguished above Syrian rue?</p>
+<p>And are not the lilies’ old splendors hated by beautiful ones? </p>
+<p>All blossoms are servants while he is noble</p>
 <p>And to him they bow, every single day like to the Lord.</p>
-<p>Come, see in the rose the image of a baby inside swaddling clothes And in the rest of the other lilies are old splendors</p>
-<p>25 ܃ܠܬܬܶܫܢܳܐ ܠܟܽܠ ܟܫܳܦܢܰ ܢܘܡܽܠܕܰ ܬܚܶܦܩܰ ܐܕܳܪܘܳܠ ܂ܠܥܶܡܰ ܠܟܽ ܟܠ ܐܒܳܘܥܽܒ ܐܝܳܘܪܰܕ ܐܬܝܢܺܫܳ ܟܝܐܘ</p>
-<p>܃ܠܙܶܐܳ ܐܗܳ ܝ̄ܘܝܙܺܘ ܐܶܝܚ<em>�ܲ</em> ܢܝܪܶܟܕܰ ܝܢܺܦܰ ܐܕܪܘܳ</p>
-<p>܀ܠܡܶܚܳ ܐܪܳܦܘܫ ܗܬܘܝܐܦܰܠܕܰ ܛܰܠܦܰܬܐ ܢܘܡܽܠ</p>
-<p>܃ܦܛܶܩܳ ܘܗ̱ ܟܳܠ ܐܢܳܢܳܓܰ ܕܟܰ ܬܪܶܡܐܶ ܐܕܳܪܘܲ� ܠ</p>
-<p>30 ܂ܦܛܶܚܳܐܗܶܢ ܟܳܠܕ ܝܗܝܩܟܘܒܽܫܬܶ ܐܠܘ ܐܒܳܘܟܒ ܝܗ̄ܝܪܳܘܩܽܕ ܃ܦܶܠܝ ܐܕܶܗܳ ܝ̱ܬܝܥܺܪܬܰ ܘܓܰ ܢܡܶܕ ݂ܝܢܦܰ ܐܕܳܪܘܳ</p>
-<p>܀ܦܶܠܚܰܢ ܐܝܳܢܣܰܕ ܗܬܘܪܒܚܰ ܢܡܶ ܝܬܘܪܽܝܦܫܰܠܕܰ</p>
-<p>܃ܩܘܣܳܦܢܶ ܟܟܳܕ ܐܒܳܨ ܐܢܳܢܳܓܰ ܕܟ ܬܪܶܡܐܶ ܐܕܪܘܠ ܂ܩܘܒܫܬܶ ܐܳܠ ܟܣܳ ܟܦܳܛܚܢܶܕܘܰ ܝܗܝܪܳܘܩܕ ܐܒܳܘܥܒ</p>
-<p>35 ܃ܩܘܫܐܕܶ ܬܚܶܬܦܶ ܐܕܗܳ ܠܥ ܝܡܘܦܽܕ ܝܢܦܰ ܐܕܳܪܘܳ ܀ܩܘܪܽܦܢܶ ܐܝܳܢܣܰܕ ܘܕܽܒܥܰ ܢܡܶ ܝܠܕ ܐܢܳܝܐܰ ܠܟܽ ܕܝܐܺ</p>
-<p>܃ܪܘܛܽܝܪܺ ܠܟܽ ܡܘܦܽ ܒܐܶܚܳ ܐܕܳܪܘܰ ܟܝ̈ܣܰܳܠܘܩ ܢܡܶ ܂ܪܛܳܫܐܶ ܘܒܽܪܶ ܗܬܶܓܳܘ̈ܣ ܢܡܶ ܐܶܠܡܢܶ ܢܦܶܐܘܳ ܃ܪܘܛܪܰܘܩܽ ݂ܘܗܘ ܐܚ̈ܶܳܠܦܰ ܟܝܐܰ ܐܚ̈ܶܩܦܰ ܢܘܗܠܟܽ</p>
-<p>40 ܀ܪܘܛܐܪܘܛܘܐ ܪܘܚܽܠ ݂ܘܗܘ ܐܚ̈ܶܠܦܳ ܐܢ̈ܶܫܰܘܫܽ ܦܐܳ</p>
-<p>܃ܐܢܳܫܳܶܠ ܠܟܽ ܒܐܶܚܳ ܐܕܳܪܘܰ ܝܣ̈ܰܳܠܘܩܽ ܢܡܶ</p>
-<p>܂ܐܢܳܫܪܳܘܦܽ ܐܢܶܩ ܐܪ݂ܝܕܗ ܐܪ̈ܶܒܚܰ ܐܢ̈ܶܫܰܘܫ ܢܡܶܕ ܃ܐܢܳܫܳܝܪܺ ܘ݂ܗܘ ܐܚ̈ܶܳܠܦܰ ܟܝܐܰ ܐܚ̈ܶܩܦܰ ܢܘܗܠܟܽ ܀ܐܢܳܫܕܳܐܳ ݂ܘܗܘ ܐܝ̈ܢܳܫܳܕܓܶ ܐܪ̈ܗܙܳ ܢܘܗܽܠܟܽ</p>
-<p>45 ܃ܐܪܳܒܫܲ� ܐܕܳܪܘܰܠ ܐܙܚܬܶ ܐܡܳܠܕܰ ܐܫܳܘܪܦܳ ܘܐܳ ܂ܐܪܳܦܘܫܽ ܝܝܰܢ̈ܩܰ ܐܪ̈ܶܝܕܺܗ ܐܒ̈ܶܣܳ ܐܢܶܫ̈ܘܰܫܠܘ</p>
-<p>܃ܐܪܳܐܚܺ ݂ܘܗ ܕܟ ܢܘܢܐܶ ܐܪܶܒ̈ܥܰ ܐܚ̈ܶܩܦܰ ܢܘܗܠܟܽ ܀ܐܪܳܡܳܠܕܰ ܟܝܐܰ ݂ܡܘܝ ܠܟܽ ܢܘܗܠܟܽ ܢܝܕܓܣܳ ݂ܘܗ ܗܶܠܘ</p>
-<p>܃ܐ݂ܪ̈ܶܘܪܙܥܰ ܘܓܰܒ ܐܳܠܘܥܽ ܬܘܡܽܕܒܰ ܐܕܳܪܘܰܠ ܐܙܚܺ ܐܬܳ</p>
-<p>50 ܂ܐܪ̈ܶܝܕܗ ܐܒ̈ܶܣܳ ܐܟܳܪܫܰܕ ܐܢܶܪ̈ܚܐِ ܐܢ̈ܶܫܰܘܫܠܘܰ</p>
-<p>But they are all made to serve, working for freeborn sons. ܃ܐܪ̈ܶܐܚܺ ܪܒ ܗܠ ܢܝܚܺܠܦܳ ݂ܘܕܒܥܰ ܢܘܗܠܟܽ ܐܠܐܶ</p>
+
+<p>Come, see in the rose the image of a baby inside swaddling clothes</p>
+<p>50 And in the rest of the other lilies are old splendors</p>
+<p>But they are all made to serve, working for freeborn sons.</p>
 <p>That is to say, he alone is Lord and the blossoms are bound to him.</p>
 
 <p>O discerning one, come be bright in this bridal chamber</p>
 <p>Which has no equal in beauty and elegance of scent and color.</p>
-<p>Consider the roses of the entrance which are clothed in a linen tunic <em>55</em></p>
+<p>55 Consider the roses of the entrance which are clothed in a linen tunic </p>
 <p>In the midst of blossoms undivided, that is to say, married.</p>
-<p>All of the blossoms are as if stripped bare, and the rose, a nobleman. The lilies are all like invited guests and the rose is married.</p>
+
+<p>All of the blossoms are as if stripped bare, and the rose, a nobleman. </p>
+<p>The lilies are all like invited guests and the rose is married.</p>
 <p>All flashes are like lights and the rose is the eye</p>
-<p>And the only one that surpasses them in brilliance is the rose. <em>60</em></p>
-<p>With every flash, the rose alone has a banner Although it will be from drunkards in an evil banquet.</p>
-<p>The rose tramples on all blossoms in the image of a foot And its own beauty is unique and theirs is bastardized.</p>
-<p>The rose is desirable above every living king and lowly one <em>65</em></p>
-<p>Because, concerning blossoms, they are all laborers compared to the king. All of their flashes are made to kneel to it alone</p>
+<p>60 And the only one that surpasses them in brilliance is the rose.</p>
+
+<p>With every flash, the rose alone has a banner </p>
+<p>Although it will be from drunkards in an evil banquet.</p>
+<p>The rose tramples on all blossoms in the image of a foot </p>
+<p>And its own beauty is unique and theirs is bastardized.</p>
+
+<p>65 The rose is desirable above every living king and lowly one</p>
+<p>Because, concerning blossoms, they are all laborers compared to the king. </p>
+<p>All of their flashes are made to kneel to it alone</p>
 <p>And they who draw near to it receive gifts of glory from the king.</p>
-<p>܀ܐܪ̈ܶܝܣܐܺ ܗܠ ܐܚ̈ܶܩܦܰܘ ܐܪܳܡܳ ܕܘܚܽܠܒܰ ܘ݂ܝܘܗܕ</p>
-<p>܃ܐܢܳܘܢܽܓ ܐܢܳܗܳܒ ܐܓܳܪܦܰܬܐܶ ܐܬܳ ܐܫܳܘܪܽܦܳ ܘܐܳ</p>
-<p>܂ܐܢܳܘܓܰܘ ܐܚܳܝܪܺܕ ܐܪܳܦܘܫ ܬܳܘܝܽܐܦܰܒ ܐܡܳܚܦܶ ܗܶܠ ܬܝܰܠܕ ܃ܐܢܳܝܬܘܟ ܦܝܛܺܥ ܐܬܳܝܶܠܥܶܡܕܰ ܕܨܐܶ ܐܕܳܪܘܰܒ</p>
-<p>܀ܐܢܳܬܚܰ ܘܝ݂ܽܘܗܽܕ ܓܰܠܦܰܬܬܶ ܐܠܘ ܐܚܶܩ̈ܦܰ ܬ݁ܥܰܨܡܶ</p>
-<p>܃ܐܢܳܟܘܒܽ ܐܕܪܘܰܘ ܐܶܠܝ̈ܦܺܩܳ ܟܝܐܰ ܐܚܶܩ̈ܦܰ ܢܘܗܠܟܽ ܂ܐܢܳܬܚܰ ܐܕܳܪܘܰܘ ܐܢ̈ܝܡܙ ܢܘܗܠܟܽ ܐܢ̈ܫܰܘܫܽ ܦܐܳ ܃ܐܢܳܝܥܰ ܐܕܪܳܘܰܘ ܐܪ̈ܶܝܗܢܰ ܟܝܐ ܐܪ̈ܶܗܙܰ ܢܘܗܠܟܽ ܀ܐܢܳܬܳܚܘܡܨܰ ܐܕܳܪܘܰ ܪܘܚܽܠܘܗ ܢܘܗܢܡܶ ܪܝܬܝܰܘ</p>
-<p>܃ܐܫܳܝܢܺ ܝܗ̄ܘܬ݂ܝܐ ܕܘܚܽܠܒܰ ܐܕܳܪܘܰ ܐܪ̈ܶܗܙܰ ܢܘܗܠܟܽܒ ܂ܐܫܝܳܕ ܐܪܳܚܘܦܽܒ ܐܝܶܘܳܪ̈ܰ ܢܡܶ ܐܘܗܢܶ ܢܦܶܐܘ ܃ܐܫ݂ܳܝܪ ܐܕܪܘܰܘ ܐܶܠܓܪ̈ܶ ܬܘܡܽܕܒܰ ܐܚܶܩ̈ܦܰ ܢܘܗܠܟܽ ܀ܐܫܳܝܛ ܢܘܗܠܝܕܺܘ ܐܝܢܳܠܝܕܺ ܐܪܳܦܘܫ ܗܠܝܕܺܘ</p>
-<p>܃ܐܟܳܡܳܘ ܐܟܳܠܡ ܐܫܳܦܢ ܠܟܽ ܠܥܰ ܐܕܪܘܲ� ܘܗ ܓܝܓܺܪ ܂ܐܟܳܠܡܰ ܘܝ݂ܘܗ ܐܚ̈ܶܠܦܳ ܢܘܗܠܟܽ ܐܚܶܩ̈ܦܰ ܠܥܰ ܕܒܰ ܃ܐܟܳܪܘܒ ܢܝܡܶܝܣܳ ܝܗ̄ܘܕܰ ܘܚܠܒܰ ܗܠ ܐܪ̈ܶܗܙܰ ܢܘܗܠܟܽ ܀ܐܟܳܠܡܶ ܢܝܒܺܣܢܳ ܐܚܳܒܘܫܕ ܐܢ̈ܶܫܕܳ ܗܠ ܢܘܒ ܪܩܢܪܰܘ</p>
+
+
+
