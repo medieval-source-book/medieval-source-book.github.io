@@ -23,178 +23,244 @@ thumb: /assets/img/text/muspilli-thumb.png
 imagesource: "Detail from Munich, Bayerische Staatbibliothek, Clm 14098, f.120r [Public Domain]"
 ---
 <h2>Introduction to the Text</h2>
-<p>Muspilli is an incomplete verse narrative (104 lines) written in Old High German. The manuscript containing the poem, which was produced in Bavaria (southern Germany) in the 9th century CE, contains neither the beginning nor the end of the poem. The reason for its incompleteness is probably due to its having been written in the margins of another text: a Latin theological work composed by Adalram (d. 836), bishop of Salzburg, for the young Louis the German (ca. 810–876). It appears Muspilli was added to the manuscript later by a different scribe, but little can be deduced about who produced the text or why. It is conjectured that the beginning and end have been lost because they would have been written on the outermost pages of the manuscript, which often incur the most damage over time. One of the most debated questions about Muspilli is its name. The original manuscript does not include a title, and the name Muspilli was assigned by the poem’s first editor, Johann Andreas Schmeller. The name comes from the Old High German word muspille , meaning the destruction of the world by fire, which occurs in line 57 of the poem. This is the only known occurrence of this word. Scholars have since tried to give it various names which better suit the purpose of the poem, but none of these has stuck.</p>
+<p>Muspilli is an incomplete verse narrative (104 lines) written in Old High German. The manuscript containing the poem, which was produced in Bavaria (southern Germany) in the 9th century CE, contains neither the beginning nor the end of the poem. The reason for its incompleteness is probably due to its having been written in the margins of another text: a Latin theological work composed by Adalram (d. 836), bishop of Salzburg, for the young Louis the German (ca. 810–876). It appears Muspilli was added to the manuscript later by a different scribe, but little can be deduced about who produced the text or why. It is conjectured that the beginning and end have been lost because they would have been written on the outermost pages of the manuscript, which often incur the most damage over time. One of the most debated questions about Muspilli is its name. The original manuscript does not include a title, and the name Muspilli was assigned by the poem’s first editor, Johann Andreas Schmeller. The name comes from the Old High German word muspille, meaning the destruction of the world by fire, which occurs in line 57 of the poem. This is the only known occurrence of this word. Scholars have since tried to give it various names which better suit the purpose of the poem, but none of these has stuck.</p>
 
 <p>Muspilli mainly deals with two main ideas: the fate of human souls after death and the Final Judgement. The first part of the poem describes how two groups of angels will fight over one soul to see whether it belongs in Heaven or Hell. The second part of the poem provides two narratives: Elijah and the Antichrist fight each other, the former as the champion of God and the latter as the champion of the Devil. In this duel, the Antichrist will be defeated and Elijah will be wounded and his blood will burn the whole world. Then the text describes how, in the Final Judgement, angels and demons will testify to the actions of humans on earth, and those actions will be scrutinized. At the end of the poem, the Holy Cross is brought forth and Christ reveals the wounds that he suffered for the sake of humankind.</p>
 
-<p>One of the most discussed aspects of this poem are its sources. Although explicitly Christian elements are abundant, scholars have argued that <i> Muspilli </i> is deeply infused with pre-Christian culture and draws much of its material from Norse mythology. Although the names mentioned in the poem are all Christian figures, some scholars argue that they are essen- tially the Christian representation of Norse gods.</p>
+<p>One of the most discussed aspects of this poem are its sources. Although explicitly Christian elements are abundant, scholars have argued that <i> Muspilli </i> is deeply infused with pre-Christian culture and draws much of its material from Norse mythology. Although the names mentioned in the poem are all Christian figures, some scholars argue that they are essentially the Christian representation of Norse gods.</p>
 
 <p>Muspilli is considered to be one of the most significant pieces of Old High German literature because of its vivid depiction of Christian themes in the vernacular language. Through this poem, modern readers can gain a better insight into the spiritual life and broader culture of ninth-century Germans.</p>
 
 <h2>Further Reading</h2>
-
-
-
-
-<p>Murdoch, Brian. “The Carolingian Period and the Early Middle Ages (750–1100).” <i> The Cambridge History of German Literature</i> , edited by Helen Watanabe-O’Kelly. Cambridge: Cambridge University Press, 1997, pp. 1–39.</p>
+<p>Murdoch, Brian. “The Carolingian Period and the Early Middle Ages (750–1100).” <i> The Cambridge History of German Literature</i>, edited by Helen Watanabe-O’Kelly. Cambridge: Cambridge University Press, 1997, pp. 1–39.</p>
 <ul>
 <li>An overview of German literature from 750-1100 CE which includes discussion of <em>Muspilli</em> (on p. 24).</li>
 </ul>
-<p>Wells, Christopher. “The Shorter German Verse Text.” <i> German Literature of the Early Middle Ages</i> , edited by Brian Mur- doch, Rochester, N.Y: Camden House, 2004, 157-199.</p>
+<p>Wells, Christopher. “The Shorter German Verse Text.” <i> German Literature of the Early Middle Ages</i>, edited by Brian Murdoch, Rochester, N.Y: Camden House, 2004, 157-199.</p>
 <ul>
-<li>An overview of Old High German verse texts, including a comparison between the <em>Wessobrunn Prayer</em> , <em>Muspilli</em> , and <em>Lay of Ludwig</em></li>
+<li>An overview of Old High German verse texts, including a comparison between the <em>Wessobrunn Prayer</em>, <em>Muspilli</em>, and <em>Lay of Ludwig</em></li>
 </ul>
-<p>(all published in the <em>Global Medieval Sourcebook</em> ).</p>
+<p>(all published in the <em>Global Medieval Sourcebook</em>).</p>
+
+
 <h1>Muspilli</h1>
 
-<p>...sin tac piqueme, daz er touuan scal. uuanta sar so sih diu sela in den sind arhevit enti si den lihhamun likkan lazzit,</p>
+<p>...sin tac piqueme, daz er touuan scal.</p>
+<p>uuanta sar so sih diu sela in den sind arhevit</p>
+<p>enti si den lihhamun likkan lazzit,</p>
 <p>so quimit ein heri fona himilzungalon,</p>
-<p>daz andar fona pehhe: dar pagant siu umpi. Sorgen mac diu sela, unzi diu suona arget, za uuederemo herie si gihalot uuerde.</p>
-<p>uuanta ipu sia daz Satanazses kisindi kiuuinnit, daz leitit sia sar dar iru leid uuirdit,</p>
-<p>in fuir enti in finstri: daz ist rehto uirinlih ding.</p>
-<p>Upi sia auar kihalont die, die dar fona himile quemant, enti si dero engilo eigan uuirdit,</p>
+<p>5 daz andar fona pehhe: dar pagant siu umpi.</p>
+<p>Sorgen mac diu sela, unzi diu suona arget,</p>
+<p>za uuederemo herie si gihalot uuerde.</p>
+<p>uuanta ipu sia daz Satanazses kisindi kiuuinnit,</p>
+<p>daz leitit sia sar dar iru leid uuirdit,</p>
+<p>10 in fuir enti in finstri: daz ist rehto uirinlih ding.</p>
+<p>Upi sia auar kihalont die, die dar fona himile quemant,</p>
+<p>enti si dero engilo eigan uuirdit,</p>
 <p>die pringent sia sar uf in himilo rihi:</p>
-<p>dar ist lip ano tod, lioht ano finstri, selida ano sorgun: dar nist neoman siuh. denne der man in pardisu pu kiuuinnit,</p>
+<p>dar ist lip ano tod, lioht ano finstri,</p>
+<p>15 selida ano sorgun: dar nist neoman siuh.</p>
+<p>denne der man in pardisu pu kiuuinnit,</p>
 <p>hus in himile, dar quimit imo hilfa kinuok.</p>
 <p>Pidiu ist durft mihhil</p>
-<p>allero manno uuelihemo, daz in es sin muot kispane, daz er kotes uuillun kerno tuo</p>
+<p>allero manno uuelihemo, daz in es sin muot kispane,</p>
+<p>20 daz er kotes uuillun kerno tuo</p>
 <p>enti hella fuir harto uuise,</p>
-<p>pehhes pina. dar piutit Satanaz altist heizzan lauc. so mac huckan za diu, sorgen drato, der sih suntigen uueiz.</p>
-<p>uue demo in uinstri scal sino uirina stuen, prinnan in pehhe: daz ist rehto paluuic dink,</p>
-<p>daz der man haret ze gote enti imo hilfa ni quimit. uuanit sih kinada diu uuenaga sela.</p>
+<p>pehhes pina. dar piutit Satanaz altist</p>
+<p>heizzan lauc. so mac huckan za diu,</p>
+<p>sorgen drato, der sih suntigen uueiz.</p>
+<p>25 uue demo in uinstri scal sino uirina stuen,</p>
+<p>prinnan in pehhe: daz ist rehto paluuic dink,</p>
+<p>daz der man haret ze gote enti imo hilfa ni quimit.</p>
+<p>uuanit sih kinada diu uuenaga sela.</p>
 <p>ni ist in kihuctin himiliskin gote,</p>
-<p>uuanta hiar in uuerolti aftar ni uuerkota.</p>
-<p>So denne der mahtigo khuninc daz mahal kipannit, dara scal queman queman chunno kilihaz.</p>
-<p>denne ni kitar parno nohhein den pan furisizzan, nio allero manno uuelih ze demo mahale sculi Dar scal er uora demo rihhe az rahhu stantan,</p>
-<p>pi daz er in uuerolti kiuuerkot hapeta. daz hortih rahhon dia uueroltrehuuison,</p>
+<p>30 uuanta hiar in uuerolti aftar ni uuerkota.</p>
+<p>So denne der mahtigo khuninc daz mahal kipannit,</p>
+<p>dara scal queman queman chunno kilihaz.</p>
+<p>denne ni kitar parno nohhein den pan furisizzan,</p>
+<p>nio allero manno uuelih ze demo mahale sculi</p>
+<p>35 Dar scal er uora demo rihhe az rahhu stantan,</p>
+<p>pi daz er in uuerolti kiuuerkot hapeta.</p>
+<p>daz hortih rahhon dia uueroltrehuuison,</p>
 <p>daz sculi der antichristo mil Eliase pagan.</p>
-<p>...his day comes, when he has to die.</p>
-<p>Immediately afterwards, when the soul starts its journey and leaves the body behind,</p>
-<p>then a host comes from the heaven’s firmament</p>
-<p>5 And another from hell: then they will fight for her [i.e. the soul]. The soul has to worry until the judgement is made,</p>
-<p>As to which host she is brought. For if Satan’s retainers win her,</p>
-<p>They promptly lead her [the soul] to a place where pain awaits her,</p>
-<p>10 Into fire and darkness: that is a truly horrible verdict. But if she is taken by those who come from heaven And is claimed by the angels,</p>
-<p>They promptly bring her up into the heavenly kingdom Where there is life without death, light without darkness,</p>
-<p>15 A refuge without worry: there nobody suffers sickness. For if a person wins a place in paradise,</p>
-<p>A house in heaven, he will find a lot of support there.</p>
-<p>Thus the need is great</p>
-<p>for everybody, that his [spirit/heart] is moved</p>
-<p>20 to gladly do God’s will And firmly avoid hellfire,</p>
-<p>Hell’s pain: there, the ancient Satan waits</p>
-<p>With hot fire. Therefore he, who knows himself</p>
-<p>to be sinful, shall think about this with great worry.</p>
-<p>25 Woe to him who has to atone for his sins in darkness and burn in hell. It is a truly horrible judgement,</p>
-<p>When somebody calls upon God and receives no help. The wretched soul hopes for mercy,</p>
-<p>But she is not remembered by the heavenly God,</p>
-<p>30 because she has not proven herself worthy here in the world. And when the powerful King proclaims the day of judgement Every kin must come there.</p>
-<p>No child of man can dare to reject this command, [assuming] that not everybody had to attend this judgement.</p>
-<p>35 There he shall give account to the Almighty for what he has done in this world.</p>
-<p>I have heard the wise men of the world tell That the antichrist shall fight against Elijah.</p>
-
 <p>der uuarch ist kiuuafanit, denne uuirdit untar in uuic arhapan.</p>
-<p>khenfun sint so kreftic, diu kosa ist so mihhil: Elias stritit pi den ewiigon lip,</p>
-<p>uuili din rehtkernon daz rihhi kistarkan. pidiu scal imo helfan der himiles kiuualtit. der antichristo stet pi demo altfiante,</p>
-<p>stet pi Satanase, der inan uarsenkan scal. pidiu scal er in deru uuicsteti uuunt pivallan enti in demo sinde sigalos uuerdan.</p>
+<p>40 khenfun sint so kreftic, diu kosa ist so mihhil:</p>
+<p>Elias stritit pi den ewiigon lip,</p>
+<p>uuili din rehtkernon daz rihhi kistarkan.</p>
+<p>pidiu scal imo helfan der himiles kiuualtit.</p>
+<p>der antichristo stet pi demo altfiante,</p>
+<p>45 stet pi Satanase, der inan uarsenkan scal.</p>
+<p>pidiu scal er in deru uuicsteti uuunt pivallan</p>
+<p>enti in demo sinde sigalos uuerdan.</p>
 <p>Doh uuanit des uilo gotmanno,</p>
-<p>daz Elias in demo uuige aruuartit uuerde. so daz Eliases pluot in erda kitriufit,</p>
-<p>so inprinnant die perga, poum ni kistentit enihc in erdu, aha artruknent,</p>
-<p>muor uarsuuilhit sih, suilizot lougiu der himil, mano uallit, prinnit mittilagart,</p>
-<p>The fiend is armed, and then the fight between them will start.</p>
-
-<p>40 The fighters are so powerful, the cause is so crucial: Elijah fights for eternal life,</p>
-<p>He wants to secure the realm for the righteous He who rules in heaven shall help him with this. The antichrist stands with the ancient foe,</p>
-<p>45 Stands with Satan, who wants to destroy him [Elijah]:</p>
-<p>But he [the antichrist] will fall wounded on this battlefield, And in this way be without victory.</p>
-<p>Yet many men of God believe</p>
-<p>That Elijah will be wounded in the battle.</p>
-<p>50 So when Elijah’s blood drips on the earth,</p>
-<p>The mountains catch fire and no single tree on earth remains standing, all waters dry up,</p>
-<p>The moor swallows itself, the heaven perishes in flames, The moon falls, Middle Earth burns.</p>
-<p>sten ni kistentit eikin in erdu, uerit denne tuatago in lant, <em>55</em></p>
-
+<p>daz Elias in demo uuige aruuartit uuerde.</p>
+<p>50 so daz Eliases pluot in erda kitriufit,</p>
+<p>so inprinnant die perga, poum ni kistentit</p>
+<p>enihc in erdu, aha artruknent,</p>
+<p>muor uarsuuilhit sih, suilizot lougiu der himil,</p>
+<p>mano uallit, prinnit mittilagart,</p>
+<p>55 sten ni kistentit eikin in erdu, uerit denne tuatago in lant,</p>
 <p>uerit mit diu uuiru uiriho uuison.</p>
-<p>Dar ni mac denne mak helfan uora demo muspille. denne daz preita uuasal allaz uarprennit</p>
+<p>Dar ni mac denne mak helfan uora demo muspille.</p>
+<p>denne daz preita uuasal allaz uarprennit</p>
 <p>enti uuir enti luft iz allaz arfurpit,</p>
-<p>uuar ist denne diu marha, dar man dar eo mit sinen <em>60</em></p>
-<p>magon piehc?</p>
-<p>Diu marha ist farprunnan, diu sela stet piduungan, ni uueiz mit uuiu puaze: sar verit si za uuize.</p>
+<p>60 uuar ist denne diu marha, dar man dar eo mit sinen magon piehc?</p>
+<p>Diu marha ist farprunnan, diu sela stet piduungan,</p>
+<p>ni uueiz mit uuiu puaze: sar verit si za uuize.</p>
 <p>Pidiu ist demo manne so guot, denner ze demo mahale quimit,</p>
 <p>daz er rahono uueliha rehto arteile.</p>
-<p>Denne ni darf er sorgen, denne er ze deru suonu quimit. <em>65</em> ni uueiz der uuenago man uuielihan uuartil er habet,</p>
-<p>denner mit den miaton marrit daz rehta, daz der tiuual dar pi kitarnit stentit.</p>
+<p>65 Denne ni darf er sorgen, denne er ze deru suonu quimit.</p>
+<p>ni uueiz der uuenago man uuielihan uuartil er habet,</p>
+<p>denner mit den miaton marrit daz rehta,</p>
+<p>daz der tiuual dar pi kitarnit stentit.</p>
 <p>der hapet in ruouu rahono uueliha,</p>
-<p>daz der man er enti sid upiles kifrumita, <em>70</em></p>
-<p>daz er iz allaz kisaget, denne er ze deru suono quimit. Ni scolta manno nohhein miatun intfahan.</p>
+<p>70 daz der man er enti sid upiles kifrumita,</p>
+<p>daz er iz allaz kisaget, denne er ze deru suono quimit.</p>
+<p>Ni scolta manno nohhein miatun intfahan.</p>
 <p>So daz himilisca horn kilutit uuirdit</p>
 <p>enti sih der suanari ana den sind arheuit,</p>
-<p>Stones do not stand fast by their owners on earth, and then judgement day comes upon the land,</p>
-<p>Comes with fire to afflict the people:</p>
-<p>No kinsman can help the other in the face of the Muspilli. And when the whole circle of the world burns,</p>
-<p>and a storm of fire and air annihilates everything,</p>
-<p>Where is then the homeland, for which one before had fought together with one’s kinsmen?</p>
-<p>The homeland is burned, the soul stands defeated,</p>
-<p>Not knowing how to atone: soon she will face punishment. Therefore it is good for a man, when he comes to the tribunal,</p>
-
-<p>To have always delivered rightful judgements.</p>
-<p>Then he needs not to worry when he faces this trial.</p>
-<p>A weak person does not know what sentence awaits him, when he breaks the law with bribery,</p>
-<p>And that the devil hides close to him,</p>
-<p>and quietly takes into account every evil deed that this person has done and will do,</p>
-<p>In order to report it all when he [the man] faces the trial. Therefore, nobody should ever accept bribes.</p>
-<p>When the heavenly horn is blown</p>
-<p>And the judge, who shall judge the dead</p>
-
-<p>der da suannan scal toten enti lepenten, denne heuit sih mit imo herio meista.</p>
-<p>daz ist allaz so pald, daz imo nioman kipagan ni mak. Denne uerit er ze deru mahalsteti, deru dar kimarchot ist, dar uuirdit diu suona, dia man dar io sageta.</p>
-<p>80Denne uarant engila uper dio marha, uuechant deota, uuissant ze dinge.</p>
+<p>75 der da suannan scal toten enti lepenten,</p>
+<p>denne heuit sih mit imo herio meista.</p>
+<p>daz ist allaz so pald, daz imo nioman kipagan ni mak.</p>
+<p>Denne uerit er ze deru mahalsteti, deru dar kimarchot ist,</p>
+<p>dar uuirdit diu suona, dia man dar io sageta.</p>
+<p>80 Denne uarant engila uper dio marha,</p>
+<p>uuechant deota, uuissant ze dinge.</p>
 <p>denne scal manno gilih fona deru moltu arsten,</p>
 <p>Lossan si ar dero leuuo vazzon, scal imo auar sin lip piqueman,</p>
 <p>daz er sin reht allaz kirahhn muozzi</p>
-<p>enti imo after sinen tatin arteilit uuerde. Denne der gisizzit, der dâr suonnan scal enti arteillan scal toten enti quekkhen, denne stet dar umpi engilo menigi, guotero gomono: gart ist so mihhil,</p>
-<p>dara quimit ze deu rihtungu so uilo, dia dar ar resti arstent</p>
-<p>so dar manno nohhein uuiht pimidan ni mak, dar scal denne hant sprehhan, houpit sagen, allero lido uuelihc unzi in den luzigun uinger, uuaz er untar mannun mordes kifrumita.</p>
-<p>Dar ni ist eo so listic man, der dar iouuiht arliugan megi, daz er kitarnan megi tato dehheina,</p>
-<p>niz al fora demo khuninge kichundit uuerde, uzzan er iz mit alamusanu furimegi</p>
+<p>85 enti imo after sinen tatin arteilit uuerde.</p>
+<p>Denne der gisizzit, der dâr suonnan scal</p>
+<p>enti arteillan scal toten enti quekkhen,</p>
+<p>denne stet dar umpi engilo menigi,</p>
+<p>guotero gomono: gart ist so mihhil,</p>
+<p>90 dara quimit ze deu rihtungu so uilo, dia dar ar resti arstent</p>
+<p>so dar manno nohhein uuiht pimidan ni mak,</p>
+<p>dar scal denne hant sprehhan, houpit sagen,</p>
+<p>allero lido uuelihc unzi in den luzigun uinger,</p>
+<p>uuaz er untar mannun mordes kifrumita.</p>
+<p>95 Dar ni ist eo so listic man, der dar iouuiht arliugan megi,</p>
+<p>daz er kitarnan megi tato dehheina,</p>
+<p>niz al fora demo khuninge kichundit uuerde,</p>
+<p>uzzan er iz mit alamusanu furimegi</p>
 <p>enti mit fastun dio uirina kipuazti.</p>
-<p>Denne der paldet, der gipuazzit hapet, denner ze deru suonu quimit.</p>
-<p>uuirdit denne furi kitragan daz frono chruci, dar der heligo Christ ana arhangan uuard,</p>
-<p>75</p>
+<p>100 Denne der paldet, der gipuazzit hapet, denner ze deru suonu quimit.</p>
+<p>uuirdit denne furi kitragan daz frono chruci,</p>
+<p>dar der heligo Christ ana arhangan uuard,</p>
+<p>denne augit er dio masun, dio er in deru menniski anfenc,</p>
+<p>duruh desse mancunnes minna f[ardoleta]...</p>
 
-<p>80</p>
 
-<p>85</p>
 
-<p>90</p>
-
-<p>95</p>
-
-<p>100</p>
+<p>Muspilli</p>
+<p>...his day comes, when he has to die.</p>
+<p>Immediately afterwards, when the soul starts its journey</p>
+<p>and leaves the body behind,</p>
+<p>then a host comes from the heaven’s firmament</p>
+<p>5 And another from hell: then they will fight for her [i.e. the soul].</p>
+<p>The soul has to worry until the judgement is made,</p>
+<p>As to which host she is brought.</p>
+<p>For if Satan’s retainers win her,</p>
+<p>They promptly lead her [the soul] to a place where pain awaits her,</p>
+<p>10 Into fire and darkness: that is a truly horrible verdict.</p>
+<p>But if she is taken by those who come from heaven</p>
+<p>And is claimed by the angels,</p>
+<p>They promptly bring her up into the heavenly kingdom</p>
+<p>Where there is life without death, light without darkness,</p>
+<p>15 A refuge without worry: there nobody suffers sickness.</p>
+<p>For if a person wins a place in paradise,</p>
+<p>A house in heaven, he will find a lot of support there.</p>
+<p>Thus the need is great</p>
+<p>for everybody, that his [spirit/heart] is moved</p>
+<p>20 to gladly do God’s will</p>
+<p>And firmly avoid hellfire,</p>
+<p>Hell’s pain: there, the ancient Satan waits</p>
+<p>With hot fire. Therefore he, who knows himself</p>
+<p>to be sinful, shall think about this with great worry.</p>
+<p>25 Woe to him who has to atone for his sins in darkness</p>
+<p>and burn in hell. It is a truly horrible judgement,</p>
+<p>When somebody calls upon God and receives no help.</p>
+<p>The wretched soul hopes for mercy,</p>
+<p>But she is not remembered by the heavenly God,</p>
+<p>30 because she has not proven herself worthy here in the world.</p>
+<p>And when the powerful King proclaims the day of judgement</p>
+<p>Every kin must come there.</p>
+<p>No child of man can dare to reject this command,</p>
+<p>[assuming] that not everybody had to attend this judgement.</p>
+<p>35 There he shall give account to the Almighty</p>
+<p>for what he has done in this world.</p>
+<p>I have heard the wise men of the world tell</p>
+<p>That the antichrist shall fight against Elijah.</p>
+<p>The fiend is armed, and then the fight between them will start.</p>
+<p>40 The fighters are so powerful, the cause is so crucial:</p>
+<p>Elijah fights for eternal life,</p>
+<p>He wants to secure the realm for the righteous</p>
+<p>He who rules in heaven shall help him with this.</p>
+<p>The antichrist stands with the ancient foe,</p>
+<p>45 Stands with Satan, who wants to destroy him [Elijah]:</p>
+<p>But he [the antichrist] will fall wounded on this battlefield,</p>
+<p>And in this way be without victory.</p>
+<p>Yet many men of God believe</p>
+<p>That Elijah will be wounded in the battle.</p>
+<p>50 So when Elijah’s blood drips on the earth,</p>
+<p>The mountains catch fire and no single tree on earth</p>
+<p>remains standing, all waters dry up,</p>
+<p>The moor swallows itself, the heaven perishes in flames,</p>
+<p>The moon falls, Middle Earth burns.</p>
+<p>55 Stones do not stand fast by their owners on earth, and then judgement day comes upon the land,</p>
+<p>Comes with fire to afflict the people:</p>
+<p>No kinsman can help the other in the face of the Muspilli.</p>
+<p>And when the whole circle of the world burns,</p>
+<p>and a storm of fire and air annihilates everything,</p>
+<p>60 Where is then the homeland, for which one before had fought together with one’s kinsmen?</p>
+<p>The homeland is burned, the soul stands defeated,</p>
+<p>Not knowing how to atone: soon she will face punishment.</p>
+<p>Therefore it is good for a man, when he comes to the tribunal,</p>
+<p>To have always delivered rightful judgements.</p>
+<p>65 Then he needs not to worry when he faces this trial.</p>
+<p>A weak person does not know what sentence awaits him,</p>
+<p>when he breaks the law with bribery,</p>
+<p>And that the devil hides close to him,</p>
+<p>and quietly takes into account every evil deed</p>
+<p>70 that this person has done and will do,</p>
+<p>In order to report it all when he [the man] faces the trial.</p>
+<p>Therefore, nobody should ever accept bribes.</p>
+<p>When the heavenly horn is blown</p>
+<p>And the judge, who shall judge the dead</p>
 <p>and the living, will start his journey,</p>
 <p>the largest host will rise together with him.</p>
-<p>This [host] is so brave that no one can stand up against it. Then he will go to the judgement place, which is staked out,</p>
-<p>That is where the trial will take place as it has been proclaimed. Angels will then travel over the land,</p>
-<p>wake the dead, call them to the judgement. Then everybody will resurrect from the dust,</p>
+<p>This [host] is so brave that no one can stand up against it.</p>
+<p>Then he will go to the judgement place, which is staked out,</p>
+<p>That is where the trial will take place as it has been proclaimed.</p>
+<p>80 Angels will then travel over the land,</p>
+<p>wake the dead, call them to the judgement.</p>
+<p>Then everybody will resurrect from the dust,</p>
 <p>Release himself from the burden of the grave: he shall regain his body,</p>
-<p>So that he can fairly answer for everything And be judged for his deeds.</p>
-<p>Then he sits down, the one who shall try in court And pass judgement over the dead and the living; The host of angels surrounds him,</p>
+<p>So that he can fairly answer for everything</p>
+<p>85 And be judged for his deeds.</p>
+<p>Then he sits down, the one who shall try in court</p>
+<p>And pass judgement over the dead and the living;</p>
+<p>The host of angels surrounds him,</p>
 <p>and [many] good men: The place [of judgement] is large,</p>
-<p>And so many who have arisen from their rest come to the trial.</p>
-
+<p>90 And so many who have arisen from their rest come to the trial.</p>
 <p>Nobody can hide anything there,</p>
-<p>Or else the hand will speak, the head will talk, Every limb down to the smallest finger,</p>
+<p>Or else the hand will speak, the head will talk,</p>
+<p>Every limb down to the smallest finger,</p>
 <p>What murder it has committed amongst men.</p>
-<p>Therefore nobody is cunning enough to be able to tell a lie there Or to hide any deed:</p>
+<p>95 Therefore nobody is cunning enough to be able to tell a lie there</p>
+<p>Or to hide any deed:</p>
 <p>It will still be revealed in front of the king</p>
-<p>unless he can compensate for it with alms [he has given], And has atoned for the crimes with fasting.</p>
-<p>Therefore he, who has atoned, needs not to worry when he comes to this judgement.</p>
-<p>Then the noble cross will be carried forward, Upon which the holy Christ was crucified,</p>
-<p>denne augit er dio masun, dio er in deru menniski anfenc, duruh desse mancunnes minna f[ardoleta]...</p>
-<p>And he will show the wounds that he received as a man, That he had obtained for his love of mankind...</p>
+<p>unless he can compensate for it with alms [he has given],</p>
+<p>And has atoned for the crimes with fasting.</p>
+<p>100 Therefore he, who has atoned, needs not to worry when he comes to this judgement.</p>
+<p>Then the noble cross will be carried forward,</p>
+<p>Upon which the holy Christ was crucified,</p>
+<p>And he will show the wounds that he received as a man,</p>
+<p>That he had obtained for his love of mankind...</p>
 
-<h1>Critical Notes</h1>
 
-<p>Line 19 The correct translation of “muot” is controversial. A large camp of scholars translate it as “spirit” (“der Geist” in modern German), although others translate it as “heart.”</p>
-<p>Line 35 “rahha stantan” is a legal technical term meaning “to give an account for something.” The expression is still used in modern German as “Rechenschaft stehen.”</p>
-<p>Line 54 “mittilagart” could also be translated as “Midgard”, (although the phrase “middle earth” is now well known to readers of Tolkein) which was the name of the human realm in Norse and Germanic myth. It is an interesting example of the mixing of pagan cosmological models with Christian apocalyptic narrative.</p>
-<p>Line 57 The exact translation and etymology of “muspille” is unclear. Later Nordic sources suggest that it roughly means “destruction of the world by fire.”</p>
+<h2>Critical Notes</h2>
+<p><i>Line 19:</i> The correct translation of “muot” is controversial. A large camp of scholars translate it as “spirit” (“der Geist” in modern German), although others translate it as “heart.”</p>
+<p><i>Line 35:</i> “rahha stantan” is a legal technical term meaning “to give an account for something.” The expression is still used in modern German as “Rechenschaft stehen.”</p>
+<p><i>Line 54:</i> “mittilagart” could also be translated as “Midgard”, (although the phrase “middle earth” is now well known to readers of Tolkein) which was the name of the human realm in Norse and Germanic myth. It is an interesting example of the mixing of pagan cosmological models with Christian apocalyptic narrative.</p>
+<p><i>Line 57:</i> The exact translation and etymology of “muspille” is unclear. Later Nordic sources suggest that it roughly means “destruction of the world by fire.”</p>
