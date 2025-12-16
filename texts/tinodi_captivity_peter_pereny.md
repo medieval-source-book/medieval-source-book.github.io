@@ -23,34 +23,35 @@ thumb: /assets/img/text/tinodi_captivity_peter_pereny-thumb.png
 imagesource: "Detail from \"Buda, Vulgo Ofen, Prima et Regia Ungarici\" (1572). David Rumsey Map Collection, David Rumsey Map Center, Stanford Libraries."
 ---
 <h2>Introduction to the Text</h2>
-<p>This song, composed on April 24, 1542, was included in <i> Cronica</i> , Sebastian Tinódi’s printed song collection of 1554. The songs in <i> Cronica </i> were accompanied by melodies and intended for performance before varied audiences as well as for private reading. The general topic of the collection is the defensive struggle of Hungarians against the Ottoman armies, and its songs can be described as event poetry (a genre which typically combines a narrative account of contemporary, momentous events with implicit or explicit political-cultural commentary). Tinódi significantly advanced the genre of event poetry in Hungarian literature and became a model for those who followed.</p>
+<p>This song, composed on April 24, 1542, was included in <i> Cronica</i>, Sebastian Tinódi’s printed song collection of 1554. The songs in <i> Cronica </i> were accompanied by melodies and intended for performance before varied audiences as well as for private reading. The general topic of the collection is the defensive struggle of Hungarians against the Ottoman armies, and its songs can be described as event poetry (a genre which typically combines a narrative account of contemporary, momentous events with implicit or explicit political-cultural commentary). Tinódi significantly advanced the genre of event poetry in Hungarian literature and became a model for those who followed.</p>
 
-<p>In contrast to “The Loss of Buda and Captivity of Bálint Török” (also presented in the <i> Global Medieval Sourcebook</i> ), this song exhibits fewer oral compositional elements and illustrates how Tinódi eventually developed a more definitive literate style with fewer formulae and repetitions. Nevertheless, for greater effect in performance, he deftly employs direct speech to admonish his audience and also to console his captive lord, Bálint Török.</p>
+<p>In contrast to “The Loss of Buda and Captivity of Bálint Török” (also presented in the <i> Global Medieval Sourcebook</i>), this song exhibits fewer oral compositional elements and illustrates how Tinódi eventually developed a more definitive literate style with fewer formulae and repetitions. Nevertheless, for greater effect in performance, he deftly employs direct speech to admonish his audience and also to console his captive lord, Bálint Török.</p>
 
 <p>In this song, Tinódi laments the entrapment of three Hungarian magnates by the Sublime Porte (the Ottoman government). Each magnate’s arrest is described along with the resulting personal misfortune for the family, even though details are sparingly given. The fate of these nobles then forms the basis for a comparison of Ottoman and Hungarian beliefs and actions. Primary themes are the guile of the Ottomans on the one hand, and on the other, the factiousness, gullibility, imprudence and lack of Christian morality of the Hungarians. The opening lament (stanzas 1-2) contrasts the dire situation for the Hungarians with Ottoman glee. As the Sublime Porte gains from Hungarian foolhardiness, several stanzas admonish Hungarian lords severely in a direct address (stanzas 3-7, 32-34). The implication is that the Ottomans are united under one sovereign and one belief system, whereas the Hungarians are constantly divided. Thus the song blames the Hungarians themselves for their country’s calamities.</p>
 
 <h2>Introduction to the Source</h2>
-<p>Cronica<a href="http://mek.oszk.hu/01100/01100/index.phtml" target="_blank"> , Sebastian Tinódi’s songbook of 1544, contains this song and twenty-one others together with his own musical compositions. It was printed in Kolozsvár (Cluj-Napoca, Romania). A few original copies are extant as facsimile editions. The source for this translation is the standardized transcription accessible on the Hungarian Electronic Library website, Tinódi Sebestyén összes költeménye: </a> <a href="http://mek.oszk.hu/01100/01100/index.phtml" target="_blank"> http://mek.oszk.hu/01100/01100/index.phtml.</a></p>
+<p>Cronica, Sebastian Tinódi’s songbook of 1544, contains this song and twenty-one others together with his own musical compositions. It was printed in Kolozsvár (Cluj-Napoca, Romania). A few original copies are extant as facsimile editions. The source for this translation is the standardized transcription accessible on the Hungarian Electronic Library website, Tinódi Sebestyén összes költeménye: http://mek.oszk.hu/01100/01100/index.phtml.</p>
 
 <h2>About this Edition</h2>
-<p>The goal has been to render the Hungarian in clear and smooth English prose. The original is composed of 50 mono- rhyming quatrains of morphemic rhymes using the popular 12 syllable line. This translation conforms to the quatrain structure while avoiding rhyme and meter. Each stanza expresses a complete thought or idea. This parallel stanza format facilitates comparison of translation to original. Punctuation follows the needs of modern English. Sometimes sentences have been split to accommodate English syntax and others have been connected. Names of well known, high-ranking persons have been anglicized; others have been modernized. All Hungarian names are given surname second. Places and persons named are capitalized and identified in the notes. Specific historical details mentioned are also explained in footnotes. Sections containing direct address are marked by syntax as the singer’s voice, and seldom lend themselves to setting off with quotation marks. Quotation marks are used only to indicate the speech of a character within the text.</p>
+<p>The goal has been to render the Hungarian in clear and smooth English prose. The original is composed of 50 monorhyming quatrains of morphemic rhymes using the popular 12 syllable line. This translation conforms to the quatrain structure while avoiding rhyme and meter. Each stanza expresses a complete thought or idea. This parallel stanza format facilitates comparison of translation to original. Punctuation follows the needs of modern English. Sometimes sentences have been split to accommodate English syntax and others have been connected. Names of well known, high-ranking persons have been anglicized; others have been modernized. All Hungarian names are given surname second. Places and persons named are capitalized and identified in the notes. Specific historical details mentioned are also explained in footnotes. Sections containing direct address are marked by syntax as the singer’s voice, and seldom lend themselves to setting off with quotation marks. Quotation marks are used only to indicate the speech of a character within the text.</p>
+
+
 <h2>Further Reading</h2>
-
-
-<p>Czigány, Lóránt, <i> Oxford History of Hungarian Literature from the Earliest Times to the Mid-1970s</i> . Oxford, Clarendon, 1984.</p>
-<p><a href="http://mek.niif.hu/02000/02042/html/index.html" target="_blank"> pp. 40–43. </a> <a href="http://mek.niif.hu/02000/02042/html/index.html" target="_blank"> http://mek.niif.hu/02000/02042/html/index.html</a></p>
-<p>Short, reliable introduction to Tinódi. Available electronically.</li></ul></p>
-<p>Dobozy, Maria “Two Cultural Perspectives on the Battle of Lippa, Transylvania, 1551.” <i> Fifteenth Century Studies</i> . 2013. Vol. 38, pp. 21–39.</p>
+<p>Czigány, Lóránt, <i> Oxford History of Hungarian Literature from the Earliest Times to the Mid-1970s</i>. Oxford, Clarendon, 1984. pp. 40–43. http://mek.niif.hu/02000/02042/html/index.html</p>
+<ul>
+<li>Short, reliable introduction to Tinódi. Available electronically.</li>
+</ul>
+<p>Dobozy, Maria “Two Cultural Perspectives on the Battle of Lippa, Transylvania, 1551.” <i> Fifteenth Century Studies</i>. 2013. Vol. 38, pp. 21–39.</p>
 <ul>
 <li>Discusses the influence of German event poetry on Tinódi and the historical accuracy of the two poems.</li>
-<li>“Sebestyén Tinódi Lantos.” <i> Christian-Muslim Relations 1500 - 1900</i> <a href="http://dx.doi.org/10.1163/2451-9537_cmrii_COM_26618" target="_blank"> . Ed. David Thomas. Brill, 2015. </a> <a href="http://dx.doi.org/10.1163/2451-9537_cmrii_COM_26618" target="_blank"> http://dx.doi.org/10.1163/2451-9537_cmrii_COM_26618</a></li>
 </ul>
+<p>“Sebestyén Tinódi Lantos.” <i> Christian-Muslim Relations 1500 - 1900</i>. Ed. David Thomas. Brill, 2015. http://dx.doi.org/10.1163/2451-9537_cmrii_COM_26618</p>
 <p>Seláf, Levente, “Between Lyric and Epic: The Great Turkish War in German, Italian and Hungarian Ereignisliedern,” Controversial Poetry, 1400–1635. Ed. Judith Keßler, Ursula Kundert, Johan Oosterman. Brill, 2020. pp. 61–86.</p>
 <ul>
-<li></li>
+<li>Analyses genre and function of Italian, German, and Hungarian poetry that deals with religious, political and military conflicts.</li>
 </ul>
-<p>Analyses genre and function of Italian, German, and Hungarian poetry that deals with religious, political and military conflicts.</p>
-<h1>The Captivity of Peter Perény, István Majlád and Bálint Török Príni Péternek, Majlát Istvánnak és Terek Bálintnak fogságokról</h1>
+
+<h1>The Captivity of Peter Perény, István Majlád and Bálint Török | Príni Péternek, Majlát Istvánnak és Terek Bálintnak fogságokról</h1>
 
 <p>Sírva veszíköl mast szegín Magyarország, Mert tőle távozék hangosság, vigaság, Belőle kikele sok fénös gazdagság,</p>
 <p>És fogságban esék egynéhány uraság.</p>
@@ -119,7 +120,7 @@ imagesource: "Detail from \"Buda, Vulgo Ofen, Prima et Regia Ungarici\" (1572). 
 
 <p>Édös beszédökkel őt hívattya vala, De az Majlát néki ott nem hihet vala. Az moldvai vajda: Pétör vajda vala, Ki az Bali békkel akkoron ott vala.</p>
 <p>At one point he captures in his treacherous net</p>
-<p><em>30</em> The stalwart Peter Perényi whom he has taken away<em>1</em> . The sultan’s promises and oaths are now forgotten And the noble lord is thrown into prison<em>2</em> .</p>
+<p><em>30</em> The stalwart Peter Perényi whom he has taken away<em>1</em>. The sultan’s promises and oaths are now forgotten And the noble lord is thrown into prison<em>2</em>.</p>
 
 <p>Perényi would ransom himself with his great fortune But this wealth now avails him little.</p>
 <p>35 He regains freedom only by giving his son in exchange. There was no choice but to have him sent to the Porte.</p>
@@ -163,16 +164,16 @@ imagesource: "Detail from \"Buda, Vulgo Ofen, Prima et Regia Ungarici\" (1572). 
 <p>Ez lőn Terek Bálint, ki jó vitéz vala, Kinek terek császár sok hitöt ád vala, Az basák, szancsákok hitöt adtak vala, Szép ajándékokval őt elcsalták vala.</p>
 
 <p>Terek Bálint, kiknek oly igen hitt vala, Hívségét hercegnek úgy mutattya vala, Mindeneknél feljebb némöttel vív vala, Teste szakadását ő nem szánja vala.</p>
-<p>They think about Majlád, but say little. They engage three poor boyars<em>6</em> , Dress them in gold-trimmed clothing</p>
+<p>They think about Majlád, but say little. They engage three poor boyars<em>6</em>, Dress them in gold-trimmed clothing</p>
 <p>Set rich-looking turbans on their heads.</p>
 
 <p>65 To Majlád they soon send the message,</p>
 <p>If he does not believe in the Sultan’s promise,</p>
-<p>Then three ranking voivodes will be sent to his lordship<em>7</em> , If he would simply consent to a meeting.</p>
+<p>Then three ranking voivodes will be sent to his lordship<em>7</em>, If he would simply consent to a meeting.</p>
 
 <p>The three are well built, their clothes are sumptuous.</p>
 <p>70 For this reason Majlád is not suspicious. He then goes out to speak with them and</p>
-<p>Once he is outside, he encounters a cruel surprise<em>8</em> .</p>
+<p>Once he is outside, he encounters a cruel surprise<em>8</em>.</p>
 
 <p>They take him captive to the Turkish Sultan.</p>
 <p>His wife is left with the three unfortunate boyars.</p>
@@ -189,7 +190,7 @@ imagesource: "Detail from \"Buda, Vulgo Ofen, Prima et Regia Ungarici\" (1572). 
 <p>Together with precious gifts they lured him away.</p>
 
 <p>Bálint Török who has such true devotion</p>
-<p><em>90</em> And demonstrated his loyalty to the Crown Prince<em>10</em> Above all, as he battled against the Germans Paying no heed to his own life<em>11</em> .</p>
+<p><em>90</em> And demonstrated his loyalty to the Crown Prince<em>10</em> Above all, as he battled against the Germans Paying no heed to his own life<em>11</em>.</p>
 
 <p>Intése nem teccék az Príni Pétörnek, Ki megmondta vala ez nemes vitéznek</p>
 <p>Minden csalárdságát az császár hitinek, De ő bátorsággal álla vitésségnek.</p>
@@ -254,7 +255,7 @@ imagesource: "Detail from \"Buda, Vulgo Ofen, Prima et Regia Ungarici\" (1572). 
 
 
 <p>Don’t hold lengthy councils, I beseech you</p>
-<p>If you want to live between these two rivers<em>12</em> .</p>
+<p>If you want to live between these two rivers<em>12</em>.</p>
 
 
 <p>Mert ha csak hallgattok, szömben ti nem vívtok, Félök, hogy sokáig itt nem uralkottok.</p>
@@ -267,7 +268,7 @@ imagesource: "Detail from \"Buda, Vulgo Ofen, Prima et Regia Ungarici\" (1572). 
 
 
 <p>In the year one thousand, five hundred and forty-two,</p>
-<p>This song was composed on St. George’s Day in Baranya<em>13</em> . His name is stated in the acrostics<em>14</em></p>
+<p>This song was composed on St. George’s Day in Baranya<em>13</em>. His name is stated in the acrostics<em>14</em></p>
 
 
 <p>Ez urakról való megemlékösztében.</p>
@@ -276,8 +277,7 @@ imagesource: "Detail from \"Buda, Vulgo Ofen, Prima et Regia Ungarici\" (1572). 
 <p>In remembrance of these magnates.</p>
 
 
-<p>Critical Notes</p>
-
+<h2>Critical Notes</h2>
 
 <ol id="l4">
 <li>
@@ -285,7 +285,7 @@ imagesource: "Detail from \"Buda, Vulgo Ofen, Prima et Regia Ungarici\" (1572). 
 </li>
 <li>
 <p>Perényi was imprisoned twice by the Porte, in 1529, and 1532. The first time he was ransomed. Tinódi refers here to the second when the Porte required that he send his son to Constantinople in exchange. See</p>
-<p>Ferenc Szakály. <i> Tinódi Sebesytén Kronika</i> . Budapest: Europa Kiado, 1984, p. 571.</p>
+<p>Ferenc Szakály. <i> Tinódi Sebesytén Kronika</i>. Budapest: Europa Kiado, 1984, p. 571.</p>
 </li>
 <li>
 <p>Kucsuk is probably Malkoçoğlu Bali Bey (1495–1555) who became the governor of Buda eyalet Feb 1542 - May 1543.</p>
