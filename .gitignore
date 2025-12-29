@@ -1,3 +1,4 @@
 node_modules/
 dist/
 _site_11ty/
+.DS_Store
