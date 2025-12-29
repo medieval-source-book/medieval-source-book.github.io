@@ -56,7 +56,7 @@ imagesource: "Detail from 宋夏珪溪山清遠(Pavilion) 卷, 夏珪, National 
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 </ul>
 
-<h1>To the tune “As If in a Dream”—“Last night the rain was sparse” | 如夢令 · 昨夜雨疏風驟</h1>
+<h2>To the tune “As If in a Dream”—“Last night the rain was sparse” | 如夢令 · 昨夜雨疏風驟</h2>
 
 <p>如夢令</p>
 

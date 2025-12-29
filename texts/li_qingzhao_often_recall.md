@@ -56,7 +56,7 @@ imagesource: "Detail from 宋徽宗池塘秋晚圖(Flying Bird) 卷, 赵佶, Nat
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 </ul>
 
-<h1>To the tune “As if in a Dream”—“I often recall the sunset by Xiting” | 如夢令 · 常記溪亭日暮</h1>
+<h2>To the tune “As if in a Dream”—“I often recall the sunset by Xiting” | 如夢令 · 常記溪亭日暮</h2>
 
 <p>如夢令</p>
 

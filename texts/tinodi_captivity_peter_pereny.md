@@ -51,7 +51,7 @@ imagesource: "Detail from \"Buda, Vulgo Ofen, Prima et Regia Ungarici\" (1572). 
 <li>Analyses genre and function of Italian, German, and Hungarian poetry that deals with religious, political and military conflicts.</li>
 </ul>
 
-<h1>The Captivity of Peter Perény, István Majlád and Bálint Török | Príni Péternek, Majlát Istvánnak és Terek Bálintnak fogságokról</h1>
+<h2>The Captivity of Peter Perény, István Majlád and Bálint Török | Príni Péternek, Majlát Istvánnak és Terek Bálintnak fogságokról</h2>
 
 <p>Sírva veszíköl mast szegín Magyarország, </p>
 <p>Mert tőle távozék hangosság, vigaság, </p>

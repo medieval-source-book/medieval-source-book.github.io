@@ -79,7 +79,7 @@ imagesource: "British Library MS Additional 10294, f. 89 [Public Domain]"
 <p>Russell, Paul, ed. and trans. 2005. <i> Vita Griffini Filii Conani</i>. Cardiff: University of Wales Press.</p>
 <p>Sutton, John William. 2001. “The Tomb of King Arthur by Gerald of Wales.” <i> The Camelot Project</i>. Rochester, NY: Robbins Library. http://d.lib.rochester.edu/camelot/text/gerald-of-wales-arthurs-tomb; accessed February 4, 2021.</p>
 
-<h1>The Burial of Arthur | Claddedigaeth Arthur</h1>
+<h2>The Burial of Arthur | Claddedigaeth Arthur</h2>
 
 <p>Llyma hyspysr6yd yn y llyfreu ac eglurach noc [a dyweit y] Brut y 6rth diwed Arthur vrenhin, ac adnavot g6irioned am chwedleu a dychmygyon geua6c. Adnabydet y darllea6dyr vot yma deu gabidul gwedy eu hyspyssu o’n llyfyr ni, yr h6nn a elwir Drych yr Eglwys.</p>
 

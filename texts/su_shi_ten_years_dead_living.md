@@ -55,7 +55,7 @@ imagesource: "“Detail from 宋夏珪溪山清遠卷 (mountain)”, 夏珪, Nat
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 </ul>
 
-<h1>To the tune “River God”—Recording a Dream on the Night of the Twentieth of the First Month of 1075 CE | 江神子 · 乙卯正月二十日夜記夢</h1>
+<h2>To the tune “River God”—Recording a Dream on the Night of the Twentieth of the First Month of 1075 CE | 江神子 · 乙卯正月二十日夜記夢</h2>
 
 <p>江神子</p>
 <p>乙卯正月二十日夜記夢</p>

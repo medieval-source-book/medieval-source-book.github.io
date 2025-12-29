@@ -56,7 +56,7 @@ imagesource: "Detail from 宋人布畫山水(Mountain and Water) 軸, Anonymous,
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 </ul>
 
-<h1>To the tune “The Fisherman is Proud”—“The sky merged the sea of clouds with the mist of dawn” | 漁家傲 · 天接雲濤連曉霧</h1>
+<h2>To the tune “The Fisherman is Proud”—“The sky merged the sea of clouds with the mist of dawn” | 漁家傲 · 天接雲濤連曉霧</h2>
 
 <p>漁家傲</p>
 

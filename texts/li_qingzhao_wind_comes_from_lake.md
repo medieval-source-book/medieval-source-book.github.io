@@ -55,7 +55,7 @@ imagesource: "Detail from 宋夏珪溪山清遠(Open Water) 卷, National Palace
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 </ul>
 
-<h1>To the tune “Yearning for the Prince”—“Wind comes from the lake and the waves are misty and grand” | 怨王孫 · 湖上風來波浩渺</h1>
+<h2>To the tune “Yearning for the Prince”—“Wind comes from the lake and the waves are misty and grand” | 怨王孫 · 湖上風來波浩渺</h2>
 
 <p>怨王孫</p>
 

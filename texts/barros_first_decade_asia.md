@@ -45,7 +45,7 @@ imagesource: "Detail from the title page of _Asia de Joam de Barros / dos fectos
 <p>The source text for this edition can be viewed online at https://digital-archives.sophia.ac.jp/laures-kirishitan-bunko/view/ kirishitan_bunko/JL-1552-KB2-117-48. For the convenience of the reader, the Portuguese text has been segmented into sentences (in its original form, the paragraphs are often very lengthy). The segmentation of the English translation follows the Portuguese text.</p>
 
 
-<h1>First Decade of Asia, Chapter 1 | Primeira Década da Asia, Capitulo I</h1>
+<h2>First Decade of Asia, Chapter 1 | Primeira Década da Asia, Capitulo I</h2>
 
 <h2>Asia de Ioam de Barros: Dos Feitos que os portugueses fizeram no descobrimento &amp; conquista dos mares &amp; terras do Oriente</h2>
 

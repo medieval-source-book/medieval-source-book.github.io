@@ -69,7 +69,7 @@ imagesource: "Detail from \"Reeds and Geese\", Tesshū Tokusai, Dated 11th Month
 <li>Full text of the Fūga Wakashū and commentary. In Japanese.</li>
 </ul>
 
-<h1>From the 5th Book of Love. Poem 1384. | <em>戀歌五、1384</em></h1>
+<h2>From the 5th Book of Love. Poem 1384. | <em>戀歌五、1384</em></h2>
 
 <p>戀の御歌の中に</p>
 

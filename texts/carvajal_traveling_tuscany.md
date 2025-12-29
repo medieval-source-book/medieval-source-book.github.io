@@ -22,18 +22,20 @@ image: /assets/img/text/carvajal_traveling_tuscany.jpg
 thumb: /assets/img/text/carvajal_traveling_tuscany-thumb.jpg
 imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.153r [Public domain]"
 ---
-<h1>Introduction to the Text</h1>
+
+<h2>Introduction to the Text</h2>
+
 <p>This poem is a <i> serranilla</i>, an evolution of the Provençal <i> pastorela</i>. Written in short verse (<i> arte menor</i>), <i> serranillas </i> narrate a courtly poet’s encounter with a mountain woman. This is one of six compositions in the genre by fifteenth-century author Carvajal (or Carvajales). Very little is known about Carvajal’s life. His poetry is linked to the Neapolitan court of Alfonso the Magnanimous in Naples (r. 1442-1458) and to that of Alfonso’s son Ferrante (r. 1459-1494). In addition to his famous <i> serranillas</i>, Carvajal is also known for his literary epistles and ballads.</p>
 
 <p>In this poem, the poet subverts some of the genre’s conventions by meeting not a rustic woman but a beautiful and courteous noble lady in a context in which he would have normally met a <i> serrana</i>. The two of them strike up a conversation as they walk together. The end of the composition reveals that the encounter was a dream vision.</p>
 
-<h1>Introduction to the Source</h1>
+<h2>Introduction to the Source</h2>
 <p>The poem is copied in Madrid, Biblioteca Nacional de España, VITR/17/7, fol. 136v-137r. This manuscript is a copy of the poetry collection known as the <i> Cancionero de Estúñiga</i> <a href="http://bdh-rd.bne.es/view-" target="_blank">, ca. 1465. It has been digitized: </a> http://bdh-rd.bne.es/viewer.vm?id=0000051837. It contains a compilation of mostly Castilian poems, including ballads, as well as a few Italian compositions. Their authors accompanied the King of Aragon, Alfonso the Magnanimous, in Naples in the mid-fifteenth century.</p>
 
-<h1>About this Edition</h1>
+<h2>About this Edition</h2>
 <p>The text has been punctuated. Word separation and capitalization follow modern usage. Elisions have been marked with an apostrophe.</p>
 
-<h1>Further Reading</h1>
+<h2>Further Reading</h2>
 <p>Carvajal<i>. Poesie. </i> Edited by Emma Scoles. Edizioni dell’Ateneo, 1967.</p>
 <ul>
 <li>Critical edition of Carvajal’s poetry.</li></ul>
@@ -46,7 +48,7 @@ imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.153r [Publ
 <li>Study of the <em>serranilla</em> genre, with attention to Carvajal’s poems in chapter 5.</li>
 </ul>
 
-<h1>Traveling through Tuscany | Passando por la Toscana</h1>
+<h2>Traveling through Tuscany | Passando por la Toscana</h2>
 <p>Passando por la Toscana,</p>
 <p>entre Sena et Florencia,</p>
 <p>vi dama gentil galana</p>

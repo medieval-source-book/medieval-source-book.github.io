@@ -60,7 +60,7 @@ imagesource: "Cuthbert with the elderly Hildmaer and his wife. London, British L
 <li>This is apparently an earlier translation of the <em>Facetiae</em> (I was not, however, able to consult this book for the present translation).</li>
 </ul>
 
-<h1>Joke 273: The obscene comparison of the teeth that threatened to fall out | Facetia CCLXXIII: De dentibus casum minantibus similitudo obscena</h1>
+<h2>Joke 273: The obscene comparison of the teeth that threatened to fall out | Facetia CCLXXIII: De dentibus casum minantibus similitudo obscena</h2>
 
 <p>Facetia CCLXXIII</p>
 

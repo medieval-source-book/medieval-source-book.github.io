@@ -56,7 +56,7 @@ imagesource: "Detail from 元人畫梅花仕女(Woman by Plum Blossom) 軸, Anon
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 </ul>
 
-<h1>To the tune “Always Having Fun”—“The setting sun is like melted gold” | 永遇樂 · 落日鎔金</h1>
+<h2>To the tune “Always Having Fun”—“The setting sun is like melted gold” | 永遇樂 · 落日鎔金</h2>
 
 <p>永遇樂</p>
 

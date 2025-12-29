@@ -60,7 +60,7 @@ imagesource: "Andrea del Castagno, Dante from the Cycle of Famous Men and Women,
 <li>This is apparently an earlier translation of the <em>Facetiae</em> (I was not, however, able to consult this book for the present translation).</li>
 </ul>
 
-<h1>Joke 58: A witty reply from the same poet | Facetia LVIII: Eiusdem poete faceta responsio</h1>
+<h2>Joke 58: A witty reply from the same poet | Facetia LVIII: Eiusdem poete faceta responsio</h2>
 <p>Facetia LVIII</p>
 
 <p>Huic ipsi inter seniorem aliquando iunioremque Canes prandenti, cum ministri utriusque, dedita opera, ante pedes Dantis, ad eum lacessendum, ossa occulte subiecissent, remota mensa, versi omnes in solum Dantem, mirabantur, cur ante ipsum solummodo ossa conspicerentur. Tum ille, ut erat ad respondendum promptus: ‘Minime,’ inquit, ‘mirum, si Canes ossa sua comederunt: ego autem non sum Canis.’</p>

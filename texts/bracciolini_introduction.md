@@ -61,7 +61,7 @@ imagesource: "Poggio Bracciolini, detail from Vatican Urb.Lat.224 f.68r [Public 
 
 </ul>
 
-<h1>Introduction: So that rivals do not slander this collection of jokes for its inelegance | Ne Aemuli Carpant Facetiarum Opus, Propter Eloquentiae Tenuitatem</h1>
+<h2>Introduction: So that rivals do not slander this collection of jokes for its inelegance | Ne Aemuli Carpant Facetiarum Opus, Propter Eloquentiae Tenuitatem</h2>
 
 <p>Multos futuros esse arbitror qui has nostras confabulationes, tum ut res leves et viro gravi indignas reprehendant, tum in eis ornatiorem dicendi modum et maiorem eloquentiam requirant. Quibus ego si respondeam, legisse me nostros Maiores, prudentissimos ac doctissimos viros, facetiis, iocis et fabulis delectatos, non reprehensionem, sed laudem meruisse, satis mihi factum ad illorum existimationem putabo.</p>
 

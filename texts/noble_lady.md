@@ -57,7 +57,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <li>Very influential book examining how Inca Garcilaso uses his position as an authoritative source of knowledge on Quechua language and culture in the Comentarios Reales.</li>
 </ul>
 
-<h1>“Noble Lady” | “Sumaq Ñusta”</h1>
+<h2>“Noble Lady” | “Sumaq Ñusta”</h2>
 
 <p>Sumaq Ñusta<sup>1</sup></p>
 <p>Turallaykim<sup>2</sup></p>

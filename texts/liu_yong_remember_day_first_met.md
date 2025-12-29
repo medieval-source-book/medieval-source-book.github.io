@@ -59,7 +59,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 </ul>
 
-<h1>To the tune “Joys of Day and Night”—“I remember the day we first met in the bedroom” | 晝夜樂 · 洞房記得初相遇</h1>
+<h2>To the tune “Joys of Day and Night”—“I remember the day we first met in the bedroom” | 晝夜樂 · 洞房記得初相遇</h2>
 
 <p>晝夜樂</p>
 

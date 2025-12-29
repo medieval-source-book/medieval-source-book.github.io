@@ -39,7 +39,7 @@ imagesource: "Oxford, St John’s College, MS 28, fol. 6v [By permission of the 
 <p>Godden, Malcolm. “Prologues and Epilogues in the Old English Pastoral Care, and Their Carolingian Models.” <i> Journal of English and Germanic Philology</i>, vol. 110, no. 4, 2011, pp. 441-73.</p>
 <p>St. Gregory the Great. <i> The Book of Pastoral Rule</i>. Translated by George Demacopoulos. St. Vladimir’s Seminary Press, 2007.</p>
 <p>Neil, Bronwen and Matthew Dal Santo, editors. <i> A Companion to Gregory the Great</i>. Brill, 2013.</p>
-<h1>On the Origin of the Pastoral Care | De origine Regulae pastoralis</h1>
+<h2>On the Origin of the Pastoral Care | De origine Regulae pastoralis</h2>
 
 <p>Gregorius urbis romę æpiscopus hunc librum pastoralis curę scripsit pro excusatione episcoporum eo quod pelagius illius nutritor et romanę æcclesię princeps eum rogabat. ut post se episcopi locum tenuisset. et in gallia lugdunensi conscripsit huius libri incepta. et in gallia belgica consummata est id est in ciuitate que dicitur brigalis quia gregorius principatum uitare uolens in occidentales plagas gallorum fugerat. et alii putant quia imperatoris de gothis vel insani regis romanorum tempore hic liber conscriptus est in quo narrat gregorius opus esse difficile principatum æcclesię; Sanctus gregorius. annis. xiii. et. mensibus. x. et diebus. ix. rexit æcclesiam; Gregorius grece uigil latine. et a uerbo gregorio. iii. coniugationes. quia inuenitur gregorite id est uigilate.</p>
 

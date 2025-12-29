@@ -60,7 +60,7 @@ imagesource: "The Temperate and the Intemperate, Master of the Dresden Prayer Bo
 <li>This is apparently an earlier translation of the <em>Facetiae</em> (I was not, however, able to consult this book for the present translation).</li>
 </ul>
 
-<h1>Joke 13: The saying of the cook of the famous duke of Milan | Facetia XIII: Dictum Coci Illustrissimo Duci Mediolanensi Habitum</h1>
+<h2>Joke 13: The saying of the cook of the famous duke of Milan | Facetia XIII: Dictum Coci Illustrissimo Duci Mediolanensi Habitum</h2>
 
 <p>Facetia XIII</p>
 

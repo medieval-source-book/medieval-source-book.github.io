@@ -54,7 +54,7 @@ imagesource: "“Detail from 宋黃居寀山鷓棘雀圖軸 (birds on branches)�
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 </ul>
 
-<h1>To the tune “Partridge in the Sky”—“Holding the fragrant paper in my hand” | 鷓鴣天 · 手撚香箋憶小蓮</h1>
+<h2>To the tune “Partridge in the Sky”—“Holding the fragrant paper in my hand” | 鷓鴣天 · 手撚香箋憶小蓮</h2>
 
 <p>鷓鴣天</p>
 

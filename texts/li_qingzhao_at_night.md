@@ -57,7 +57,7 @@ imagesource: "Detail from 宋人花王圖(Flower) 軸, Anonymous, National Palac
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 </ul>
 
-<h1>To the tune “Revealing Inmost Feelings”—”At night, I was drunk and did not take off my makeup” | 訴衷情· 夜來沉醉卸妝遲</h1>
+<h2>To the tune “Revealing Inmost Feelings”—”At night, I was drunk and did not take off my makeup” | 訴衷情· 夜來沉醉卸妝遲</h2>
 
 <p>訴衷情</p>
 

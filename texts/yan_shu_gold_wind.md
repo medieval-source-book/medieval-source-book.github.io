@@ -50,7 +50,7 @@ imagesource: "Detail from 宋郭忠恕山水圖(Narrow Road)軸, 郭忠恕, Nati
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 </ul>
 
-<h1>To the tune “Qingping Music”—“The gold wind is gentle and tender” |  清平樂 · 金風細細</h1>
+<h2>To the tune “Qingping Music”—“The gold wind is gentle and tender” |  清平樂 · 金風細細</h2>
 
 <p>清平樂</p>
 

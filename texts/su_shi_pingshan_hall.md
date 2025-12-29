@@ -54,7 +54,7 @@ imagesource: "“Detail from 宋人拜月圖軸 (house)”, Anonymous, National 
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 </ul>
 
-<h1>To the tune “The Moon Over the West River”—Pingshan Hall | 西江月 · 平山堂</h1>
+<h2>To the tune “The Moon Over the West River”—Pingshan Hall | 西江月 · 平山堂</h2>
 
 <p>西江月</p>
 <p>平山堂</p>

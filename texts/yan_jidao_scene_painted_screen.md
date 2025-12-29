@@ -54,7 +54,7 @@ imagesource: "“Detail from 宋趙伯駒瑤島仙真卷 (immortal island)”, �
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 </ul>
 
-<h1>To the tune “Making the Spring Stay”—“The scene on the painted screen resembles the place” | 留春令 · 畫屏天畔</h1>
+<h2>To the tune “Making the Spring Stay”—“The scene on the painted screen resembles the place” | 留春令 · 畫屏天畔</h2>
 
 <p>留春令</p>
 

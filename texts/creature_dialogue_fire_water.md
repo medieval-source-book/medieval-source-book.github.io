@@ -57,7 +57,7 @@ imagesource: "Bibliothèque nationale de France, département Arsenal, RESERVE F
 <li>Discusses the front matter in early manuscripts of the Latin Dialogus, which contained both a list of titles and an alphabetical index of moral lessons to facilitate citation.</li>
 </ul>
 
-<h1>Concerning Fire and Water | De igne et aqua</h1>
+<h2>Concerning Fire and Water | De igne et aqua</h2>
 
 <p>De igne et aqua, dial. 9.</p>
 

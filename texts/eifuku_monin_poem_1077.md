@@ -69,7 +69,7 @@ imagesource: "Detail from Orchids, Bamboo, Briars, and Rocks, Tesshū Tokusai, M
 <li>Full text of the Fūga Wakashū and commentary. In Japanese.</li>
 </ul>
 
-<h1>From the 2nd Book of Love. Poem 1077. | 戀歌二、1077</h1>
+<h2>From the 2nd Book of Love. Poem 1077. | 戀歌二、1077</h2>
 
 <p>待戀の心を</p>
 

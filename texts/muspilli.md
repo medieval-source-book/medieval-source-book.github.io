@@ -43,7 +43,7 @@ imagesource: "Detail from Munich, Bayerische Staatbibliothek, Clm 14098, f.120r 
 <p>(all published in the <em>Global Medieval Sourcebook</em>).</p>
 
 
-<h1>Muspilli</h1>
+<h2>Muspilli</h2>
 
 <p>...sin tac piqueme, daz er touuan scal.</p>
 <p>uuanta sar so sih diu sela in den sind arhevit</p>

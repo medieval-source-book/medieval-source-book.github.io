@@ -54,7 +54,7 @@ imagesource: "Detail from 宋人畫南唐耿先生煉雪圖軸 (building)\", Ano
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 </ul>
 
-<h1>To the tune “Picking Mulberries”—“Since we parted, I often recall the time in the western building” | 採桑子 · 別來長憶西樓事</h1>
+<h2>To the tune “Picking Mulberries”—“Since we parted, I often recall the time in the western building” | 採桑子 · 別來長憶西樓事</h2>
 
 <p>採桑子</p>
 

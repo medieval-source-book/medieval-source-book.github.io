@@ -58,7 +58,7 @@ thumb: /assets/img/text/liu_yong-thumb.jpg
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 </ul>
 
-<h1>To the tune “Like Fish and Water”—“Dallying in the capital” | 如魚水 · 帝里疏散</h1>
+<h2>To the tune “Like Fish and Water”—“Dallying in the capital” | 如魚水 · 帝里疏散</h2>
 
 <p>如魚水</p>
 

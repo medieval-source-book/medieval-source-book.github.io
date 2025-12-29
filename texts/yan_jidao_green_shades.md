@@ -55,7 +55,7 @@ imagesource: "Detail from 宋法常寫生卷 (flower)\", 法常, National Palace
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 </ul>
 
-<h1>To the tune “Six Beats”—“Green shades of the trees mark the end of spring” | 六麼令 · 綠陰春盡</h1>
+<h2>To the tune “Six Beats”—“Green shades of the trees mark the end of spring” | 六麼令 · 綠陰春盡</h2>
 
 <p>六麼令</p>
 

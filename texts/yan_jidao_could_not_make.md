@@ -56,7 +56,7 @@ imagesource: "“Detail from 宋人江帆山市卷 (boat)”, Anonymous, Nationa
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 </ul>
 
-<h1>To the tune “Qingping Music”—“I could not make him stay” | 清平樂 · 留人不住</h1>
+<h2>To the tune “Qingping Music”—“I could not make him stay” | 清平樂 · 留人不住</h2>
 
 <p>清平樂</p>
 

@@ -56,7 +56,7 @@ imagesource: "Detail from 宋徽宗池塘秋晚圖 (Lotus)卷, 赵佶, National 
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 </ul>
 
-<h1>To the tune “A Single Cutting of Plum Blossom”—“The red lotus fragrance still lingered” | 一剪梅 · 紅藕香殘玉簟秋</h1>
+<h2>To the tune “A Single Cutting of Plum Blossom”—“The red lotus fragrance still lingered” | 一剪梅 · 紅藕香殘玉簟秋</h2>
 
 <p>一剪梅</p>
 

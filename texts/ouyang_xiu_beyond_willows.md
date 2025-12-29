@@ -52,7 +52,7 @@ imagesource: "Detail from 宋元集繪 冊 宋緙絲翠羽秋荷(Lotuses) , Anon
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 </ul>
 
-<h1>To the tune “Immortal by the River”—“Beyond the willows there is light thunder” | 臨江仙 · 柳外輕雷池上雨</h1>
+<h2>To the tune “Immortal by the River”—“Beyond the willows there is light thunder” | 臨江仙 · 柳外輕雷池上雨</h2>
 
 <p>臨江仙</p>
 

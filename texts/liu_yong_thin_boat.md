@@ -59,7 +59,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 </ul>
 
-<h1>To the tune “The Lost Soul”—“On a thin boat, the light sail is furled” | 迷神引 · 一葉扁舟輕帆卷</h1>
+<h2>To the tune “The Lost Soul”—“On a thin boat, the light sail is furled” | 迷神引 · 一葉扁舟輕帆卷</h2>
 
 <p>迷神引</p>
 

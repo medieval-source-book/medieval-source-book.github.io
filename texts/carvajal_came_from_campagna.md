@@ -49,7 +49,7 @@ imagesource: "Madrid, Biblioteca Nacional de España, VITR/17/7, fol. 154r [Publ
 <li>Study of the <em>serranilla</em> genre, with attention to Carvajal’s poems in chapter 5.</li>
 </ul>
 
-<h1>As I came from Campagna | Veniendo de la Campanna</h1>
+<h2>As I came from Campagna | Veniendo de la Campanna</h2>
 <p>Veniendo de la Campanna,</p>
 <p>y’el sol se retraya,</p>
 <p>vi pastora muy loçana</p>
@@ -147,6 +147,6 @@ imagesource: "Madrid, Biblioteca Nacional de España, VITR/17/7, fol. 154r [Publ
 <p>And although she was a peasant</p>
 <p>She looked like a noblewoman.</p>
 
-<h1>Critical Notes</h1>
+<h2>Critical Notes</h2>
 
 <p>1 This is a correction of yeda.</p>

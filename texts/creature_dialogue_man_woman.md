@@ -57,7 +57,7 @@ imagesource: "Bibliothèque nationale de France, département Arsenal, RESERVE F
 <li>Discusses the front matter in early manuscripts of the Latin Dialogus, which contained both a list of titles and an alphabetical index of moral lessons to facilitate citation.</li>
 </ul>
 
-<h1>Concerning Man and Woman | De homine et muliere</h1>
+<h2>Concerning Man and Woman | De homine et muliere</h2>
 
 <p>De homine et muliere</p>
 

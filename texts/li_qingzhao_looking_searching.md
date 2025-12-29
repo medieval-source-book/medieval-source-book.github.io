@@ -56,7 +56,7 @@ imagesource: "Detail from 宋朱銳春社醉歸圖(Drunk in the Trip) 卷, 朱�
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 </ul>
 
-<h1>To the tune “Note after Note, Long Song”—“Looking and searching, looking and searching” | <em>聲聲慢 · 尋尋覓覓</em></h1>
+<h2>To the tune “Note after Note, Long Song”—“Looking and searching, looking and searching” | <em>聲聲慢 · 尋尋覓覓</em></h2>
 
 <p>聲聲慢</p>
 

@@ -51,7 +51,7 @@ imagesource: "Detail from New York, Metropolitan Museum, Manuscript Illumination
 <li>This paper focuses on the performative aspect of childbirth prayers and explores the uses of chanting to aid childbirth.</li>
 </ul>
 
-<h1>Junius Peperit Charm | “Maria virgo peperit Christum”</h1>
+<h2>Junius Peperit Charm | “Maria virgo peperit Christum”</h2>
 
 <p>Maria virgo peperit Christum. Elizabet sterelis peperit Johannem Baptistam. Adiuro te infans si es masculus aut femina per patrem et filium et spiritum sanctum ut exeas et recedas ultra ei non noceas neque insipientiam illi facias amen. Videns Dominus flentes sorores Lazari ad monumentum lacrimatus est coram iudeis et clamabat Lazare, veni foras et prodiit ligatis manibus et pedibus qui fuerat quatriduanus mortuus.</p>
 

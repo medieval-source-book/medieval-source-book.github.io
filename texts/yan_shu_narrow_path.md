@@ -50,7 +50,7 @@ imagesource: "Detail from 宋劉松年山水(Red Leaves and Houses)卷, 劉松�
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 </ul>
 
-<h1>To the tune “Treading on the Sedges”—“On the narrow path, red flowers are few now” | 踏莎行 · 小徑紅稀</h1>
+<h2>To the tune “Treading on the Sedges”—“On the narrow path, red flowers are few now” | 踏莎行 · 小徑紅稀</h2>
 
 <p>踏莎行</p>
 

@@ -60,7 +60,7 @@ imagesource: "Barber from The Courtly Household Cards. Kunsthistorisches Museum 
 <li>This is apparently an earlier translation of the <em>Facetiae</em> (I was not, however, able to consult this book for the present translation).</li>
 </ul>
 
-<h1>Joke 114: About the prostitute who complained about the barber’s evil deed | Facetia CXIV: De Meretrice Conquerente De Tonsoris Maleficio</h1>
+<h2>Joke 114: About the prostitute who complained about the barber’s evil deed | Facetia CXIV: De Meretrice Conquerente De Tonsoris Maleficio</h2>
 
 <p>Facetia CXIV</p>
 

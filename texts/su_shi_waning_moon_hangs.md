@@ -54,7 +54,7 @@ imagesource: "“Detail from 宋崔白蘆雁軸 (wild goose)”, 崔白, Nationa
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 </ul>
 
-<h1>To the tune “Fortune Teller”—“The waning moon hangs on the thinning sycamore tree” | 卜算子 · 缺月挂疏桐</h1>
+<h2>To the tune “Fortune Teller”—“The waning moon hangs on the thinning sycamore tree” | 卜算子 · 缺月挂疏桐</h2>
 
 <p>西江月 梅花</p>
 

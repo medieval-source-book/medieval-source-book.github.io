@@ -51,7 +51,7 @@ imagesource: "Detail from 宋人洛陽耆英會圖(Wise Men Talking Together) �
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 </ul>
 
-<h1>To the tune “Waves Scour the Sand”—“I hold up the wine and toast the eastern wind” | 浪淘沙· 把酒祝東風</h1>
+<h2>To the tune “Waves Scour the Sand”—“I hold up the wine and toast the eastern wind” | 浪淘沙· 把酒祝東風</h2>
 
 <p>浪淘沙</p>
 

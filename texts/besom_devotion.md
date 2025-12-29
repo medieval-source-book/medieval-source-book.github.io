@@ -57,7 +57,7 @@ imagesource: ""
 <li>Early twentieth-century edition and translation of a variety of Irish litanies.</li>
 </ul>
 
-<h1>The Besom of Devotion | “Idbraim duit, a Athair”</h1>
+<h2>The Besom of Devotion | “Idbraim duit, a Athair”</h2>
 
 <p>Idbraim duit, a Athair, ar mo bith ité grádaib.</p>
 <p>Is-í seo co combair: in scúap chunnail chrábaid.</p>

@@ -54,7 +54,7 @@ imagesource: "Detail from 宋高宗書女孝經馬和之補圖上卷 (Hometown)\
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 </ul>
 
-<h1>To the tune “Ruan Returns”—“The dew on the metal palm at the edge of the sky has turned into frost” | 阮郎歸 · 天邊金掌露成霜</h1>
+<h2>To the tune “Ruan Returns”—“The dew on the metal palm at the edge of the sky has turned into frost” | 阮郎歸 · 天邊金掌露成霜</h2>
 
 <p>阮郎歸</p>
 

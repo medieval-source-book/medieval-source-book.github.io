@@ -70,7 +70,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 
 
 
-<h1>Emare | Emaré</h1>
+<h2>Emare | Emaré</h2>
 
 <p>Jhesu, that ys kyng in trone,</p>
 <p>As thou shoope bothe sonne and mone,

@@ -61,7 +61,7 @@ imagesource: "London, British Library Royal 15 E VI, fol. 6r. [Public Domain]"
 </ul>
 
 <p>Facetia V</p>
-<h1>Joke 5: About the stupid man who thought his wife had two pussies | Facetia V: De Homine Insulso Qui Existimavit Duos Cunnos In Uxore</h1>
+<h2>Joke 5: About the stupid man who thought his wife had two pussies | Facetia V: De Homine Insulso Qui Existimavit Duos Cunnos In Uxore</h2>
 
 <p>Facetia V</p>
 

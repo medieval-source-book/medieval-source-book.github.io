@@ -54,7 +54,7 @@ imagesource: "“Detail from 宋人柳陰高士圖軸 (beneath the willow)”, A
 <ul>
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 
-</ul><h1>To the tune “Water Dragon Chant”—Matching the Rhymes of Zhang Zhifu’s Song about Willow Catkins | 水龍吟 · 次韻章質夫楊花詞</h1>
+</ul><h2>To the tune “Water Dragon Chant”—Matching the Rhymes of Zhang Zhifu’s Song about Willow Catkins | 水龍吟 · 次韻章質夫楊花詞</h2>
 
 <p>水龍吟</p>
 

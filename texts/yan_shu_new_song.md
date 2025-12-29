@@ -50,7 +50,7 @@ imagesource: "Detail from 宋趙伯駒秋山無盡圖(Courtyard)卷, 趙伯駒, 
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 </ul>
 
-<h1>To the tune “Sands of the Washing Stream”—“A single new song, a single cup of wine” | 浣溪沙 · 一曲新詞酒一杯</h1>
+<h2>To the tune “Sands of the Washing Stream”—“A single new song, a single cup of wine” | 浣溪沙 · 一曲新詞酒一杯</h2>
 
 <p>浣溪沙</p>
 

@@ -22,13 +22,15 @@ image: /assets/img/text/trust_I_have_you.png
 thumb: /assets/img/text/trust_I_have_you-thumb.png
 imagesource: "British Library MS Burney 275 f.120 [Public Domain]"
 ---
-<h1>Introduction to the Text</h1>
+
+<h2>Introduction to the Text</h2>
+
 <p>This anonymous love song comes from a fifteenth-century song book (‘chansonnier’) of polyphonic music (music where several voices sing different musical lines at the same time). It is somewhat unusual in that the lyrics are written from the perspective of a woman reflecting on the bond she shares with her distant lover.</p>
 
-<h1>Introduction to the Source</h1>
+<h2>Introduction to the Source</h2>
 <p>This song has been transcribed from the Chansonnier Nivelle de la Chausée (Paris, Bibliothèque Nationale de France, Département de Musique, Res. Vmc MS 57), ff.25v-26r. The manuscript can be viewed here: [https://gallica.bnf.fr/ ark:/12148/btv1b55007270r/f50.item]. Another version with minor variants and a different final line is contained in London British Library Lansdowne 380.</p>
 
-<h1> The trust that I have in you | La fiance que j’ay en vous</h1>
+<h2> The trust that I have in you | La fiance que j’ay en vous</h2>
 <p>La fiance [que j’ay en vous]</p>
 <p>Mon amy sans ung autre eslire</p>
 <p>Me fait oublier le martire</p>

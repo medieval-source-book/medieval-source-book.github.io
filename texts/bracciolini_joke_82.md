@@ -60,7 +60,7 @@ imagesource: "Simon Marmion, Images from the Song of Roland, Grandes Chroniques 
 <li>This is apparently an earlier translation of the <em>Facetiae</em> (I was not, however, able to consult this book for the present translation).</li>
 </ul>
 
-<h1>Joke 82: Antonio Loschi’s analogy | Facetia LXXXII: Comparatio Antonii Lusci</h1>
+<h2>Joke 82: Antonio Loschi’s analogy | Facetia LXXXII: Comparatio Antonii Lusci</h2>
 
 <p>Facetia LXXXII</p>
 

@@ -54,7 +54,7 @@ imagesource: "“Detail from 宋馬遠舉杯玩月軸 (moon)”, 馬遠;鍾禮, 
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 </ul>
 
-<h1>To the tune “Prelude to Water Melody”—“How long will the full moon last?”</h1>
+<h2>To the tune “Prelude to Water Melody”—“How long will the full moon last?”</h2>
 <p>水調歌頭 · 明月幾時有</p>
 
 <p>水調歌頭</p>

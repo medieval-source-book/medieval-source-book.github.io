@@ -41,7 +41,7 @@ imagesource: "Detail from BSB MS Clm 6260, fol.158v"
 <p>Liberman, Anatoly. “Petruslied.” <i> German Writers and Works of the Early Middle Ages: 800 – 1170</i>, edited by Will Hasty and James Hardin. Gale Research, 1995, 252-254.</p>
 <p>McLintock, David R. “Petruslied.” <i> Dictionary of the Middle Ages, </i> vol. 9, edited by Joseph Reese Strayer. Charles Scribners Sons, 1987, 546.</p>
 
-<h1>The Song of Peter | Petruslied</h1>
+<h2>The Song of Peter | Petruslied</h2>
 
 <p>Unsar trohtin hat farsalt sancte petre giuualt daz er mac ginerian</p>
 <p>ze imo dingenten man. kyrie eleyson christe eleyson.</p>

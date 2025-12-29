@@ -54,7 +54,7 @@ imagesource: "“Detail from 宋錢選蘭亭觀鵝圖卷 (pavilion)”, 錢選, 
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 </ul>
 
-<h1>To the tune “Jade Tower in Spring”—“Back then, I believed that love was priceless” | 玉樓春 · 當年信道情無價</h1>
+<h2>To the tune “Jade Tower in Spring”—“Back then, I believed that love was priceless” | 玉樓春 · 當年信道情無價</h2>
 
 <p>玉樓春</p>
 

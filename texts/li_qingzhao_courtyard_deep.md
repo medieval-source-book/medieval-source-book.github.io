@@ -57,7 +57,7 @@ imagesource: "Detail from 元盛懋柳陰書屋(Willow House) 軸, 盛懋, Natio
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 </ul>
 
-<h1>To the tune “Immortal by the River”—“The courtyard is deep, how far does it extend” | 臨江仙 · 庭院深深深幾許</h1>
+<h2>To the tune “Immortal by the River”—“The courtyard is deep, how far does it extend” | 臨江仙 · 庭院深深深幾許</h2>
 
 <p>臨江仙</p>
 
@@ -88,7 +88,7 @@ imagesource: "Detail from 元盛懋柳陰書屋(Willow House) 軸, 盛懋, Natio
 <p>10 I am not in the mood to walk through the snow.</p>
 
 
-<h1>Critical Notes</h1>
+<h2>Critical Notes</h2>
 
 <p>Translation</p>
 <p>Line 5: Both Moling and Jiankang are alternative names for the city of Nanjing, which is located in present-day Jiangsu Province, China.</p>

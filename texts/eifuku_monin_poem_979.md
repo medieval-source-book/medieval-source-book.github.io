@@ -69,7 +69,7 @@ imagesource: "Detail from \"Reeds and Geese\", Tesshū Tokusai, Dated 11th Month
 <li>Full text of the Fūga Wakashū and commentary. In Japanese.</li>
 </ul>
 
-<h1>From the 1st Book of Love. Poem 979. | <em>戀歌一、９７９</em></h1>
+<h2>From the 1st Book of Love. Poem 979. | <em>戀歌一、９７９</em></h2>
 
 <p>戀の心を</p>
 

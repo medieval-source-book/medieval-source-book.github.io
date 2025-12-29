@@ -50,7 +50,7 @@ imagesource: "宋錢選荔枝圖(Lychee)　卷, 夏珪,  National Palace Museum,
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 </ul>
 
-<h1>To the tune “Magpie Treads the Branch”—“Chrysanthemums by the railings wilt” | 鹊踏枝 · 檻菊愁煙蘭泣露</h1>
+<h2>To the tune “Magpie Treads the Branch”—“Chrysanthemums by the railings wilt” | 鹊踏枝 · 檻菊愁煙蘭泣露</h2>
 
 <p>鹊踏枝</p>
 

@@ -60,7 +60,7 @@ imagesource: "Berlin, Staatsbibliothek zu Berlin, Ms. germ. oct. 222, f160r (det
 </ul>
 
 
-<h1>The Sultan’s Daughter in the Flower Garden | Die Sultanstochter im Blumengarten</h1>
+<h2>The Sultan’s Daughter in the Flower Garden | Die Sultanstochter im Blumengarten</h2>
 
 <p>In der statt zuo Babilon</p>
 <p>da sass ain herre rich vnd schún,</p>

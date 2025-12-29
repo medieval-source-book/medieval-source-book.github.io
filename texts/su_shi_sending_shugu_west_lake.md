@@ -54,7 +54,7 @@ imagesource: "“Detail from 宋錢選蘭亭觀鵝圖卷 (lake)”, 錢選, Nati
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 </ul>
 
-<h1>To the tune “Bodhisattva Barbarians”—Sending off Shugu at West Lake | 菩薩蠻 · 西湖</h1>
+<h2>To the tune “Bodhisattva Barbarians”—Sending off Shugu at West Lake | 菩薩蠻 · 西湖</h2>
 
 <p>菩薩蠻</p>
 <p>西湖</p>

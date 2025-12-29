@@ -56,7 +56,7 @@ imagesource: "Detail from 宋高宗書女孝經馬和之補圖上卷(Women Gathe
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 </ul>
 
-<h1>To the tune “Bodhisattva Barbarian”—“The wind is gentle, the sunlight soft” | 菩薩蠻 · 風柔日薄春猶早</h1>
+<h2>To the tune “Bodhisattva Barbarian”—“The wind is gentle, the sunlight soft” | 菩薩蠻 · 風柔日薄春猶早</h2>
 
 <p>菩薩蠻</p>
 

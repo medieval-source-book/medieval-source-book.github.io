@@ -22,18 +22,20 @@ image: /assets/img/text/carvajal_outside_rome.jpg
 thumb: /assets/img/text/carvajal_outside_rome-thumb.jpg
 imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.157r [Public domain]"
 ---
-<h1>Introduction to the Text</h1>
+
+<h2>Introduction to the Text</h2>
+
 <p>This poem is a <i> serranilla</i>, an evolution of the Provençal <i> pastorela</i>. Written in short verse (<i> arte menor</i>), <i> serranillas </i> narrate a courtly poet’s encounter with a mountain woman. This is one of six compositions in the genre by fifteenth-century author Carvajal (or Carvajales). Very little is known about Carvajal’s life. His poetry is linked to the Neapolitan court of Alfonso the Magnanimous in Naples (r. 1442-1458) and to that of Alfonso’s son Ferrante (r. 1459-1494). In addition to his famous <i> serranillas</i>, Carvajal is also known for his literary epistles and ballads.</p>
 
 <p>In this poem, the poet meets a monstrous mountain woman whom he describes in a grotesque fashion. It has been interpreted as a satirical rewriting of one of the <i> serrana </i> episodes of Juan Ruiz’s <i> Libro de buen amor </i> (stanzas 1006-21). The <i> Libro de buen amor </i> (1330/1343) is one of the masterpieces of medieval Castilian literature, a heterogenous, polysemous and oftentimes parodic text in which the narrator gives an account of his love life.</p>
 
-<h1>Introduction to the Source</h1>
+<h2>Introduction to the Source</h2>
 <p>The poem is copied in Madrid, Biblioteca Nacional de España, VITR/17/7, fol. 136v-137r. This manuscript is a copy of the poetry collection known as the <i> Cancionero de Estúñiga</i> <a href="http://bdh-rd.bne.es/view-" target="_blank">, ca. 1465. It has been digitized: </a> http://bdh-rd.bne.es/viewer.vm?id=0000051837. It contains a compilation of mostly Castilian poems, including ballads, as well as a few Italian compositions. Their authors accompanied the King of Aragon, Alfonso the Magnanimous, in Naples in the mid-fifteenth century.</p>
 
-<h1>About this Edition</h1>
+<h2>About this Edition</h2>
 <p>The text has been punctuated. Word separation and capitalization follow modern usage. Elisions have been marked with an apostrophe.</p>
 
-<h1>Further Reading</h1>
+<h2>Further Reading</h2>
 <p>Carvajal. <i>Poesie.</i> Edited by Emma Scoles. Edizioni dell’Ateneo, 1967.</p>
 <ul>
 <li>Critical edition of Carvajal’s poetry.</li></ul>
@@ -45,7 +47,7 @@ imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.157r [Publ
 <li>Study of the <em>serranilla</em> genre, with attention to Carvajal’s poems in chapter 5.</li>
 </ul>
 
-<h1>Outside of Rome, crossing Marino | Partiendo de Roma, passando Marino</h1>
+<h2>Outside of Rome, crossing Marino | Partiendo de Roma, passando Marino</h2>
 <p>Partiendo de Roma, passando Marino</p>
 <p>fuera del monte, en una grand plana,</p> <p>executando tras un puerco espino,</p>
 <p>a muy grandes saltos uenia la serrana.</p>

@@ -54,7 +54,7 @@ imagesource: "“Detail from 宋范安仁魚藻圖卷 (fish)”, 范安仁, Nati
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 </ul>
 
-<h1>To the tune “Always Encountering Joy”—“The moon shines so brightly” | 永遇樂 · 明月如霜</h1>
+<h2>To the tune “Always Encountering Joy”—“The moon shines so brightly” | 永遇樂 · 明月如霜</h2>
 
 <p>永遇樂</p>
 

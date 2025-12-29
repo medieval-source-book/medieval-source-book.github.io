@@ -55,7 +55,7 @@ imagesource: "Detail from 宋人畫調鶴采花仙(Woman Outside) 軸, Anonymous
 <ul>
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 </ul>
-<h1>To the tune “Spring in Wuling”—“The wind stops, the dust is fragrant, and the flowers all gone” | 武陵春 · 風住塵香花已盡</h1>
+<h2>To the tune “Spring in Wuling”—“The wind stops, the dust is fragrant, and the flowers all gone” | 武陵春 · 風住塵香花已盡</h2>
 
 <p>武陵春</p>
 

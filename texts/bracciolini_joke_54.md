@@ -60,7 +60,7 @@ imagesource: "Archers Assaulting a City from London, British Library Yates Thomp
 <li>This is apparently an earlier translation of the <em>Facetiae</em> (I was not, however, able to consult this book for the present translation).</li>
 </ul>
 
-<h1>Joke 54: About the man who wounded Ridolfo (II da Varano di Camerino) with an arrow | Facetia LIV: De Quodam Qui Redolphum Sagittando Vulneravit</h1>
+<h2>Joke 54: About the man who wounded Ridolfo (II da Varano di Camerino) with an arrow | Facetia LIV: De Quodam Qui Redolphum Sagittando Vulneravit</h2>
 
 <p>Facetia LIV</p>
 

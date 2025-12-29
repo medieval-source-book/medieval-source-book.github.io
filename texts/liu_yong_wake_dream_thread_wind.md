@@ -57,7 +57,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 </ul>
 
-<h1>To the tune “Waves Scour the Sand”—“I wake from a dream” | 浪淘沙 · 夢覺</h1>
+<h2>To the tune “Waves Scour the Sand”—“I wake from a dream” | 浪淘沙 · 夢覺</h2>
 
 <p>浪淘沙</p>
 

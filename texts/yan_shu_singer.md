@@ -52,7 +52,7 @@ imagesource: "Detail from 宋人枯木竹石(Bird on Branch)軸, Anonymous, Nati
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 </ul>
 
-<h1>To the tune “Willows by the Mountain Pavilion”—“To a singer” | 山亭柳 · 贈歌者</h1>
+<h2>To the tune “Willows by the Mountain Pavilion”—“To a singer” | 山亭柳 · 贈歌者</h2>
 
 <p>贈歌者</p>
 

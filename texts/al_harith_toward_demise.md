@@ -22,3 +22,198 @@ image: /assets/img/text/al_harith_toward_demise.jpg
 thumb: /assets/img/text/al_harith_toward_demise-thumb.jpg
 imagesource: "Horseman brandishing a sword, from Manual on the Arts of Horsemanship (Nihayat al-su’l wa al-umniya fi ta‘allum ‘amal al-furusiyya) by al-Aqsara’i. Dublin, Chester Beatty Library, Ar 5655.146, f.146r"
 ---
+
+
+<h2>Introduction to the Text</h2>
+<p>The seventh-century advent of Islam precipitated a breakthrough in historiography. In the centuries that followed the religion’s arrival, linguists, lexicographers, and chroniclers spared no effort to write all they knew of the Arabs’ pre-Islamic days, much of it preserved in verse. This poetry commemorated landmarks of the past—events not so much faithfully recorded as artistically imagined to drive home their import.</p>
+<p><br/></p>
+<p>One such event, the legendary Basūs war between the sibling tribes of Taghlib and Bakr (ca.494-534), comes to us by way of several poems. They relate the following story: a forty-year war broke out with the murder of the Taghlibs’ leader, Wāʾil ibn Rabīʿah, better known as Kulayb. Not long before, Kulayb’s aunt-in-law, al-Basūs bint Munqidh, hosted Saʿd ibn Shumays as a resident under her protection. Saʿd’s she-camel, al-Sarāb, pastured with those of Jassās ibn Murrah, her nephew and Kulayb’s brother-in-law. Noticing the unfamiliar camel among his herd, Kulayb warned Jassās that al-Sarāb was not welcome to pasture near his land. Jassās responded in kind that none of his camels would pasture without her. Kulayb then threatened that if he saw the camel again, he’d stick an arrow in her breast. If he did so, said Jassās, he’d stick an arrow in Kulayb’s neck. Despite this grave promise, Kulayb fatally struck al-Sarāb when he encountered her again. al-Basūs shared her humiliation with her nephew, vowing to kill Kulayb’s most prized camel, Ghilāl, in retaliation. Jassās set his mind instead to killing Kulayb, which he did.</p>
+<p><br/></p>
+<p>Following Kulayb’s murder, Taghlib leadership transferred to Kulayb’s brother, ʿAdiyy ibn Rab īʿah, styled “al-Muhalhil” (“The Refiner”) on account of the refinement of his poetry. al-Muhalhil maintained a killing streak for several decades, culminating in the deaths of both Jassās and his half-brother, Hammām. A third half-brother, al-Ḥārith ibn ʿUbād (or ʿAbbād), who had avoided the conflict entirely until this point, now intervened, dispatching a letter to al-Muhalhil. The message, sent with al-Ḥārith’s son, Bujayr, offered al-Muhalhil the choice of either slaying Bujayr and ending the bloodshed definitively, or releasing him to likewise establish peace. al-Muhalhil proclaimed “buʾ bi-shisʿ naʿl Kulayb!” (“Take payback for Kulayb’s shoelace!”) and slew Bujayr.</p>
+<p><br/></p>
+<p>al-Ḥārith initially accepted his son’s sacrifice for the sake of peace. When he heard al-Muhalhil’s taunt, however, al-Ḥārith was incensed and decided to enter the battle, conclusively defeating the Taghlibs and capturing their leader, al-Muhalhil. Failing to recognize who he had captured, al-Ḥārith commanded his prisoner to lead him to al-Muhalhil; the latter promised to do so on the condition that he would not harm him. al-Ḥārith acquiesced. When the prisoner identified himself as al-Muhalhil, al-Ḥārith was true to his word, cutting off al-Muhalhil’s forelock (a mark of humiliation in this society) but otherwise leaving him alone.</p>
+<p><br/></p>
+<p>In the following rithāʾ, or elegy, al-Ḥārith laments the disrespectful slaying of Bujayr (his son), expresses the many hard feelings he endured as a consequence, and showcases images and moods from the day of his battle against the Taghlibs. The poem is best known by its famous refrain, “Qarribā marbaṭ al-Naʿāmah minnī,” (“Bring me al-Naʿāmah’s harness”), al-Naʿāmah being his unrivaled horse. The poem as it survives exists in multiple versions, though none live up to the claims by medieval historiographers that al-Ḥārith repeated this call over fifty times.</p>
+<p>Another text featured in the <i>Global Medieval Sourcebook</i>, “Can you make out twilight’s ruins?,” comprises al-Muhalhil’s response to al-Ḥārith’s elegy. While these two poems have traditionally been ascribed, respectively, to al-Harith and al-Muhalhil themselves, more research is required to determine their precise transmission and authorship.</p>
+<p><br/></p>
+<h2>Further Reading</h2>
+<p>Fück, J.W. [1960-2007] 2012. “al-Basūs”, in: <i>Encyclopaedia of Islam</i>, Second Edition, Edited by: P. Bearman, Th. Bianquis,</p>
+<p>C.E. Bosworth, E. van Donzel, W.P. Heinrichs. Accessed 23 December 2020.</p>
+<ul id="l1">
+<li data-list-text="•">
+<p>Offers an overview of the Basus war; includes a helpful bibliography.</p>
+<p>Khalidi, T. 1994. <i>Arabic Historical Thought in the Classical Period</i>. Cambridge: Cambridge University Press.</p>
+</li>
+<li data-list-text="•">
+<p>Surveys how the past was conceived and recorded through the first several centuries of Islamic historical writing.</p>
+<p>Rosenthal, F. [1952] 1968. <i>A History of Muslim Historiography</i>. 2nd rev. ed. Leiden: Brill.</p>
+</li>
+<li data-list-text="•">
+<p>Analyzes the period’s conceptions of and approaches toward recording the past.</p>
+</li>
+</ul>
+<p>“Everything’s destined toward demise” | “لاوزلل هريصم ءيش ُّلُك”</p>
+<p><br/></p>
+<p>Everything’s destined toward demise</p>
+<p>Besides my Master,1 and good works.</p>
+<p>You see the people, all looking,</p>
+<p>Unable to cheat their demise.</p>
+<p>Tell the highborn’s mother,2 mourning Bujayr,</p>
+<p>A barrier’s set between men and their wealth.</p>
+<p>I’ll mourn Bujayr, by my life,</p>
+<p>As water runs down mountaintops.</p>
+<p>My misery, Bujayr, when</p>
+<p>Horses coursed, intractable war day.</p>
+<p>The courageous exchanged fatal raids.</p>
+<p>Whites appeared from canopies’ bellies,3</p>
+<p>While every freewoman raced, calling, “Bakr!”4—honorable as idols.</p>
+<p>O opulent Bujayr,5 no peace until</p>
+<p>We fill the wasteland with men’s heads.</p>
+<p>Eyes will smile after crying</p>
+<p>Once blood quenches arrowheads.</p>
+<p>Wāʾil’s children wailed from war,</p>
+<p>The wailing of encumbered camels.</p>
+<p>I played no part in this war, Allāh knows; I feel its heat today.</p>
+<p>I avoided Wāʾil, that they might come around, But Taghlib refused my seclusion.7</p>
+<p>They greyed my forelock with Bujayr,</p>
+<p>Killed him wrongly, without cause.</p>
+<p>Killed him in exchange for Kulayb’s lace—</p>
+<p>The noble’s kill for a string’s expensive!8</p>
+<p>Children of Taghlib!9 Take heed:</p>
+<p>We drank pure Death indeed.</p>
+<p>Children of Taghlib! You killed a precious one, now slain, We haven’t heard the likes of him!</p>
+<p>Draw Naʿāmah’s harness near—11</p>
+<p>Wāʾil’s war bore fruit, after infertility.</p>
+<p>Draw Naʿāmah’s harness near—</p>
+<p>I don’t intend words, but deeds.</p>
+<p>لامعألا حلاصو يبر ريغ</p>
+<p>لايتحا ضعب كاذل مهيف سيل 5 لاومألاو لاجرلا نيب ليح لابجلا سوؤر نم ءاملا ىتأ ام لاضعُ بٍرح موي لُيخلا تلاج</p>
+<p>10</p>
+<p>لاجَحِلا بابق نم ضُيبلا ادبو لاثمتِّلاك ءَارَّغ رٍكبل اي</p>
+<p>15 لاجرلا سوؤر نم ديبلا المن يلاوعلا رَودص امدّلا يقست نيح</p>
+<p>لاقثألاب لامجلا جَيجع بِ</p>
+<p>20</p>
+<p>لاص مويلا اهرِّحِلَ ينِّإو يلازتعا يَّلع بلغت تبأف</p>
+<p>25 لاتق ريغب اًملظُ هولتق لاغ عِسْشِّلاب مِيركلا لَتْقَ نّإ</p>
+<p>لالزُ تٍوم سأكب انبرش دق</p>
+<p>30</p>
+<p>يلاوخلا يف هلثمب انعمس ام لايحِ نع لٍئاو بُرْح تْحَقِل</p>
+<p>35 يلاعَفِ نْكل دُاريُ يلوق سيل</p>
+<p>لاوزلل هريصم ءٍيش لك اعيمج نورظني سانلا ىرتو اًريْجَبُ يكبت رِّغألا مأل لق اًريْجَبُ نَّيكبأل يرمعلو</p>
+<p>ام اذإ رٍيْجبُ ىلع يسفن فهل اًعيقن امًّسُ ةُامكُلا ىقاستو وعدت هِجولا ةرَّحُ لُّك تْعَسَو ىتح حَلصُ ال تاريخلا رَيجب اي اهاكبُ دعب نُويعلا رَّقَتَو رحلا نم جُّعِتَ لٌئاو تْحَبَصْا هُللا مَلِعَ اهتِانجُ نم نْكُأ مل اوقيفيُ يك الًئاو تبنّجت دق رٍيجبب يتبَاؤَذُ اوباشأو</p>
+<p>بٍيلكُ لِعْنَ عِسْشِبِ هولتق</p>
+<p><br/></p>
+<p>انَّإ رذحِلا اوذخ بٍلغت ينب اي الًيتق متُلتق بٍلغت ينب اي ينّم ةماعنَّلا طَبَرم ابرِّق</p>
+<p>ينّم ةماعنَّلا طَبَرم ابرِّق</p>
+<p>Draw Naʿāmah’s harness near—</p>
+<p>The women’s wails turned earnest.</p>
+<p>لاوعألاب ءِاسنِّلا حُوْنَ دَّجَ ينّم ةماعنَّلا طَبَرم ابرِّق</p>
+<p><br/></p>
+<p>Draw Naʿāmah’s harness near—</p>
+<p>My head greyed; haters knew me not.</p>
+<p>Draw Naʿāmah’s harness near—</p>
+<p>For riding: nighttime, morning, afternoon.</p>
+<p>Draw Naʿāmah’s harness near— 40</p>
+<p>My night’s surpassed the longest nights.</p>
+<p>Draw Naʿāmah’s harness near—</p>
+<p>For close embrace: Champions ‘gainst Champions.</p>
+<p>Draw Naʿāmah’s harness near—</p>
+<p>يلاوقلا ينتركنأو يسأر بَاش لاصآلاو وِّدُغُلاو ىرسُّلل لاوطِّلا يلايلّلا ىلع يليْلَ لاط لاطبألاب لاطبألا قانتعال</p>
+<p>لاهَّجُلا ةِلَاقم نع الدِعْاو</p>
+<p>ينّم ةماعنَّلا طَبَرم ابرِّق ينّم ةماعنَّلا طَبَرم ابرِّق ينّم ةماعنَّلا طَبَرم ابرِّق ينّم ةماعنَّلا طَبَرم ابرِّق</p>
+<p>ينّم ةماعنَّلا طَبَرم ابرِّق</p>
+<p>Discard the words of the heedless.12</p>
+<p>Draw Naʿāmah’s harness near—</p>
+<p>My heart will not forgo warring.</p>
+<p>Draw Naʿāmah’s harness near—</p>
+<p>Even as Boreas’ tailwind roared.13</p>
+<p>Draw Naʿāmah’s harness near—</p>
+<p>For Bujayr, Breaker of Chains.</p>
+<p>Draw Naʿāmah’s harness near—</p>
+<p>For a noble, Beauty-crowned.</p>
+<p>45</p>
+<p>لاسَبِ لاتقلا نع يبلق سيل لامشَّلا لِيْذَ حُير بَّه املَّكُ</p>
+<p>50 لالغألا ككِّفَمُ رٍيجبل لامجلاب جٍوَّتَمُ مٍيركل</p>
+<p><br/></p>
+<p>ينّم ةماعنَّلا طَبَرم ابرِّق ينّم ةماعنَّلا طَبَرم ابرِّق ينّم ةماعنَّلا طَبَرم ابرِّق ينّم ةماعنَّلا طَبَرم ابرِّق</p>
+<p>Draw Naʿāmah’s harness near—</p>
+<p>We don’t sell men for shoes.14</p>
+<p>لاعنِّلا عَيْب لاجرِّلا عُيبنَ ال ينّم ةماعنَّلا طَبَرم ابرِّق</p>
+<p>55</p>
+<p>Draw Naʿāmah’s harness near—</p>
+<p>For Bujayr, may my uncles be ransomed.</p>
+<p>Bring it15— to haughty Taghlib,</p>
+<p>For the warriors’ embrace the day of battle.</p>
+<p>Bring it— and bring my breastplate, 60</p>
+<p>A sleek cuirass blunts arrows’ edge.</p>
+<p>Bring it— with slashing swords,</p>
+<p>For the clash of champions on battle day.</p>
+<p>Often I faced an army,16 hurling</p>
+<p>Death from lightly-armored chargers. 65</p>
+<p>يلاخو يمِّعَ هُادف رٍيجبل لاتقلا موي ةِامكُلا قانتعال لابنِّلا دَّحَ دُّرُتَ اًصالدِ اًع لازنِّلا موي لاطبألا عِارقِلِ</p>
+<p>لالجِلا فِيفخ لٍكَيْه ىلع تَ</p>
+<p>ينّم ةماعنَّلا طَبَرم ابرِّق اًسوشُ بَلِغت يِّحَلِ اهابرِّق رْدِ يتمَألَْ ابرِّقو اهابرِّق دٍادح تٍافهرْمُبِ اهابرِّق</p>
+<p>وْمَلا رُطُميَ هُتُيقِلَ شٍيج بَّرُ</p>
+<p>Ask noble Kinda, inquire into Bakr, Interrogate Madhḥij and Hilāl.17</p>
+<p>لاله يَّحو اًجحِذْمَ اولأساو اًركبو مَاركِلا ةَدَنْكِاولئِاس</p>
+<p>When they reached us with a massive troop, Ready to attack, severe in their seizure;</p>
+<p>When they craved congress we met them, Welcomed every keen sword’s edge.</p>
+<p>لاصمَلا دِيدش ىذألا رِّهِفَكْمُ</p>
+<p>70 لاقصِّلابِضْعبِابذُّلايضاملَّكُ</p>
+<p>ءٍاههزُ يذ رٍكَسْعب انوْتَأ ذإ انارقِ مار نيح هانيْرَقَفَ</p>
+<h2>Critical Notes</h2>
+<p><br/></p>
+<ol id="l2">
+<li data-list-text="1">
+<p>Allah<i>.</i>
+</p>
+</li>
+<li data-list-text="2">
+<p>Bujayr’s mother.</p>
+</li>
+<li data-list-text="3">
+<p>“Whites” here perhaps refers to the warriors’ unsheathed, shining weapons, or more likely to the faces of the Banī Bakr’s women, peeking out of their enclosures. This latter reading lends itself to the verse that</p>
+<p>follows, as it does the legend of al-Ḥārith’s entrance into the fight. As medieval commentators</p>
+<p>have it, the fateful day he joined the battle would be remembered as the Day of Shearing (Yawm al-Taḥāluq), or the Day of Haircutting Past the Earlobes (Yawm Taḥlāq al-Limam), on account of Bakr’s tribesmen cutting their hair in order for their women to identify them: al-Ḥārith had ordered them to attend onto the battlefield to finish off Taghlib’s wounded and nurse their own.</p>
+</li>
+<li data-list-text="4">
+<p>Bakr being the name of al-Ḥārith’s tribe.</p>
+</li>
+<li data-list-text="5">
+<p>The Arabic, “Ya Bujayr al-khayrāt,” plays on the name Bujayr, which means (of a belly) “filled with water or milk.” Here, the poet endearingly declares Bujayr full of “the best”: “al-khayrāt.”</p>
+</li>
+<li data-list-text="6">
+<p>Wāʾil being the parent of Taghlib and Bakr.</p>
+</li>
+<li data-list-text="7">
+<p>That is, al-Ḥārith’s avoidance of the war.</p>
+</li>
+<li data-list-text="8">
+<p>That is, the murder of Bujayr for a shoelace is unacceptably disproportionate.</p>
+</li>
+<li data-list-text="9">
+<p>That is, the Taghlib tribe, named after Taghlib, son of Wāʾil.</p>
+</li>
+<li data-list-text="10">
+<p>al-Naʿāmah: al-Ḥārith’s formidable horse.</p>
+</li>
+<li data-list-text="11">
+<p>In the original Arabic, the repeated command verb employed, “qarribā,” takes the dual form, although a plural audience is targeted. Classical Arabic poets rely on this addressing of two imaginary bystanders for dramatic effect, most famously Imruʾ al-Qays (d.c.545) in his ode’s opening, “Qifā nabki min dhikrā ḥabīb wa-manzili” (“Stop! Let’s weep, recalling lover and lodge”).</p>
+</li>
+<li data-list-text="12">
+<p>A general judgment on boasts unsubstantiated by action, though perhaps it refers to some specific rumors arising out of al-Ḥārith’s tribulation.</p>
+</li>
+<li data-list-text="13">
+<p>Literally, whenever the north wind’s tail stirred.</p>
+</li>
+<li data-list-text="14">
+<p>See Introduction and note 8 above.</p>
+</li>
+<li data-list-text="15">
+<p>That is, the harness.</p>
+</li>
+<li data-list-text="16">
+<p>An instance of meiosis (understatement for rhetorical effect). The term “rubba” (“perhaps”), in the line “rubba jaysh laqītuhu” (“perhaps I faced an army”), signals not uncertainty or infrequency but their opposites. See Ibn Manẓur, Lisan al-ʿArab, s.v. ر ب ب .</p>
+</li>
+<li data-list-text="17">
+<p>Kinda, Bakr, Madhḥij, Hilāl: notable Arabian tribes.</p>

@@ -58,7 +58,7 @@ imagesource: "“Detail from 宋人畫仙巖壽鹿軸 (goddess)”, Anonymous, N
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 </ul>
 
-<h1>To the tune “Song of the Immortal in the Grotto”—Skin of Ice and Bones of Jade | 洞仙歌 · 冰肌玉骨</h1>
+<h2>To the tune “Song of the Immortal in the Grotto”—Skin of Ice and Bones of Jade | 洞仙歌 · 冰肌玉骨</h2>
 
 <p>洞仙歌 </p>
 <p>冰肌玉骨</p>

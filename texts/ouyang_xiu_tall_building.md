@@ -51,7 +51,7 @@ imagesource: "宋米芾雲山煙樹(Smoke and Trees) 卷 , 米芾,  National Pal
 <ul>
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 
-</ul><h1>To the tune “Spring in the Jade Building”—“In a tall building behind the willows by the lakeside” | 玉樓春 · 湖邊柳外樓高處</h1>
+</ul><h2>To the tune “Spring in the Jade Building”—“In a tall building behind the willows by the lakeside” | 玉樓春 · 湖邊柳外樓高處</h2>
 
 <p>玉樓春</p>
 

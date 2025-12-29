@@ -51,7 +51,7 @@ imagesource: "Detail from 宋元集繪 冊 宋緙絲翠羽秋荷(Lotuses), Anony
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 </ul>
 
-<h1>To the tune “Magnolia Flower”—“The water in the pond is green” | 木蘭花 · 池塘水綠風微暖</h1>
+<h2>To the tune “Magnolia Flower”—“The water in the pond is green” | 木蘭花 · 池塘水綠風微暖</h2>
 
 <p>木蘭花</p>
 

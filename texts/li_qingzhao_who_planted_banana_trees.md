@@ -58,7 +58,7 @@ imagesource: "Detail from 明文徵明蕉陰仕女圖(Banana Tree) 軸, 文徵�
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 </ul>
 
-<h1>To the tune “Vile Charmer, Long Version”—“Who planted the banana trees in front of the window?” | 添字醜奴兒 · 窗前誰種芭蕉樹</h1>
+<h2>To the tune “Vile Charmer, Long Version”—“Who planted the banana trees in front of the window?” | 添字醜奴兒 · 窗前誰種芭蕉樹</h2>
 
 <p>添字醜奴兒</p>
 

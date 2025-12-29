@@ -60,7 +60,7 @@ imagesource: "Detail from BVMM Colmar, Bibliothèque municipale, 0926 (508) f.61
 
 <p>Suggested citation: Various. “Regarding Sister Agnes Waller of Blessed Memory.” Trans. Laura Moncion. <i> Global Medieval Sourcebook</i> <a href="http://sourcebook.stanford.edu/text/regarding-sister-agnes-waller-blessed-memory" target="_blank">. </a> http://sourcebook.stanford.edu/text/regarding-sister-agnes-waller-blessed-memory. Retrieved on August 16, 2021.</p>
 
-<h1>Regarding Sister Agnes Waller of Blessed Memory | Item de sorore sancte memorie Agnete, Wallaria cognomento</h1>
+<h2>Regarding Sister Agnes Waller of Blessed Memory | Item de sorore sancte memorie Agnete, Wallaria cognomento</h2>
 
 <p>Pie recordacionis soror Agnes, dicta Wallaria, in monasterio huius sancte congregacionis usque ad obitum suum religiose ualde ac laudabiliter conuersata, satagens cottidie semetipsam exhibere hostiam uiuentem, sanctam, deuote et sedulo conseruauit, corpori suo supra modum rigida atque dura.</p>
 

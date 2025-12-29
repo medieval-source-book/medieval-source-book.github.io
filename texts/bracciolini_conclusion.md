@@ -62,7 +62,7 @@ imagesource: "Poggio Bracciolini, detail from Vatican Urb.Lat.224 f.68r [Public 
 
 </ul>
 
-<h1>Conclusion | Conclusio</h1>
+<h2>Conclusion | Conclusio</h2>
 
 <p>Conclusio</p>
 

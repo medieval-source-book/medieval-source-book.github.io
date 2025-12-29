@@ -60,7 +60,7 @@ imagesource: "Domenico di Michelino, La commedia illumina Firenze, from the Duom
 <li>This is apparently an earlier translation of the <em>Facetiae</em> (I was not, however, able to consult this book for the present translation).</li>
 </ul>
 
-<h1>Joke 121: The Brilliant Dante’s Joke | Facetia CXXI: locatio Dantis clarissimi</h1>
+<h2>Joke 121: The Brilliant Dante’s Joke | Facetia CXXI: locatio Dantis clarissimi</h2>
 
 <p>Facetia CXXI</p>
 

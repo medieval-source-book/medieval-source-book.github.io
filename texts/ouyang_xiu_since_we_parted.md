@@ -51,7 +51,7 @@ imagesource: "Detail from 宋夏珪真蹟(Two Men Talking) 卷 , 夏珪,  Nation
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 </ul>
 
-<h1>To the tune “Spring in the Jade Building”—“Since we parted I do not know how far away you are” | 玉樓春 · 別後不知君遠近</h1>
+<h2>To the tune “Spring in the Jade Building”—“Since we parted I do not know how far away you are” | 玉樓春 · 別後不知君遠近</h2>
 
 <p>玉樓春</p>
 

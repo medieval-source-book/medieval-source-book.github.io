@@ -57,7 +57,7 @@ imagesource: "Bibliothèque nationale de France, département Arsenal, RESERVE F
 <li>Discusses the front matter in early manuscripts of the Latin Dialogus, which contained both a list of titles and an alphabetical index of moral lessons to facilitate citation.</li>
 </ul>
 
-<h1>Concerning Life and Death | De vita et morte</h1>
+<h2>Concerning Life and Death | De vita et morte</h2>
 
 <p>Mors secundum philosophum et æternus somnus, divitum pavor, pauperum desiderium, incurabilis eventus, latro hominis, fuga vitæ, resolutio hominis. Vita vero est bonorum lætitia, miserorum mœstitia. Et homo quidam juvenis formosus, dives, fortis et sanus ad mortem progreditur et ait: o sors immutabilis, miserere mei et exaudi me, supplicium, quod a te exspecto, noli emittere ad me, aurum et argentum, lapides pretiosos, mancipia, equos, fundos, prædia, palatia, possessiones et quidquid vis, tibi dabo, tantumnodo noli me tangere. Cui mors : impossibilia petis, o frater, non sunt petenda a Deo nisi honesta et possibilia ideoque non sapienter locutus es, quia dicitur homini, mors ubique te exspectat et tu, si sapiens fueris, ubique eam exspectabis. Dicitur enim Psalm. LXXXVIII: quis est homo, qui vivit et non videbit mortem?</p>
 

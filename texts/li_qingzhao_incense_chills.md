@@ -56,7 +56,7 @@ imagesource: "Detail from 宋人秋荷野鳧圖(Autumn) 軸, Anonymous, National
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 </ul>
 
-<h1>To the tune “On Top of the Phoenix Terrace, Recalling Flute Music”—“The incense chills in the golden lion” | 鳳凰臺上憶吹簫 · 香冷金猊</h1>
+<h2>To the tune “On Top of the Phoenix Terrace, Recalling Flute Music”—“The incense chills in the golden lion” | 鳳凰臺上憶吹簫 · 香冷金猊</h2>
 
 <p>鳳凰臺上憶吹簫</p>
 

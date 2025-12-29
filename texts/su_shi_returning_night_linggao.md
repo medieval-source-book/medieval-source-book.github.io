@@ -55,7 +55,7 @@ imagesource: "“Detail from 宋李公麟畫歸去來辭卷 (boat)”, 李公麟
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 </ul>
 
-<h1>To the tune “Immortal by the River”—Returning at Night to Linggao | 臨江仙 · 夜歸臨皋</h1>
+<h2>To the tune “Immortal by the River”—Returning at Night to Linggao | 臨江仙 · 夜歸臨皋</h2>
 
 <p>臨江仙 夜歸臨皋</p>
 

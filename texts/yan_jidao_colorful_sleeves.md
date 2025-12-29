@@ -54,7 +54,7 @@ imagesource: "Detail from 宋李嵩聽阮圖軸 (colorful sleeves)\", 李嵩, Na
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 </ul>
 
-<h1>To the tune “Partridge in the Sky”—“Your colorful sleeves held the jade cup with affection”</h1>
+<h2>To the tune “Partridge in the Sky”—“Your colorful sleeves held the jade cup with affection”</h2>
 <p>鷓鴣天 · 彩袖殷勤捧玉鐘</p>
 
 <p>鷓鴣天</p>

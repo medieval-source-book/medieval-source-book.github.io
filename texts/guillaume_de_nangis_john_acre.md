@@ -73,7 +73,7 @@ imagesource: "London, British Library Royal MS 16 G VI, f.442r"
 <li>Offers an interpretation of the illumination on 442r as a conversion narrative.</li>
 </ul>
 
-<h1>Comment mesire Jehan d’Acre, bouteillier de France qui faisait le guet fu deceus d’aucuns Sarrazins qui requéraient le baptesme</h1>
+<h2>Comment mesire Jehan d’Acre, bouteillier de France qui faisait le guet fu deceus d’aucuns Sarrazins qui requéraient le baptesme</h2>
 
 <p>Un jour que le conte d’Eu, Auphons et mesire Jehan d’Acre son frere bouteillier de France faisoient le guet de nuis, avint que III chevaliers sarrazins vindrent au bouteillier, et le qequistrent que il fussent chrestiens; et en signe de loiauté leur mistrent leurs mains seur leurs chiez, et baisoient le mains de nos gens en signe de subjection, et se rendirent au bouteillier. Li bouteilliers lis fist mener en son paveillon et ala tantost au roi Looys et le dist ce que li Sarrazin avoient fait, les quiex li rois commanda à garder bien diligaument.</p>
 
@@ -85,7 +85,7 @@ imagesource: "London, British Library Royal MS 16 G VI, f.442r"
 
 <p>Lassiez aler un de mos compaignons jusques à mes gens, et se il ne vous amaine plue de IIm Sarrazins qui vous amenront vitaille à vendrre et vous seront en aide, que vous faciez de moi ausi comme de traiteur desloial.” Toutes ces choes dites, il enforma I poi à croire le bouteillier de ce que il disoit. Et pour ce, lie bouteilliers vint au roy Looys et li dist ce que li Sarrazins qvoit raconté. Mès li rois qui ne vout pas croire à leurs paroles, commanda que l’en les laissast aler aus autres Sarrazins. Lors tantost le bouteilleirs et le connestables le menerent et conduirent hors de l’ost; de qoui mount de gent murmurerent; et le maisrres des III Sarrazins dist que il revendriot l’endemain et acompliroir ce que il avoit promis; laquele chose il fist et acomplie, et fu mount léement receuz des autres Sarrazins qui cuidoient que il et ses compaignons fussent occis des chrestiens.</p>
 
-<h1>How Sir John of Acre, butler of France, who was on guard, was deceived by some Saracens who requested baptism</h1>
+<h2>How Sir John of Acre, butler of France, who was on guard, was deceived by some Saracens who requested baptism</h2>
 
 <p>One day that Count Auphon of Eu and his brother Sir John of Acre, butler of France were on the night guard, three Saracen knights came to the butler and they requested to become Christians; in a sign of loyalty they put their hands to the heads and kissed the hands of our people as a sign of subjection and surrendered themselves to the butler. The butler had them led to his pavilion and went immediately to King Louis, and told him what the Saracens had done, whom the king then commanded to guard very diligently.</p>
 
@@ -97,7 +97,7 @@ imagesource: "London, British Library Royal MS 16 G VI, f.442r"
 
 <p>“Release one of my companions to go to my men and if he does not lead more than 2000 Saracens who bring you victuals to sell and aid you, then you can do with me as you would a disloyal traitor.” All these things said, the butler believed a little bit of what he<sup>1</sup> said. And for this, the butler came to the King Louis and he told him what the Saracens had reccounted. But the king who did not want to believe their speech, commanded to let them go to the other Saracens. So then the butler and the constable led them<sup>2</sup> away from the army; about which many of the men murmured; and the master of the three Saracens said that he would return the next day and accomplish what he had promised, which thing he did and accomplished, and was much happily received by the other Saracens who thought that he and his companions had been slain by the Christians.</p>
 
-<h1>Critical Notes</h1>
+<h2>Critical Notes</h2>
 
 <ol id="l3">
 <li>

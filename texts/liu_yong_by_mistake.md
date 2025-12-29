@@ -58,7 +58,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 </ul>
 
-<h1>To the tune “Jade Butterfly”—“By mistake, I enter a narrow alley in the Pingkang Ward” | 玉蝴蝶 · 誤入平康小巷</h1>
+<h2>To the tune “Jade Butterfly”—“By mistake, I enter a narrow alley in the Pingkang Ward” | 玉蝴蝶 · 誤入平康小巷</h2>
 
 <p>玉蝴蝶</p>
 

@@ -60,7 +60,7 @@ imagesource: "Venice, from Hartmann Schedel’s Nuremberg Chronicle [Public Doma
 <li>This is apparently an earlier translation of the <em>Facetiae</em> (I was not, however, able to consult this book for the present translation).</li>
 </ul>
 
-<h1>Joke 81: The debate between a Florentine and a Venetian | Facetia LXXXI: Disceptatio Inter Florentinum Et Venetum</h1>
+<h2>Joke 81: The debate between a Florentine and a Venetian | Facetia LXXXI: Disceptatio Inter Florentinum Et Venetum</h2>
 
 <p>Facetia LXXXI</p>
 

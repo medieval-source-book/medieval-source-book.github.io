@@ -22,13 +22,15 @@ image: /assets/img/text/fesneau_agricola_oh_how_troubles_me.png
 thumb: /assets/img/text/fesneau_agricola_oh_how_troubles_me-thumb.png
 imagesource: "British Library MS King’s 322 f.1 [Public Domain]"
 ---
-<h1>Introduction to the Text</h1>
+
+<h2>Introduction to the Text</h2>
+
 <p>This fifteenth-century love song is a virelai for three voices. Although it draws on a common theme for French songs of this period—the heartache of someone whose lover is absent—it is somewhat unusual that it is written from a woman’s perspective.</p>
 
-<h1>Introduction to the Source</h1>
+<h2>Introduction to the Source</h2>
 <p>This song has been transcribed from the Chansonnier Nivelle de la Chausée (Paris, Bibliothèque Nationale de France, Département de Musique, Res. Vmc MS 57), ff.79v-80r. The manuscript can be viewed at https://gallica.bnf.fr/ark:/12148/ btv1b55007270r/f158.item. The same song is also found in Paris, Bibliothèque Nationale Française, 1719. Different manuscripts attribute it to either Agricola or Fesneau.</p>
 
-<h1>Oh, how it troubles me! | Ha, qu’il m’ennuie!</h1>
+<h2>Oh, how it troubles me! | Ha, qu’il m’ennuie!</h2>
 <p>Ha qu’il menuye</p>
 <p>et que Je me treuve esbahye</p>
 <p>de ce que Je ne vous puis voir</p>

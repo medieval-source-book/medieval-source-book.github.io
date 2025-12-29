@@ -60,7 +60,7 @@ imagesource: "A physician examining urine, London, British Library Harley 3140 f
 <li>This is apparently an earlier translation of the <em>Facetiae</em> (I was not, however, able to consult this book for the present translation).</li>
 </ul>
 
-<h1>Joke 70: The greedy man who tasted urine | Facetia LXX: De Avaro Qui Urinam Degustavit</h1>
+<h2>Joke 70: The greedy man who tasted urine | Facetia LXX: De Avaro Qui Urinam Degustavit</h2>
 
 <p>Facetia LXX</p>
 

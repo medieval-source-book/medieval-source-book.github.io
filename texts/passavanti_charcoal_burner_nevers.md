@@ -51,7 +51,7 @@ imagesource: "British Library MS Royal 15 E II f.38 [Public Domain]"
 <li>Discusses the sources and themes of Boccaccio’s <em>Nastagio degli Onesti</em> and Passavanti’s <em>Carbonaio di Niversa</em>.</li>
 </ul>
 
-<h1>The Charcoal-Burner of Nevers | Il Carbonaio di Niversa</h1>
+<h2>The Charcoal-Burner of Nevers | Il Carbonaio di Niversa</h2>
 
 <p>Leggesi iscritto da Elinando, che nel contado di Niversa fu uno povero uomo, il quale era buono e temente Iddio, ch’era carbonaio, e di quella arte si vivea. E avendo egli accesa la fossa de’ carboni una volta, e sendo la notte in una sua capannetta a guardia della incesa fossa, sentì in su l’ora della mezzanotte grandi strida. Usci fuori per vedere che fosse, e vide venire in verso la fossa, correndo e stridendo, una femmina iscapigliata e ignuda; e dietro le venta umo cavaliere in su uno cavallo nero correndo, con uno coltello ignudo in mano; e della bocca e degli occhi e del naso del cavaliere e del cavallo uscia fiamma di fuoco ardente. Giugnendo la femmina alla fossa, ch’ardea, non passò più oltre, e nella fossa non ardiva di gittarsi; ma correndo intorno alla fossa, fu so praggiunta dalcavaliere, che dietro le correa; la quale traendo guai, presa per li svolazzanti o capelli, crudelmente la feri per lo mezzo del petto col coltello che tenea in mano. E cadendo in terra, con molto ispargimento di sangue, si la riprese per li insanguinati capelli, e gittòlla nella fossa de’carboni ardenti; dove lasciandola stare per alcuno spazio di tempo, tutta focosa e arsa la ritolse; e ponéndolasi davanti in sul collo del cavallo, correndo se n’andò per la via dond’era venuto.</p>
 

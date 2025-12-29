@@ -60,7 +60,7 @@ imagesource: "Ugo Zannoni, Dante, Piazza dei Signori, Verona, c.1865. Photo: Did
 <li>This is apparently an earlier translation of the <em>Facetiae</em> (I was not, however, able to consult this book for the present translation).</li>
 </ul>
 
-<h1>Joke 57: The elegant reply of the Florentine poet Dante | Facetia LVII: Responsio elegans dantis poete florentini</h1>
+<h2>Joke 57: The elegant reply of the Florentine poet Dante | Facetia LVII: Responsio elegans dantis poete florentini</h2>
 
 <p>Facetia LVII</p>
 

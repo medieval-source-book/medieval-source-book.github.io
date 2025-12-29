@@ -56,7 +56,7 @@ imagesource: "Detail from 宋高宗書女孝經馬和之補圖上卷 (Women)\", 
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 </ul>
 
-<h1>To the tune “Magnolia Flower”—“Xiaolian has yet to learn to unravel her heart’s tangled feelings” | 木蘭花 · 小蓮未解論心素</h1>
+<h2>To the tune “Magnolia Flower”—“Xiaolian has yet to learn to unravel her heart’s tangled feelings” | 木蘭花 · 小蓮未解論心素</h2>
 
 <p>木蘭花</p>
 

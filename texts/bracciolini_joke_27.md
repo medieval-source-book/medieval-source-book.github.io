@@ -60,7 +60,7 @@ imagesource: "Pregnant Woman, detail from Limbourg Brothers, September from Les 
 <li>This is apparently an earlier translation of the <em>Facetiae</em> (I was not, however, able to consult this book for the present translation).</li>
 </ul>
 
-<h1>Joke 27: The pregnant sister of the citizen of Constance | Facetia XXVII: Civis Constantiae Soror Gravida Facta</h1>
+<h2>Joke 27: The pregnant sister of the citizen of Constance | Facetia XXVII: Civis Constantiae Soror Gravida Facta</h2>
 
 <p>Facetia XXVII</p>
 

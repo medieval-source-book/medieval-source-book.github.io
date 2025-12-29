@@ -55,7 +55,7 @@ imagesource: "“Detail from 宋馬遠松間吟月軸 (beneath the moon)”, 馬
 <li>A comprehensive edition of <em>ci</em> from the Song dynasty and the source text for the <em>ci</em> in this collection (introductions and annotations are in Chinese).</li>
 </ul>
 
-<h1>To the tune “Bodhisattva Barbarians”—“When I met her, I wanted to tell her about my affliction with lovesickness” | 菩薩蠻 · 相逢欲話相思苦</h1>
+<h2>To the tune “Bodhisattva Barbarians”—“When I met her, I wanted to tell her about my affliction with lovesickness” | 菩薩蠻 · 相逢欲話相思苦</h2>
 
 <p>菩薩蠻</p>
 

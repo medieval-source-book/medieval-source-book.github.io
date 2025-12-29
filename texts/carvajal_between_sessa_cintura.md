@@ -48,7 +48,7 @@ imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.136v [Publ
 <li>Study of the <em>serranilla</em> genre, with attention to Carvajal’s poems in chapter 5.</li>
 </ul>
 
-<h1>Between Sessa and Cintura | Entre Sesa et Cintura</h1>
+<h2>Between Sessa and Cintura | Entre Sesa et Cintura</h2>
 <p>Entre Sesa et Cintura</p>
 <p>caçando por la trauiesa,</p>
 <p>tope dama que dehesa</p>
@@ -113,7 +113,7 @@ imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.136v [Publ
 <p>He would have never fallen in love</p>
 <p>With Polyxena.</p>
 
-<h1>Critical Notes</h1>
+<h2>Critical Notes</h2>
 
 <ol id="l2">
 <li>

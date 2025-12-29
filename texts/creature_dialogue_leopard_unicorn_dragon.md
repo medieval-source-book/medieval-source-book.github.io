@@ -58,7 +58,7 @@ imagesource: "Bibliothèque nationale de France, département Arsenal, RESERVE F
 <li>Discusses the front matter in early manuscripts of the Latin Dialogus, which contained both a list of titles and an alphabetical index of moral lessons to facilitate citation.</li>
 </ul>
 
-<h1>Concerning the Leopard and the Unicorn Who Fought the Dragon | De leopardo et unicorni</h1>
+<h2>Concerning the Leopard and the Unicorn Who Fought the Dragon | De leopardo et unicorni</h2>
 
 <p>Leopardus, ut Solmus dicit, animal est generatum ex leone et pardo. Horum feminæ sunt audaciores et fortiores maribus. Plinius: aliquis volens resistere leopardis furentibus, fricet allia inter manus, nee mora, leopardus resiliet nec resistet, quia odorem allii sustinere non potest. Leopardus subrufum colorem habet, maculas per totum nigras; multo minores sunt quam leones.</p>
 
