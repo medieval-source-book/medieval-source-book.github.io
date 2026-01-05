@@ -57,6 +57,7 @@ imagesource: "“Detail from 宋人歲朝圖軸 (plum blossom)”, Anonymous, Na
 <h2>To the tune “The Moon Over the West River”—Plum Blossom | 西江月 · 梅花</h2>
 
 <p>西江月 梅花</p>
+<p><br/></p>
 
 <p>玉骨那愁瘴霧，</p>
 <p>冰肌自有仙風。</p>
@@ -66,9 +67,11 @@ imagesource: "“Detail from 宋人歲朝圖軸 (plum blossom)”, Anonymous, Na
 <p>洗妝不褪唇紅。</p>
 <p>高情已逐曉雲空。</p>
 <p>不與梨花同夢。</p>
+<p><br/></p>
 
 
 <p>To the tune “The Moon Over the West River” Plum Blossom</p>
+<p><br/></p>
 
 <p>Why would the jade bones (need to) worry about noxious air<sup>1</sup>?</p>
 <p>The skin, translucent as ice<sup>2</sup>, was naturally endowed with a transcendent temperament.</p>
@@ -78,6 +81,7 @@ imagesource: "“Detail from 宋人歲朝圖軸 (plum blossom)”, Anonymous, Na
 <p>after washing off its makeup, the rouge on its lips did not fade.</p>
 <p>My lofty longings chased after the dawn cloud<sup>6</sup> and vanished,</p>
 <p>Sharing no dreams with the pear blossoms<sup>7</sup>.</p>
+<p><br/></p>
 
 <h2>Critical Notes</h2>
 

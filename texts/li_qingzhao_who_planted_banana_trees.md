@@ -61,32 +61,38 @@ imagesource: "Detail from 明文徵明蕉陰仕女圖(Banana Tree) 軸, 文徵�
 <h2>To the tune “Vile Charmer, Long Version”—“Who planted the banana trees in front of the window?” | 添字醜奴兒 · 窗前誰種芭蕉樹</h2>
 
 <p>添字醜奴兒</p>
+<p><br/></p>
 
 <p>窗前誰種芭蕉樹，</p>
 <p>陰滿中庭。</p>
 <p>陰滿中庭。</p>
 <p>葉葉心心</p>
 <p>5 舒捲有餘情。</p>
+<p><br/></p>
 
 <p>傷心枕上三更雨，</p>
 <p>點滴霖霪。</p>
 <p>點滴霖霪。</p>
 <p>愁損北人，</p>
 <p>10 不慣起來聽。</p>
+<p><br/></p>
 
 <p>To the tune “Vile Charmer, Long Version”</p>
+<p><br/></p>
 
 <p>Who planted the banana trees in front of the window?</p>
 <p>The shade fills up the courtyard.</p>
 <p>The shade fills up the courtyard.</p>
 <p>One leaf after another, one heart after another,</p>
 <p>5 folding and unfolding, with too much feeling.</p>
+<p><br/></p>
 
 <p>Heartbroken on the pillow, the rain in the third hour</p>
 <p>drips on and on,</p>
 <p>drips on and on.</p>
 <p>It saddens the northerner,</p>
 <p>10 who is not used to listening and thus rises from her bed.</p>
+<p><br/></p>
 
 <h2>Critical Notes</h2>
 

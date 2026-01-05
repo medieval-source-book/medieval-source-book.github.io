@@ -58,6 +58,7 @@ imagesource: "“Detail from 宋馬遠舉杯玩月軸 (moon)”, 馬遠;鍾禮, 
 <p>水調歌頭 · 明月幾時有</p>
 
 <p>水調歌頭</p>
+<p><br/></p>
 
 <p>丙辰中秋歡飲達旦 </p>
 <p>大醉作此篇兼懷子由</p>
@@ -82,6 +83,7 @@ imagesource: "“Detail from 宋馬遠舉杯玩月軸 (moon)”, 馬遠;鍾禮, 
 <p>千里共嬋娟。</p>
 
 <p>To the tune “Prelude to Water Melody”</p>
+<p><br/></p>
 
 <p>On the night of the Mid-Autumn Festival in 1076 CE,</p>
 <p>I drank in joy until dawn. Completely drunk, I wrote this piece to express my longing for Ziyou.<sup>1</sup></p>
@@ -104,6 +106,7 @@ imagesource: "“Detail from 宋馬遠舉杯玩月軸 (moon)”, 馬遠;鍾禮, 
 <p>Since antiquity, such things have never been perfect.</p>
 <p>20 We can only hope that all our friends and families can live long lives,</p>
 <p>Looking at the moon together, across a thousand miles.</p>
+<p><br/></p>
 
 <h2>Critical Notes</h2>
 

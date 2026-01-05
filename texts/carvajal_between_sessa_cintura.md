@@ -53,6 +53,7 @@ imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.136v [Publ
 <p>caçando por la trauiesa,</p>
 <p>tope dama que dehesa</p>
 <p>parescia en su fermosura.</p>
+<p><br/></p>
 
 <p>5 Pense que fuese Diana</p>
 <p>que caçasse las siluestras,</p>
@@ -62,6 +63,7 @@ imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.136v [Publ
 <p>10 dixe, et dixo, non con priessa,</p>
 <p>“Si sennor, et principessa</p>
 <p>de Rosano por uentura”.</p>
+<p><br/></p>
 
 <p>O, flor de toda bellesa,</p>
 <p>o, templo de honestidat,</p>
@@ -71,6 +73,7 @@ imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.136v [Publ
 <p>que si en aquel templo de Baris</p>
 <p>uos fallara l’ynfante Paris,</p>
 <p>20 non fuera robada Elena.</p>
+<p><br/></p>
 
 <p>Nin de Bersabe, Dauid</p>
 <p>non se dexara vençer,</p>
@@ -80,11 +83,13 @@ imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.136v [Publ
 <p>que si iuntas uos mirara,</p>
 <p>muy menos se enamorara</p>
 <p>Archiles de Poliçena.</p>
+<p><br/></p>
 
 <p>Between Sessa and Cintura</p>
 <p>While hunting across the countryside,</p>
 <p>I came upon a lady who like a goddess</p>
 <p>Looked; such was her beauty.</p>
+<p><br/></p>
 
 <p>5 I thought she was Diana,</p>
 <p>Hunting wild beasts,</p>
@@ -94,6 +99,7 @@ imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.136v [Publ
 <p>10 I said, and she said with no hurry,</p>
 <p>“Yes sir, and the Princess</p>
 <p>Of Rossano by good fortune.”</p>
+<p><br/></p>
 
 <p>Oh, flower of extreme beauty,</p>
 <p>Oh, temple of honesty,</p>
@@ -103,6 +109,7 @@ imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.136v [Publ
 <p>If you had been in that temple of Bari</p>
 <p>And had met Prince Paris,</p>
 <p>20 Helen would not have been stolen away.</p>
+<p><br/></p>
 
 <p>Neither by Bathsheba, David</p>
 <p>Would have been conquered,</p>
@@ -112,6 +119,7 @@ imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.136v [Publ
 <p>That had [Achilles] seen the two of you next to each other,</p>
 <p>He would have never fallen in love</p>
 <p>With Polyxena.</p>
+<p><br/></p>
 
 <h2>Critical Notes</h2>
 

@@ -57,6 +57,7 @@ imagesource: "“Detail from 宋人卞莊子刺虎圖卷 (tiger)”, Anonymous, 
 <h2>To the tune “River Town”—Hunting in Mizhou | 江城子 · 密州出獵</h2>
 
 <p>江城子 密州出獵</p>
+<p><br/></p>
 
 <p>老夫聊發少年狂。</p>
 <p>左牽黃。</p>
@@ -74,9 +75,10 @@ imagesource: "“Detail from 宋人卞莊子刺虎圖卷 (tiger)”, Anonymous, 
 <p>會挽雕弓如滿月,</p>
 <p>15 西北望,</p>
 <p>射天狼。</p>
-
+<p><br/></p>
 
 <p>To the tune “River Town” Hunting in Mizhou</p>
+<p><br/></p>
 
 <p>I take on a young man’s arrogance for a moment,</p>
 <p>pulling a yellow dog with my left hand,</p>
@@ -94,6 +96,7 @@ imagesource: "“Detail from 宋人卞莊子刺虎圖卷 (tiger)”, Anonymous, 
 <p>By that time I will pull my carved bow into the shape of a full moon,</p>
 <p>15 aim to the northwest,</p>
 <p>and shoot down Sirius<sup>8</sup>.</p>
+<p><br/></p>
 
 <h2>Critical Notes</h2>
 

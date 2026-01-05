@@ -62,6 +62,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <h2>To the tune “The Lost Soul”—“On a thin boat, the light sail is furled” | 迷神引 · 一葉扁舟輕帆卷</h2>
 
 <p>迷神引</p>
+<p><br/></p>
 
 <p>一葉扁舟輕帆卷。</p>
 <p>暫泊楚江南岸。</p>
@@ -74,6 +75,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>畫屏展。</p>
 <p>10 天際遙山小，</p>
 <p>黛眉淺。</p>
+<p><br/></p>
 
 <p>舊賞輕抛，</p>
 <p>到此成遊宦。</p>
@@ -89,8 +91,10 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>殘照滿。</p>
 <p>佳人無消息，</p>
 <p>25 斷雲遠。</p>
+<p><br/></p>
 
 <p>To the tune “The Lost Soul”</p>
+<p><br/></p>
 
 <p>On a thin boat, the light sail is furled,</p>
 <p>temporarily stopped by the southern bank of the Chu River.<sup>1</sup></p>
@@ -103,6 +107,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>a painted screen unfolds:</p>
 <p>10 at the distant edge of the sky, the mountains are small,</p>
 <p>(like) her lightly-drawn black eyebrows. <sup>3</sup></p>
+<p><br/></p>
 
 <p>I have thrown away my old happiness too hastily,</p>
 <p>and come here as a drifting official.</p>
@@ -118,6 +123,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>the setting sun shines on all of them.<sup>5</sup></p>
 <p>There is no message from the fair one;</p>
 <p>25 the solitary patch of cloud is distant.</p>
+<p><br/></p>
 
 <h2>Critical Notes</h2>
 <ol id="l2">

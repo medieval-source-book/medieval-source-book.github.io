@@ -59,6 +59,7 @@ imagesource: "“Detail from 宋夏珪溪山清遠卷 (mountain)”, 夏珪, Nat
 
 <p>江神子</p>
 <p>乙卯正月二十日夜記夢</p>
+<p><br/></p>
 
 <p>十年生死兩茫茫。</p>
 <p>不思量。</p>
@@ -76,9 +77,11 @@ imagesource: "“Detail from 宋夏珪溪山清遠卷 (mountain)”, 夏珪, Nat
 <p>料得年年腸斷處,</p>
 <p>15 明月夜,</p>
 <p>短松岡。</p>
+<p><br/></p>
 
 <p>To the tune “River God”</p>
 <p>Recording a Dream on the Night of the Twentieth of the First Month of 1075 CE</p>
+<p><br/></p>
 
 <p>For ten years, the dead and the living have been separated by a vast and obscure distance<sup>1</sup>.</p>
 <p>I forced myself not to think of you,</p>
@@ -96,6 +99,7 @@ imagesource: "“Detail from 宋夏珪溪山清遠卷 (mountain)”, 夏珪, Nat
 <p>I know your heart breaks for me year after year</p>
 <p>15 on moonlit nights,</p>
 <p>upon the hill with the low pine trees.</p>
+<p><br/></p>
 
 <h2>Critical Notes</h2>
 

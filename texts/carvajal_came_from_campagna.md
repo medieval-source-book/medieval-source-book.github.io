@@ -54,6 +54,7 @@ imagesource: "Madrid, Biblioteca Nacional de España, VITR/17/7, fol. 154r [Publ
 <p>y’el sol se retraya,</p>
 <p>vi pastora muy loçana</p>
 <p>que su ganado recogia.</p>
+<p><br/></p>
 
 <p>5 Cabellos ruuios pintados,</p>
 <p>los beços gordos bermeios,</p>
@@ -63,6 +64,7 @@ imagesource: "Madrid, Biblioteca Nacional de España, VITR/17/7, fol. 154r [Publ
 <p>10 cantando alegre uenia</p>
 <p>e sy bien era uillana</p>
 <p>fija de algo parescia.</p>
+<p><br/></p>
 
 <p>El arreo de su persona:</p>
 <p>saya negra de sayal,</p>
@@ -72,6 +74,7 @@ imagesource: "Madrid, Biblioteca Nacional de España, VITR/17/7, fol. 154r [Publ
 <p>padre et madre obedescia</p>
 <p>e si bien era uillana</p>
 <p>20 fija d’algo parescia.</p>
+<p><br/></p>
 
 <p>“De seda rica nin grana</p>
 <p>non e deseo nin menos cura”.</p>
@@ -81,6 +84,7 @@ imagesource: "Madrid, Biblioteca Nacional de España, VITR/17/7, fol. 154r [Publ
 <p>çamarra et fuego tenia</p>
 <p>e sy bien era uillana</p>
 <p>fija d’algo parescia.</p>
+<p><br/></p>
 
 <p>“Entre io et mi carillo</p>
 <p>30 ganamos buena soldada;</p>
@@ -89,6 +93,7 @@ imagesource: "Madrid, Biblioteca Nacional de España, VITR/17/7, fol. 154r [Publ
 <p>iamas non me fallescia”.</p>
 <p>E sy bien era uillana</p>
 <p>35 fija d’algo parescia.</p>
+<p><br/></p>
 
 <p>“De triumphos et grandes honores</p>
 <p>yo non curo en negund tiempo;</p>
@@ -98,11 +103,13 @@ imagesource: "Madrid, Biblioteca Nacional de España, VITR/17/7, fol. 154r [Publ
 <p>muy poca estima fasia”.</p>
 <p>E sy bien era uillana</p>
 <p>fija d’algo parescia.</p>
+<p><br/></p>
 
 <p>As I came from Campagna,</p>
 <p>The sun was already setting,</p>
 <p>I saw a shepherdess of great beauty</p>
 <p>Collecting her flock.</p>
+<p><br/></p>
 
 <p>5 Blond-colored hair,</p>
 <p>Plump red lips,</p>
@@ -112,6 +119,7 @@ imagesource: "Madrid, Biblioteca Nacional de España, VITR/17/7, fol. 154r [Publ
 <p>10 She walked singing merrily,</p>
 <p>And although she was a peasant</p>
 <p>She looked like a noblewoman.</p>
+<p><br/></p>
 
 <p>As to her garments,</p>
 <p>A black skirt made of rough cloth,</p>
@@ -121,6 +129,7 @@ imagesource: "Madrid, Biblioteca Nacional de España, VITR/17/7, fol. 154r [Publ
 <p>She obeyed her mother and father.</p>
 <p>And although she was a peasant</p>
 <p>20 She looked like a noblewoman.</p>
+<p><br/></p>
 
 <p>“Of fine silk or riches</p>
 <p>I have no desire, nor do I care.”</p>
@@ -129,6 +138,7 @@ imagesource: "Madrid, Biblioteca Nacional de España, VITR/17/7, fol. 154r [Publ
 <p>She had sheepskin and a fire,</p>
 <p>And although she was a peasant</p>
 <p>She looked like a noblewoman.</p>
+<p><br/></p>
 
 <p>“My lover and I</p>
 <p>30 Earn a good living;</p>
@@ -137,6 +147,7 @@ imagesource: "Madrid, Biblioteca Nacional de España, VITR/17/7, fol. 154r [Publ
 <p>I never lacked.”</p>
 <p>And although she was a peasant</p>
 <p>35 She looked like a noblewoman.</p>
+<p><br/></p>
 
 <p>“About triumphs and great honors</p>
 <p>I will not ever care;</p>
@@ -146,6 +157,7 @@ imagesource: "Madrid, Biblioteca Nacional de España, VITR/17/7, fol. 154r [Publ
 <p>I had little consideration.”</p>
 <p>And although she was a peasant</p>
 <p>She looked like a noblewoman.</p>
+<p><br/></p>
 
 <h2>Critical Notes</h2>
 

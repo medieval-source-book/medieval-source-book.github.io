@@ -58,6 +58,7 @@ imagesource: "Detail from 宋夏珪溪山清遠(Open Water) 卷, National Palace
 <h2>To the tune “Yearning for the Prince”—“Wind comes from the lake and the waves are misty and grand” | 怨王孫 · 湖上風來波浩渺</h2>
 
 <p>怨王孫</p>
+<p><br/></p>
 
 <p>湖上風來波浩渺，</p>
 <p>秋已暮、</p>
@@ -65,6 +66,7 @@ imagesource: "Detail from 宋夏珪溪山清遠(Open Water) 卷, National Palace
 <p>水光山色與人親，</p>
 <p>5 說不儘、</p>
 <p>無窮好。</p>
+<p><br/></p>
 
 <p>蓮子已成荷葉老。</p>
 <p>清露洗、</p>
@@ -72,9 +74,11 @@ imagesource: "Detail from 宋夏珪溪山清遠(Open Water) 卷, National Palace
 <p>10 眠沙鷗鷺不回頭，</p>
 <p>似也恨、</p>
 <p>人歸早。</p>
+<p><br/></p>
 
 
 <p>To the tune “Yearning for the Prince”</p>
+<p><br/></p>
 
 <p>Wind comes from the lake and the waves are misty and grand.</p>
 <p>The autumn is late;</p>
@@ -82,6 +86,7 @@ imagesource: "Detail from 宋夏珪溪山清遠(Open Water) 卷, National Palace
 <p>The radiance of the water and the colors of the mountain are friendly to the people.</p>
 <p>5 One cannot talk enough</p>
 <p>about their endless beauty.</p>
+<p><br/></p>
 
 <p>The lotus seeds are ripe and the leaves are old,</p>
 <p>Clear dew washes over</p>
@@ -89,6 +94,7 @@ imagesource: "Detail from 宋夏珪溪山清遠(Open Water) 卷, National Palace
 <p>10 Gulls and egrets sleep on the sand without turning their heads,</p>
 <p>as if they resent me</p>
 <p>for returning too early.</p>
+<p><br/></p>
 
 <h2>Critical Notes</h2>
 

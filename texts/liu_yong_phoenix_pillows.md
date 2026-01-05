@@ -61,6 +61,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <h2>To the tune “Stop Your Horse and Listen”—“Phoenix pillows and curtains” | 駐馬聽 · 鳳枕鸞帷</h2>
 
 <p>駐馬聽</p>
+<p><br/></p>
 
 <p>鳳枕鸞帷。</p>
 <p>二三載，</p>
@@ -74,6 +75,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>10 無事孜煎，</p>
 <p>萬回千度，</p>
 <p>怎忍分離。</p>
+<p><br/></p>
 
 <p>而今漸行漸遠，</p>
 <p>漸覺雖悔難追。</p>
@@ -84,8 +86,10 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>縱再會，</p>
 <p>20 只恐恩情，</p>
 <p>難似當時。</p>
+<p><br/></p>
 
 <p>To the tune “Stop Your Horse and Listen”</p>
+<p><br/></p>
 
 <p>Phoenix pillows and curtains.<sup>1</sup></p>
 <p>For two or three years,</p>
@@ -99,6 +103,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>10 When I have nothing to do, I feel like I’m being roasted over a fire;</p>
 <p>a thousand, ten thousand times (I think of my past)—</p>
 <p>how could I bear to leave her?</p>
+<p><br/></p>
 
 <p>Yet now the more I travel, the further away she is.</p>
 <p>I have gradually realized that, even though I regret leaving her, the past can never be retrieved.</p>
@@ -109,6 +114,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>Even if we reunite,</p>
 <p>20 I am afraid our love</p>
 <p>could hardly be what it was.</p>
+<p><br/></p>
 
 <h2>Critical Notes</h2>
 <ol id="l2">

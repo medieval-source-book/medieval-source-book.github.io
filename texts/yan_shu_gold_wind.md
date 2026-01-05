@@ -53,28 +53,34 @@ imagesource: "Detail from 宋郭忠恕山水圖(Narrow Road)軸, 郭忠恕, Nati
 <h2>To the tune “Qingping Music”—“The gold wind is gentle and tender” |  清平樂 · 金風細細</h2>
 
 <p>清平樂</p>
+<p><br/></p>
 
 <p>金風細細。</p>
 <p>葉葉梧桐墜。</p>
 <p>綠酒初嘗人易醉。</p>
 <p>一枕小窗濃睡。</p>
+<p><br/></p>
 
 <p>5 紫薇朱槿花殘。</p>
 <p>斜陽卻照闌干。</p>
 <p>雙燕欲歸時節，</p>
 <p>銀屏昨夜微寒。</p>
+<p><br/></p>
 
 <p>To the tune “Qingping Music”</p>
+<p><br/></p>
 
 <p>The gold wind is gentle and tender,</p>
 <p>The leaves of the parasol tree fall one by one.</p>
 <p>The first taste of the green wine easily makes one tipsy.</p>
 <p>Lying by the window, I sleep soundly.</p>
+<p><br/></p>
 
 <p>5 The crepe-myrtle and hibiscus have withered,</p>
 <p>But the slanting sun still shines on the railing.</p>
 <p>It is the time when swallows are about to depart in pairs;</p>
 <p>Last night it was slightly cold behind the silver screen.</p>
+<p><br/></p>
 
 <h2>Critical Notes</h2>
 <p><i>Line 1:</i> “Gold wind” refers to the autumn wind.</p>

@@ -60,11 +60,13 @@ imagesource: "Detail from 宋人花王圖(Flower) 軸, Anonymous, National Palac
 <h2>To the tune “Revealing Inmost Feelings”—”At night, I was drunk and did not take off my makeup” | 訴衷情· 夜來沉醉卸妝遲</h2>
 
 <p>訴衷情</p>
+<p><br/></p>
 
 <p>夜來沉醉卸妝遲</p>
 <p>梅萼插殘枝。</p>
 <p>酒醒熏破春睡，</p>
 <p>夢斷不成歸。</p>
+<p><br/></p>
 
 <p>5 人悄悄， </p>
 <p>月依依。</p>
@@ -72,6 +74,7 @@ imagesource: "Detail from 宋人花王圖(Flower) 軸, Anonymous, National Palac
 <p>更挼殘蕊，</p>
 <p>更撚餘香，</p>
 <p>10 更得些時。</p>
+<p><br/></p>
 
 <p>To the tune “Revealing Inmost Feelings”</p>
 
@@ -79,6 +82,7 @@ imagesource: "Detail from 宋人花王圖(Flower) 軸, Anonymous, National Palac
 <p>The plum blossom petals withered on the twig.</p>
 <p>As I sobered up, their smell broke the spring sleep;</p>
 <p>the dream ended before I was able to reach home.</p>
+<p><br/></p>
 
 <p>5 There was no sound of people,</p>
 <p>The moon lingered on,</p>

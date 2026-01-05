@@ -54,32 +54,38 @@ imagesource: "Detail from 宋人洛陽耆英會圖(Wise Men Talking Together) �
 <h2>To the tune “Waves Scour the Sand”—“I hold up the wine and toast the eastern wind” | 浪淘沙· 把酒祝東風</h2>
 
 <p>浪淘沙</p>
+<p><br/></p>
 
 <p>把酒祝東風。</p>
 <p>且共從容。</p>
 <p>垂楊紫陌洛城東。</p>
 <p>總是當時攜手處，</p>
 <p>5 游遍芳叢。</p>
+<p><br/></p>
 
 <p>聚散苦匆匆。</p>
 <p>此恨無窮。</p>
 <p>今年花勝去年紅。</p>
 <p>可惜明年花更好，</p>
 <p>10 知與誰同。</p>
+<p><br/></p>
 
 <p>To the tune “Waves Scour the Sand”</p>
+<p><br/></p>
 
 <p>I hold up the wine and toast the eastern wind,</p>
 <p>“Let us dally and not rush.”</p>
 <p>Along the lilac-laden path with drooping willows in the east of Luoyang,</p>
 <p>Is where we used to walk hand in hand,</p>
 <p>5 Roaming among the thickets of fragrance.</p>
+<p><br/></p>
 
 <p>Gathering together is always fleeting and separating is always bitter.</p>
 <p>My regrets about this have no end.</p>
 <p>The flowers this year are redder than the last;</p>
 <p>It is a pity that when next year’s ones are even better,</p>
 <p>10 I do not know with whom I will look at them.</p>
+<p><br/></p>
 
 <h2>Critical Notes</h2>
 <p>Line 5: <em>Fragrance</em> refers to flowers</p>

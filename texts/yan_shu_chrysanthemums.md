@@ -53,33 +53,39 @@ imagesource: "宋錢選荔枝圖(Lychee)　卷, 夏珪,  National Palace Museum,
 <h2>To the tune “Magpie Treads the Branch”—“Chrysanthemums by the railings wilt” | 鹊踏枝 · 檻菊愁煙蘭泣露</h2>
 
 <p>鹊踏枝</p>
+<p><br/></p>
 
 <p>檻菊愁煙蘭泣露。</p>
 <p>羅幕輕寒，</p>
 <p>燕子雙飛去。</p>
 <p>明月不諳離恨苦。</p>
 <p>5 斜光到曉穿朱戶。</p>
+<p><br/></p>
 
 <p>昨夜西風凋碧樹。</p>
 <p>獨上高樓，</p>
 <p>望盡天涯路。</p>
 <p>欲寄彩箋兼尺素。</p>
 <p>10 山長水闊知何處。</p>
+<p><br/></p>
 
 
 <p>To the tune “Magpie Treads the Branch”</p>
+<p><br/></p>
 
 <p>Chrysanthemums by the railings wilt in the mist, the orchids weep dew.</p>
 <p>Inside the silken bed canopy, it is slightly cold;</p>
 <p>Swallows fly away in pairs.</p>
 <p>The bright moon does not know the bitterness of parting;</p>
 <p>5 Its slanting light penetrates my painted window until daybreak.</p>
+<p><br/></p>
 
 <p>Last night, the west wind withered the emerald tree.</p>
 <p>Alone, I ascended the high tower,</p>
 <p>To stare at the road that leads to the edge of the world.</p>
 <p>I want to send letters on colored paper and white silk,</p>
 <p>10 The mountains are wide, the rivers broad, how do I know where you are?</p>
+<p><br/></p>
 
 <h2>Critical Notes</h2>
 

@@ -62,6 +62,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <h2>To the tune “Spring of the Brocade Hall”—“Drooping hair-bun, I am too listless to comb it” | 锦堂春 · 墜髻慵梳</h2>
 
 <p>锦堂春</p>
+<p><br/></p>
 
 <p>墜髻慵梳，</p>
 <p>愁蛾懶畫，</p>
@@ -73,6 +74,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>把芳容整頓，</p>
 <p>恁地輕孤，</p>
 <p>10 爭忍心安。</p>
+<p><br/></p>
 
 <p>依前過了舊約，</p>
 <p>甚當初賺我，</p>
@@ -86,8 +88,10 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>20 盡更深、</p>
 <p>款款問伊，</p>
 <p>今後更敢無端。</p>
+<p><br/></p>
 
 <p>To the tune “Spring of the Brocade Hall”</p>
+<p><br/></p>
 
 <p>Drooping hair-bun, I am too listless to comb it;</p>
 <p>Frowning eyebrows,<sup>1</sup> I am too tired to draw them.</p>
@@ -99,6 +103,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>I should fix the makeup on my flower-like face—</p>
 <p>failing my youthful years like this,</p>
 <p>10 how can I live with myself?</p>
+<p><br/></p>
 
 <p>As usual, he broke his promises.</p>
 <p>He indeed deceived me then,</p>
@@ -112,6 +117,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>20 When the night is late,</p>
 <p>I will ask him slowly,</p>
 <p>“From now on, do you dare to be so unreasonable?”</p>
+<p><br/></p>
 
 <h2>Critical Notes</h2>
 

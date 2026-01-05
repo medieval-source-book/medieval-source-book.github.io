@@ -53,20 +53,25 @@ imagesource: "Detail from 宋趙伯駒秋山無盡圖(Courtyard)卷, 趙伯駒, 
 <h2>To the tune “Sands of the Washing Stream”—“A single new song, a single cup of wine” | 浣溪沙 · 一曲新詞酒一杯</h2>
 
 <p>浣溪沙</p>
+<p><br/></p>
 
 <p>曲新詞酒一杯。</p>
 <p>去年天氣舊亭臺。</p>
 <p>夕陽西下幾時回。</p>
+<p><br/></p>
 
 <p>無可奈何花落去。</p>
 <p>5 似曾相識燕歸來。</p>
 <p>小園香徑獨徘徊。</p>
+<p><br/></p>
 
 <p>To the tune “Sands of the Washing Stream”</p>
+<p><br/></p>
 
 <p>A single new song, a single cup of wine</p>
 <p>On the old terrace in last year’s weather.</p>
 <p>The setting sun has gone west, when will it return?</p>
+<p><br/></p>
 
 <p>There’s no help for it, the blossoms fall and disappear;</p>
 <p>5 I seem to recognize them, the swallows come back again.</p>

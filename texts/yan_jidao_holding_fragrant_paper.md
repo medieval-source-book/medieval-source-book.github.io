@@ -57,30 +57,36 @@ imagesource: "“Detail from 宋黃居寀山鷓棘雀圖軸 (birds on branches)�
 <h2>To the tune “Partridge in the Sky”—“Holding the fragrant paper in my hand” | 鷓鴣天 · 手撚香箋憶小蓮</h2>
 
 <p>鷓鴣天</p>
+<p><br/></p>
 
 <p>手撚香箋憶小蓮。</p>
 <p>欲將遺恨倩誰傳。</p>
 <p>歸來獨臥逍遙夜，</p>
 <p>夢裏相逢酩酊天。</p>
+<p><br/></p>
 
 <p>5 花易落，</p>
 <p>月難圓。</p>
 <p>只應花月似歡緣。</p>
 <p>秦箏算有心情在，</p>
 <p>試寫離聲入舊弦。</p>
+<p><br/></p>
 
 <p>To the tune “Partridge in the Sky”</p>
+<p><br/></p>
 
 <p>Holding the fragrant paper in my hand, I think about Xiaolian.</p>
 <p>Whom should I ask to send my regrets?</p>
 <p>After I came home, I lay by myself at night;</p>
 <p>I dreamt that I had an utterly drunk day and met her.</p>
+<p><br/></p>
 
 <p>5 Flowers wither easily;</p>
 <p>the moon waxes with difficulty.</p>
 <p>Maybe joyful relationships are like flowers and the moon.</p>
 <p>If the Qin zither could convey my feelings,</p>
 <p>I would try to play the old strings with all my sadness.</p>
+<p><br/></p>
 
 <h2>Critical Notes</h2>
 

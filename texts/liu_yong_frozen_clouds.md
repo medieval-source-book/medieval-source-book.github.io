@@ -62,6 +62,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <h2>To the tune “Midnight Tune”—“Frozen clouds dim the sky” | 夜半樂 · 凍雲黯淡天氣</h2>
 
 <p>夜半樂</p>
+<p><br/></p>
 
 <p>凍雲黯淡天氣，</p>
 <p>扁舟一葉，</p>
@@ -74,6 +75,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>片帆高舉。</p>
 <p>10 泛畫鷁、</p>
 <p>翩翩過南浦。</p>
+<p><br/></p>
 
 <p>望中酒旆閃閃，</p>
 <p>一簇煙村，</p>
@@ -86,6 +88,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>20 浣沙遊女。</p>
 <p>避行客、</p>
 <p>含羞笑相語。</p>
+<p><br/></p>
 
 <p>到此因念，</p>
 <p>繡閣輕抛，</p>
@@ -97,8 +100,10 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>30 凝淚眼、</p>
 <p>杳杳神京路。</p>
 <p>斷鴻聲遠長天暮。</p>
+<p><br/></p>
 
 <p>To the tune “Midnight Tune”</p>
+<p><br/></p>
 
 <p>Frozen clouds dim the sky,</p>
 <p>a thin boat</p>
@@ -111,6 +116,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>The lone sail hangs high;</p>
 <p>10 on the painted bird,<sup>3</sup></p>
 <p>I swiftly pass the southern bank.</p>
+<p><br/></p>
 
 <p>Before my eyes, the wine shop banner swings,</p>
 <p>a small village wreathed in smoke,</p>
@@ -123,6 +129,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>20 girls are doing laundry.<sup>5</sup></p>
 <p>Avoiding the travelers,</p>
 <p>shy, they smile, chatting to each other.</p>
+<p><br/></p>
 
 <p>Being here brings back my thoughts.</p>
 <p>I have abandoned the embroidered chamber.<sup>6</sup></p>
@@ -134,6 +141,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>30 I let my watery eyes gaze</p>
 <p>at the long, distant road to the capital.</p>
 <p>The cry of the wild goose resounds, lingering in the vast evening sky.</p>
+<p><br/></p>
 
 <h2>Critical Notes</h2>
 

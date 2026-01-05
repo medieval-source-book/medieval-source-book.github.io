@@ -54,6 +54,7 @@ imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.138r [Publ
 <p>por una montanna desierta, fraguosa,</p>
 <p>falle una uillana feroçe, espantosa,</p>
 <p>armada su mano con lança porquera.</p>
+<p><br/></p>
 
 <p>5 Tenia grand fuego cabe una fontana</p>
 <p>y en veiendome luego syn otra peresa</p>
@@ -63,6 +64,7 @@ imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.138r [Publ
 <p>10 por esta grand silua deshabitada?”</p>
 <p>“Sennora, cruesa de mi enamorada</p>
 <p>me trahe fuyendo aquí donde ueys.”</p>
+<p><br/></p>
 
 <p>“La perfection de nosotras, mugeres,</p>
 <p>es de los trese fasta quinse annos;</p>
@@ -72,6 +74,7 @@ imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.138r [Publ
 <p>aquella por quien soys tanto penado,</p>
 <p>sabed que seredes el mas padesciente</p>
 <p>20 et syenpre os uereys ser menos amado.</p>
+<p><br/></p>
 
 <p>“Amad, amadores, muger que non sabe,</p>
 <p>a quien toda cosa paresca ser nueua,</p>
@@ -81,16 +84,19 @@ imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.138r [Publ
 <p>rompiendo el uelo de rica ignocencia</p>
 <p>supo su mal et su gloria perdida:</p>
 <p>guardaos de muger que ha platica et scientia.</p>
+<p><br/></p>
 
 <p>“Amad, amadores, la tierna hedat,</p>
 <p>30 quando el tiempo requiere natura</p>
 <p>‘questa non tiene ninguna crueldat</p>
 <p>nin offende al amante luenga tristura.</p>
+<p><br/></p>
 
 <p>Wandering lost, it was already night,</p>
 <p>By a deserted and craggy mountain</p>
 <p>I found a ferocious and hideous peasant woman</p>
 <p> Her hand armed with a javelin lance.</p>
+<p><br/></p>
 
 <p>5 She was tending a big fire near a fountain</p>
 <p>And then when she saw me, without thinking twice,</p>
@@ -100,6 +106,7 @@ imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.138r [Publ
 <p>10 In this great uninhabited wood?”</p>
 <p>“My lover’s cruelty, madam,</p>
 <p>Has made me escape here where you see me.”</p>
+<p><br/></p>
 
 <p>“Perfection in us women</p>
 <p>Spans between our thirteenth and fifteenth year;</p>
@@ -109,6 +116,7 @@ imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.138r [Publ
 <p>She for whom you are suffering so much,</p>
 <p>Know that you will continue to suffer the most</p>
 <p>20 And will always feel less loved.</p>
+<p><br/></p>
 
 <p>“Lovers, love a woman who does not know,</p>
 <p>One to whom everything seems new;</p>
@@ -118,8 +126,10 @@ imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.138r [Publ
 <p>Breaking the veil of pleasant innocence,</p>
 <p>She learnt her troubles and lost her glory:</p>
 <p>Beware of women who have practice and knowledge.</p>
+<p><br/></p>
 
 <p>“Lovers, love the tender age</p>
 <p>30 When time calls for nature;</p>
 <p>This age harbors no cruelty</p>
 <p>Or afflicts a lover with enduring sadness.”</p>
+<p><br/></p>

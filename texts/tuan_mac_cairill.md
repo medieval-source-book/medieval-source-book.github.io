@@ -80,66 +80,79 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Do-rad Ísu for anfos</p>
 <p>Di-rumalt cét m-blíadan m-búan</p>
 <p>A richt duine, ba deg-dúal.</p>
+<p><br/></p>
 
 <p>5 Trí cét blíadan dó i richt</p>
 <p>Daim allaid forsna mór-muigib</p>
 <p>Do-rumailt cét m-blíadan m-bil</p>
 <p>A richt antrellaig allaid.</p>
+<p><br/></p>
 
 <p>Trí cét blíadan dó for feóil</p>
 <p>10 dia raibi i richt in t-sen-eóin</p>
 <p>do-rumailt cét m-blíadan m-binn</p>
-<p>i richt bratáin bodair-chinn.</p>
+<p>i richt bratáin bodair-chinn.</p>'
+<p><br/></p>
 
 <p>Co fúair íascaire ‘na linn</p>
 <p>co tuc leis do dún an ríg</p>
 <p>15 ó ‘t-ces an t-écne glé glan</p>
 <p>ro míanaig an banrígan.</p>
+<p><br/></p>
 
 <p>Ro fuineth dí é for ruth</p>
 <p>gu ro tomail a h-óenur</p>
 <p>ro toirrched an rígan rán</p>
 <p>20 is de ro choimpred Tuan.</p>
+<p><br/></p>
 
 <p>Tuan mac Stairn sdiurda slóig,</p>
 <p>é mac bráthar Partolóin</p>
 <p>ba h-é Finntan, ferrdi a rádh</p>
 <p>frisi n-abairthea Tuan.</p>
+<p><br/></p>
 
 <p>25 Is dó at-chúaid an scél-sa iar fír</p>
 <p>co nach raib nech ‘na imṡním</p>
 <p>Finnén Maige Bile báin</p>
 <p>ro baí ac acalláim Tuain.</p>
+<p><br/></p>
 
 <p>Tuán mac Cairill—it was heard</p>
 <p>Jesus caused him to wander.</p>
 <p>He spent one hundred long years</p>
 <p>In the shape of a human being; it was an excellent destiny</p>
+<p><br/></p>
 
 <p>5 Three hundred years [he spent] in the shape</p>
 <p>Of a wild stag on a great stretch of land.</p>
 <p>He spent one hundred fortunate years</p>
 <p>In the shape of a wild boar.</p>
+<p><br/></p>
 
 <p>Three hundred years [he spent] for the purpose [of being] (in?) flesh</p>
 <p>10 From which he was in the shape of an ancient bird.</p>
 <p>He spent one hundred harmonious years</p>
 <p>In the shape of a wandering chief salmon.</p>
+<p><br/></p>
 
 <p>Until a fisherman discovered him in his fishing net.</p>
 <p>He brought it with him to the dwelling of the king.</p>
 <p>15 From his basket, the queen desired</p>
 <p>The very bright fish.</p>
+<p><br/></p>
 
 <p>He concealed it for her quickly</p>
 <p>So that she consumed it alone.</p>
 <p>The noble queen was impregnated;</p>
 <p>20 It is from this that Tuán was conceived.</p>
+<p><br/></p>
 
 <p>Tuán mac Starn: guide of a host</p>
 <p>Son of the brother of Partholón.</p>
 <p>It was Finntan who was more skilled in speaking</p>
 <p>In regards to the feats of Tuán.</p>
+<p><br/></p>
 
 <p>25 It is from him that the story is related according to truth</p>
 <p>So that no one was in concern in regards to it.</p>

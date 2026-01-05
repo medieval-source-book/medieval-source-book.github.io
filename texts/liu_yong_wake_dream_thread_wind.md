@@ -60,6 +60,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <h2>To the tune “Waves Scour the Sand”—“I wake from a dream” | 浪淘沙 · 夢覺</h2>
 
 <p>浪淘沙</p>
+<p><br/></p>
 
 <p>夢覺、</p>
 <p>透窗風一線，</p>
@@ -73,6 +74,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>10 便忍把、</p>
 <p>從前歡會，</p>
 <p>陡頓翻成憂戚。</p>
+<p><br/></p>
 
 <p>愁極。</p>
 <p>再三追思，</p>
@@ -84,6 +86,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>20 殢雲尤雨，</p>
 <p>有萬般千種，</p>
 <p>相憐相惜。</p>
+<p><br/></p>
 
 <p>恰到如今，</p>
 <p>天長漏永，</p>
@@ -94,8 +97,10 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>輕輕細說與，</p>
 <p>30 江鄉夜夜，</p>
 <p>數寒更思憶。</p>
+<p><br/></p>
 
 <p>To the tune “Waves Scour the Sand”</p>
+<p><br/></p>
 
 <p>I wake from a dream,</p>
 <p>a thread of wind pierces the window.</p>
@@ -109,6 +114,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>10 How could I have turned</p>
 <p>the happy times of the past</p>
 <p>so suddenly into worry and regret?</p>
+<p><br/></p>
 
 <p>In the gravest sorrow,</p>
 <p>I recall again and again,</p>
@@ -120,6 +126,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>20 Cozying up to each other in cloud-and-rain,<sup>2</sup></p>
 <p>there were a thousand kinds</p>
 <p>of love and tenderness.</p>
+<p><br/></p>
 
 <p>Yet now</p>
 <p>the days are long and the night is dark.</p>
@@ -130,6 +137,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>whisper to her softly and slowly</p>
 <p>30 about the nights in this river town:</p>
 <p>as I counted the coldness,<sup>4</sup> I yearned for her more and more.</p>
+<p><br/></p>
 
 <h2>Critical Notes</h2>
 <ol id="l2">

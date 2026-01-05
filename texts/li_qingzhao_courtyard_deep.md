@@ -60,32 +60,38 @@ imagesource: "Detail from 元盛懋柳陰書屋(Willow House) 軸, 盛懋, Natio
 <h2>To the tune “Immortal by the River”—“The courtyard is deep, how far does it extend” | 臨江仙 · 庭院深深深幾許</h2>
 
 <p>臨江仙</p>
+<p><br/></p>
 
 <p>庭院深深深幾許，</p>
 <p>雲窗霧閣常扃。</p>
 <p>柳梢梅萼漸分明。</p>
 <p>春歸秣陵樹，</p>
 <p>5 人客建康城。</p>
+<p><br/></p>
 
 <p>感月吟風多少事，</p>
 <p>如今老去無成。</p>
 <p>誰憐憔悴更凋零。</p>
 <p>試燈無意思，</p>
 <p>10 踏雪沒心情。</p>
+<p><br/></p>
 
 <p>To the tune “Immortal by the River”</p>
+<p><br/></p>
 
 <p>The courtyard is deep, how far does it extend?</p>
 <p>The windows and chambers, wrapped in mist, are always shut.</p>
 <p>New willow shoots and plum blossoms grow.</p>
 <p>Spring returns to the trees of Moling;</p>
 <p>5 I am a stranger in Jiankang City.</p>
+<p><br/></p>
 
 <p>Moved by the moon and chanting to the wind, how many things have happened!</p>
 <p>Now I am old and have achieved nothing.</p>
 <p>Who would pity thin and withered me?</p>
 <p>I have no interest in the lantern trial,</p>
 <p>10 I am not in the mood to walk through the snow.</p>
+<p><br/></p>
 
 
 <h2>Critical Notes</h2>

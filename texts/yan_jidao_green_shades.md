@@ -58,6 +58,7 @@ imagesource: "Detail from 宋法常寫生卷 (flower)\", 法常, National Palace
 <h2>To the tune “Six Beats”—“Green shades of the trees mark the end of spring” | 六麼令 · 綠陰春盡</h2>
 
 <p>六麼令</p>
+<p><br/></p>
 
 <p>綠陰春盡，</p>
 <p>飛絮繞香閣。</p>
@@ -68,6 +69,7 @@ imagesource: "Detail from 宋法常寫生卷 (flower)\", 法常, National Palace
 <p>畫簾遮匝。</p>
 <p>新翻曲妙，</p>
 <p>暗許閒人帶偷掐。</p>
+<p><br/></p>
 
 <p>10 前度書多隱語，</p>
 <p>意淺愁難答。</p>
@@ -78,9 +80,11 @@ imagesource: "Detail from 宋法常寫生卷 (flower)\", 法常, National Palace
 <p>不消紅蠟。</p>
 <p>閒雲歸後，</p>
 <p>月在庭花舊闌角。</p>
+<p><br/></p>
 
 
 <p>To the tune “Six Beats”</p>
+<p><br/></p>
 
 <p>Green shades of the trees mark the end of spring;</p>
 <p>catkins fly around the fragrant pavilion.</p>
@@ -91,6 +95,7 @@ imagesource: "Detail from 宋法常寫生卷 (flower)\", 法常, National Palace
 <p>Painted curtains shield me,</p>
 <p>and my newly-written song is marvelous.</p>
 <p>I secretly allow the passers-by to overhear it, snatch it away and learn its rhythms.</p>
+<p><br/></p>
 
 <p>10 In your last letter you used many cryptic words;</p>
 <p>although not hard to decipher, I worry that it’s hard for me to answer.</p>
@@ -101,6 +106,7 @@ imagesource: "Detail from 宋法常寫生卷 (flower)\", 法常, National Palace
 <p>No need to waste a red candle,</p>
 <p>for as the idle clouds return,</p>
 <p>moonlight shall light the old corner of the fences, just by the courtyard flowers.</p>
+<p><br/></p>
 
 <h2>Critical Notes</h2>
 

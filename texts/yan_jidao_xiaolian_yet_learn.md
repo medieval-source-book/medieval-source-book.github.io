@@ -59,29 +59,35 @@ imagesource: "Detail from 宋高宗書女孝經馬和之補圖上卷 (Women)\", 
 <h2>To the tune “Magnolia Flower”—“Xiaolian has yet to learn to unravel her heart’s tangled feelings” | 木蘭花 · 小蓮未解論心素</h2>
 
 <p>木蘭花</p>
+<p><br/></p>
 
 <p>小蓮未解論心素。</p>
 <p>狂似鈿箏弦底柱。</p>
 <p>臉邊霞散酒初醒，</p>
 <p>眉上月殘人慾去。</p>
+<p><br/></p>
 
 <p>5 舊時家近章臺住。</p>
 <p>盡日東風吹柳絮。</p>
 <p>生憎繁杏綠陰時，</p>
 <p>正礙粉牆偷眼覷。</p>
+<p><br/></p>
 
 
 <p>To the tune “Magnolia Flower”</p>
+<p><br/></p>
 
 <p>Xiaolian has yet to learn to unravel her heart’s tangled feelings;</p>
 <p>her feelings are as wild as the passionate music played on the thin string of the zither.</p>
 <p>The rosy clouds on her cheeks disperse; she sobers up.</p>
 <p>Her crescent eyebrows fade; her guests are about to leave.</p>
+<p><br/></p>
 
 <p>5 She used to live on Zhangtai Street,</p>
 <p>where the eastern wind blew the catkins all day long.</p>
 <p>She hates it the most when the apricot blossoms and green shade become dense,</p>
 <p>which hinders her from peaking over the white plastered wall.</p>
+<p><br/></p>
 
 <h2>Critical Notes</h2>
 

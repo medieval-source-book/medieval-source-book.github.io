@@ -61,32 +61,38 @@ imagesource: "Detail from Incense burner in the shape of a goose, Han dynasty (2
 <h2>To the tune “Drunk under the Shadow of Flowers”—“In thin fog and heavy mist” | 醉花陰 · 薄霧濃雰愁永晝</h2>
 
 <p>醉花陰</p>
+<p><br/></p>
 
 <p>薄霧濃雰愁永晝。</p>
 <p>瑞腦銷金獸。</p>
 <p>佳節又重陽，</p>
 <p>玉枕紗廚，</p>
 <p>5 半夜涼初透。</p>
+<p><br/></p>
 
 <p>東籬把酒黃昏後。</p>
 <p>有暗香盈袖。</p>
 <p>莫道不銷魂，</p>
 <p>簾卷西風，</p>
 <p>10 人比黃花瘦。</p>
+<p><br/></p>
 
 <p>To the tune “Drunk under the Shadow of Flowers”</p>
+<p><br/></p>
 
 <p>In thin fog and heavy mist, I am dismayed by the eternal daytime.</p>
 <p>The dragon-brain incense melts in the metal beast.</p>
 <p>It is again the festival of Double Ninth.</p>
 <p>Jade pillow and gauze canopy;</p>
 <p>5 at midnight, a chill starts to pierce through.</p>
+<p><br/></p>
 
 <p>By the eastern fence, I drink after dusk.</p>
 <p>There is a faint fragrance filling up my sleeves.</p>
 <p>Do not say that it does not consume the soul:</p>
 <p>the western wind rolls up the curtain;</p>
 <p>10 I am thinner than the yellow flower.</p>
+<p><br/></p>
 
 <h2>Critical Notes</h2>
 

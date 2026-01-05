@@ -54,29 +54,35 @@ imagesource: "Detail from 宋夏珪真蹟(Two Men Talking) 卷 , 夏珪,  Nation
 <h2>To the tune “Spring in the Jade Building”—“Since we parted I do not know how far away you are” | 玉樓春 · 別後不知君遠近</h2>
 
 <p>玉樓春</p>
+<p><br/></p>
 
 <p>別後不知君遠近。</p>
 <p>觸目淒涼多少悶。</p>
 <p>漸行漸遠漸無書，</p>
 <p>水闊魚沉何處問。</p>
+<p><br/></p>
 
 <p>夜深風竹敲秋韻。</p>
 <p>萬葉千聲皆是恨。</p>
 <p>故欹單枕夢中尋，</p>
 <p>夢又不成燈又燼。</p>
+<p><br/></p>
 
 
 <p>To the tune “Spring in the Jade Building”</p>
+<p><br/></p>
 
 <p>Since we parted I do not know how far away you are,</p>
 <p>Whatever meets my eye looks desolate, so much sadness!</p>
 <p>The longer we are apart, the further away you are, the fewer letters sent.</p>
 <p>The water is wide and the fish has sunk, where can I ask about you?</p>
+<p><br/></p>
 
 <p>5 The night is late, the wind-blown bamboos strike the autumn rhyme.</p>
 <p>In the thousand notes made by tens of thousands of leaves, there is nothing but regret.</p>
 <p>Thus I lean onto the lonesome pillow to search for you in my dream,</p>
 <p>Yet the dream does not come and the lamp is burnt out.</p>
+<p><br/></p>
 
 <h2>Critical Notes</h2>
 <p>Line 4: “The fish has sunk” is a common idiom to express a lack of communication</p>

@@ -54,28 +54,34 @@ imagesource: "Detail from 宋元集繪 冊 宋緙絲翠羽秋荷(Lotuses), Anony
 <h2>To the tune “Magnolia Flower”—“The water in the pond is green” | 木蘭花 · 池塘水綠風微暖</h2>
 
 <p>木蘭花</p>
+<p><br/></p>
 
 <p>池塘水綠風微暖。</p>
 <p>記得玉真初見面。</p>
 <p>重頭歌韻響錚琮，</p>
 <p>入破舞腰紅亂旋。</p>
+<p><br/></p>
 
 <p>5 玉鉤闌下香階畔。</p>
 <p>醉後不知斜日晚。</p>
 <p>當時共我賞花人，</p>
 <p>點檢如今無一半。</p>
+<p><br/></p>
 
 <p>To the tune “Magnolia Flower”</p>
+<p><br/></p>
 
 <p>The water in the pond is green, and the wind is slightly warm.</p>
 <p>I remember meeting Yuzhen for the first time.</p>
 <p>The double-head song is loud and emotional,</p>
 <p>As the coda began, her waist swung and her red skirt swirled.</p>
+<p><br/></p>
 
 <p>5 By the railings under the jade hooks and in front of the fragrant steps,</p>
 <p>I was drunk, not knowing that the sun had slanted and the time was late.</p>
 <p>The men who appreciated the flowers with me at that time,</p>
 <p>Now as I count them, are fewer than half.</p>
+<p><br/></p>
 
 <h2>Critical Notes</h2>
 

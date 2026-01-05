@@ -57,6 +57,7 @@ imagesource: "“Detail from 宋人柳陰高士圖軸 (beneath the willow)”, A
 </ul><h2>To the tune “Water Dragon Chant”—Matching the Rhymes of Zhang Zhifu’s Song about Willow Catkins | 水龍吟 · 次韻章質夫楊花詞</h2>
 
 <p>水龍吟</p>
+<p><br/></p>
 
 <p>似花還似非花 </p>
 <p>也無人惜從教墜</p>
@@ -81,8 +82,10 @@ imagesource: "“Detail from 宋人柳陰高士圖軸 (beneath the willow)”, A
 <p>細看來</p>
 <p>不是楊花</p>
 <p>點點是離人淚</p>
+<p><br/></p>
 
 <p>To the tune “Water Dragon Chant”</p>
+<p><br/></p>
 
 <p>They<sup>1</sup> look like flowers but also do not look like them.</p>
 <p>No one treasures them, letting them fall.</p>
@@ -107,6 +110,7 @@ imagesource: "“Detail from 宋人柳陰高士圖軸 (beneath the willow)”, A
 <p>Look at them carefully:</p>
 <p>those are not willow catkins,</p>
 <p>the little dots are the tears of leaving men.<sup>5</sup></p>
+<p><br/></p>
 
 <h2>Critical Notes</h2>
 

@@ -59,6 +59,7 @@ imagesource: "Detail from 宋朱銳春社醉歸圖(Drunk in the Trip) 卷, 朱�
 <h2>To the tune “Note after Note, Long Song”—“Looking and searching, looking and searching” | <em>聲聲慢 · 尋尋覓覓</em></h2>
 
 <p>聲聲慢</p>
+<p><br/></p>
 
 <p>尋尋覓覓，</p>
 <p>冷冷清清，</p>
@@ -71,6 +72,7 @@ imagesource: "Detail from 宋朱銳春社醉歸圖(Drunk in the Trip) 卷, 朱�
 <p>雁過也， </p>
 <p>10 正傷心，</p>
 <p>卻是舊時相識。</p>
+<p><br/></p>
 
 <p>滿地黃花堆積。</p>
 <p>憔悴損，</p>
@@ -82,9 +84,10 @@ imagesource: "Detail from 宋朱銳春社醉歸圖(Drunk in the Trip) 卷, 朱�
 <p>點點滴滴。</p>
 <p>20 這次第</p>
 <p>怎一個愁字了得。</p>
-
+<p><br/></p>
 
 <p>To the tune “Note after Note, Long Song”</p>
+<p><br/></p>
 
 <p>Looking and searching, looking and searching, cold and quiet, cold and quiet,</p>
 <p>lonesome, dismayed, and desolate; lonesome, dismayed, and desolate. At the time when it has just turned warm yet is still quite cold,</p>
@@ -93,6 +96,7 @@ imagesource: "Detail from 宋朱銳春社醉歸圖(Drunk in the Trip) 卷, 朱�
 <p>the harsh wind in the evening? The wild geese have flown past;</p>
 <p>10 what truly pains the heart,</p>
 <p>is that I knew them from the past.</p>
+<p><br/></p>
 
 <p>Yellow flowers pile all over the ground, withered and wilted.</p>
 <p>Now who would pluck them?</p>

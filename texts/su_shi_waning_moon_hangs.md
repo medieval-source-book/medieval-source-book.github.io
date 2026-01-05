@@ -57,8 +57,9 @@ imagesource: "“Detail from 宋崔白蘆雁軸 (wild goose)”, 崔白, Nationa
 <h2>To the tune “Fortune Teller”—“The waning moon hangs on the thinning sycamore tree” | 卜算子 · 缺月挂疏桐</h2>
 
 <p>西江月 梅花</p>
-
+<p><br/></p>
 <p>黃州定慧院寓居作</p>
+<p><br/></p>
 
 <p>缺月挂疏桐，</p>
 <p>漏斷人初靜。</p>
@@ -68,12 +69,14 @@ imagesource: "“Detail from 宋崔白蘆雁軸 (wild goose)”, 崔白, Nationa
 <p>有恨無人省。</p>
 <p>揀盡寒枝不肯棲，</p>
 <p>寂寞沙洲冷。</p>
+<p><br/></p>
 
 
 <p>To the tune “The Moon Over the West River” Plum Blossom</p>
-
+<p><br/></p>
 <i>
 <p>Composed while lodging at Dinghui Monastery in Huangzhou<sup>1</sup></p></i>
+<p><br/></p>
 
 <p>The waning moon hangs on the thinning sycamore tree.</p>
 <p>The dripping clock stops;<sup>2</sup> all men become quiet.</p>
@@ -83,6 +86,7 @@ imagesource: "“Detail from 宋崔白蘆雁軸 (wild goose)”, 崔白, Nationa
 <p>It has resentment in its heart yet no one notices.</p>
 <p>Picking from all the cold branches<sup>3</sup>, but not resting on any,</p>
 <p>It is alone and abandoned on the freezing isle of sand.</p>
+<p><br/></p>
 
 <h2>Critical Notes</h2>
 

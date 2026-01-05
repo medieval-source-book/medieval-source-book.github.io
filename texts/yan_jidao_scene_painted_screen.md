@@ -57,6 +57,7 @@ imagesource: "“Detail from 宋趙伯駒瑤島仙真卷 (immortal island)”, �
 <h2>To the tune “Making the Spring Stay”—“The scene on the painted screen resembles the place” | 留春令 · 畫屏天畔</h2>
 
 <p>留春令</p>
+<p><br/></p>
 
 <p>畫屏天畔，</p>
 <p>夢回依約，</p>
@@ -64,14 +65,17 @@ imagesource: "“Detail from 宋趙伯駒瑤島仙真卷 (immortal island)”, �
 <p>手捻紅箋寄人書，</p>
 <p>5 寫無限、</p>
 <p>傷春事。</p>
+<p><br/></p>
 
 <p>別浦高樓曾漫倚。</p>
 <p>對江南千里。</p>
 <p>樓下分流水聲中，</p>
 <p>10 有當日、</p>
 <p>憑高淚。</p>
+<p><br/></p>
 
 <p>To the tune “Making the Spring Stay”</p>
+<p><br/></p>
 
 <p>The scene on the painted screen resembles the place where the sea meets the sky.<sup>1</sup></p>
 <p>Awoken from my dream, I can still vaguely see</p>
@@ -79,12 +83,14 @@ imagesource: "“Detail from 宋趙伯駒瑤島仙真卷 (immortal island)”, �
 <p>I hold the red paper<sup>3</sup> of a letter, wishing to send it to her,</p>
 <p>5 and to tell her about my endless</p>
 <p>spring sorrows.</p>
+<p><br/></p>
 
 <p>I once leaned aimlessly against the banister of the high building and remembered how we parted there,</p>
 <p>facing a thousand miles of Jiangnan.<sup>4</sup></p>
 <p>Mingling that day with the sound of the forking river below</p>
 <p>10 <sup>were the tears</sup></p>
 <p>I shed on the high building.<sup>5</sup></p>
+<p><br/></p>
 
 <h2>Critical Notes</h2>
 

@@ -54,26 +54,31 @@ imagesource: "Detail from 宋元集繪 冊 宋緙絲翠羽秋荷(Lotuses), Anony
 <h2>To the tune “The Fisherman Is Proud”—“I suddenly heard the strike of two oars” | 漁家傲 · 花底忽聞敲兩槳</h2>
 
 <p>漁家傲</p>
+<p><br/></p>
 
 <p>花底忽聞敲兩槳。</p>
 <p>逡巡女伴來尋訪。</p>
 <p>酒盞旋將荷葉當。</p>
 <p>蓮舟蕩,</p>
 <p>5 時時盞裏生紅浪。</p>
+<p><br/></p>
 
 <p>花氣酒香清廝釀。</p>
 <p>花腮酒面紅相向。</p>
 <p>醉倚綠陰眠一餉。</p>
 <p>驚起望。</p>
 <p>10 船頭閣在沙灘上。</p>
+<p><br/></p>
 
 <p>To the tune “The Fisherman Is Proud”</p>
+<p><br/></p>
 
 <p>I suddenly heard the strike of two oars beneath the flowers;</p>
 <p>After a short while, the girlfriends came visiting,</p>
 <p>Substituting lotus leaves for wine cups.</p>
 <p>As the lotus boat rocks,</p>
 <p>5 Red ripples keep appearing in the cups.</p>
+<p><br/></p>
 
 <p>The aroma of the flowers and the scent of wine mingle together.</p>
 <p>The flowers’ cheeks and the drinkers’ faces are equally red.</p>

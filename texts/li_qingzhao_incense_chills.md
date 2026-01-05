@@ -59,6 +59,7 @@ imagesource: "Detail from 宋人秋荷野鳧圖(Autumn) 軸, Anonymous, National
 <h2>To the tune “On Top of the Phoenix Terrace, Recalling Flute Music”—“The incense chills in the golden lion” | 鳳凰臺上憶吹簫 · 香冷金猊</h2>
 
 <p>鳳凰臺上憶吹簫</p>
+<p><br/></p>
 
 <p>香冷金猊，</p>
 <p>被翻紅浪，</p>
@@ -71,6 +72,7 @@ imagesource: "Detail from 宋人秋荷野鳧圖(Autumn) 軸, Anonymous, National
 <p>新來瘦，</p>
 <p>10 非干病酒，</p>
 <p>不是悲秋。</p>
+<p><br/></p>
 
 <p>明朝，</p>
 <p>這回去也，</p>
@@ -84,8 +86,10 @@ imagesource: "Detail from 宋人秋荷野鳧圖(Autumn) 軸, Anonymous, National
 <p>凝眸處，</p>
 <p>從今又添，</p>
 <p>一段新愁。</p>
+<p><br/></p>
 
 <p>To the tune “On Top of the Phoenix Terrace, Recalling Flute Music”</p>
+<p><br/></p>
 
 <p>The incense chills in the golden lion;</p>
 <p>the quilt is a sea of red waves.</p>
@@ -98,6 +102,7 @@ imagesource: "Detail from 宋人秋荷野鳧圖(Autumn) 軸, Anonymous, National
 <p>Recently, I have slimmed down.</p>
 <p>10 It has nothing to do with sickness from drinking,</p>
 <p>or the autumn sorrow.</p>
+<p><br/></p>
 
 <p>Tomorrow,</p>
 <p>this time he will surely go.</p>
@@ -111,6 +116,7 @@ imagesource: "Detail from 宋人秋荷野鳧圖(Autumn) 軸, Anonymous, National
 <p>At the spot where I stare,</p>
 <p>from now on, there will be</p>
 <p>another layer of new sorrow.</p>
+<p><br/></p>
 
 <h2>Critical Notes</h2>
 <p>Line 1: The “golden lion” refers to an incense holder in the shape of a lion.</p>

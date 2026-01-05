@@ -53,32 +53,38 @@ imagesource: "Detail from 宋劉松年山水(Red Leaves and Houses)卷, 劉松�
 <h2>To the tune “Treading on the Sedges”—“On the narrow path, red flowers are few now” | 踏莎行 · 小徑紅稀</h2>
 
 <p>踏莎行</p>
+<p><br/></p>
 
 <p>小徑紅稀，</p>
 <p>芳郊綠徧。</p>
 <p>高臺樹色陰陰見。</p>
 <p>春風不解禁楊花，</p>
 <p>5 濛濛亂撲行人面。</p>
+<p><br/></p>
 
 <p>翠葉藏鶯，</p>
 <p>珠簾隔燕。</p>
 <p>爐香靜逐遊絲轉。</p>
 <p>一場愁夢酒醒時，</p>
 <p>10 斜陽卻照深深院。</p>
+<p><br/></p>
 
 <p>To the tune “Treading on the Sedges”</p>
+<p><br/></p>
 
 <p>On the narrow path, red flowers are few now,</p>
 <p>While the fragrant countryside is green throughout.</p>
 <p>The color of the trees upon the high terrace appears dark and shady.</p>
 <p>The spring breeze does not know to prevent the willow catkins</p>
 <p>5 from pelting the faces of passersby in a drizzle of fluff.</p>
+<p><br/></p>
 
 <p>The verdant leaves hide the orioles;</p>
 <p>The pearl curtain keeps the swallows out.</p>
 <p>The incense burner quietly chases the winding smoke.</p>
 <p>After a sorrowful dream, as I sober up,</p>
 <p>10 The slanting sun shines into the deep courtyard.</p>
+<p><br/></p>
 
 <h2>Critical Notes</h2>
 

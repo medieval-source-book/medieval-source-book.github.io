@@ -38,9 +38,6 @@ imagesource: "“Detail from 宋人畫仙巖壽鹿軸 (goddess)”, Anonymous, N
 
 <h2>Further Reading</h2>
 
-
-
-
 <p>Chang, Kang-i Sun. <i> The Evolution of Tz’u Poetry: from Late Tang to Northern Sung</i>. Princeton UP, 1980.</p>
 <ul>
 <li>A standard survey of the early history of Chinese song lyrics (romanized as both <em>ci</em> and <em>tz’u</em>).</li>
@@ -62,6 +59,7 @@ imagesource: "“Detail from 宋人畫仙巖壽鹿軸 (goddess)”, Anonymous, N
 
 <p>洞仙歌 </p>
 <p>冰肌玉骨</p>
+<p><br/></p>
 
 <p>余七歲時見眉山老尼姓朱</p>
 <p>忘其名，</p>
@@ -79,6 +77,7 @@ imagesource: "“Detail from 宋人畫仙巖壽鹿軸 (goddess)”, Anonymous, N
 <p>暇日尋味，</p>
 <p>豈洞仙歌令乎，</p>
 <p>乃為足之</p>
+<p><br/></p>
 
 <p>冰肌玉骨，</p>
 <p>自清涼無汗。</p>
@@ -98,9 +97,11 @@ imagesource: "“Detail from 宋人畫仙巖壽鹿軸 (goddess)”, Anonymous, N
 <p>西風幾時來，</p>
 <p>又不道、</p>
 <p>流年暗中偷換</p>
+<p><br/></p>
 
 <p>To the tune “Song of the Immortal in the Grotto”</p>
 <p>Skin of Ice and Bones of Jade</p>
+<p><br/></p>
 
 <i>
 <p>When I was seven, I once met an old nun from Meishan<sup>1</sup> whose surname was Zhu,</p>
@@ -119,6 +120,7 @@ imagesource: "“Detail from 宋人畫仙巖壽鹿軸 (goddess)”, Anonymous, N
 <p>isn’t it to the tune of “Song of the Immortal in the Grotto”?</p>
 <p>I have thus composed the rest of the piece to make up for the missing part.</p>
 </i>
+<p><br/></p>
 
 <p>Skin of ice and bones of jade<sup>4</sup>,</p>
 <p>are naturally fresh and cool, with no sweat.</p>
@@ -138,6 +140,7 @@ imagesource: "“Detail from 宋人畫仙巖壽鹿軸 (goddess)”, Anonymous, N
 <p>when will the west wind<sup>8</sup> come?</p>
 <p>Without noticing,</p>
 <p>the fleeting years are secretly stolen away.</p>
+<p><br/></p>
 
 <h2>Critical Notes</h2>
 

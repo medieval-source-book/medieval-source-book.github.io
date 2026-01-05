@@ -57,31 +57,37 @@ imagesource: "Detail from 宋高宗書女孝經馬和之補圖上卷 (Hometown)\
 <h2>To the tune “Ruan Returns”—“The dew on the metal palm at the edge of the sky has turned into frost” | 阮郎歸 · 天邊金掌露成霜</h2>
 
 <p>阮郎歸</p>
+<p><br/></p>
 
 <p>天邊金掌露成霜。</p>
 <p>雲隨雁字長。</p>
 <p>綠杯紅袖趁重陽。</p>
 <p>人情似故鄉。</p>
+<p><br/></p>
 
 <p>5 蘭佩紫，</p>
 <p>菊簪黃。</p>
 <p>殷勤理舊狂。</p>
 <p>欲將沈醉換悲涼。</p>
 <p>清歌莫斷腸。</p>
+<p><br/></p>
 
 
 <p>To the tune “Ruan Returns”</p>
+<p><br/></p>
 
 <p>The dew on the Metal Palm<sup>1</sup> at the edge of the sky has turned into frost.</p>
 <p>The clouds stretch out along with the flock of wild geese.</p>
 <p>Green cups<sup>2</sup> and red sleeves<sup>3</sup> on the Double Ninth;<sup>4</sup></p>
 <p>the custom here is the same as in my hometown.</p>
+<p><br/></p>
 
 <p>5 The orchid pendant is purple</p>
 <p>and the chrysanthemum hairpin is yellow.</p>
 <p>I desperately adopt my past wildness,</p>
 <p>intending to replace sorrow and despair with total drunkenness.</p>
 <p>May the pure sound of singing stop breaking my heart.</p>
+<p><br/></p>
 
 <h2>Critical Notes</h2>
 

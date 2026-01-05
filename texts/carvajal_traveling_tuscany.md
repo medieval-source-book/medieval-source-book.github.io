@@ -53,6 +53,7 @@ imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.153r [Publ
 <p>entre Sena et Florencia,</p>
 <p>vi dama gentil galana</p>
 <p>digna de grand reuerencia.</p>
+<p><br/></p>
 
 <p>5 Cara tenia de romana,</p>
 <p>tocadura purtoguesa,</p>
@@ -62,6 +63,7 @@ imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.153r [Publ
 <p>10 yo le fise reuerencia</p>
 <p>y ella, con mucha prudencia,</p>
 <p>bien mostro ser cortesana.</p>
+<p><br/></p>
 
 <p>Assy entramos por Sena,</p>
 <p>fablando de compannia,</p>
@@ -71,6 +73,7 @@ imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.153r [Publ
 <p>o la noche nos tomara,</p>
 <p>tan grand fuego se encendia</p>
 <p>20 que toda la tierra quemara.</p>
+<p><br/></p>
 
 <p>Vestia de blancho domasquino,</p>
 <p>camurra al touillo cortada,</p>
@@ -80,6 +83,7 @@ imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.153r [Publ
 <p>una inuencion traya</p>
 <p>por letras que non entendia,</p>
 <p>de perlas la manga bordada.</p>
+<p><br/></p>
 
 <p>Item mas, traya un ioyel</p>
 <p>30 de richas piedras pesantes,</p>
@@ -89,6 +93,7 @@ imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.153r [Publ
 <p>con muy grande resplandor,</p>
 <p>35 pero dauale el fauor</p>
 <p>Su gesto lyndo, plasiente.</p>
+<p><br/></p>
 
 <p>En su fabla, uestir et ser</p>
 <p>non mostraua ser de mandra.</p>
@@ -98,11 +103,13 @@ imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.153r [Publ
 <p>muy alegre desperte</p>
 <p>e tan solo me falle</p>
 <p>que por Dios pense morir.</p>
+<p><br/></p>
 
 <p>Traveling through Tuscany,</p>
 <p>between Siena and Florence,</p>
 <p>I saw an elegant gentle lady</p>
 <p>Worthy of great reverence.</p>
+<p><br/></p>
 
 <p>5 She had the face of a Roman,</p>
 <p>A Portuguese headdress,</p>
@@ -112,6 +119,7 @@ imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.153r [Publ
 <p>10 I bowed to her</p>
 <p>And she, very cautiously,</p>
 <p>Did prove to be courteous.</p>
+<p><br/></p>
 
 <p>That is how we entered Siena</p>
 <p>Conversing in company</p>
@@ -121,6 +129,7 @@ imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.153r [Publ
 <p>Or the night had arrived,</p>
 <p>Such great fire would have been ignited</p>
 <p>20 That it would have burned the earth out.</p>
+<p><br/></p>
 
 <p>Dressed in white damask,</p>
 <p>Gamurra cut at the ankle</p>
@@ -130,6 +139,7 @@ imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.153r [Publ
 <p>A verse she carried with her</p>
 <p>With letters she did not understand,</p>
 <p>On the sleeves embroidered with pearls.</p>
+<p><br/></p>
 
 <p>In addition, she wore a little jewel</p>
 <p>30 Of rich heavy stones,</p>
@@ -139,6 +149,7 @@ imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.153r [Publ
 <p>With such a great glow;</p>
 <p>35 But what favored her the most</p>
 <p>Was her pleasant, beautiful countenance.</p>
+<p><br/></p>
 
 <p>In her speech, dress, and demeanor</p>
 <p>She did not appear to be rustic,</p>
@@ -148,3 +159,4 @@ imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.153r [Publ
 <p>I woke up much delighted.</p>
 <p>And I found myself so lonely</p>
 <p>That by god I thought I would die.</p>
+<p><br/></p>

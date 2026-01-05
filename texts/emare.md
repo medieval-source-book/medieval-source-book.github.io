@@ -84,6 +84,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>10 To thy sone that ys so fre,</p>
 <p>In heven with hym that we may be,</p>
 <p>That lord ys most of myght.</p>
+<p><br/></p>
 
 <p>Menstrelles, that walken fer and wyde,</p>
 <p>Her and ther in every a syde,</p>
@@ -97,6 +98,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Of a lady fayr and fre,</p>
 <p>Her name was called Emare,</p>
 <p>As i here synge in songe.</p>
+<p><br/></p>
 
 <p>25 Her fadyr was an emperour,</p>
 <p>Of castell, and of ryche towre,</p>
@@ -110,6 +112,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Dame Erayne hette that emperes,</p>
 <p>35 She was full of love and goodnesse,</p>
 <p>So curtays lady was none.</p>
+<p><br/></p>
 
 <p>Syr Artyus was the best manne</p>
 <p>In the worlde that lyvede thanne,</p>
@@ -123,6 +126,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>For sothe, as y may telle the,</p>
 <p>They called that chyld Emare,</p>
 <p>That semely was of syght.</p>
+<p><br/></p>
 
 <p>When she was of her moder born,</p>
 <p>50 She was the fayrest creature borne,</p>
@@ -136,6 +140,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>She thawghth hit curtesye and thewe,</p>
 <p>Golde and sylke for to sewe,</p>
 <p>60 Amonge maydenes moo.</p>
+<p><br/></p>
 
 <p>Abro tawghte thys mayden small,</p>
 <p>Nortour that men usedenn in sale,</p>
@@ -149,6 +154,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>70 At the meydene leve we,</p>
 <p>And at the lady fayr and fre;</p>
 <p>And speke we of the emperour.</p>
+<p><br/></p>
 
 <p>The emperour of gentyll blode,</p>
 <p>Was a curteys lorde and a gode,</p>
@@ -162,6 +168,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>A ryche present wyth hym he browght,</p>
 <p>A cloth that was wordylye wroght,</p>
 <p>He wellcomed hym as the hende.</p>
+<p><br/></p>
 
 <p>85 Syr Tergaunte, that nobyll knyght hyghte.</p>
 <p>He presented the emperour ryght,</p>
@@ -175,6 +182,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Of crapowtes and nakette,</p>
 <p>95 As thykke ar they sette,</p>
 <p>For sothe as y say the.</p>
+<p><br/></p>
 
 <p>The cloth was displayed sone,</p>
 <p>The emperoer lokede therupone,</p>
@@ -188,6 +196,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>The kyng of Cysyle answered than,</p>
 <p>So ryche a jwell ys ther</p>
 <p>non In all Crystyante.</p>
+<p><br/></p>
 
 <p>The amerayle dowghter of hethennes</p>
 <p>110 Made this cloth withouten lees,</p>
@@ -201,6 +210,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Seven wynter hit was yn makynge,</p>
 <p>Or hit was browght to endynge,</p>
 <p>120 In herte ys not to hyde.</p>
+<p><br/></p>
 
 <p>In that on korner made was</p>
 <p>Idoyne and Amadas,</p>
@@ -214,6 +224,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>130 Deamondes and rubyes,</p>
 <p>And other stones of mychyll pryse,</p>
 <p>And menstrellys with her gle.</p>
+<p><br/></p>
 
 <p>In that other corner was dyght,</p>
 <p>Trystram and Isowde so bryght,</p>
@@ -227,6 +238,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Wyth crapawtes and nakette,</p>
 <p>Thykke of stones ar they sette,</p>
 <p>For sothe as y say the.</p>
+<p><br/></p>
 
 <p>145 In the thrydde korner, with gret honour,</p>
 <p>Was Florys and dam Blawncheflour,</p>
@@ -240,6 +252,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Deamondes and koralle,</p>
 <p>155 Perydotes and crystall,</p>
 <p>And gode garnettes bytwene.</p>
+<p><br/></p>
 
 <p>In the fowrthe korner was oon </p>
 <p>Of Babylone the sowdan sonne,</p>
@@ -253,6 +266,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Flowres and bryddes on ylke a syde,</p>
 <p>With stones that wer sowght wyde,</p>
 <p>Stuffed wyth ymagerye.</p>
+<p><br/></p>
 
 <p>When the cloth to ende was wrowght,</p>
 <p>170 To the sowdan sone hit was browght,</p>
@@ -266,6 +280,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>He yaf hit the emperour,</p>
 <p>He receyved hit with gret honour,</p>
 <p>180 And thonkede hym fayr and ryght.</p>
+<p><br/></p>
 
 <p>The kyng of Cesyle dwelled ther</p>
 <p>As long as his wyll wer,</p>
@@ -279,6 +294,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>190 Messengeres forth he sent,</p>
 <p>Aftyr the mayde fayre and gent,</p>
 <p>That was bryght as someres day.</p>
+<p><br/></p>
 
 <p>Messengeres dyghte hem in hye,</p>
 <p>With myche myrthe and melodye,</p>
@@ -292,6 +308,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>To the emperour gan the go,</p>
 <p>He come ayeyn hem a myle or two,</p>
 <p>A fayr metyng was there.</p>
+<p><br/></p>
 
 <p>205 The mayden, whyte as lylye flour.</p>
 <p>Lyghte ayeyn her fadyr, the emperour,</p>
@@ -305,6 +322,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>They wer glad and made good chere,</p>
 <p>215 To the palys they yede in fere.</p>
 <p>In romans as we rede.</p>
+<p><br/></p>
 
 <p>Then the lordes that wer grete,</p>
 <p>They wesh and seten doun to mete,</p>
@@ -318,6 +336,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>So he was anamored hys thowghter tyll,</p>
 <p>With her he thowghth to worche his wyll,</p>
 <p>And wedde her to hys wyfe.</p>
+<p><br/></p>
 
 <p>And when the mete-whyle was doun,</p>
 <p>230 Into hys chamber he wente soun,</p>
@@ -331,6 +350,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>They wente to the courte of Rome,</p>
 <p>And browghte the popus bullus sone,</p>
 <p>240 To wedde hys dowghter dere.</p>
+<p><br/></p>
 
 <p>Then was the emperour gladde and blythe,</p>
 <p>And lette shape a robe swythe,</p>
@@ -344,6 +364,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>250 Then sayde that wordy unther wede,</p>
 <p>Nay, syr, god of heven hit forbede,</p>
 <p>That ever do so we shulde!</p>
+<p><br/></p>
 
 <p>Yyf hit so betydde that ye me wedde,</p>
 <p>And we shulde play togedere in bedde,</p>
@@ -357,6 +378,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>That my fader shulde wedde me,</p>
 <p>God forbede that i hyt so se,</p>
 <p>That wered the crowne of thorne!</p>
+<p><br/></p>
 
 <p>265 The emperour was ryght wrothe,</p>
 <p>And swore many a gret othe,</p>
@@ -370,6 +392,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Now the lady dwelled thore,</p>
 <p>275 Wythowte anker or ore,</p>
 <p>And that was gret pytè.</p>
+<p><br/></p>
 
 <p>Ther come a wynd, y untherstonde,</p>
 <p>And blewe the boot fro the londe,</p>
@@ -383,6 +406,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Gret lordes stode therby,</p>
 <p>And toke yn the emperour hastyly,</p>
 <p>And comforted hym fayr and ryght.</p>
+<p><br/></p>
 
 <p>When he of sownyng kovered was,</p>
 <p>290 Sore he wepte and sayde, Alas,</p>
@@ -396,6 +420,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>The teres lasshed out of his yyen,</p>
 <p>The grete lordes that hyt syyen,</p>
 <p>300 Wepte and made yll chere.</p>
+<p><br/></p>
 
 <p>Ther was nother olde ny yynge,</p>
 <p>That kowthe stynte of wepynge,</p>
@@ -409,6 +434,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>310 At the emperour now leve we,</p>
 <p>And of the lady yn the see,</p>
 <p>I shall begynne to tell.</p>
+<p><br/></p>
 
 <p>The ladye fleted forth alone,</p>
 <p>To god of heven she made her mone,</p>
@@ -422,6 +448,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>She was so dryven fro wawe to wawe,</p>
 <p>She hyd her hede and laye full lawe,</p>
 <p>For watyr she was full woo.</p>
+<p><br/></p>
 
 <p>325 Now this lady dwelled thore</p>
 <p>A good seven nyghth and more,</p>
@@ -435,6 +462,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>She was on the see so harde bestadde,</p>
 <p>335 For hunger and thurste almost madde,</p>
 <p>Woo worth wederus yll!</p>
+<p><br/></p>
 
 <p>She was dryven into a lond,</p>
 <p>That hyghth Galys, y untherstond,</p>
@@ -448,6 +476,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>On a tyme he toke the eyr,</p>
 <p>With two knyghtes gode and fayr,</p>
 <p>The wedur was lythe of le.</p>
+<p><br/></p>
 
 <p>A boot he fond by the brym,</p>
 <p>350 And a glysteryng thyng theryn,</p>
@@ -461,6 +490,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>They askede her what was her name,</p>
 <p>She chaunged hit ther anone,</p>
 <p>360 And sayde she hette Egare.</p>
+<p><br/></p>
 
 <p>Syr Kadore hadde gret pytè,</p>
 <p>He toke up the lady of the see,</p>
@@ -474,6 +504,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>370 Wyth all delycyus mete and drynke,</p>
 <p>That they myghth hem on thynke,</p>
 <p>That was yn all that stede.</p>
+<p><br/></p>
 
 <p>When that lady, fayr of face,</p>
 <p>With mete and drynke kevered was,</p>
@@ -487,6 +518,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>She kowthe werke all maner thyng,</p>
 <p>That fell to emperour or to kyng,</p>
 <p>Erle, barown, or swayne.</p>
+<p><br/></p>
 
 <p>385 Syr Kadore lette make a feste,</p>
 <p>That was fayr and honeste,</p>
@@ -500,6 +532,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>The cloth upon her shone so bryghth,</p>
 <p>395 When she was theryn ydyghth,</p>
 <p>She semed non erdly thyng.</p>
+<p><br/></p>
 
 <p>The kyng loked her upon,</p>
 <p>So fayr a lady he sygh nevur non,</p>
@@ -513,6 +546,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>And when the mete-whyle was doun,</p>
 <p>In to the chamber he wente soun,</p>
 <p>And called his barouns bolde.</p>
+<p><br/></p>
 
 <p>Fyrst he called syr Kadore,</p>
 <p>410 And other knyghtes that ther wore,</p>
@@ -526,6 +560,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Syr, whenns ys that lovely may,</p>
 <p>That yn the halle served this day?</p>
 <p>420 Tell me yyf hyt be thy wyll.</p>
+<p><br/></p>
 
 <p>Then sayde syr Kadore, Y untherstonde,</p>
 <p>Hyt ys an erles thowghter of ferre londe,</p>
@@ -539,6 +574,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>430 Then sayde that ryche raye,</p>
 <p>I wyll have that fayr may,</p>
 <p>And wedde her to my quene.</p>
+<p><br/></p>
 
 <p>The nobull kyng, verament,</p>
 <p>After hys modyr he sent,</p>
@@ -552,6 +588,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>The olde qwene sayde anon,</p>
 <p>I sawe never wommon</p>
 <p>Halvendell so gay!</p>
+<p><br/></p>
 
 <p>445 The olde quene spakke wordes unhende,</p>
 <p>And sayde, Sone, thys ys a fende,</p>
@@ -565,6 +602,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>The olde quene, for certayne,</p>
 <p>455 Turnede with ire hom agayne,</p>
 <p>And wolde not be at that dede.</p>
+<p><br/></p>
 
 <p>The kyng wedded that lady bryght,</p>
 <p>Grete purvyance ther was dyghth,</p>
@@ -578,6 +616,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Ther was all maner thyng,</p>
 <p>That fell to a kyngus weddyng,</p>
 <p>And mony a ryche menstrall.</p>
+<p><br/></p>
 
 <p>When the mangery was done,</p>
 <p>470 Grete lordes departed sone,</p>
@@ -591,6 +630,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>The lady that was both meke and mylde,</p>
 <p>Conceyved and wente with chylde,</p>
 <p>480 As god wolde hit sholde be.</p>
+<p><br/></p>
 
 <p>The kyng of France, yn that tyme,</p>
 <p>Was besette with many a Sarezyne,</p>
@@ -604,6 +644,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>490 Then sayde the kyng to Syr Kadore,</p>
 <p>And other lordes that ther wore,</p>
 <p>Take good hede to my qwene.</p>
+<p><br/></p>
 
 <p>The kyng of Fraunce spared none,</p>
 <p>But sent for hem everychone,</p>
@@ -617,6 +658,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Thyll ther was of her body</p>
 <p>A fayre chyld borne, and a godele,</p>
 <p>Hadde a dowbyll kynges marke.</p>
+<p><br/></p>
 
 
 <p>505 They hit crystened wyth grete honour,</p>
@@ -631,6 +673,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>The messenger forth gan wende,</p>
 <p>515 And with the kynges moder gan lende,</p>
 <p>And yn to the castell he yode.</p>
+<p><br/></p>
 
 <p>He was resseyved rychely,</p>
 <p>And she hym askede hastyly,</p>
@@ -644,6 +687,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>She made hym dronken of ale and wyne;</p>
 <p>And when she sawe that hit was tyme,</p>
 <p>Tho chambur she wold hym lede.</p>
+<p><br/></p>
 
 <p>And when he Ɨ was on slepe browght,</p>
 <p>530 The qwene that was of wykked thowght,</p>
@@ -657,6 +701,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Thre heddes hadde he there</p>
 <p>A lyon, a dragon, and a beere,</p>
 <p>540 A fowll feltred fende.</p>
+<p><br/></p>
 
 <p>On the morn, when hit was day,</p>
 <p>The messenger wente on his way,</p>
@@ -670,6 +715,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>550 And as he stode yn redyng,</p>
 <p>Downe he fell yn sowenyng,</p>
 <p>For sorow his herte gan blede.</p>
+<p><br/></p>
 
 <p>Grete lordes that stonde hym by,</p>
 <p>Toke up the kyng hastely,</p>
@@ -683,6 +729,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>That evur Jhesu hymself wolde sende,</p>
 <p>Such a fowle lothly fende,</p>
 <p>To come bytwene us too!</p>
+<p><br/></p>
 
 <p>565 When he sawe hit myght no better be,</p>
 <p>Another letter then made he,</p>
@@ -696,6 +743,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>He toke this letter of his honde,</p>
 <p>575 And rode thorow the same londe,</p>
 <p>By the kynges modur castell.</p>
+<p><br/></p>
 
 <p>And then he dwelled ther all nyght,</p>
 <p>He was resseyved and rychely dyght,</p>
@@ -709,6 +757,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Another letter she lette make,</p>
 <p>That men sholde the lady take,</p>
 <p>And lede her out of towne.</p>
+<p><br/></p>
 
 <p>And putte her ynto the see,</p>
 <p>590 In that robe of ryche ble,</p>
@@ -722,6 +771,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>The messenger knew no gyle,</p>
 <p>But rode hom mony a myle,</p>
 <p>600 By forest and by fryth.</p>
+<p><br/></p>
 
 <p>And when the messenger come home,</p>
 <p>The steward toke the letter sone,</p>
@@ -735,6 +785,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>610 Ther was nother olde ny yynge,</p>
 <p>That myghte forbere of wepynge,</p>
 <p>For that worthy unther wede.</p>
+<p><br/></p>
 
 <p>The lady herde gret dele yn halle,</p>
 <p>On the steward gan she calle,</p>
@@ -748,6 +799,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>She toke the letter and bygan to rede,</p>
 <p>Then fonde she wryten all the dede,</p>
 <p>How she moste ynto the see.</p>
+<p><br/></p>
 
 <p>625 Be stylle, syr, sayde the qwene,</p>
 <p>Lette syche morynge bene,</p>
@@ -761,6 +813,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Grete well my lord fro me,</p>
 <p>635 So gentyll of blode yn Cristyante,</p>
 <p>Gete he never more.</p>
+<p><br/></p>
 
 <p>Then was ther sorow and myche woo,</p>
 <p>When the lady to shype shulde go,</p>
@@ -774,6 +827,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Sore they wepte, and sayde, Alas!</p>
 <p>Certes this ys a wykked kase,</p>
 <p>Wo worth dedes wronge!</p>
+<p><br/></p>
 
 <p>The lady and the lytyll chylde,</p>
 <p>Fleted forth on the water wylde,</p>
@@ -787,6 +841,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>The wawes that were grete and strong,</p>
 <p>On the bote faste they thronge, Ɨ</p>
 <p>660 With mony unsemely rappes.</p>
+<p><br/></p>
 
 <p>And when the chyld gan to wepe,<p>
 <p>With sory hert she songe hit aslepe,</p>
@@ -800,6 +855,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>670 Then she made her prayer,</p>
 <p>To Jhesu and his moder dere,</p>
 <p>In all that she kowthe.</p>
+<p><br/></p>
 
 <p>Now this lady dwelled thore</p>
 <p>A full sevene nyght and more,</p>
@@ -813,6 +869,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>On the see she was so harde bestadde</p>
 <p>For hunger and thurste allmoste madde,</p>
 <p>Wo worth chawnses ylle!</p>
+<p><br/></p>
 
 <p>685 A marchaunte dwelled yn that cytè,</p>
 <p>A ryche mon of golde and fee,</p>
@@ -826,6 +883,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>A bote he fonde by the brymme,</p>
 <p>695 And a fayr lady therynne,</p>
 <p>That was ryght wo-bygone.</p>
+<p><br/></p>
 
 <p>The cloth on her shon so bryth</p>
 <p>He was aferde of that syght,</p>
@@ -839,6 +897,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Up he toke that fayre ladye,</p>
 <p>And the yonge chylde her by,</p>
 <p>And hom he gan hem lede.</p>
+<p><br/></p>
 
 <p>When he come to his byggynge,</p>
 <p>710 He welcomed fayr that lady yynge,</p>
@@ -852,6 +911,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>She hath so longe meteles be,</p>
 <p>That me thynketh great pytè,</p>
 <p>720 Conforte her yyf thou myght.</p>
+<p><br/></p>
 
 <p>Now the lady dwelles ther,</p>
 <p>With alle mete that gode were</p>
@@ -865,6 +925,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>730 And she sewed* sylke werk yn bour,</p>
 <p>And tawghte her sone nortowre,</p>
 <p>But evyr she mornede stylle.</p>
+<p><br/></p>
 
 <p>When the chylde was seven yer olde,</p>
 <p>He was bothe wyse and bolde,</p>
@@ -878,6 +939,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Leve we at the lady clere of vyce,</p>
 <p>And speke of the kyng of Galys,</p>
 <p>Fro the sege when he come home.</p>
+<p><br/></p>
 
 <p>745 Now the sege broken ys,</p>
 <p>The kyng come home to Galys,</p>
@@ -891,6 +953,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>He tolde the kyng aventowres.</p>
 <p>755 Of his halles and his bowres,</p>
 <p>And of his londys wyde.</p>
+<p><br/></p>
 
 <p>The kyng sayde, By goddys name,</p>
 <p>Syr Kadore, thou art to blame</p>
@@ -904,6 +967,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Lo her the letter ye sente me,</p>
 <p>Yowr owene self the sothe may se,</p>
 <p>I have don your byddynge.</p>
+<p><br/></p>
 
 <p>The kyng toke the letter to rede,</p>
 <p>770 And when he sawe that ylke dede,</p>
@@ -917,6 +981,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Bothe they wepte and yaf hem ylle;</p>
 <p>Alas! he sayde, saf goddys wylle,</p>
 <p>780 And both they* sowened than.</p>
+<p><br/></p>
 
 <p>Grete lordes stode by,</p>
 <p>And toke up the kyng hastyly,</p>
@@ -930,6 +995,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>790 After the messenger ther they sente,</p>
 <p>The kyng askede what way he wente;</p>
 <p>“Lord, Ɨ be your moder fre.”</p>
+<p><br/></p>
 
 <p>Alas! then sayde the kynge,</p>
 <p>Whether my moder was so unhende,</p>
@@ -943,6 +1009,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Thus they exiled the false qwene,</p>
 <p>And byrafte her hyr lyflothe clene,</p>
 <p>Castell, towre, and towne.</p>
+<p><br/></p>
 
 <p>805 When she was fled over the see fome,</p>
 <p>The nobull kyng dwelled at hom,</p>
@@ -956,6 +1023,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Such lyf he lyved mony a day,</p>
 <p>815 That no mon hym stynte may,</p>
 <p>Fully seven yere.</p>
+<p><br/></p>
 
 <p>Tyll a thowght yn hys herte come,</p>
 <p>How his lady whyte as fome,</p>
@@ -969,6 +1037,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Dolys he lette dyghth and dele,</p>
 <p>For to wynnen hym sowles hele,</p>
 <p>To the shyp he toke the gate.</p>
+<p><br/></p>
 
 <p>Shypmen, that wer so mykyll of price, </p>
 <p>830 Dyght her takull on ryche acyse,</p>
@@ -982,6 +1051,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>To the cyté when they come,</p>
 <p>At the burgeys hous his yn he nome,</p>
 <p>840 Ther as woned Emarye.</p>
+<p><br/></p>
 
 <p>Emare called her sone,</p>
 <p>Hastely to here come,</p>
@@ -995,6 +1065,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>850 Loke sone so curtays thou be,</p>
 <p>That no mon fynde chalange to the,</p>
 <p>In no manere thynge.</p>
+<p><br/></p>
 
 <p>When the kyng ys served of spycerye,</p>
 <p>Knele thou downe hastylye,</p>
@@ -1008,6 +1079,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>The chylde wente ynto the hall,</p>
 <p>Amonge the lordes grete and small,</p>
 <p>That lufsume were unther lyne.</p>
+<p><br/></p>
 
 <p>865 Then the lordes that wer grete,</p>
 <p>Wysh and wente to her mete,</p>
@@ -1021,6 +1093,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>The kynge sayde to hym yn game,</p>
 <p>875 Swete sone, what ys thy name?</p>
 <p>Lord, he seyd, y hyghth Segramowres.</p>
+<p><br/></p>
 
 <p>Then that nobull kyng</p>
 <p>Toke up a grete sykynge,</p>
@@ -1034,6 +1107,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>The kyng sayde to the burgeys anone,</p>
 <p>Swete syr, ys this thy sone?</p>
 <p>The burgeys sayde, Yoo.</p>
+<p><br/></p>
 
 <p>Then the lordes, that were grete,</p>
 <p>890 Whesshen ayeyn aftyr mete,</p>
@@ -1047,6 +1121,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>I shall hym make lorde of town and towr,</p>
 <p>Of hye halles and of bowre.</p>
 <p>900 I love hym speeyally.</p>
+<p><br/></p>
 
 <p>When he had served the kyng at wylle,</p>
 <p>Fayr he wente his modyr tyll,</p>
@@ -1060,6 +1135,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>910 The chylde wente ayeyn to halle,</p>
 <p>Amonge the grete lordes alle,</p>
 <p>And served on ryche asyse.</p>
+<p><br/></p>
 
 <p>When they wer well at ese afyne,</p>
 <p>Bothe of brede, ale, and wyne,</p>
@@ -1073,6 +1149,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Ye shull come speke with Emare,</p>
 <p>That changed her nome to Egare,</p>
 <p>That berys the whyte chynne.</p>
+<p><br/></p>
 
 <p>925 The kyng yn herte was full woo,</p>
 <p>When he herd mynge tho</p>
@@ -1086,6 +1163,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>He toke her yn his armes two,</p>
 <p>935 For joy they sowened both to,</p>
 <p>Such love was hem bytwene.</p>
+<p><br/></p>
 
 <p>A joyfull metyng was ther thore,</p>
 <p>Of that lady goodly unther-gore,</p>
@@ -1099,6 +1177,8 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Leve we at the lady whyte as flour,</p>
 <p>And speke we of her fadur the emperour,</p>
 <p>That fyrste the tale of ytolde,</p>
+<p><br/></p>
+
 <p>The emperour her fadyr then</p>
 <p>950 Was Ɨ woxen an olde man,</p>
 <p>And thowght on hys synne;</p>
@@ -1111,6 +1191,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Messengeres he sente forth sone,</p>
 <p>And they come to the kowrt of Rome,</p>
 <p>960 To take her lordes inne.</p>
+<p><br/></p>
 
 <p>Emare prayde her lorde the kyng,</p>
 <p>Syr, abyde that lordys komyng,</p>
@@ -1124,6 +1205,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>970 “Now, swete syr, whatever betyde,</p>
 <p>Ayayn that grete lord ye ryde,</p>
 <p>And all thy knyghtys with the.”</p>
+<p><br/></p>
 
 <p>Emare thawghte her sone yynge,</p>
 <p>Ayeyn the emperour komynge,</p>
@@ -1137,6 +1219,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Add bydde hym come speke with Emare,</p>
 <p>That was putte ynto the see,</p>
 <p>Hymself yaf the dome.</p>
+<p><br/></p>
 
 <p>95 Now kometh the emperour of pryse,</p>
 <p>Ayeyn hym rode the kyng of Galys,</p>
@@ -1150,6 +1233,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>And other lordys of gret valowre,</p>
 <p>995 They also kessed Segramowre;</p>
 <p>In herte ys not to hyde.</p>
+<p><br/></p>
 
 <p>The emperours hert anamered gretlye</p>
 <p>Of the chylde that rode hym by,</p>
@@ -1163,6 +1247,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Ye shull come speke with Emare,</p>
 <p>That changede her name to Egare.</p>
 <p>That was thy thowghthur dere.</p>
+<p><br/></p>
 
 <p>The emperour wax all pale,</p>
 <p>1010 And sayde, Sone, why umbraydest me of bale,</p>
@@ -1176,6 +1261,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>And the emperour alyghte tho.</p>
 <p>And toke her yn his armes two,</p>
 <p>1020 And clypte and kyssed her fote.</p>
+<p><br/></p>
 
 <p>Ther was a joyfull metynge</p>
 <p>Of the emperour and of the kynge,</p>
@@ -1193,6 +1279,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>So graunte us with the to wone</p>
 <p>1035 In thy perpetuall glorye! Amen</p>
 <p><i>Explicit Emare.</i></p>
+<p><br/></p>
 
 
 
@@ -1209,6 +1296,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>10 with Your Son, who is so noble,</p>
 <p>so that we may be with Him in Heaven.</p>
 <p>That Lord is the most powerful.</p>
+<p><br/></p>
 
 <p>Entertainers who walk far and wide,</p>
 <p>here and there, everywhere,</p>
@@ -1222,6 +1310,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>of a fair and noble lady.</p>
 <p>Her name was Emaré,</p>
 <p>as I am singing here in song.</p>
+<p><br/></p>
 
 <p>25 Her father was an emperor</p>
 <p>overseeing castles and splendid strongholds,</p>
@@ -1235,6 +1324,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Dame Erayne that empress was called.</p>
 <p>35 She was full of love and virtue,</p>
 <p>no lady was as courteous.</p>
+<p><br/></p>
 
 <p>Of all men that were alive then</p>
 <p>Sir Artyus was the most excellent.</p>
@@ -1248,6 +1338,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Truthfully, I can tell you,</p>
 <p>they called that child Emaré</p>
 <p>who was beautiful to look at.</p>
+<p><br/></p>
 
 <p>When she was delivered from her mother,</p>
 <p>50 she was the fairest creature born</p>
@@ -1261,6 +1352,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>She taught her courtly manners and good conduct,</p>
 <p>how to embroider with golden and silken threads,</p>
 <p>60 alongside other young girls.</p>
+<p><br/></p>
 
 <p>Abro taught this small maiden</p>
 <p>the correct manners to be used in the dining hall,</p>
@@ -1274,6 +1366,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>70 Here we shall leave the maiden</p>
 <p>and the fair and noble lady,</p>
 <p>and speak of the emperor.</p>
+<p><br/></p>
 
 <p>The high-born emperor</p>
 <p>was a courteous and just lord</p>
@@ -1287,6 +1380,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>He brought a costly gift with him,</p>
 <p>a fabric that was made skillfully.</p>
 <p>He [the emperor] received him in a courtly manner.</p>
+<p><br/></p>
 
 <p>85 Sir Tergaunte was the name of that noble knight.</p>
 <p>He offered a gift to the emperor in a courtly manner,</p>
@@ -1300,6 +1394,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>with toadstones and nakettes.</p>
 <p>95 They are set so thickly,</p>
 <p>truthfully, as I am telling you.</p>
+<p><br/></p>
 
 <p>The fabric was displayed quickly.</p>
 <p>The emperor gazed upon it</p>
@@ -1313,6 +1408,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Then the King of Sicily answered,</p>
 <p>“There is no [other] jewel as precious</p>
 <p>in all of Christendom.”</p>
+<p><br/></p>
 
 <p>The daughter of the Muslim emir</p>
 <p>made this cloth, certainly,</p>
@@ -1326,6 +1422,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>It was in the making for seven years</p>
 <p>before it was completed,</p>
 <p>120 that is the truth of it.</p>
+<p><br/></p>
 
 <p>In that one corner</p>
 <p>Ydoine and Amadas were made</p>
@@ -1339,6 +1436,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>130 diamonds and rubies</p>
 <p>and other stones of great worth</p>
 <p>and entertainers with their song.</p>
+<p><br/></p>
 
 <p>In that other corner were assembled</p>
 <p>Tristan and Iseult, so radiant—</p>
@@ -1352,6 +1450,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>With toadstone and nakettes</p>
 <p>they [Tristan and Iseult] are set thickly with stones,</p>
 <p>truthfully, as I am telling you.</p>
+<p><br/></p>
 
 <p>145 In the third corner, with great splendor,</p>
 <p>was Floris and Dame Blanchefleur,</p>
@@ -1365,6 +1464,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>diamonds and coral,</p>
 <p>155 chrysolites and crystal,</p>
 <p>and good garnets in between.</p>
+<p><br/></p>
 
 <p>In the fourth corner was</p>
 <p>the Sultan of Babylon’s son,</p>
@@ -1378,6 +1478,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>flowers and birds on each side,</p>
 <p>with stones that were sought from far away,</p>
 <p>endowed with [figural] decorations.</p>
+<p><br/></p>
 
 <p>When the making of the cloth was finished,</p>
 <p>170 it was brought to the sultan’s son,</p>
@@ -1391,6 +1492,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>He gave it to the emperor.</p>
 <p>He received it with great honor</p>
 <p>180 and thanked him eloquently and appropriately.</p>
+<p><br/></p>
 
 <p>The King of Sicily stayed there</p>
 <p>as long as he wished</p>
@@ -1404,6 +1506,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>190 He sent messengers</p>
 <p>to the beautiful and noble maiden</p>
 <p>who was as radiant as a summer’s day.</p>
+<p><br/></p>
 
 <p>Messengers hurriedly prepared themselves.</p>
 <p>With much merriment and music,</p>
@@ -1417,6 +1520,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Then they went to the emperor,</p>
 <p>who went a mile or two in their direction to meet them.</p>
 <p>A pleasant meeting was held there.</p>
+<p><br/></p>
 
 <p>205 The maiden, white as a lily-flower,</p>
 <p>alighted facing her father, the emperor;</p>
@@ -1430,6 +1534,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>They were joyous and made good cheer</p>
 <p>215 and walked to the palace together,</p>
 <p>as we read in romance.</p>
+<p><br/></p>
 
 <p>Then the lords, who were distinguished,</p>
 <p>washed [their hands] and sat down to eat,</p>
@@ -1443,6 +1548,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>He was so enamored by his daughter</p>
 <p>that he schemed how to have his way</p>
 <p>and wed her as his wife.</p>
+<p><br/></p>
 
 <p>And when dinner was over</p>
 <p>230 he soon went into his chamber</p>
@@ -1456,6 +1562,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>They went to the court in Rome</p>
 <p>and soon brought (back) the Pope’s dispensation</p>
 <p>240 [for Artyus] to wed his dear daughter.</p>
+<p><br/></p>
 
 <p>Then the emperor was joyous and happy,</p>
 <p>and swiftly had a robe shaped</p>
@@ -1469,6 +1576,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>250 Then that worthy one underneath the clothing said,</p>
 <p>“No, Sir, God of Heaven forbids</p>
 <p>that we should ever do so!</p>
+<p><br/></p>
 
 <p>“If it so happened that you married me</p>
 <p>and we were to amuse ourselves in bed</p>
@@ -1482,6 +1590,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>That my father should wed me,</p>
 <p>God forbid that I should witness that,</p>
 <p>(God) who was adorned with a crown of thorns!”</p>
+<p><br/></p>
 
 <p>265 The emperor was consumed with rage,</p>
 <p>and swore many a great oath</p>
@@ -1495,6 +1604,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Now the lady remained there for a long time</p>
 <p>275 without anker or [steering] oar</p>
 <p>and that was a great misery!</p>
+<p><br/></p>
 
 <p>There came a wind, I understand,</p>
 <p>and [it] blew her boat away from the shore.</p>
@@ -1508,6 +1618,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Great lords stood nearby</p>
 <p>and hastily helped up the emperor</p>
 <p>and comforted him kindly and well.</p>
+<p><br/></p>
 
 <p>When he had regained consciousness</p>
 <p>290 he wept sorely and said, “Alas,</p>
@@ -1521,6 +1632,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>The tears flooded out of his eyes;</p>
 <p>the high-ranked lords who witnessed this</p>
 <p>300 wept and displayed their grief.</p>
+<p><br/></p>
 
 <p>Nobody, neither old nor young</p>
 <p>could abstain from weeping</p>
@@ -1534,6 +1646,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>310 We now leave the emperor,</p>
 <p>and I shall begin to speak</p>
 <p>of the lady at sea.</p>
+<p><br/></p>
 
 <p>The lady drifted forth alone;</p>
 <p>to God in Heaven she made her complaint</p>
@@ -1547,6 +1660,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>She was tossed from wave to wave.</p>
 <p>She hid her head and lay low.</p>
 <p>The water tormented her.</p>
+<p><br/></p>
 
 <p>325 Now this lady remained there</p>
 <p>for a good seven nights and longer</p>
@@ -1560,6 +1674,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>She had been harassed so severely at sea</p>
 <p>335 that she was almost crazed from hunger and thirst.</p>
 <p>Cursed be ill weather!</p>
+<p><br/></p>
 
 <p>She was driven into a land</p>
 <p>that was called “Galys,” as I understand,</p>
@@ -1573,6 +1688,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>On one of these occasions he went outside for a walk</p>
 <p>with two good and fair knights;</p>
 <p>the weather was pleasant and calm.</p>
+<p><br/></p>
 
 <p>He found a boat by the sea</p>
 <p>350 and a glistening thing inside it</p>
@@ -1586,6 +1702,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>They asked her what her name was:</p>
 <p>she changed it there on the spot</p>
 <p>360 and said she was called Egaré.</p>
+<p><br/></p>
 
 <p>Sir Kadore felt great compassion:</p>
 <p>he picked up the lady of the sea</p>
@@ -1599,6 +1716,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>370 with all the delicious food and drink</p>
 <p>they could think of</p>
 <p>that was in the castle.</p>
+<p><br/></p>
 
 <p>When that fair-faced lady</p>
 <p>was restored with food and drink</p>
@@ -1612,6 +1730,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>She was able to fashion all sorts of things</p>
 <p>that would befit an emperor or a king,</p>
 <p>earl, baron, or retainer.</p>
+<p><br/></p>
 
 <p>385 Sir Kadore arranged for a feast</p>
 <p>that was proper and appropriate</p>
@@ -1625,6 +1744,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>The cloth upon her shone so intensely</p>
 <p>395 when she was in dressed in it</p>
 <p>that she did not seem to be an earthly thing.</p>
+<p><br/></p>
 
 <p>The king gazed at her.</p>
 <p>He had never seen such a beautiful lady before.</p>
@@ -1638,6 +1758,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>And when the dinner was over</p>
 <p>he went quickly into his chamber</p>
 <p>and confidently called his barons.</p>
+<p><br/></p>
 
 <p>First he called Sir Kadore,</p>
 <p>410 and other knights that were present,</p>
@@ -1651,6 +1772,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>“Sir, where is that lovely maiden from,</p>
 <p>who was serving in the hall today?</p>
 <p>420 Tell me if you may.”</p>
+<p><br/></p>
 
 <p>Then Sir Kadore said, as I understand,</p>
 <p>“She is an earl’s daughter from a faraway land</p>
@@ -1664,6 +1786,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>430 Then the powerful sovereign said,</p>
 <p>“I will possess that fair maiden</p>
 <p>and wed her as my queen.”</p>
+<p><br/></p>
 
 <p>The noble king, truthfully,</p>
 <p>sent for his mother</p>
@@ -1677,6 +1800,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>The old queen immediately said,</p>
 <p>“I have never seen a woman</p>
 <p>even half as magnificent!”</p>
+<p><br/></p>
 
 <p>445 The old queen spoke unkind words</p>
 <p>and said, “Son, this is a fiend</p>
@@ -1690,6 +1814,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>The old queen, truthfully,</p>
 <p>455 furiously went back home</p>
 <p>and would not attend the wedding.</p>
+<p><br/></p>
 
 <p>The king wed that radiant lady,</p>
 <p>and great hospitality was arranged for there</p>
@@ -1703,6 +1828,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>There was all manner of things</p>
 <p>befitting a royal wedding,</p>
 <p>and many a famous entertainer.</p>
+<p><br/></p>
 
 <p>When the eating was done,</p>
 <p>470 the great lords,</p>
@@ -1716,6 +1842,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>The lady who was both humble and compassionate</p>
 <p>conceived and soon was pregnant</p>
 <p>480 as God willed it to be.</p>
+<p><br/></p>
 
 <p>At that time, the King of France</p>
 <p>was assailed by many “Saracens”</p>
@@ -1729,6 +1856,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>490 Then the king said to Sir Kadore</p>
 <p>and other lords that were present,</p>
 <p>“Take good care of my queen.”</p>
+<p><br/></p>
 
 <p>The King of France spared nobody,</p>
 <p>but sent for all of them:</p>
@@ -1742,6 +1870,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>until from her body</p>
 <p>a beautiful and handsome child was delivered</p>
 <p>[who] had a double king’s mark.</p>
+<p><br/></p>
 
 <p>505 They christened him with great honor,</p>
 <p>and called him Segramour;</p>
@@ -1755,6 +1884,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>The messenger then went on his way.</p>
 <p>515 He came by the king’s mother[‘s place]</p>
 <p>and went into the castle.</p>
+<p><br/></p>
 
 <p>He was received splendidly</p>
 <p>and she eagerly asked him</p>
@@ -1768,6 +1898,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>She got him drunk on ale and wine</p>
 <p>and when she saw that it was time,</p>
 <p>she led him to his bedroom.</p>
+<p><br/></p>
 
 <p>And when he had fallen asleep,</p>
 <p>530 the queen, who had an evil mind,</p>
@@ -1781,6 +1912,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>[That her son] had three heads:</p>
 <p>a lion’s, a dragon’s, and a bear’s,</p>
 <p>540 and was a foul, hairy fiend.</p>
+<p><br/></p>
 
 <p>In the morning, when it was day,</p>
 <p>the messenger went on his way,</p>
@@ -1794,6 +1926,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>550 And as he stood reading,</p>
 <p>he fell down, swooning;</p>
 <p>his heart was bleeding from sorrow.</p>
+<p><br/></p>
 
 <p>Noble lords that stood beside him</p>
 <p>hastily helped the king up;</p>
@@ -1807,6 +1940,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>That Jesus himself would ever send</p>
 <p>such a foul, loathly fiend,</p>
 <p>to come between the two of us.”</p>
+<p><br/></p>
 
 <p>565 When he saw it could not be helped,</p>
 <p>he made another letter,</p>
@@ -1820,6 +1954,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>[The messenger] took the letter from his hands,</p>
 <p>575 and rode back along the same route</p>
 <p>via the king’s mother’s castle.</p>
+<p><br/></p>
 
 <p>And then he stayed there all night;</p>
 <p>he was received well and outfitted richly</p>
@@ -1833,6 +1968,8 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>and made another letter,</p>
 <p>[saying] that men should seize the lady</p>
 <p>and lead her out of town</p>
+<p><br/></p>
+
 <p>and cast her into the sea</p>
 <p>590 in that robe of radiant hues,</p>
 <p>along with her little child,</p>
@@ -1845,6 +1982,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>The messenger was completely unaware [of this]</p>
 <p>and he rode home for many a mile</p>
 <p>600 through forests and estates.</p>
+<p><br/></p>
 
 <p>And when the messenger came home</p>
 <p>the steward quickly took the letter</p>
@@ -1858,6 +1996,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>610 There was nobody, neither old nor young,</p>
 <p>who would not weep</p>
 <p>for that worthy one underneath her dress.</p>
+<p><br/></p>
 
 <p>The lady heard the great clamour in the hall.</p>
 <p>She called the steward</p>
@@ -1871,6 +2010,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>She took the letter and began to read.</p>
 <p>There she found the entire command written down:</p>
 <p>how she must [be thrown] into the sea.</p>
+<p><br/></p>
 
 <p>625 “Be quiet, Sir,” said the queen,</p>
 <p>“Refrain from such mourning</p>
@@ -1884,6 +2024,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Send my greetings to my lord.</p>
 <p>635 Nevermore will he obtain</p>
 <p>[one] of such noble lineage in all Christendom.”</p>
+<p><br/></p>
 
 <p>Then there was misery and much sorrow</p>
 <p>when the lady had to go to the ship.</p>
@@ -1897,6 +2038,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>They wept bitterly and said, “Alas,</p>
 <p>this is certainly a cruel case.</p>
 <p>Cursed be malicious deeds!”</p>
+<p><br/></p>
 
 <p>The lady and the little child</p>
 <p>650 drifted away on the raging water</p>
@@ -1910,6 +2052,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>The waves were huge and forceful;</p>
 <p>they violently flogged the boat</p>
 <p>660 with many harsh thuds.</p>
+<p><br/></p>
 
 <p>And when the child began to weep</p>
 <p>she sang it to sleep with a heavy heart</p>
@@ -1923,6 +2066,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>670 then she prayed</p>
 <p>to Jesus and His dear Mother</p>
 <p>in all the ways that she knew.</p>
+<p><br/></p>
 
 <p>Now this lady remained there</p>
 <p>for a full seven nights and longer,</p>
@@ -1936,6 +2080,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>While at sea she was harassed so badly</p>
 <p>[that she was] almost crazed from hunger and thirst.</p>
 <p>Cursed be ill chance!</p>
+<p><br/></p>
 
 <p>685 A merchant lived in that city,</p>
 <p>a rich man who owned gold and bonds;</p>
@@ -1949,6 +2094,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>he found a boat by the shore,</p>
 <p>695 and a beautiful lady inside</p>
 <p>who was very wretched.</p>
+<p><br/></p>
 
 <p>The fabric on her gleamed so radiantly</p>
 <p>that he was terrified by the sight</p>
@@ -1962,6 +2108,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>He helped the beautiful lady up</p>
 <p>and the young child that was with her</p>
 <p>and he led them home.</p>
+<p><br/></p>
 
 <p>When he came to his residence,</p>
 <p>710 he appropriately received that young lady</p>
@@ -1975,6 +2122,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>She has been without food for so long</p>
 <p>that I think it is a great pity.</p>
 <p>720 Comfort her if you can.”</p>
+<p><br/></p>
 
 <p>Now the lady lived there.</p>
 <p>She had all good foods</p>
@@ -1988,6 +2136,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>730 And she sewed silkwork in her bower</p>
 <p>and taught her son good manners,</p>
 <p>but she always mourned quietly.</p>
+<p><br/></p>
 
 <p>When the child was seven years old,</p>
 <p>he was both discerning and courageous,</p>
@@ -2001,6 +2150,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Now we shall leave our tale of the lady who is unspoiled by vice</p>
 <p>and speak instead of the King of “Galys”</p>
 <p>when he comes home from the siege.</p>
+<p><br/></p>
 
 <p>745 Now that the siege is over,</p>
 <p>the king comes home to “Galys”</p>
@@ -2014,6 +2164,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>He told the king the fortunes</p>
 <p>755 of his halls and his bowers</p>
 <p>and of his wide lands.</p>
+<p><br/></p>
 
 <p>The king said, “For God’s sake,</p>
 <p>Sir Kadore, you are to blame</p>
@@ -2027,6 +2178,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Look here at the letter you sent me.</p>
 <p>You may see it for yourself:</p>
 <p>I have done your bidding.”</p>
+<p><br/></p>
 
 <p>The king took the letter to read it</p>
 <p>770 and when he saw the aforementioned document [the letter]</p>
@@ -2040,6 +2192,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>They both wept and berated themselves.</p>
 <p>“Alas!” they said, “May God’s will be done!”</p>
 <p>780 And then they both swooned.</p>
+<p><br/></p>
 
 <p>Distinguished lords stood nearby</p>
 <p>and they hastily helped up the king;</p>
@@ -2053,6 +2206,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>790 They sent for the messenger.</p>
 <p>The king asked which way he had gone:</p>
 <p>“Lord, past your noble mother’s.”</p>
+<p><br/></p>
 
 <p>“Alas!” the king then said.</p>
 <p>“Could my mother be so discourteous</p>
@@ -2066,6 +2220,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Thus they exiled the malicious queen</p>
 <p>and stripped her of all her privileges,</p>
 <p>castles, towers, and towns.</p>
+<p><br/></p>
 
 <p>805 When she was cast out upon the sea foam,</p>
 <p>the noble king remained at home</p>
@@ -2079,6 +2234,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>That was his life for many days,</p>
 <p>815 [and] nobody could put an end to [his suffering]</p>
 <p>for a full seven years—</p>
+<p><br/></p>
 
 <p>until [one day] a thought came into his heart:</p>
 <p>how his lady who was white as foam</p>
@@ -2092,6 +2248,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>He had alms distributed</p>
 <p>in order to gain salvation for his soul,</p>
 <p>[then] he made his way to the ship.</p>
+<p><br/></p>
 
 <p>Sailors who were very skilled</p>
 <p>830 prepared the rigging,</p>
@@ -2105,6 +2262,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>When they came to that city,</p>
 <p>[the king] took his lodgings at the burgher’s house</p>
 <p>840 where Emaré lived.</p>
+<p><br/></p>
 
 <p>Emaré called her son to</p>
 <p>come to her quickly</p>
@@ -2118,6 +2276,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>850 Look, son, you are so well-mannered</p>
 <p>that no one could find your match</p>
 <p>in any manner of things!</p>
+<p><br/></p>
 
 <p>“When the king is served dessert,</p>
 <p>kneel down hastily</p>
@@ -2131,6 +2290,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>The child went into the hall,</p>
 <p>among the greater and lesser nobles,</p>
 <p>who was lovely underneath the linen.</p>
+<p><br/></p>
 
 <p>865 Then the lords, who were distinguished,</p>
 <p>washed [their hands] and proceeded to eat;</p>
@@ -2144,6 +2304,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>The king said to him, in jest,</p>
 <p>875 “Sweet son, what is your name?”</p>
 <p>“Lord,” he said, “I am called Segramour.”</p>
+<p><br/></p>
 
 <p>Then that noble king</p>
 <p>started to sigh heavily,</p>
@@ -2157,6 +2318,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>The king then said to the burgher:</p>
 <p>“Sweet Sir, is this your son?”</p>
 <p>The burgher said: “Yes.”</p>
+<p><br/></p>
 
 <p>Then the distinguished lords</p>
 <p>890 cleaned [their hands] after the meal</p>
@@ -2170,6 +2332,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>I shall make him a lord over towns and fortresses,</p>
 <p>over high halls and bowers.</p>
 <p>900 I feel a particular affection for him.”</p>
+<p><br/></p>
 
 <p>When he had served the king for a while</p>
 <p>[the child] went to his mother</p>
@@ -2183,6 +2346,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>910 The child went again to the hall</p>
 <p>among all the distinguished lords</p>
 <p>and served them splendidly.</p>
+<p><br/></p>
 
 <p>When they were finally satisfied</p>
 <p>with bread, ale, and wine,</p>
@@ -2196,6 +2360,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>You shall come speak with Emaré</p>
 <p>who changed her name to Egaré</p>
 <p>and who bears a white chin.</p>
+<p><br/></p>
 
 <p>925 In his heart, the king was miserable</p>
 <p>when he heard the [child’s] speech</p>
@@ -2209,6 +2374,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>[The king] took her into his two arms;</p>
 <p>935 they both swooned from joy,</p>
 <p>such was the love between them.</p>
+<p><br/></p>
 
 <p>That was a joyful meeting there,</p>
 <p>[the king] freely folding that lady,</p>
@@ -2223,6 +2389,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>We shall now leave the lady who was as white as a flower,</p>
 <p>and speak of her father, the emperor,</p>
 <p>of whom this tale first told.</p>
+<p><br/></p>
 
 <p>By then, her father the emperor</p>
 <p>950 had become an old man,</p>
@@ -2236,6 +2403,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>He soon sent messengers ahead</p>
 <p>and they came to the Roman court</p>
 <p>960 to take lodgings for their lord.</p>
+<p><br/></p>
 
 <p>Emaré implored her lord, the king,</p>
 <p>“Sir, wait for that lord who is coming,</p>
@@ -2249,6 +2417,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>970 “Now, sweet Sir, whatever happens,</p>
 <p>ride towards that lord,</p>
 <p>and all your knights with you.”</p>
+<p><br/></p>
 
 <p>Emaré, anticipating the emperor’s arrival,</p>
 <p>instructed her young son</p>
@@ -2262,6 +2431,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>and ask him to come speak with Emaré</p>
 <p>who was put to sea.</p>
 <p>He himself gave the command.”</p>
+<p><br/></p>
 
 <p>985 Now the worthy emperor arrived;</p>
 <p>the King of “Galys” rode to meet him</p>
@@ -2275,6 +2445,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>and other lords of great courage</p>
 <p>995 also kissed Segramour,</p>
 <p>that is the truth of it.</p>
+<p><br/></p>
 
 <p>The Emperor’s heart was greatly enamored</p>
 <p>by the child who rode by his side</p>
@@ -2288,6 +2459,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>you shall come and speak with Emaré</p>
 <p>who changed her name to Egaré</p>
 <p>who was your dear daughter.”</p>
+<p><br/></p>
 
 <p>The emperor grew very pale</p>
 <p>1010 and said, “Son, why do you reproach me with grief</p>
@@ -2301,6 +2473,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>And the emperor dismounted</p>
 <p>and took her into his two arms;</p>
 <p>1020 he embraced her and kissed her sweetly.</p>
+<p><br/></p>
 
 <p>That was a joyful meeting</p>
 <p>of the emperor and the king,</p>
@@ -2318,6 +2491,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>grant us to live with You</p>
 <p>1035 in perpetual glory! Amen.</p>
 <p>Here ends <em>Emaré.</em></p>
+<p><br/></p>
 
 
 <h2>Critical Notes</h2>

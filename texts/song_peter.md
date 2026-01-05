@@ -49,6 +49,7 @@ imagesource: "Detail from BSB MS Clm 6260, fol.158v"
 <p>den er uuili nerian. kirie eleison criste [eleyson]</p>
 <p>5 Pittemes den gotes trut alla samant uparlut. daz er uns firtanen giuuer</p>
 <p>do ginaden<sup>1</sup>. kirie eleyson criste eleyson</p>
+<p><br/></p>
 
 <p>Our Lord gave Saint Peter the power to save</p>
 <p>those entrusted to him. <i> Kyrie eleison. Christe eleison.</i></p>

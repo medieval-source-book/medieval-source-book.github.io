@@ -58,6 +58,7 @@ imagesource: "“Detail from 宋人拜月圖軸 (house)”, Anonymous, National 
 
 <p>西江月</p>
 <p>平山堂</p>
+<p><br/></p>
 
 <p>三過平山堂下，</p>
 <p>半生彈指聲中。</p>
@@ -67,9 +68,11 @@ imagesource: "“Detail from 宋人拜月圖軸 (house)”, Anonymous, National 
 <p>仍歌楊柳春風。</p>
 <p>休言萬事轉頭空。</p>
 <p>未轉頭時皆夢。</p>
+<p><br/></p>
 
 <p>To the tune “The Moon Over the West River”<sup>1</sup></p>
 <p>Pingshan Hall<sup>2</sup></p>
+<p><br/></p>
 
 <p>By the time I stopped by the Pingshan Hall for the third time,<sup>3</sup></p>
 <p>Half of my lifetime had gone in a flick of the finger.<sup>4</sup></p>
@@ -79,6 +82,7 @@ imagesource: "“Detail from 宋人拜月圖軸 (house)”, Anonymous, National 
 <p>but instead, I sing the song for the willow and the spring breeze.<sup>7</sup></p>
 <p>Do not say that all things become empty in a blink of an eye.</p>
 <p>Even before your eyes blink, it is all just a dream.</p>
+<p><br/></p>
 
 
 <h2>Critical Notes</h2>

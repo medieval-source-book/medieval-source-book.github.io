@@ -61,6 +61,7 @@ thumb: /assets/img/text/liu_yong-thumb.jpg
 <h2>To the tune “Like Fish and Water”—“Dallying in the capital” | 如魚水 · 帝里疏散</h2>
 
 <p>如魚水</p>
+<p><br/></p>
 
 <p>帝里疏散，</p>
 <p>數載酒縈花系，</p>
@@ -73,6 +74,7 @@ thumb: /assets/img/text/liu_yong-thumb.jpg
 <p>被舉措、</p>
 <p>10 藝足才高，</p>
 <p>在處別得艷姬留。</p>
+<p><br/></p>
 
 <p>浮名利，</p>
 <p>擬拚休。</p>
@@ -85,8 +87,10 @@ thumb: /assets/img/text/liu_yong-thumb.jpg
 <p>20 向繡幄，</p>
 <p>醉倚芳姿睡，</p>
 <p>算除此外何求。</p>
+<p><br/></p>
 
 <p>To the tune “Like Fish and Water”</p>
+<p><br/></p>
 
 <p>Dallying in the capital,<sup>1</sup></p>
 <p>for years, I have been surrounded by wine and flowers,<sup>2</sup></p>
@@ -99,6 +103,7 @@ thumb: /assets/img/text/liu_yong-thumb.jpg
 <p> Because I was famous for</p>
 <p>10 my abundant skills and great talent,</p>
 <p>wherever I went, I was adored by other voluptuous girls.</p>
+<p><br/></p>
 
 <p>The ephemeral fame and profit—</p>
 <p>I tried hard to discard them.</p>
@@ -111,6 +116,7 @@ thumb: /assets/img/text/liu_yong-thumb.jpg
 <p>20 enter the embroidered canopy,<sup>7</sup></p>
 <p>in drunkenness, lean towards the flower-like one to sleep;</p>
 <p>I want nothing more aside from this.</p>
+<p><br/></p>
 
 <h2>Critical Notes</h2>
 <ol id="l2">

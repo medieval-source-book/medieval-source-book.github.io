@@ -58,30 +58,36 @@ imagesource: "Detail from 宋人畫調鶴采花仙(Woman Outside) 軸, Anonymous
 <h2>To the tune “Spring in Wuling”—“The wind stops, the dust is fragrant, and the flowers all gone” | 武陵春 · 風住塵香花已盡</h2>
 
 <p>武陵春</p>
+<p><br/></p>
 
 <p>風住塵香花已盡，</p>
 <p>日晚倦梳頭。</p>
 <p>物是人非事事休。</p>
 <p>欲語淚先流。</p>
+<p><br/></p>
 
 <p>5 聞說雙溪春尚好。</p>
 <p>也擬泛輕舟，</p>
 <p>只恐雙溪舴艋舟。</p>
 <p>載不動、</p>
 <p>許多愁。</p>
+<p><br/></p>
 
 <p>To the tune “Spring in Wuling”</p>
+<p><br/></p>
 
 <p>The wind stops, the dust is fragrant, and the flowers are all gone.</p>
 <p>The sun is late, but I am too listless to comb my hair.</p>
 <p>Things remain the same while people differ, and everything is over;</p>
 <p>before I begin to speak, my tears roll down.</p>
+<p><br/></p>
 
 <p>5 I have heard that spring is still wonderful at the Twin Creek,</p>
 <p>so I plan to go there and ride in a swift boat.</p>
 <p>I only worry that the grasshopper boat on the Twin Creek</p>
 <p>will not be able to carry</p>
 <p>so much sorrow.</p>
+<p><br/></p>
 
 <h2>Critical Notes</h2>
 

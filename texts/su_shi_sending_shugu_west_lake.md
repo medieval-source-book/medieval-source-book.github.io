@@ -58,6 +58,7 @@ imagesource: "“Detail from 宋錢選蘭亭觀鵝圖卷 (lake)”, 錢選, Nati
 
 <p>菩薩蠻</p>
 <p>西湖</p>
+<p><br/></p>
 
 <p>秋風湖上蕭蕭雨 </p>
 <p>使君欲去還留住。</p>
@@ -67,9 +68,11 @@ imagesource: "“Detail from 宋錢選蘭亭觀鵝圖卷 (lake)”, 錢選, Nati
 <p>灑向長河水。</p>
 <p>不用斂雙蛾。</p>
 <p>路人啼更多。</p>
+<p><br/></p>
 
 <p>To the tune “Bodhisattva Barbarians”</p>
 <p>Sending off Shugu<sup>1</sup> at West Lake<sup>2</sup></p>
+<p><br/></p>
 
 <p>In the autumn wind, on the lake, the cold and sparing rain</p>
 <p>keeps him<sup>3</sup> when he is about to go.</p>
@@ -79,6 +82,7 @@ imagesource: "“Detail from 宋錢選蘭亭觀鵝圖卷 (lake)”, 錢選, Nati
 <p>sprinkling onto the Long River.<sup>5</sup></p>
 <p>There is no need to frown;<sup>6</sup></p>
 <p>the passersby will cry even more.</p>
+<p><br/></p>
 
 <h2>Critical Notes</h2>
 

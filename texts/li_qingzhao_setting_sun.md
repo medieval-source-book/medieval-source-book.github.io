@@ -59,6 +59,7 @@ imagesource: "Detail from 元人畫梅花仕女(Woman by Plum Blossom) 軸, Anon
 <h2>To the tune “Always Having Fun”—“The setting sun is like melted gold” | 永遇樂 · 落日鎔金</h2>
 
 <p>永遇樂</p>
+<p><br/></p>
 
 <p>落日鎔金，</p>
 <p>暮雲合璧，</p>
@@ -72,6 +73,7 @@ imagesource: "Detail from 元人畫梅花仕女(Woman by Plum Blossom) 軸, Anon
 <p>10 來相召、</p>
 <p>香車寶馬，</p>
 <p>謝他酒朋詩侶。</p>
+<p><br/></p>
 
 <p>中州盛日，</p>
 <p>閨門多暇，</p>
@@ -85,8 +87,10 @@ imagesource: "Detail from 元人畫梅花仕女(Woman by Plum Blossom) 軸, Anon
 <p>不如向、</p>
 <p>簾兒底下，</p>
 <p>聽人笑語。</p>
+<p><br/></p>
 
 <p>To the tune “Always Having Fun”</p>
+<p><br/></p>
 
 <p>The setting sun is like melted gold;</p>
 <p>the evening cloud circles the jade disc.</p>
@@ -100,6 +104,7 @@ imagesource: "Detail from 元人畫梅花仕女(Woman by Plum Blossom) 軸, Anon
 <p>10 Someone invited me,</p>
 <p>sending a fragrant carriage and fine horses;</p>
 <p>yet I refused to be his companion for wine and songs.</p>
+<p><br/></p>
 
 <p>In the glorious days in the Middleland,</p>
 <p>there was so much leisure in the women’s quarters.</p>
@@ -113,6 +118,7 @@ imagesource: "Detail from 元人畫梅花仕女(Woman by Plum Blossom) 軸, Anon
 <p>It is better to</p>
 <p>hide behind the lowered curtains,</p>
 <p>listening to the talk and laughter of others.</p>
+<p><br/></p>
 
 <h2>Critical Notes</h2>
 <p>Line 13: This is a typical reference to the territories of the Northern Song dynasty. In this case the Middleland specifically refers to the capital of the Northern Song dynasty, Bian Jing (now Kai Feng City in Henan Province, China).</p>

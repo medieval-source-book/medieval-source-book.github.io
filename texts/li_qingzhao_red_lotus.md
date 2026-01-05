@@ -59,6 +59,7 @@ imagesource: "Detail from 宋徽宗池塘秋晚圖 (Lotus)卷, 赵佶, National 
 <h2>To the tune “A Single Cutting of Plum Blossom”—“The red lotus fragrance still lingered” | 一剪梅 · 紅藕香殘玉簟秋</h2>
 
 <p>一剪梅</p>
+<p><br/></p>
 
 <p>紅藕香殘玉簟秋。</p>
 <p>輕解羅裳，</p>
@@ -66,6 +67,7 @@ imagesource: "Detail from 宋徽宗池塘秋晚圖 (Lotus)卷, 赵佶, National 
 <p>雲中誰寄錦書來，</p>
 <p>5 雁字回時，</p>
 <p>月滿西樓。</p>
+<p><br/></p>
 
 <p>花自飄零水自流。</p>
 <p>一種相思，</p>
@@ -73,8 +75,10 @@ imagesource: "Detail from 宋徽宗池塘秋晚圖 (Lotus)卷, 赵佶, National 
 <p>10 此情無計可消除，</p>
 <p>才下眉頭，</p>
 <p>卻上心頭。</p>
+<p><br/></p>
 
 <p>To the tune “A Single Cutting of Plum Blossom”</p>
+<p><br/></p>
 
 <p>The red lotus fragrance still lingered on the jade-like mat in autumn. </p>
 <p>I gently untied my silk gown,</p>
@@ -82,6 +86,7 @@ imagesource: "Detail from 宋徽宗池塘秋晚圖 (Lotus)卷, 赵佶, National 
 <p>Who would send the brocade letter from the clouds?</p>
 <p>5 When the wild geese return in the form of the character “one”, </p>
 <p>moonlight will fill up the western tower.</p>
+<p><br/></p>
 
 <p>The flower withers alone and the water flows on its own, </p>
 <p>the same kind of yearning,</p>
@@ -89,6 +94,7 @@ imagesource: "Detail from 宋徽宗池塘秋晚圖 (Lotus)卷, 赵佶, National 
 <p>10 There is no way of dispelling this feeling;</p>
 <p>as soon as it steps down from the eyebrows, </p>
 <p>it mounts to the heart.</p>
+<p><br/></p>
 
 <h2>Critical Notes</h2>
 <p>Line 3: Thoroughwort is a flowering plant in the aster family. The “thoroughwort boat” may not indicate that the boat itself contains thoroughworts, as there is a tradition in Chinese literature of using fragrant plants to signify a person’s moral integrity. This tradition originates from the Songs of Chu, which is generally dated to as early as the second or third century BCE.</p>

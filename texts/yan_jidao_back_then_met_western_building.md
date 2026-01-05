@@ -57,28 +57,34 @@ imagesource: "“Detail from 歷代集繪冊　宋崔白柳陰戲鵝 (willow)”
 <h2>To the tune “Picking Mulberries”—“Back then I met with her in the western building” | 採桑子 · 西樓月下當時見</h2>
 
 <p>採桑子</p>
+<p><br/></p>
 
 <p>西樓月下當時見，</p>
 <p>淚粉偷勻。</p>
 <p>歌罷還顰。</p>
 <p>恨隔爐煙看未真。</p>
+<p><br/></p>
 
 <p>5 別來樓外垂楊縷，</p>
 <p>幾換青春。</p>
 <p>倦客紅塵。</p>
 <p>長記樓中粉淚人。</p>
+<p><br/></p>
 
 <p>To the tune “Picking Mulberries”</p>
+<p><br/></p>
 
 <p>Back then I met with her in the western building beneath the moon;</p>
 <p>she secretly smoothed out the tear-streaked powder.</p>
 <p>After singing, she still frowned.</p>
 <p>I regret that through the smoke of the incense burner I did not see her face clearly.</p>
+<p><br/></p>
 
 <p>5 Since we parted, the willow trees outside the building have drooped down.</p>
 <p>How many times have they changed their green leaves in spring?</p>
 <p>This weary traveler in the dusty world</p>
 <p>will always remember the one with tear-streaked powder in the western building.</p>
+<p><br/></p>
 
 <h2>Critical Notes</h2>
 

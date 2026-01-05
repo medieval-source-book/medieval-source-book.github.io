@@ -59,32 +59,38 @@ imagesource: "Detail from 宋人布畫山水(Mountain and Water) 軸, Anonymous,
 <h2>To the tune “The Fisherman is Proud”—“The sky merged the sea of clouds with the mist of dawn” | 漁家傲 · 天接雲濤連曉霧</h2>
 
 <p>漁家傲</p>
+<p><br/></p>
 
 <p>天接雲濤連曉霧。</p>
 <p>星河欲轉千帆舞。</p>
 <p>彷佛夢魂歸帝所。</p>
 <p>聞天語。</p>
 <p>5 殷勤問我歸何處。</p>
+<p><br/></p>
 
 <p>我報路長嗟日暮。</p>
 <p>學詩漫有驚人句。</p>
 <p>九萬里風鵬正舉。</p>
 <p>風休住。</p>
 <p>10 蓬舟吹取三山去。</p>
+<p><br/></p>
 
 <p>To the tune “The Fisherman is Proud”</p>
+<p><br/></p>
 
 <p>The sky merged the sea of clouds with the mist of dawn.</p>
 <p>The starry rivers swirled as if a thousand sails fluttered.</p>
 <p>I felt as if my dreaming soul had returned to the gods’ palace:</p>
 <p>I heard the sky speak,</p>
 <p>5 asking me repeatedly, where do I belong?</p>
+<p><br/></p>
 
 <p>I replied that the road was long and the sun about to set.</p>
 <p>I learnt poetry and wrote astonishing lines in vain.</p>
 <p>The Peng bird glided in the wind, soaring nine thousand miles into the sky</p>
 <p>O, wind, please do not stop,</p>
 <p>10 blow this tumbleweed boat to the Three Mountains.</p>
+<p><br/></p>
 
 <h2>Critical Notes</h2>
 

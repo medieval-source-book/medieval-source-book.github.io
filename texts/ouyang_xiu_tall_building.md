@@ -54,28 +54,34 @@ imagesource: "宋米芾雲山煙樹(Smoke and Trees) 卷 , 米芾,  National Pal
 </ul><h2>To the tune “Spring in the Jade Building”—“In a tall building behind the willows by the lakeside” | 玉樓春 · 湖邊柳外樓高處</h2>
 
 <p>玉樓春</p>
+<p><br/></p>
 
 <p>湖邊柳外樓高處。</p>
 <p>望斷雲山多少路 </p>
 <p>闌干倚遍使人愁，</p>
 <p>又是天涯初日暮。</p>
+<p><br/></p>
 
 <p>5 輕無管系狂無數。</p>
 <p>水畔花飛風裏絮。</p>
 <p>算伊渾似薄情郎，</p>
 <p>去便不來來便去。</p>
+<p><br/></p>
 
 <p>To the tune “Spring in the Jade Building”</p>
+<p><br/></p>
 
 <p>In a tall building behind the willows by the lakeside,</p>
 <p>How many roads in the misty mountains have I stared to the end of?</p>
 <p>I have leant against all the railings, feeling disheartened;</p>
 <p>Again, the sun starts to set at the edge of the sky.</p>
+<p><br/></p>
 
 <p>5 Light without being tied down, wild and numerous,</p>
 <p>Petals fly beside the water, willow catkins are blown by the wind.</p>
 <p>They are just like my fickle lover,</p>
 <p>Leaving without returning, coming and soon departing.</p>
+<p><br/></p>
 
 <h2>Critical Notes</h2>
 <p>Line 5: The Chinese characters “<em>管系</em> ” literally mean “discipline” and “obstacle”.</p>

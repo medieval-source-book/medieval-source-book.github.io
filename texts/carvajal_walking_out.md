@@ -53,6 +53,7 @@ imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.130v [Publ
 <p>mas fermosa que arreada,</p>
 <p>vi serrana que tornar</p>
 <p>me fiso de mi iornada.</p>
+<p><br/></p>
 
 <p>5 Torneme en su compannia</p>
 <p>por faldas de una montanna,</p>
@@ -62,6 +63,7 @@ imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.130v [Publ
 <p>10 sennor, aquesta uegada,</p>
 <p>que superfluo es demandar</p>
 <p>quien non suele dar nada”.</p>
+<p><br/></p>
 
 <p>Si lealtad non me acordara</p>
 <p>de la mas lynda figura,</p>
@@ -71,6 +73,7 @@ imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.130v [Publ
 <p>sennora, pues soys casada?</p>
 <p>Que uos non quiero enoiar</p>
 <p>20 nin offender mi enamorada”.</p>
+<p><br/></p>
 
 <p>Replico: “Yd en buen hora,</p>
 <p>non cures de amar uillana</p>
@@ -80,11 +83,13 @@ imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.130v [Publ
 <p>pues sabeys que so enaienada”.</p>
 <p>Vi serrana que tornar</p>
 <p>me fiso de mi iornada.</p>
+<p><br/></p>
 
 <p>Walking out of an olive grove,</p>
 <p>Much prettier than dressed up,</p>
 <p>I saw a mountain girl who</p>
 <p>Made me come back from my travel.</p>
+<p><br/></p>
 
 <p>5 I went back to her company</p>
 <p>By the slopes of a mountain,</p>
@@ -94,6 +99,7 @@ imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.130v [Publ
 <p>10 Sir, this time around,</p>
 <p>For it is useless to demand</p>
 <p>To her who never gives anything.”</p>
+<p><br/></p>
 
 <p>Had loyalty not awoken me,</p>
 <p>With her most beautiful face</p>
@@ -103,6 +109,7 @@ imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.130v [Publ
 <p>My lady, since you are married?</p>
 <p>I do not want to bother you</p>
 <p>20 Nor offend my beloved.”</p>
+<p><br/></p>
 
 <p>She replied, “May you farewell;</p>
 <p>Do not try to love a peasant,</p>
@@ -112,3 +119,4 @@ imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.130v [Publ
 <p>For you know well that I am not yours.”</p>
 <p>I saw a mountain girl who</p>
 <p>Made me come back from my travel.</p>
+<p><br/></p>

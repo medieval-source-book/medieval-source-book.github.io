@@ -64,6 +64,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <h2>To the tune “Cross the Stream and Rest Nearby”—“Sobered up” | 過澗歇近 · 酒醒</h2>
 
 <p>過澗歇近</p>
+<p><br/></p>
 
 <p>酒醒。</p>
 <p>夢才覺，</p>
@@ -75,6 +76,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>疏簾風動，</p>
 <p>漏聲隱隱，</p>
 <p>10 飄來轉愁聽。</p>
+<p><br/></p>
 
 <p>怎向心緒，</p>
 <p>近日厭厭長似病。</p>
@@ -84,8 +86,10 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>粲枕冰冷。</p>
 <p>香虯煙斷，</p>
 <p>是誰與把重衾整。</p>
+<p><br/></p>
 
 <p>To the tune “Cross the Stream and Rest Nearby”</p>
+<p><br/></p>
 
 <p>Sobered up,</p>
 <p>I have just woken from a dream,</p>
@@ -97,6 +101,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>wind swings through the loose bamboo curtain.</p>
 <p>The sound of the dripping clock<sup>2</sup> is dim,</p>
 <p>10 drifting to me and dismaying this listener.</p>
+<p><br/></p>
 
 <p>What can I do with my heart,</p>
 <p>which has been listless recently, as if sick for a long time?</p>
@@ -106,6 +111,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>the shiny pillow is ice cold.</p>
 <p>The smoke from the coiling incense stops;</p>
 <p>who will tidy up my double quilt<sup>4</sup>?</p>
+<p><br/></p>
 
 <h2>Critical Notes</h2>
 

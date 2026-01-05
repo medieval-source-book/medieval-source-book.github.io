@@ -64,6 +64,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <h2>To the tune “Strike the Parasol Tree”—“Her deep dimples are fragrantly powdered” | 擊梧桐 · 香靨深深</h2>
 
 <p>擊梧桐</p>
+<p><br/></p>
 
 <p>香靨深深，</p>
 <p>姿姿媚媚，</p>
@@ -76,6 +77,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>又恐恩情，</p>
 <p>10 易破難成，</p>
 <p>未免千般思慮。</p>
+<p><br/></p>
 
 <p>近日書來，</p>
 <p>寒暄而已，</p>
@@ -88,8 +90,10 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>20 試與問、</p>
 <p>朝朝暮暮。</p>
 <p>行雲何處去。</p>
+<p><br/></p>
 
 <p>To the tune “Strike the Parasol Tree”</p>
+<p><br/></p>
 
 <p>Her deep dimples are fragrantly powdered,</p>
 <p>her posture is enchanting;</p>
@@ -102,6 +106,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>I am still afraid that our love</p>
 <p>10 will be easily broken and hard to keep.</p>
 <p>I cannot help but have a thousand thoughts and worries.</p>
+<p><br/></p>
 
 <p>Recently, her letter came</p>
 <p>with only simple greetings.</p>
@@ -114,6 +119,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>20 I’d like to ask him,</p>
 <p>every morning and every night,</p>
 <p>where did the floating cloud go?<sup>3</sup></p>
+<p><br/></p>
 
 <h2>Critical Notes</h2>
 

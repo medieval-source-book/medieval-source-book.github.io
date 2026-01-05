@@ -59,6 +59,7 @@ imagesource: "Detail from 宋夏珪溪山清遠(Pavilion) 卷, 夏珪, National 
 <h2>To the tune “As If in a Dream”—“Last night the rain was sparse” | 如夢令 · 昨夜雨疏風驟</h2>
 
 <p>如夢令</p>
+<p><br/></p>
 
 <p>昨夜雨疏風驟。</p>
 <p>濃睡不消殘酒。</p>
@@ -67,8 +68,10 @@ imagesource: "Detail from 宋夏珪溪山清遠(Pavilion) 卷, 夏珪, National 
 <p>5 知否。</p>
 <p>知否。</p>
 <p>應是綠肥紅瘦。</p>
+<p><br/></p>
 
 <p>To the tune “As If in a Dream”</p>
+<p><br/></p>
 
 <p>Last night, the rain was sparse and the wind was strong;</p>
 <p>deep sleep did not absorb the remaining wine.</p>
@@ -77,6 +80,7 @@ imagesource: "Detail from 宋夏珪溪山清遠(Pavilion) 卷, 夏珪, National 
 <p>5 Don’t you know?</p>
 <p>Don’t you know?</p>
 <p>The greens should be fat and the reds should be thin.</p>
+<p><br/></p>
 
 <h2>Critical Notes</h2>
 <p>Line 3: This refers to a female domestic servant.</p>

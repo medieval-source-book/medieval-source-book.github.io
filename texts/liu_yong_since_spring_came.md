@@ -62,6 +62,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <h2>To the tune “Still Wind and Waves”—“Since the spring came” | 定風波 · 自春來</h2>
 
 <p>定風波</p>
+<p><br/></p>
 
 <p>自春來、</p>
 <p>慘綠愁紅，</p>
@@ -75,6 +76,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>10 無那。</p>
 <p>恨薄情一去，</p>
 <p>音書無個。</p>
+<p><br/></p>
 
 <p>早知恁麼。</p>
 <p>悔當初、</p>
@@ -88,8 +90,10 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>和我。</p>
 <p>免使年少，</p>
 <p>光陰虛過。</p>
+<p><br/></p>
 
 <p>To the tune “Still Wind and Waves”</p>
+<p><br/></p>
 
 <p>Since the spring came,</p>
 <p>I am saddened by the green and worried by the red.<sup>1</sup></p>
@@ -103,6 +107,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>10 What can I do?</p>
 <p>I resent<sup>4</sup> that, ever since the fickle one left,</p>
 <p>there is not a single message from him.</p>
+<p><br/></p>
 
 <p>If only I knew (it would be like this).</p>
 <p>I regret that, back then,</p>
@@ -116,6 +121,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>Promise me</p>
 <p>that we won’t let our youth</p>
 <p>pass away in vain.</p>
+<p><br/></p>
 
 <h2>Critical Notes</h2>
 

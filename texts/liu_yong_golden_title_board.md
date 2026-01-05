@@ -59,6 +59,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <h2>To the tune “Crane Soaring in the Sky”—“On the golden title board” | 鶴沖天 · 黃金榜上</h2>
 
 <p>鶴沖天</p>
+<p><br/></p>
 
 <p>黃金榜上。</p>
 <p>偶失龍頭望。</p>
@@ -69,6 +70,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>何須論得喪。</p>
 <p>才子詞人，</p>
 <p>自是白衣卿相。</p>
+<p><br/></p>
 
 <p>10 煙花巷陌，</p>
 <p>依約丹青屏障。</p>
@@ -80,8 +82,10 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>青春都一餉。</p>
 <p>忍把浮名，</p>
 <p>換了淺斟低唱。</p>
+<p><br/></p>
 
 <p>To the tune “Crane Soaring in the Sky”</p>
+<p><br/></p>
 
 <p>On the golden title board,<sup>1</sup></p>
 <p>I fortuitously lost my chance to be the top-ranked scholar.<sup>2</sup></p>
@@ -92,6 +96,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>Why do I need to reflect upon gain and loss?</p>
 <p>A talented <i> ci </i> composer,</p>
 <p>despite wearing white,<sup>4</sup> is himself a prime minister.</p>
+<p><br/></p>
 
 <p>10 On the streets of smoke and flowers<sup>5</sup></p>
 <p>there are painted<sup>6</sup> screens.</p>
@@ -103,6 +108,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>Youth is just a fleeting moment.</p>
 <p>I would rather exchange meaningless fame</p>
 <p>to drink wine and hum tunes.<sup>8</sup></p>
+<p><br/></p>
 
 <h2>Critical Notes</h2>
 

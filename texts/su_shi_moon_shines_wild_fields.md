@@ -57,6 +57,7 @@ imagesource: "“Detail from 宋夏珪溪山清遠卷 (stream)”, 夏珪, Natio
 <h2>To the tune “The Moon Over the West River”—“The moon shines on the wild fields” | 西江月 · 照野瀰瀰淺浪</h2>
 
 <p>西江月</p>
+<p><br/></p>
 
 <p>春夜行蘄水中過酒家飲。</p>
 <p>酒醉，</p>
@@ -67,6 +68,7 @@ imagesource: "“Detail from 宋夏珪溪山清遠卷 (stream)”, 夏珪, Natio
 <p>亂山葱蘢，</p>
 <p>不謂塵世也。</p>
 <p>書此語橋柱</p>
+<p><br/></p>
 
 <p>照野瀰瀰淺浪，</p>
 <p>橫空隱隱層霄。</p>
@@ -76,8 +78,10 @@ imagesource: "“Detail from 宋夏珪溪山清遠卷 (stream)”, 夏珪, Natio
 <p>莫教踏碎瓊瑤。</p>
 <p>解鞍欹枕綠楊橋。</p>
 <p>杜宇一聲春曉。</p>
+<p><br/></p>
 
 <p>To the tune “The Moon Over the West River”</p>
+<p><br/></p>
 
 <i>
 <p>Riding along the Qi River on a spring night, I stopped by an inn, where I had a few cups.<sup>1</sup></p>
@@ -90,6 +94,7 @@ imagesource: "“Detail from 宋夏珪溪山清遠卷 (stream)”, 夏珪, Natio
 <p>I thought that I was no longer in the dusty world.<sup>2</sup></p>
 <p>Thus I wrote<sup>3</sup> this on one of the pillars of the bridge.</p>
 </i>
+<p><br/></p>
 
 <p>The moon shines on the wild fields; low waves surge on the vast water.</p>
 <p>Across the sky are dim layers of clouds.</p>
@@ -99,6 +104,7 @@ imagesource: "“Detail from 宋夏珪溪山清遠卷 (stream)”, 夏珪, Natio
 <p>Do not let it trample the jade-like reflection of the creek into pieces!<sup>4</sup></p>
 <p>I untie the saddle, lean on it as a pillow, and lie on the Lü Yang bridge.</p>
 <p>The cuckoo utters one cry and it is already dawn of a spring day.</p>
+<p><br/></p>
 
 <h2>Critical Notes</h2>
 

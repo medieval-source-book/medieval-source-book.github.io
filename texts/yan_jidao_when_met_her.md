@@ -58,29 +58,35 @@ imagesource: "“Detail from 宋馬遠松間吟月軸 (beneath the moon)”, 馬
 <h2>To the tune “Bodhisattva Barbarians”—“When I met her, I wanted to tell her about my affliction with lovesickness” | 菩薩蠻 · 相逢欲話相思苦</h2>
 
 <p>菩薩蠻</p>
+<p><br/></p>
 
 <p>相逢欲話相思苦。</p>
 <p>淺情肯信相思否。</p>
 <p>還恐漫相思。</p>
 <p>淺情人不知。</p>
+<p><br/></p>
 
 <p>5 憶曾攜手處。</p>
 <p>月滿窗前路。</p>
 <p>長到月來時。</p>
 <p>不眠猶待伊。</p>
+<p><br/></p>
 
 
 <p>To the tune “Bodhisattva Barbarians”</p>
+<p><br/></p>
 
 <p>When I met her, I wanted to tell her about my affliction with lovesickness.</p>
 <p>Would she, who loves shallowly, believe my yearning?</p>
 <p>I am afraid my lovesickness is overflowing;</p>
 <p>yet she, who loves shallowly, will never know.</p>
+<p><br/></p>
 
 <p>5 I recall the place where we used to hold hands:</p>
 <p>moonlight filled the path in front of the window.</p>
 <p>Whenever the moon shows,</p>
 <p>I will stay awake waiting for her!</p>
+<p><br/></p>
 
 <h2>Critical Notes</h2>
 <p><i>Line 1:</i> There are no personal pronouns in the original text. The third-person feminine pronoun used here is deduced from the context by the translator.</p>

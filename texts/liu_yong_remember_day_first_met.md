@@ -62,6 +62,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <h2>To the tune “Joys of Day and Night”—“I remember the day we first met in the bedroom” | 晝夜樂 · 洞房記得初相遇</h2>
 
 <p>晝夜樂</p>
+<p><br/></p>
 
 <p>洞房記得初相遇。</p>
 <p>便只合、長相聚。</p>
@@ -71,6 +72,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>對滿目、亂花狂絮。</p>
 <p>直恐好風光，</p>
 <p>盡隨伊歸去。</p>
+<p><br/></p>
 
 <p>一場寂寞憑誰訴。</p>
 <p>10 算前言、總輕負。</p>
@@ -80,8 +82,10 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>更別有、繫人心處</p>
 <p>15 一日不思量，</p>
 <p>也攢眉千度。</p>
+<p><br/></p>
 
 <p>To the tune “Joys of Day and Night”</p>
+<p><br/></p>
 
 <p>I remember the day we first met in the bedroom.<sup>1</sup></p>
 <p>It seemed that we would be together forever.</p>
@@ -91,6 +95,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>Facing a full sight of disarrayed flowers and whirling catkins,</p>
 <p>I worried that the good times</p>
 <p>would all go away with him.</p>
+<p><br/></p>
 
 <p>A plight of loneliness—whom should I tell?</p>
 <p>10 The words of the past are always easy to discard.</p>
@@ -100,6 +105,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>but also has many other good traits that tie one’s heart?</p>
 <p>15 Even when I am not thinking about him for one day,</p>
 <p>my eyebrows frown<sup>2</sup> a thousand times.</p>
+<p><br/></p>
 
 <h2>Critical Notes</h2>
 

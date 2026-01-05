@@ -61,6 +61,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <h2>To the tune “Jade Butterfly”—“By mistake, I enter a narrow alley in the Pingkang Ward” | 玉蝴蝶 · 誤入平康小巷</h2>
 
 <p>玉蝴蝶</p>
+<p><br/></p>
 
 <p>誤入平康小巷，</p>
 <p>畫簷深處，</p>
@@ -74,6 +75,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>10 憶情牽。</p>
 <p>粉牆曾恁，</p>
 <p>窺宋三年 。</p>
+<p><br/></p>
 
 <p>遷延。</p>
 <p>珊瑚筵上，</p>
@@ -88,8 +90,10 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>苦留連。</p>
 <p>鳳衾鴛枕，</p>
 <p>25 忍負良天。</p>
+<p><br/></p>
 
 <p>To the tune “Jade Butterfly”</p>
+<p><br/></p>
 
 <p>By mistake, I enter a narrow alley in the Pingkang Ward.<sup>1</sup></p>
 <p>Deep in the painted eaves,<sup>2</sup></p>
@@ -103,6 +107,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>10 I remember our former love ties:</p>
 <p>over a white wall like this,</p>
 <p>some girl had peeked at Song Yu for three years.<sup>6</sup></p>
+<p><br/></p>
 
 <p>I stay</p>
 <p>at the coral table,</p>
@@ -117,6 +122,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>She begs me to stay.</p>
 <p>Phoenix quilt and mandarin duck pillows,<sup>9</sup></p>
 <p>25 how could I bear to betray this beautiful day?</p>
+<p><br/></p>
 
 <h2>Critical Notes</h2>
 
