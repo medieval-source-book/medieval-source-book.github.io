@@ -26,58 +26,183 @@ imagesource: "British Library MS Harley 4399 f.37 [Public Domain]"
 
 <h2>Introduction to the Text</h2>
 <p>The Gosling is a typical example of the Middle High German tradition of mären: short narrative texts written in rhyming couplets, often telling humorous stories spiked with sexual jokes and sideswipes against specific social groups, most frequently clerics. In this way, mären are similar to the French fabliaux and the Italian prose novelle.</p>
-<p><br/></p>
+
 <p>The Gosling was probably composed in the second half of the thirteenth century CE, and its author is unknown. The text tells the story of a young monk who leaves his monastery for the first time, encountering an outside world about which he is entirely ignorant. Never having seen a woman before, he innocently asks his abbot about those that they meet, and the abbot, trying to suppress the monk’s instant fascination, tells him that these creatures are called “geese”. The abbot’s plan fails as the naive monk is soon seduced by a village girl. Unaware of his wrongdoing, he reveals his sexual encounter to the abbot, who recognizes the calamity caused by his white lie.</p>
-<p><br/></p>
+
 <p>The motif of the young man inexperienced in the ways of the world is widespread in European medieval literature. It is central to the various medieval versions of the legend of Barlaam and Josaphat (for example, Rudolf von Ems’s <i>Barlaam und Josaphat</i>, also in Middle High German, composed c.1220/30) and is frequently used as a moral anecdote in sermons and exemplary literature (for example, Jacques de Vitry’s Exempla, no. 82). Although commonly found in texts intended to educate their listener, the motif’s humorous potential did not escape medieval authors and audiences, and there are a large number of burlesque medieval stories about young men who have never seen women before and yet are instantly attracted to them. For example, both the early fourteenth-century Italian text <i>Novellino </i>(specifically story no. 14) and Giovanni Boccaccio’s <i>Decameron </i>(composed in 1358; see specifically the introduction to the fourth day) tell variants of this story.</p>
-<p><br/></p>
+
 <p>The Gosling is a relatively early example of this narrative tradition. With regard to its verse form, sexual humor and undertones of anticlericalism, it represents central characteristics of the mären tradition and provides an introduction this literary genre.</p>
-<p><br/></p>
+
 <h2>Introduction to the Source</h2>
 <p>Multiple variants of this text are transmitted in six manuscripts that were written between the early fourteenth and mid-fifteenth centuries CE. The manuscript that our translation is based on was composed in Würzberg (in what is now southern Germany) around the year 1350 CE. In the scholarship, it is known as manuscript E.</p>
-<p><br/></p>
+
 <h2>About this Edition</h2>
 <p>We have translated <i>The Gosling </i>according to Klaus Grubmüller’s edition of manuscript E (Munich, University Library, 2° Cod. ms. 731, fol. 91v–93v). His edition is published in: <i>Novellistik des Mittelalters. Texte und Kommentare</i>. Deutscher Klassiker-Verlag im Taschenbuch, 2014.</p>
+
 <h2>Further Reading</h2>
 <p>Boccaccio, Giovanni. <i>The Decameron</i>. Translated by Wayne A. Rebhorn. Norton, 2013.</p>
-<ul id="l1">
-<li data-list-text="•">
-<p>See the introduction of the fourth day of stories for a variant of The Gosling.</p>
-<p>Chinca, Mark. “The Body in some Middle High German Mären: Taming and Maiming.” <i>Framing Medieval Bodies</i>, edited by Sarah Kay and Miri Rubin, Manchester University Press, 1994, pp. 187–210.</p>
-<p>The Exempla, or Illustrative Stories from the Sermones Vulgares of Jacques de Vitry, edited by Thomas Frederick Crane. Folk-Lore Society, 1890.</p>
-<p>Il Novellino, The Hundred Old Tales. Translated by Edward Storer. George Routledge &amp; Sons, 1925.</p>
-</li>
-<li data-list-text="•">
-<p>T<i>he fourteenth tale is a variant of The Gosling.</i>
-</p>
-</li>
-<li data-list-text="•">
-<p>Exemplum no. 84 uses the trope of the inexperienced young man for moral instruction.</p>
-<p>Wailes, Stephen L. “Social Humor in Middle High German <i>Mären</i>.” <i>Amsterdamer Beiträge zur älteren Germanistik</i>, vol. 10, 1976, pp. 119–148.</p>
-<p>Wailes, Stephen L. “<i>Mären</i>.” <i>Dictionary of the Middle Ages</i>, edited by Joseph Reese Strayer, vol 8, Charles Scribner’s Sons, 1987, col. 126–133.</p>
-</li>
-<li data-list-text="•">
-<p>Short lexicon article on the literary genre.</p>
-</li>
+<ul>
+<li>See the introduction of the fourth day of stories for a variant of <i>The Gosling.</i></li>
 </ul>
+
+<p>Chinca, Mark. “The Body in some Middle High German Mären: Taming and Maiming.” <i>Framing Medieval Bodies</i>, edited by Sarah Kay and Miri Rubin, Manchester University Press, 1994, pp. 187–210.</p>
+
+<p><i>The Exempla, or Illustrative Stories from the Sermones Vulgares of Jacques de Vitry</i>, edited by Thomas Frederick Crane. Folk-Lore Society, 1890.</p>
+
+<p><i>Il Novellino</i>, The Hundred Old Tales. Translated by Edward Storer. George Routledge &amp; Sons, 1925.</p>
+<ul>
+<li>The fourteenth tale is a variant of <i>The Gosling.</i>
+</li>
+<li>Exemplum no. 84 uses the trope of the inexperienced young man for moral instruction.</li>
+
+<p>Wailes, Stephen L. “Social Humor in Middle High German <i>Mären</i>.” <i>Amsterdamer Beiträge zur älteren Germanistik</i>, vol. 10, 1976, pp. 119–148.</p>
+
+<p>Wailes, Stephen L. “<i>Mären</i>.” <i>Dictionary of the Middle Ages</i>, edited by Joseph Reese Strayer, vol 8, Charles Scribner’s Sons, 1987, col. 126–133.</p>
+<ul>
+<li>Short lexicon article on the literary genre.</li>
+</ul>
+
 <p>Young, Christopher J. “At the End of the Tale. Didacticism, Ideology and the Medieval German <i>Märe</i>.” <i>Mittelalterliche Novellistik im europäischen Kontext: Kulturwissenschaftliche Perspektiven</i>, edited by Mark Chinca, Timo Reuvekamp-Felber, and Christopher J. Young, Erich Schmidt Verlag, 2006, pp. 24–47.</p>
+
+
 <h2>The Gosling | Daz Genselin</h2>
-<p><br/></p>
-<p>Ich hort sagen ein mer wie ein kloster wer rich unde erbuwen wol</p>
-<p>als von reht ein kloster sol ir gasthus und ir spital heten niht gesatziu mal</p>
-<p>wan zuo welhen ziten der man geriten oder gende kan</p>
-<p>der vant daz ezzen ie bereit minneclich und unverseit</p>
-<p>gap man swaz si mohten han. also solten noch diu klôster stan. ouch hort ich mer von in sagen</p>
-<p>ir kloster daz wer underslagen daz die munich und ir gemach selten ieman fremder sach und seit daz selbe mer</p>
-<p>das manic munich da wer der selten fur daz kloster kan</p>
-<p>Nu was dar inne ein junc man der het siniu jar vertriben</p>
-<p>daz er dar inne was beliben sit daz er was ein kindelin des muost im unbekant sin swaz lebt in dem lande</p>
-<p>wen daz er ors nach sage erkande daz man die solde riten</p>
-<p>Do kam ez zuo einen ziten daz der apt solt riten</p>
+
+<p>Ich hort sagen ein mer</p>
+<p>wie ein kloster wer</p>
+<p>rich unde erbuwen wol</p>
+<p>als von reht ein kloster sol</p>
+<p>ir gasthus und ir spital</p>
+<p>heten niht gesatziu mal</p>
+<p>wan zuo welhen ziten der man</p>
+<p>geriten oder gende kan</p>
+<p>der vant daz ezzen ie bereit</p>
+<p>minneclich und unverseit</p>
+<p>gap man swaz si mohten han.</p>
+<p>also solten noch diu klôster stan.</p>
+<p>ouch hort ich mer von in sagen</p>
+<p>ir kloster daz wer underslagen</p>
+<p>daz die munich und ir gemach</p>
+<p>selten ieman fremder sach</p>
+<p>und seit daz selbe mer</p>
+<p>das manic munich da wer</p>
+<p>der selten fur daz kloster kan</p>
+<p>Nu was dar inne ein junc man</p>
+<p>der het siniu jar vertriben</p>
+<p>daz er dar inne was beliben</p>
+<p>sit daz er was ein kindelin</p>
+<p>des muost im unbekant sin</p>
+<p>swaz lebt in dem lande</p>
+<p>wen daz er ors nach sage erkande</p>
+<p>daz man die solde riten</p>
+<p>Do kam ez zuo einen ziten</p>
+<p>daz der apt solt riten</p>
 <p>des wolt er nicht biten</p>
-<p>und wolt schaffen des klosters dinc in bat der selbe jüngelinc</p>
-<p>daz er in fuort durch daz lant, daz im würde erkant</p>
-<p>der site von dem lande des er vil klein erkande. der abt der gewert</p>
+<p>und wolt schaffen des klosters dinc</p>
+<p>in bat der selbe jüngelinc</p>
+<p>daz er in fuort durch daz lant,</p>
+<p>daz im würde erkant</p>
+<p>der site von dem lande</p>
+<p>des er vil klein erkande.</p>
+<p>der abt der gewert</p>
+<p>den münich des er begert,</p>
+<p>wan er in einveltigen sach.</p>
+<p>in disem sinne das geschach:</p>
+<p>er gedâht, wirt im erkant</p>
+<p>beide liut unde lant,</p>
+<p>sô mac man im enpfelhen wol</p>
+<p>swes ein man pflegen sol.</p>
+<p>er wirt uns ein vil nützer man.</p>
+<p>alsus fuort er in von dan.</p>
+<p>sîn knehte niht vermiten,</p>
+<p>mit ir herren sie do riten.</p>
+<p>ir pfert giengen schon enzelt.</p>
+<p>do si komen an daz velt</p>
+<p>swaz in vihes wider gie</p>
+<p>der münich nimmer verlie</p>
+<p>er sprach ie wie ist daz genant</p>
+<p>der abbet der seit imz zehant</p>
+<p>swie sin name sölt sin</p>
+<p>ez wer rint schaf oder swin</p>
+<p>daz tet er im zuo rehte kunt</p>
+<p>Do komen sie in kurzer stunt</p>
+<p>zuo einem hove do sie hin wolten</p>
+<p>und ouch da beliben solten</p>
+<p>do sie der meier gesach</p>
+<p>er lief gein in unde sprach</p>
+<p>got wilkommen lieber herre min</p>
+<p>und alle die mit iu hie sin</p>
+<p>als man in die ors empfie</p>
+<p>der abte unt der münich gie</p>
+<p>zuo einem fiur an ir gemach</p>
+<p>alsô schier daz geschach,</p>
+<p>man zôch in abe sa zehant</p>
+<p>ir schuohe unde ir obergewant.</p>
+<p>Nu het der wirt ein schoenez wip</p>
+<p>und ein tochter, der lip</p>
+<p>was ze wunsche wol gestalt,</p>
+<p>sie was wol zweinzic jar alt,</p>
+<p>die ouch dort her giengen,</p>
+<p>der abbet hiez sie sitzen nider.</p>
+<p>da warn si niht wider.</p>
+<p>sie sazen nider an die stat.</p>
+<p>der münich den abbet aber bat</p>
+<p>daz er in wizzen lieze</p>
+<p>wie diu creature hieze</p>
+<p>do sprach der abbet zuohant: “diz sint gense genant.”</p>
+<p>dô sprach der münich: “crêde mich, sô sint die gense siuberlich.</p>
+<p>wie kumt daz wir niht gense hân? die möhten sich vil wol begân</p>
+<p>an unser klôsterweide.” des lachten si dô beide</p>
+<p>des wirtes tohter und sîn wîp. si wundert sêre daz sîn lîp was sô rehte minneclich</p>
+<p>unt daz er niht verstüende sich wie ein wîp er genant.</p>
+<p>den apte vrâgten si zehant ob der herre sinnic wer. dô seit er in diu mer,</p>
+<p>als ir ê hant vernumen,</p>
+<p>wie der münich dar was kumen c und wie er erwahsen wer.</p>
+<p>als dô daz selbe mer des wirtes tohter bevant, dô gedâhte si zuohant:</p>
+<p>”er ist ein sô hêrlich man,</p>
+<p>dêst wâr, ob ichz gefüegen kan, ich versuoch ob er diu wîp erkenne ir namen under ir lîp.” der rede si gedagt,</p>
+<p>ir gedanc si niemen sagt des si gedâht hete.</p>
+<p>Nû wart ez alsô spete</p>
+<p>daz die herren slâfen solten gân: nû wolt der meier des niht lân</p>
+<p>er hiez in betten nâch irm sît: dô was ouch sîn tohter mit;</p>
+<p>si schuof daz disem jungen man wart gebettet wol hin dan</p>
+<p>von den andern verre, dar umbe daz der herre möht haben sîn gemach.</p>
+<p>nâch sînem willen daz geschach. Dô man die herren geleit,</p>
+<p>der wirt hiez gereit</p>
+<p>allez daz gesinde slâfen gân, den herren ir gemach lân.</p>
+<p>der münich niht slâfen mahte; er het manige ahte,</p>
+<p>wie ieglich dinc wer genant daz im des tages wart erkant.</p>
+<p>diu juncfrowe ouch ungeslafen lac mit gedanken der si pflac</p>
+<p>wie daz würde vollebrâht daz si dâ vor hete gedâht.</p>
+<p>dô die liute entsliefen über al, dô stuont si ûf ân allen schal und sleich zuo sînem bette dar. als ir der münich wart gewar.</p>
+<p>er sprach zuohant: “waz mac daz sîn?” Si sprach: “Ich binz, daz junge genselîn, und hân vrostes vil erliten:</p>
+<p>herre, ich wolt iuch gerne biten daz ir hin under liezet mich,</p>
+<p>in der minne, daz ich</p>
+<p>iht ervrüer, wan hie ist ez kalt.” dô waz der münich einvalt</p>
+<p>daz er si zuo im hin under lie. in der minne daz ergie</p>
+<p>dô si dar under zuo im kam, dô konde dirre junge manx mit ir lützel noch vil</p>
+<p>daz man do heizzet bettespil. dô konde siz ein wênic baz. mit guoter fuoge schuof si daz daz er in kurzer stunde</p>
+<p>des selben spiln begunde. der münech die gans brûht mit flîze, wan in dûht</p>
+<p>im were wol und dennoch baz. alsô lange treip er daz</p>
+<p>unz si des tages sich versach. dô stuont si ûf unde sprach: “nu sült ir nimmer verjehen</p>
+<p>des von uns zweien ist beschehen. würde ez dem abte kunt,</p>
+<p>man tet uns beide sâ zestunt den vil grimmeclîchen tôt.” vil tiure si im daz gebôt</p>
+<p>daz erz geseite nimmer man. daz lobt er und gie si von dan an ir heimlîch.</p>
+<p>ir muot was fröudenrîch</p>
+<p>daz si was dannân kumen unt dar daz ir dâ nieman wart gewar.</p>
+<p>Dô si kam an ir gemach,</p>
+<p>dar nâch vil schier daz geschach daz ûf begonde gân der tac.</p>
+<p>das nâch ouch vil unlange lac der abte und der münich dâ. si schuofen ir dinc iesâ</p>
+<p>durch daz si wârn kumen dar. dô si daz geschuofen gar, zuohant si wider heim riten. die klôsterliute niht vermiten, dô si heim wârn kumen,</p>
+<p>der münech wart her genumen und frâgten in zehant</p>
+<p>wie im geviel daz lant.</p>
+<p>dô begunde er in verjehen daz er wol hete gesehen vil dinge in dem lande des er ê niht erkande. des gelachten si vil,</p>
+<p>sîn rede was ir aller spil.</p>
+
+
+
+
+
+
 <p>I heard a story told of a splendid</p>
 <p>and well-built monastery, as a monastery should be.</p>
 <p>5 Their lodgings and their infirmary did not have limited meal times for whenever someone arrived on horseback or on foot</p>
@@ -100,22 +225,6 @@ imagesource: "British Library MS Harley 4399 f.37 [Public Domain]"
 <p>to take him along through the countryside so that he would learn about</p>
 <p>35 the land’s customs</p>
 <p>of which he knew very little. The abbot granted</p>
-<p>den münich des er begert, wan er in einveltigen sach.</p>
-<p>in disem sinne das geschach: er gedâht, wirt im erkant beide liut unde lant,</p>
-<p>sô mac man im enpfelhen wol swes ein man pflegen sol.</p>
-<p>er wirt uns ein vil nützer man. alsus fuort er in von dan.</p>
-<p>sîn knehte niht vermiten, mit ir herren sie do riten.</p>
-<p>ir pfert giengen schon enzelt. do si komen an daz velt swaz in vihes wider gie</p>
-<p>der münich nimmer verlie</p>
-<p>er sprach ie wie ist daz genant der abbet der seit imz zehant swie sin name sölt sin</p>
-<p>ez wer rint schaf oder swin daz tet er im zuo rehte kunt Do komen sie in kurzer stunt</p>
-<p>zuo einem hove do sie hin wolten und ouch da beliben solten</p>
-<p>do sie der meier gesach er lief gein in unde sprach</p>
-<p>got wilkommen lieber herre min und alle die mit iu hie sin</p>
-<p>als man in die ors empfie der abte unt der münich gie zuo einem fiur an ir gemach alsô schier daz geschach, man zôch in abe sa zehant</p>
-<p>ir schuohe unde ir obergewant. Nu het der wirt ein schoenez wip und ein tochter, der lip</p>
-<p>was ze wunsche wol gestalt, sie was wol zweinzic jar alt, die ouch dort her giengen,</p>
-<p>der abbet hiez sie sitzen nider.</p>
 <p>the monk what he desired</p>
 <p>as he saw that he was ignorant.</p>
 <p>40 That transpired for this reason: he thought: “Should the lad learn about both land and people,</p>
@@ -139,42 +248,6 @@ imagesource: "British Library MS Harley 4399 f.37 [Public Domain]"
 <p>Now, the host had a beautiful wife and a daughter whose body</p>
 <p>was everything one could wish for. She was about twenty years old.</p>
 <p>75 The two women also came there and welcomed the gentlemen. The abbot asked them to be seated.</p>
-<p><br/></p>
-<p>da warn si niht wider.</p>
-<p>sie sazen nider an die stat. der münich den abbet aber bat daz er in wizzen lieze</p>
-<p>wie diu creature hieze</p>
-<p>do sprach der abbet zuohant: “diz sint gense genant.”</p>
-<p>dô sprach der münich: “crêde mich, sô sint die gense siuberlich.</p>
-<p>wie kumt daz wir niht gense hân? die möhten sich vil wol begân</p>
-<p>an unser klôsterweide.” des lachten si dô beide</p>
-<p>des wirtes tohter und sîn wîp. si wundert sêre daz sîn lîp was sô rehte minneclich</p>
-<p>unt daz er niht verstüende sich wie ein wîp er genant.</p>
-<p>den apte vrâgten si zehant ob der herre sinnic wer. dô seit er in diu mer,</p>
-<p>als ir ê hant vernumen,</p>
-<p>wie der münich dar was kumen c und wie er erwahsen wer.</p>
-<p>als dô daz selbe mer des wirtes tohter bevant, dô gedâhte si zuohant:</p>
-<p>”er ist ein sô hêrlich man,</p>
-<p>dêst wâr, ob ichz gefüegen kan, ich versuoch ob er diu wîp erkenne ir namen under ir lîp.” der rede si gedagt,</p>
-<p>ir gedanc si niemen sagt des si gedâht hete.</p>
-<p>Nû wart ez alsô spete</p>
-<p>daz die herren slâfen solten gân: nû wolt der meier des niht lân</p>
-<p>er hiez in betten nâch irm sît: dô was ouch sîn tohter mit;</p>
-<p><br/></p>
-<p>80</p>
-<p><br/></p>
-<p>85</p>
-<p><br/></p>
-<p>90</p>
-<p><br/></p>
-<p>95</p>
-<p><br/></p>
-<p>100</p>
-<p><br/></p>
-<p>105</p>
-<p><br/></p>
-<p>110</p>
-<p><br/></p>
-<p>115</p>
 <p>They were not averse to this. They sat down on the spot. But the monk asked the abbot to tell him</p>
 <p>what these creatures were called. The abbot replied readily:</p>
 <p>“These are called geese.”</p>
@@ -198,38 +271,6 @@ imagesource: "British Library MS Harley 4399 f.37 [Public Domain]"
 <p>that it was time for the gentlemen to go to bed.</p>
 <p>The reeve now insisted</p>
 <p>that beds be prepared for them as was befitting. His daughter was also present.</p>
-<p><br/></p>
-<p>si schuof daz disem jungen man wart gebettet wol hin dan</p>
-<p>von den andern verre, dar umbe daz der herre möht haben sîn gemach.</p>
-<p>nâch sînem willen daz geschach. Dô man die herren geleit,</p>
-<p>der wirt hiez gereit</p>
-<p>allez daz gesinde slâfen gân, den herren ir gemach lân.</p>
-<p>der münich niht slâfen mahte; er het manige ahte,</p>
-<p>wie ieglich dinc wer genant daz im des tages wart erkant.</p>
-<p>diu juncfrowe ouch ungeslafen lac mit gedanken der si pflac</p>
-<p>wie daz würde vollebrâht daz si dâ vor hete gedâht.</p>
-<p>dô die liute entsliefen über al, dô stuont si ûf ân allen schal und sleich zuo sînem bette dar. als ir der münich wart gewar.</p>
-<p>er sprach zuohant: “waz mac daz sîn?” Si sprach: “Ich binz, daz junge genselîn, und hân vrostes vil erliten:</p>
-<p>herre, ich wolt iuch gerne biten daz ir hin under liezet mich,</p>
-<p>in der minne, daz ich</p>
-<p>iht ervrüer, wan hie ist ez kalt.” dô waz der münich einvalt</p>
-<p>daz er si zuo im hin under lie. in der minne daz ergie</p>
-<p>dô si dar under zuo im kam, dô konde dirre junge manx mit ir lützel noch vil</p>
-<p>daz man do heizzet bettespil. dô konde siz ein wênic baz. mit guoter fuoge schuof si daz daz er in kurzer stunde</p>
-<p><br/></p>
-<p>120</p>
-<p><br/></p>
-<p>125</p>
-<p><br/></p>
-<p>130</p>
-<p><br/></p>
-<p>135</p>
-<p><br/></p>
-<p>140</p>
-<p><br/></p>
-<p>145</p>
-<p><br/></p>
-<p>150</p>
 <p>She arranged it so that the young man had his bed</p>
 <p>far from the others so that his master</p>
 <p>could be comfortable.</p>
@@ -253,38 +294,6 @@ imagesource: "British Library MS Harley 4399 f.37 [Public Domain]"
 <p>next to nothing</p>
 <p>about how to play so-called bed games with her. She knew a little bit more.</p>
 <p>With great skill she quickly got him</p>
-<p><br/></p>
-<p>des selben spiln begunde. der münech die gans brûht mit flîze, wan in dûht</p>
-<p>im were wol und dennoch baz. alsô lange treip er daz</p>
-<p>unz si des tages sich versach. dô stuont si ûf unde sprach: “nu sült ir nimmer verjehen</p>
-<p>des von uns zweien ist beschehen. würde ez dem abte kunt,</p>
-<p>man tet uns beide sâ zestunt den vil grimmeclîchen tôt.” vil tiure si im daz gebôt</p>
-<p>daz erz geseite nimmer man. daz lobt er und gie si von dan an ir heimlîch.</p>
-<p>ir muot was fröudenrîch</p>
-<p>daz si was dannân kumen unt dar daz ir dâ nieman wart gewar.</p>
-<p>Dô si kam an ir gemach,</p>
-<p>dar nâch vil schier daz geschach daz ûf begonde gân der tac.</p>
-<p>das nâch ouch vil unlange lac der abte und der münich dâ. si schuofen ir dinc iesâ</p>
-<p>durch daz si wârn kumen dar. dô si daz geschuofen gar, zuohant si wider heim riten. die klôsterliute niht vermiten, dô si heim wârn kumen,</p>
-<p>der münech wart her genumen und frâgten in zehant</p>
-<p>wie im geviel daz lant.</p>
-<p>dô begunde er in verjehen daz er wol hete gesehen vil dinge in dem lande des er ê niht erkande. des gelachten si vil,</p>
-<p>sîn rede was ir aller spil.</p>
-<p>155</p>
-<p><br/></p>
-<p>160</p>
-<p><br/></p>
-<p>165</p>
-<p><br/></p>
-<p>170</p>
-<p><br/></p>
-<p>175</p>
-<p><br/></p>
-<p>180</p>
-<p><br/></p>
-<p>185</p>
-<p><br/></p>
-<p>190</p>
 <p>playing the same game.</p>
 <p>The monk dealt with the goose eagerly, because it seemed to him</p>
 <p>that he was feeling good and would soon feel even better.</p>
@@ -309,7 +318,10 @@ imagesource: "British Library MS Harley 4399 f.37 [Public Domain]"
 <p>He began to tell them that he had actually seen</p>
 <p>many things in the country that he hadn’t known before. They laughed a lot at that.</p>
 <p>His tale entertained them greatly.</p>
-<p><br/></p>
+
+
+
+
 <table cellspacing="0">
 <tr>
 <td>
