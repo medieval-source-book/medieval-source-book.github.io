@@ -26,34 +26,36 @@ imagesource: "“Nihayat al-Su’l wa al-Umniya fi Ta‘allum ‘Amal al-Furusiy
 
 <h2>Introduction to the Text</h2>
 <p>The seventh-century advent of Islam precipitated a breakthrough in historiography. In the centuries that followed the religion’s arrival, linguists, lexicographers, and chroniclers spared no effort to write all they knew of the Arabs’ pre-Islamic days, much of it preserved in verse. This poetry commemorated landmarks of the past—events not so much faithfully recorded as artistically imagined to drive home their import.</p>
-<p><br/></p>
+
 <p>One such event, the legendary Basūs war between the sibling tribes of Taghlib and Bakr (ca.494-534), comes to us by way of several poems. They relate the following story: a forty-year war broke out with the murder of the Taghlibs’ leader, Wāʾil ibn Rabīʿah, better known as Kulayb. Not long before, Kulayb’s aunt-in-law, al-Basūs bint Munqidh, hosted Saʿd ibn Shumays as a resident under her protection. Saʿd’s she-camel, al-Sarāb, pastured with those of Jassās ibn Murrah, her nephew and Kulayb’s brother-in-law. Noticing the unfamiliar camel among his herd, Kulayb warned Jassās that al-Sarāb was not welcome to pasture near his land. Jassās responded in kind that none of his camels would pasture without her. Kulayb then threatened that if he saw the camel again, he’d stick an arrow in her breast. If he did so, said Jassās, he’d stick an arrow in Kulayb’s neck. Despite this grave promise, Kulayb fatally struck al-Sarāb when he encountered her again. al-Basūs shared her humiliation with her nephew, vowing to kill Kulayb’s most prized camel, Ghilāl, in retaliation. Jassās set his mind instead to killing Kulayb, which he did.</p>
-<p><br/></p>
+
 <p>Following Kulayb’s murder, Taghlib leadership transferred to Kulayb’s brother, ʿAdiyy ibn Rab īʿah, styled “al-Muhalhil” (“The Refiner”) on account of the refinement of his poetry. al-Muhalhil maintained a killing streak for several decades, culminating in the deaths of both Jassās and his half-brother, Hammām. A third half-brother, al-Ḥārith ibn ʿUbād (or ʿAbbād), who had avoided the conflict entirely until this point, now intervened, dispatching a letter to al-Muhalhil. The message, sent with al-Ḥārith’s son, Bujayr, offered al-Muhalhil the choice of either slaying Bujayr and ending the bloodshed definitively, or releasing him to likewise establish peace. al-Muhalhil proclaimed “buʾ bi-shisʿ naʿl Kulayb!” (“Take payback for Kulayb’s shoelace!”) and slew Bujayr.</p>
-<p><br/></p>
+
 <p>al-Ḥārith initially accepted his son’s sacrifice for the sake of peace. When he heard al-Muhalhil’s taunt, however, al-Ḥārith was incensed and decided to enter the battle, conclusively defeating the Taghlibs and capturing their leader, al-Muhalhil. Failing to recognize who he had captured, al-Ḥārith commanded his prisoner to lead him to al-Muhalhil; the latter promised to do so on the condition that he would not harm him. al-Ḥārith acquiesced. When the prisoner identified himself as al-Muhalhil, al-Ḥārith was true to his word, cutting off al-Muhalhil’s forelock (a mark of humiliation in this society) but otherwise leaving him alone.</p>
-<p><br/></p>
+
 <p>In the following rithāʾ, or elegy, al-Ḥārith laments the disrespectful slaying of Bujayr (his son), expresses the many hard feelings he endured as a consequence, and showcases images and moods from the day of his battle against the Taghlibs. The poem is best known by its famous refrain, “Qarribā marbaṭ al-Naʿāmah minnī,” (“Bring me al-Naʿāmah’s harness”), al-Naʿāmah being his unrivaled horse. The poem as it survives exists in multiple versions, though none live up to the claims by medieval historiographers that al-Ḥārith repeated this call over fifty times.</p>
+
 <p>Another text in the <i>Global Medieval Sourcebook</i>, “Everything’s destined toward demise,” voices al-Ḥārith’s elegy for his slain son, Bujayr. “Can you make out twilight’s ruins?” presents al-Muhalhil’s response to al-Ḥārith’s elegy. Here, theTaghlibs’ leader mourns his brother’s murder and responds to al-Ḥārith’s call for revenge with a refrain of his own: “Qarribā marbaṭ al-Mushahhar minnī,” (“Bring me al-Mushahhar’s harness”): just as al-Ḥārith had called on his war horse, al-Naʿāmah, so, too, does al-Muhalhil call on al-Mushahhar to enter the battle. al-Muhalhil’s poem stands out for its ferocious expressions of jāhilī (pre-Islamic values), including engagement in ceaseless, disproportionate feuding and the murder and plunder of innocents. These were values that the new religion explicitly rejected yet carefully transcribed in its poetic record of pre-Islamic history. While these two poems have traditionally been ascribed, respectively, to al-Harith and al-Muhalhil themselves, more research is required to determine their precise transmission and authorship.</p>
-<p><br/></p>
+
 <h2>Further Reading</h2>
 <p>Fück, J.W. [1960-2007] 2012. “al-Basūs”, in: <i>Encyclopaedia of Islam</i>, Second Edition, Edited by: P. Bearman, Th. Bianquis,</p>
 <p>C.E. Bosworth, E. van Donzel, W.P. Heinrichs. Consulted online on 23 December 2020.</p>
-<ul id="l1">
-<li data-list-text="•">
-<p>Offers an overview of the Basus war; includes a helpful bibliography.</p>
-<p>Khalidi, T. 1994. <i>Arabic Historical Thought in the Classical Period</i>. Cambridge: Cambridge University Press.</p>
-</li>
-<li data-list-text="•">
-<p>Surveys how the past was conceived and recorded through the first several centuries of Islamic historical writing.</p>
-<p>Rosenthal, F. [1952] 1968. <i>A History of Muslim Historiography</i>. 2nd rev. ed. Leiden: Brill.</p>
-</li>
-<li data-list-text="•">
-<p>Analyzes the period’s conceptions of and approaches toward recording the past.</p>
-</li>
+<ul>
+<li>Offers an overview of the Basus war; includes a helpful bibliography.</li>
 </ul>
+
+<p>Khalidi, T. 1994. <i>Arabic Historical Thought in the Classical Period</i>. Cambridge: Cambridge University Press.</p>
+<ul>
+<li>Surveys how the past was conceived and recorded through the first several centuries of Islamic historical writing.</li>
+</ul>
+
+<p>Rosenthal, F. [1952] 1968. <i>A History of Muslim Historiography</i>. 2nd rev. ed. Leiden: Brill.</p>
+<ul>
+<li>Analyzes the period’s conceptions of and approaches toward recording the past.</li>
+</ul>
+
 <h2>“Can you make out twilight’s ruins?” | “لالطأ نم ةادغلا تفرع له”</h2>
-<p><br/></p>
+
 <p>Can you make out twilight’s ruins,</p>
 <p>Subject to windstorm and downpour?</p>
 <p>A sensible person discerns effaced Traces—the craft of artisans;</p>
@@ -76,6 +78,9 @@ imagesource: "“Nihayat al-Su’l wa al-Umniya fi Ta‘allum ‘Amal al-Furusiy
 <p>For the crime they committed—the stomp of shoelaces.5</p>
 <p>I went without dogs, women,</p>
 <p>Bondswomen, maidservants, dependents.6</p>
+
+
+
 <p>لاطهْمِ ةٍمَيدِو حٍير نِهْرَ لِامَّعُلا ةِعَنْصك تٍاسراد لاحترالا ةَيَّن نوديري ال لاطبألاو ةِامكُلا لِتْقَلِو لامهناب اهقاف ذإ بٍيْلَكُلِ لايذْألاب بِارتُّلا تُافسان يلاضنِ دُيريُ ثٌراح مهنيب لِاخو مٍّعَ نيب نَابيْشَ لِآ يلاوخلا يف هلتْقبِ متُيقِشو لايقألا نم ىمَّسَيُ لٍيْقَ لَّك</p>
 <p>لاعنِّلا َءَْطْوَ ُُهوْنَج دق امب م</p>
 <p><br/></p>
@@ -83,6 +88,8 @@ imagesource: "“Nihayat al-Su’l wa al-Umniya fi Ta‘allum ‘Amal al-Furusiy
 <p>لالطأ نمِ ةَادغلا تَفْرع له اًموسُرُ اهيف مُيلحلا نُيبتسْي قٍدْصِ لُهأ اهلُهأو اهآر دق</p>
 <p>لِابلْبَلا ةِعَوْلَلِ يموقَلَ اي اهنم عُمدَّلا ردابت نٍيْعلِو هيلع حُايرِّلا ذِإ بٍيلكل رٍكْبل اًعومُجُ رٌئاز يننَّإ</p>
 <p>رٍكْب لِآ نم لَيلِغَلا تُيْفَشَ دق اًبيلك متُلْتق دقو يربْصَ فَيْكَ بٍيلكب نَّلَتُقْألَ يرمْعَلَف رٍكب ينب تُْئْطِو دقل يرمعلو َءٍاسنِو بٍلُكْأَ رَيْغ عْدَأ مل</p>
+
+
 <p>Now drink what you’ve come to7 25</p>
 <p>And flee badly defeated.</p>
 <p>The nation8 claimed we are a harmful neighbor; They maligned us in the claim</p>
@@ -94,11 +101,14 @@ imagesource: "“Nihayat al-Su’l wa al-Umniya fi Ta‘allum ‘Amal al-Furusiy
 <p>It surrendered mothers among the dead.9</p>
 <p>The neighbor averred: we surely slew</p>
 <p>For the sandal’s strap sundry kinsmen.10</p>
+
 <p>لِاح رِّش نع نيرساخ اوردِصْاو لاقملا يف اندنع مُوقلا بَذك لِاوَطِّلا حِامَرِّلابِ كَلْمُلا بُلُسْنَ لِابَجِلاكَ اهَوؤُاهَزُ عٍومُجُبِ لِالهِ نُب حُلاصَو لٌيْقَعُو</p>
 <p>لِاقثألا يف تِادلِاولا مَلَسْأ لاجرِّلا طَهْرَ لِاعنِّلا لِابَقِبِ</p>
 <p>انَّم نَآلا مُتُّدرو ام اوبرشاف َءٍوسُ رُاج اننَّأ مُوْقلا مَعز</p>
 <p>انَرْسِ مَوْيَ انَلَثْمِ سُانَّلا رَيَ مْلَ فٍوْعَ لِئِابَقَ ىلَإِ انَرْسِ مَوْيَ فٌوْعَوَ ورٌمْعَوَ كٌلِامَ مْهُنَيْبَ لٍاتقِبِ ثٍرِاح فُيْسِ مْقُيَ مْل انلْتَقَ دْق اننَّإ رُاجَلا قَدَصَ</p>
 <p><br/></p>
+
+
 <p>Ibn ʿUbād!11 The killing will not weary.</p>
 <p>Take patience: I’ve neither forgotten nor calmed.</p>
 <p>Friends!12 Draw near me this day</p>
@@ -127,32 +137,40 @@ imagesource: "“Nihayat al-Su’l wa al-Umniya fi Ta‘allum ‘Amal al-Furusiy
 <p>For a slain man scattered by the north wind.18</p>
 <p>Draw Mushahhar’s harness near—With a straight, supple spear.</p>
 <p>Draw Mushahhar’s harness near—</p>
+
+
 <p>لاس رُيْغَ يننَّإ َسَفْنَّلا رِبِّصَ لاهَّصَ مٍهَدْأو دٍرْوَ لَّكُ يلاذق بَاشأ يذلَّا بَيْلَكُلِ يلاؤسُ اليطِت الو ينالأساو</p>
 <p>لاجحِلا تُاوذ انل ودبت فوسَ يلاعفِلِ قٌبِاطمُ يلوق نَّإ</p>
 <p>يلاخو يمِّعَ ُُهادف بٍيْلَكُلِ</p>
 <p>لاطبألاو ةِامكُلا قانتعال لالبِ لِآ نَارينِ يلصْأ فوسَ يلاجرِو مهُلُاجرِ تقالت نإ يلاذَّعُ تْرَصَقْأو يليلَ لَاط يلاصوِ مكنم نيأو رٍكبل اي يلاضنِ اودارأ اذإ لٍاضنلِ لامشَّلا حُير هُتْفَسَ لٍيتقل لاسَّعَ فٍقَّثَمُ حٍمْرُ عم يلابرْسِ ابرِّقَو ُُهابرِّقَ</p>
 <p>دٍابعُ نَبْا اي لَاتقِلا لَّمَتَ ال ينِّمِ مَويلا ابرِّقَ يَّلَيلخَ اي ينِّمِ رِهَّشَمُلا طَبَرْمَ ابرِّقَ ينِّمِ رِهَّشَمُلا طَبَرْمَ ابرِّقَ ينِّمِ رِهَّشَمُلا طَبَرْمَ ابرِّقَ ينِّمِ رِهَّشَمُلا طَبَرْمَ ابرِّقَ ينِّمِ رِهَّشَمُلا طَبَرْمَ ابرِّقَ ينِّمِ رِهَّشَمُلا طَبَرْمَ ابرِّقَ ينِّمِ رِهَّشَمُلا طَبَرْمَ ابرِّقَ ينِّمِ رِهَّشَمُلا طَبَرْمَ ابرِّقَ ينِّمِ رِهَّشَمُلا طَبَرْمَ ابرِّقَ ينِّمِ رِهَّشَمُلا طَبَرْمَ ابرِّقَ ينِّمِ رِهَّشَمُلا طَبَرْمَ ابرِّقَ ينِّمِ رِهَّشَمُلا طَبَرْمَ ابرِّقَ ينِّمِ رِهَّشَمُلا طَبَرْمَ ابرِّقَ</p>
 <p>ينِّمِ رِهَّشَمُلا طَبَرْمَ ابرِّقَ</p>
+
 <p>Bring it, and bring my armor,</p>
 <p>Then tell every ready adult male</p>
 <p>70</p>
+
 <p>لاتقِلل اودُرِّجَ رَكْبَ ينب نم</p>
-<p><br/></p>
 <p>شٍانو لٍهْكَ لِّكُلِ الوق مَّثُ</p>
+
+
 <p>From Bakr’s offspring: unsheathe for bloodshed.</p>
 <p>We owned you, so become slaves!</p>
 <p>You have no leeway from our reign.</p>
-<p><br/></p>
+
 <p>لاجمَ نمِ انكِالمِ نع مكل ام</p>
-<p><br/></p>
 <p>ادًيبعَ اونوكُف مُكانكْلَمَ دق</p>
+
+
 <p>Take heed, resolve, and vie;</p>
 <p>Brace for battle after battle.</p>
 <p>Thus Bakr’s forces became</p>
 <p>As ʿĀd, torn up in the sands.19</p>
+
+
 <p>75 لِازنِّلا دعب لِازنِّلل اورُبِصْاو لامرِّلا يف تْقَزِّمُ ذإ دٍاع لَثمِ</p>
 <p>اودُّجِو اودُّشُو مكُرَذْحِ اوذُخُو رٍكب عُئامج تحبصأ دقلف</p>
-<p><br/></p>
+
 <p>Kulayb: answer a suppliant’s plea,</p>
 <p>Heartsore, ever-anxious. 80</p>
 <p>You were not one to shun the mighty, Neither weak nor lazy.</p>
@@ -162,12 +180,13 @@ imagesource: "“Nihayat al-Su’l wa al-Umniya fi Ta‘allum ‘Amal al-Furusiy
 <p>They submitted, every wife, and other maidens, Enclosed, white as the crescent.20</p>
 <p>So threaten, Bakr, all you wish</p>
 <p>Or can, for there’s no end to our plunder. 90</p>
+
 <p>لابَلْبَلا مِئاد بِلقَلا عِجَومُ لِاسكْمِ الو نٍهاو الو سِ لِاضنِّلاب مهُتَامكُ انرهقو لاصوْألا يف دُّقُت فٍويسُبِ لِالهلا لَثْمِ َءَارَّغ رٍدخِ تَاذ لِاوز نمِ اذلِ امف متعطتساو</p>
 <p>عٍاد ةِوَعْدَلِ بْجِأَ ابًيلكُ اي أْبَلا ىدَلَ َسٍكْنِ رَيغ تَنكدقلف رٍكب لِآ نم لَافطألا انحبذ دق انيْنثناو مهيلع انرْرَكَو</p>
 <p>ىرخْأُو لٍعْبَ تِاذ لَّكاوملَسْأ متُّدرَأ ام اودُعِوْأف رٍكْبَلَ اي</p>
-<p><br/></p>
+
 <h2>Critical Notes</h2>
-<p><br/></p>
+
 <ol id="l2">
 <li data-list-text="1">
 <p>We may read these enigmatic opening lines as a threat to al-Ḥārith’s Bakr tribe. Presumably, al-Muhalhil will reduce the rival clan to the wasteland he has just described. Any sensible person who beholds these ruins must conclude that the land’s inhabitants were violently uprooted.</p>
