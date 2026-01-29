@@ -90,6 +90,8 @@ imagesource: "Khalidi Library (Jerusalem) MS 214, fol. 59v-60r [Courtesy of the 
 <p><br/></p>
 <p>.نينموملا ريما بجا هل تلقو هيلع تملسف بابلا حتفف</p>
 <p><br/></p>
+<p>.ةعاطو اعمس لاقف</p>
+<p><br/></p>
 <p>رتسلا ىلا انلصو ىتح يشمي جرخو نيتعكر عكرو ءوضولا ددجف</p>
 <p><br/></p>
 <p>تلخدف نذاتسا نا ىلا حيرتستل انه فق هللا دبع ابا اي هل تلقف هبضغ ةلاح ىلع وه اذاف نينموملا ريما ىلع</p>
@@ -140,6 +142,8 @@ imagesource: "Khalidi Library (Jerusalem) MS 214, fol. 59v-60r [Courtesy of the 
 <p><br/></p>
 <p>هللا وه لقب دنك ملاطو دصر دصارو دسح دساح لك هجو تبرض دحأ اوفك هل نكي ملو دلوي ملو دلي مل دمصلا هللا دحأ</p>
 <p><br/></p>
+<p>لضفلا لاق</p>
+<p><br/></p>
 <p>ددرتأ لزأ ملو هنع هللا يضر يعفاشلا نم تاملكلا هذه تظفحف الإ ديشرلا نوراه ىلع تلخد امو اديج اظفح اهتظفح ىتح هتيب ىلإ ةيشعو ةركب اهب توعدو اهتأرقو</p>
 <p><br/></p>
 <p>يلع بضغ الو اموي يلع درح الو هركأ ام هنم تيأر تدع ام هللاوف هنع هللا يضر يعفاشلا ةكربو فيرشلا ءاعدلا اذه ةكربب</p>
@@ -149,9 +153,9 @@ imagesource: "Khalidi Library (Jerusalem) MS 214, fol. 59v-60r [Courtesy of the 
 <p>ملسو هبحصو هلأو دمحم انديس ىلع هللا ىلصو</p>
 <p><br/></p>
 
-<h2>Noble prayer said when standing before kings, known by experience to be beneficial (God most high willing)”</h2>
+<b>Noble prayer said when standing before kings, known by experience to be beneficial (God most high willing)”</b>
 
-<b>In the name of God, compassionate and merciful</b>
+<i>In the name of God, compassionate and merciful</i>
 <p><br/></p>
 <p>Ḥāfiẓ Abū Nuʻaym, God be pleased with him, narrated with a chain of transmission from al-Faḍl ibn al-Rabīʻ—the companion of Hārūn al-Rashīd—who said:</p>
 <p><br/></p>
@@ -165,7 +169,7 @@ imagesource: "Khalidi Library (Jerusalem) MS 214, fol. 59v-60r [Courtesy of the 
 <p><br/></p>
 <p>He opened the door and I greeted him and said, “Answer the Commander of the Faithful.</p>
 <p><br/></p>
-<p>He said, “To hear is to obey.” .ةعاطو اعمس لاقف</p>
+<p>He said, “To hear is to obey.”</p>
 <p><br/></p>
 <p>He renewed his ablutions, did two cycles of prayer, and left, walking until we reached the curtain.</p>
 <p><br/></p>
@@ -217,7 +221,7 @@ imagesource: "Khalidi Library (Jerusalem) MS 214, fol. 59v-60r [Courtesy of the 
 <p><br/></p>
 <p>I strike the face of every envier who envies, every watcher who watches, everyone unjust and ungrateful, with ‘Say: He is God the one, God the eternal, he does not beget and he is not begot-ten, and there is none equal to him.’”2</p>
 <p><br/></p>
-<p>Al-Faḍl said: لضفلا لاق</p>
+<p>Al-Faḍl said:</p>
 <p><br/></p>
 <p>So I memorized these words from al-Shāfiʻī - God be pleased with him — and I did not stop returning to his house until I had memorized them well, and I never went in before Hārūn al-Rashīd without reciting them and praying them, morning or evening.</p>
 <p><br/></p>

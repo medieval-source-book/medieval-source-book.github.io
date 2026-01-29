@@ -62,11 +62,12 @@ imagesource: "The Temperate and the Intemperate, Master of the Dresden Prayer Bo
 
 <h2>Joke 13: The saying of the cook of the famous duke of Milan | Facetia XIII: Dictum Coci Illustrissimo Duci Mediolanensi Habitum</h2>
 
-<p>Facetia XIII</p>
+<b>Facetia XIII</b>
 
 <p>Dux Mediolani senior, Princeps in omnibus rebus elegantiae singularis, habebat cocum egregium quem usque ad Gallos ad perdiscenda obsonia miserat. Bello, quod ingens cum Florentinis Dux habuit, cum ei aliquando non satis prosper nuntius advenisset, admodum turbavit Ducis mentem. Oblatis postmodum ad mensam epulis, sapores nescio quos cum Dux improbasset, epulas insuper, ut non rite conditas, esset aspernatus, accitum cocum veluti ignarum artis aspere increpavit. Tum ille, ut erat liberior in eloquendo: ‘Si Florentini,’ inquit, ‘tibi gustum atque appetitum auferunt, quae mea est culpa? Cibi enim mei sapidi sunt, et summa arte compositi: sed te nimium concalefaciunt, et appetitum auferunt Florentini.’ Risit ille, ut erat humanissimus, coci facetam in respondendo libertatem.</p>
+<p><br/></p>
 
-<p>Joke 13</p>
+<b>Joke 13</b>
 
 <p>The older duke of Milan, a most refined ruler when all things were concerned, had a distinguished cook, whom he sent all the way to France to fully learn their dishes. Once during the war, which the great duke waged against Florence, the duke became very upset because he had received less than favourable news. Later on at dinner a feast was presented, but the duke had rejected several sauces and had even spurned a dish for not being correctly spiced. The cook was summoned and severely rebuked for not knowing his art. Since he was quite unrestrained in speaking out, the cook then said: “If the Florentines have taken away your taste and appetite, why is that my fault? My food is well-tasting and made with the highest skill: but the Florentines have roasted you thoroughly and taken away your appetite.” The duke, who was very humane, laughed at the cook’s elegant reply and the liberty he took.</p>
 

@@ -105,7 +105,7 @@ imagesource: "Madrid, Biblioteca Nacional de España, VITR/17/7, fol. 154r [Publ
 <p>fija d’algo parescia.</p>
 <p><br/></p>
 
-<p>As I came from Campagna,</p>
+<b>As I came from Campagna,</b>
 <p>The sun was already setting,</p>
 <p>I saw a shepherdess of great beauty</p>
 <p>Collecting her flock.</p>

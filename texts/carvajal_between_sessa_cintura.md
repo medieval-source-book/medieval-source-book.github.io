@@ -85,7 +85,7 @@ imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.136v [Publ
 <p>Archiles de Poliçena.</p>
 <p><br/></p>
 
-<p>Between Sessa and Cintura</p>
+<B>Between Sessa and Cintura</B>
 <p>While hunting across the countryside,</p>
 <p>I came upon a lady who like a goddess</p>
 <p>Looked; such was her beauty.</p>

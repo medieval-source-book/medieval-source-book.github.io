@@ -62,15 +62,16 @@ imagesource: "Pregnant Woman, detail from Limbourg Brothers, September from Les 
 
 <h2>Joke 27: The pregnant sister of the citizen of Constance | Facetia XXVII: Civis Constantiae Soror Gravida Facta</h2>
 
-<p>Facetia XXVII</p>
+<b>Facetia XXVII</b>
 
 <p>Nobilis Episcopus ex Britanniis, ad ostendendam quam tunc multi requirebant Concilii Constantiensis libertatem, in magno Praelatorum conventu hoc attulit testimonium.</p>
 
 <p>Fuisse ait Constantiae civem, cuius soror innupta gravida facta erat. Cum fratri tumor ventris innotuisset, accepto gladio, quid id esset, aut unde id prodisset, quaesivit, percussori similis. Tum iuvenis exterrita, id esse Concilii opus, seque ex Concilio praegnantem. Hoc intellecto frater, Concilii metu ac reverentia, sororem impunitam reliquit.</p>
 
 <p>Cum ceteri aliarum rerum libertatem quaererent, ille praetulit licentiam futuendi.</p>
+<p><br/></p>
 
-<p>Joke 27</p>
+<b>Joke 27</b>
 
 <p>A noble bishop from Britain gave this testimony at a big meeting of the prelates as a demonstration of the liberty that many then sought at the Council of Constance.</p>
 

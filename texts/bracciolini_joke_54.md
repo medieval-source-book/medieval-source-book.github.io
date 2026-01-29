@@ -62,11 +62,12 @@ imagesource: "Archers Assaulting a City from London, British Library Yates Thomp
 
 <h2>Joke 54: About the man who wounded Ridolfo (II da Varano di Camerino) with an arrow | Facetia LIV: De Quodam Qui Redolphum Sagittando Vulneravit</h2>
 
-<p>Facetia LIV</p>
+<b>Facetia LIV</b>
 
 <p>Viri nonnulli Camerinenses extra urbem exercitii causa sagittando tempus terebant. Cum quispiam sagittam incautius emisisset, astantem procul Redolphum leviter vulneravit. Capto illo, cum variae de poena inferenda sententiae dicerentur, et, ut quisque acerrime sentiret, ita se maxime Principi gratificaturum putaret, unus censuit manum illi esse amputandum, ne amplius arcu uteretur. Redolphus liberum hominem dimitti iussit, dicens, illam futuram fuisse utilem sententiam, si id ante acceptum vulnus consilium dedisset. Plena prudentiae et humanitatis responsio.</p>
+<p><br/></p>
 
-<p>Joke 54</p>
+<b>Joke 54</b>
 
 <p>Some men from Camerino were passing the time outside of the city by practicing archery. When one of them fired an arrow carelessly, it happened to lightly wound Ridolfo, who was standing nearby. The man was captured and different punishments were discussed, some thought it had to be very harsh so that it would be most pleasing to the prince, and one man even thought that the archer’s hand should be amputated so that he could never use a bow again. But Ridolfo ordered the archer to be set free and said that this would have been a useful punishment, if the man had given the advice before he was wounded. An answer full of wisdom and humanity.</p>
 

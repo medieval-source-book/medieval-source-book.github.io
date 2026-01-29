@@ -62,11 +62,12 @@ imagesource: "Venice, from Hartmann Schedel’s Nuremberg Chronicle [Public Doma
 
 <h2>Joke 81: The debate between a Florentine and a Venetian | Facetia LXXXI: Disceptatio Inter Florentinum Et Venetum</h2>
 
-<p>Facetia LXXXI</p>
+<b>Facetia LXXXI</b>
 
 <p>Venetis foedus erat cum Duce Mediolani ad decennium. Interim primo inter Florentinos Ducemque orto bello, cum Florentinorum res deteriori loco viderentur, Veneti Ducem haud quicquam hostile timentem adorti, rupto foedere, Brixiam occuparunt: veriti ne, si Dux superior esset, omnis belli moles in se verteretur. Florentino Venetoque postmodum de hac re disceptantibus, cum Venetus diceret: ‘Nobis libertatem debetis: nam nostra opera liberi estis.’ ‘Hoc nequaquam verum est,’ inquit ad retundendam illius petulantiam Florentinus: ‘non enim nos liberos esse fecistis, sed nos vos reddidimus proditores.’</p>
+<p><br/></p>
 
-<p>Joke 81</p>
+<b>Joke 81</b>
 
 <p>There had been an alliance between Venice and the duke of Milan for a decade. Meanwhile a war had arisen between Florence and the duke, then at a point when the Florentines seemed to be losing the Venetians broke the alliance and attacked the duke, who did not suspect a thing, and occupied Brescia. They feared that if the duke would win, then the whole war apparatus might be turned against them. When later on a Florentine and a Venetian were debating this thing, the Venetian said: “You owe us your liberty: for you are free because of our work.” To rebut the impudent Venetian the Florentine said: “That’s not true at all! For you did not free us, but rather we made you traitors.”</p>
 

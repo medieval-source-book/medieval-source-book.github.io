@@ -60,18 +60,18 @@ imagesource: "London, British Library Royal 15 E VI, fol. 6r. [Public Domain]"
 <li>This is apparently an earlier translation of the <em>Facetiae</em> (I was not, however, able to consult this book for the present translation).</li>
 </ul>
 
-<p>Facetia V</p>
 <h2>Joke 5: About the stupid man who thought his wife had two pussies | Facetia V: De Homine Insulso Qui Existimavit Duos Cunnos In Uxore</h2>
 
-<p>Facetia V</p>
+<b>Facetia V</b>
 
 <p>Homo e nostris rusticanus, et haud multum prudens, certe in coitu mulierum rudis, sumpta uxore, cum illa aliquando in lecto renes versus (uerso) virum volvens, nates in eius gremio posuisset, erecto telo uxorem casu cognovit. Admiratusque postmodum et rogans mulierem, an duos cunnos haberet, cum illa annuisset: ‘Ho, ho,’ inquit, ‘mihi unus (unus mihi) satis est, alter vero superfluus.’</p>
 
 <p>Tum callida uxor, quae a Sacerdote parochiano diligebatur: ‘Possumus,’ inquit, ‘ex hoc (+altero) eleemosynam facere; demus eum Ecclesiae et Sacerdoti nostro, cui haec res erit gratissima, et tibi nihil oberit, cum unus sufficiat tibi.’ Assentit vir uxori, et in gratiam sacerdotis, et ut se onere superfluo levaret.</p>
 
 <p>Igitur, eo vocato ad cenam, causaque exposita, cum sumpto cibo lectum unum tres ingrederentur, ita ut mulier media esset, vir anteriori parte, posteriori alter ex dono uteretur, Sacerdos famelicus concupitique cibi avidus, prior aggreditur aciem sibi commissam: qua in re uxor quoque submurmurans strepitum quemdam edebat. Tunc vir timens ne partes suas aggrederetur: ‘Serva,’ inquit, ‘amice, inter nos conventa, et tua portione utere, meam intactam relinquens.’ Huic Sacerdos: ‘Det mihi gratiam Deus,’ inquit, ‘nam tua parvi facio (facton ut vid.), ut bonis tantum Ecclesiae uti possim.’ His verbis acquiescens stultus ille, quod Ecclesiae concesserat, libere uti iussit.</p>
+<p><br/></p>
 
-<p>Joke 5</p>
+<b>Joke 5</b>
 
 <p>There was a man from our part of the country who had taken a wife. He was a bumpkin, not very sensible and surely very ignorant when it came to sleeping with women. One night when they were in bed, she turned her back to him placing her buttocks in his lap and he got to know his wife by chance with his spear raised. Afterwards he was amazed and asked the woman whether she had two pussies and when she confirmed this he said: “ha-ha, one is enough for me, the other one is superfluous!”</p>
 

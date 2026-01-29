@@ -559,6 +559,7 @@ imagesource: "London, British Library, MS Add. 10289 f.129r [Public Domain]"
 
 
 <p><br/></p>
+<b>Romance of the French (Alfred)</b>
 <p>Here begins the romance of the French</p>
 <p><br/></p>
 <p>King Alfred of Northumberland</p>

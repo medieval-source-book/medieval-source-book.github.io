@@ -164,7 +164,7 @@ imagesource: "Paris BNF MS Latin 528 f.140v [Public Domain]"
 
 
 <p><br/></p>
-<h2> Song IV “Go quickly, little letter” </h2>
+<b> Song IV “Go quickly, little letter” </b>
 
 <p>Go quickly, little letter, across the even surface of the sea.</p>
 <p>Seek out on the breeze the strong harbors of the fish-laden Rhine,</p>

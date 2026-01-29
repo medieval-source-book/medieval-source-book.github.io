@@ -62,11 +62,12 @@ imagesource: "A physician examining urine, London, British Library Harley 3140 f
 
 <h2>Joke 70: The greedy man who tasted urine | Facetia LXX: De Avaro Qui Urinam Degustavit</h2>
 
-<p>Facetia LXX</p>
+<b>Facetia LXX</b>
 
 <p>Curialis unus e nostris notae avaritiae, saepe mensam familiae accedebat, dum comederet, degustans vinum, an satis aquatum esset: simulabat autem se id agere, ut bono vino uterentur. Hoc cum animadvertissent nonnulli, tandem communicato consilio recentem quandoque urinam pro vino in mensa supposuere, qua hora venturum hominem suspicabantur. Accessit ille more suo, et cum urinam bibisset, nauseans ac semieructans, magno clamore abscessit, minatus multa illis qui haec conati essent. Illi vero risu cenam finierunt. Hoc eius rei machinator mihi postmodum retulit multo cum risu.</p>
+<p><br/></p>
 
-<p>Joke 70</p>
+<b>Joke 70</b>
 
 <p>A colleague of ours in the curia, known for his greed, would often come to the servants’ table while taking his dinner to taste the wine to see if it was watered enough. However, he only pretended to do this so that they would use the good wine. When some servants noticed this, they made a plan and at the hour they suspected the man would attend, they placed fresh urine on the table instead of wine. He arrived in his usual way and when he had drunk the urine, he got nauseous and almost threw up, he left the place with loud shouts and made great threats against the ones who had planned this. The servants then finished their meal with laughter. All of this was told to me later with much laughter by the perpetrator of the act.</p>
 

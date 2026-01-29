@@ -62,11 +62,12 @@ imagesource: "Simon Marmion, Images from the Song of Roland, Grandes Chroniques 
 
 <h2>Joke 82: Antonio Loschi’s analogy | Facetia LXXXII: Comparatio Antonii Lusci</h2>
 
-<p>Facetia LXXXII</p>
+<b>Facetia LXXXII</b>
 
 <p>Ciriacus Anconitanus, homo verbosus et nimium loquax, deplorabat aliquando, astantibus nobis, casum atque eversionem Imperii Romani, inque ea re vehementius angi videbatur. Tum Antonius Luscus, vir doctissimus, qui in coetu aderat, ridens hominis stultam curam: ‘Hic persimilis est,’ inquit, ‘viro Mediolanensi, qui, die festo, cum audisset unum e grege cantorum (qui gesta heroum ad plebem decantant) recitantem mortem Rolandi, qui septingentis iam ferme annis in proelio occubuit, coepit acriter flere, atque inde, cum uxor domum reversum maestum ac gementem vidisset, rogassetque quidnam accidisset novi: ‘Heu! mea uxor,’ inquit, ‘defunctus sum!’ ‘Mi vir,’ uxor ait, ‘quid tibi adversi evenit? Solare, atque ad cenam veni.’ At ille cum in gemitu perseveraret, neque cibum vellet sumere, tandem instantius maeroris causam percontanti mulieri: An nescis,’ respondit, ‘quae nova hodie audivi?’ ‘Quaenam, vir?’ uxor inquit. ‘Mortuus est Rolandus, qui solus tuebatur Christianos!’ Solata est mulier insulsam maestitiam viri, et vix tandem ad cenam potuit illum perducere.</p>
+<p><br/></p>
 
-<p>Joke 82</p>
+<b>Joke 82</b>
 
 <p>Ciriaco d’Ancona, a verbose and far too talkative man, was once lamenting the fall and destruction of the Roman empire, while we were standing nearby. It seemed to cause him great pain. Then Antonio Loschi, a very learned man who was in our group, laughed at the man’s stupid worry and said: “He is very similar to a man from Milan who on a feast day heard a man from a group of singers (who were singing about the deeds of the heroes to the people) recite the Death of Roland, who had died in battle almost seven-hundred years ago. The man started crying bitterly. Later when his wife upon his return saw him sad and mournful, she asked him what had happened. He said: “oh dear wife, I just want to die!” The wife said: “dear husband, what misfortune has befallen you? Cheer up and come to dinner!” But he kept on sighing and refused to eat, and finally the wife demanded to know the reason for his grief and he replied: “Do you know what news I heard today?” The wife said: “What news, husband?” “Roland, the lone protector of all Christians, is dead!” The wife then soothed the husband’s silly grief and could, with some difficulty, make him come to dinner.</p>
 

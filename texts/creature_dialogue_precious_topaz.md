@@ -65,7 +65,7 @@ imagesource: "Bibliothèque nationale de France, département Arsenal, RESERVE F
 
 <h2>Concerning Precious Topaz | De topasio pretioso</h2>
 
-<p>De topasio pretioso</p>
+<b>De topasio pretioso</b>
 
 <p>Topasius, ut dicit Papias, est gemma, quæ omnium lapidum in se habet colores. Ysidor. Ethim. libro XVI. dicit, quod est gemma quædam ex virenti genere omnique colore splendens, inventa primum in Arabiæ insula, quæ dicitur Topazi, unde topazius dictus est ab insula. Quidam autem topacius de Arabia ductus est Romam et in ecclesia beati Petri super crucem collocatus est et consecratus est, in quo loco ab omnibus avide videbatur. Hic a persuasione in ima ductus ait: quid est semper in ecclesia manere et nunquam recedere nec aliquid de mundo sentire?</p>
 
@@ -94,12 +94,8 @@ imagesource: "Bibliothèque nationale de France, département Arsenal, RESERVE F
 <p>Yoluit autem frater ingredi in domum patris tamquam jam defuucto eo, et ecce ipse pater ejus vivus egrediebatur et videus non cognovit eum et ad eum ait: quis es tu? Ipse vero turbatus nihil poterat respondere, et cœpit iteratis verbis pater ejus interrogare eum, unde esset. Tunc confusus dixit ei: ego filius tuus. Et ait illi: ut quid reversus es? Qui erubescens dicere, quod verum erat, dixit: caritas tua me fecit reverti, quia desiderabam te. Et remansit ibi et post aliquantum tempus iucurrit fornicationem et multis suppliciis afflictus a patre suo infelix ille non egit pœniteutiam, sed remansit in seculo. Ideoque dico, fratres, quia monachus nunquam debet, quamvis suasus ab aliquo, egredi de cella sua.</p>
 
 
-
-
-
-
 <p><br/></p>
-<p>Concerning Precious Topaz</p>
+<b>Concerning Precious Topaz</b>
 
 <p>Topaz, as Papias writes, is a jewel that holds the colors of all other stones in itself. Similarly, Isidor writes in book sixteen of the Etymologies that it is a primarily green-coloured jewel that also shines in every color, and was first discovered on an Arabian island called Topazi, whence topaz takes its name. Once, a topaz was taken from Arabia to Rome, and placed above the cross in blessed Peter’s Church. It was consecrated there and admired enthusiastically by everyone. Convinced to exchange its lofty place for lower realms, the Topaz said, “Why must I always remain in the church and never leave, nor see anything of the world?</p>
 

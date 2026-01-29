@@ -62,11 +62,12 @@ imagesource: "Cuthbert with the elderly Hildmaer and his wife. London, British L
 
 <h2>Joke 273: The obscene comparison of the teeth that threatened to fall out | Facetia CCLXXIII: De dentibus casum minantibus similitudo obscena</h2>
 
-<p>Facetia CCLXXIII</p>
+<b>Facetia CCLXXIII</b>
 
 <p>Episcopus mihi notus senior querebatur quosdam dentes sibi cecidisse, quosdam ita labare, ut eorum casum timeret. Tum unus e familia: Tum unus e familia: ‘Ne timeatis’ inquit ‘dentum casum’. Petenti causam episcipo: ‘Quia testiculi mei’ respondit ‘iam quadraginta annis pependerunt, casuro similes, et tamen nunquam ceciderunt’.</p>
+<p><br/></p>
 
-<p>Joke 273</p>
+<b>Joke 273</b>
 
 <p>An older bishop I know used to complain that some of his teeth had fallen out, and that others were so loose that he feared they would fall out. Then one of his kin said: “Don’t be afraid that they’ll fall out!” When the bishop asked why, he replied: “For forty years my testicles have already been hanging like they are about to fall off, but they have still never fallen off.”</p>
 

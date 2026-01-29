@@ -92,7 +92,7 @@ imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.138r [Publ
 <p>nin offende al amante luenga tristura.</p>
 <p><br/></p>
 
-<p>Wandering lost, it was already night,</p>
+<b>Wandering lost, it was already night,</b>
 <p>By a deserted and craggy mountain</p>
 <p>I found a ferocious and hideous peasant woman</p>
 <p> Her hand armed with a javelin lance.</p>

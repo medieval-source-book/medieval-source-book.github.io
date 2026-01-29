@@ -66,7 +66,7 @@ imagesource: "Bibliothèque nationale de France, département Arsenal, RESERVE F
 
 <h2>Concerning Saturn and the Cloud | De Saturno et nube</h2>
 
-<p>De Saturno et nube</p>
+<b>De Saturno et nube</b>
 
 <p>Septum sunt planetæ secundum dicta philosophorum, scilicet Saturnus, Jupiter, Mars, Sol, Venus, Mercurius et Luna, sed distantia magna est inter planetam et planetam. Quia refert magister Moyses maximus philosophus, ut habetur in Aurea Legenda, quod quilibet circulus cujuslibet planetæ habet in spissitudine viam quingentorum annorum id est tantum spatium, quantum posset aliquis ire in quingentis annis de via plana ita tamen, quod iter cujuslibet diei sit quadraginta milliaria et quodlibet milliare sit duorum millium passuum.</p>
 
@@ -76,10 +76,8 @@ imagesource: "Bibliothèque nationale de France, département Arsenal, RESERVE F
 
 <p>Daniel quoque toto tempore alienationis ejus pro eo orabat, ita quod septem tempora, id est septem anni ad preces suas in septem menses mutati sunt. In quibus septem mensibus insaniam patiebatur per quadraginta dies, per alios vero quadraginta ad cor reversus flebat et orabat deum, ita quod ex magnis fletibus oculi ejus ut caro facti sunt. Multi autem ad eum exibant et eum videbant. Completis ergo septem mensibus revocatus est, non tamen statim regnavit, sed statuti sunt pro eo septem judices et usque ad finem septem annorum pœnitentiam egit, panem et carnem non comedens et vinum non bibens.</p>
 
-
-
 <p><br/></p>
-<p>Concerning Saturn and the Cloud</p>
+<b>Concerning Saturn and the Cloud</b>
 
 <p>According to the philosopher, there are seven planets: Saturn, Jupiter, Mars, the Sun, Venus, Mercury, and the Moon. However, there is a great distance from one planet to another. Hence the teacher Moyses, the greatest philosopher, says in the Golden Legend that every planet’s orbit is the size of a five-hundred-year path. That is to say, there is as much space in a planet’s orbit as someone could walk in five hundred years on a level road, if he journeyed forty miles a day and every mile consisted of two thousand paces.</p>
 

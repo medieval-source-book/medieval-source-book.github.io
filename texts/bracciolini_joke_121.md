@@ -62,11 +62,12 @@ imagesource: "Domenico di Michelino, La commedia illumina Firenze, from the Duom
 
 <h2>Joke 121: The Brilliant Dante’s Joke | Facetia CXXI: locatio Dantis clarissimi</h2>
 
-<p>Facetia CXXI</p>
+<b>Facetia CXXI</b>
 
 <p>Dantes, Poeta noster, cum exul Senis esset, et aliquando in ecclesia Minorum, cubito super altare posito, cogitabundus aliquid secretius scrutaretur animo, accessit ad eum quidam, nescio quid molestius petens. Tum Dantes: ‘Dic mihi,’ inquit, ‘quae est maxima omnium belluarum?’ At ille: ‘Elephas,’ respondit. Cui Dantes: ‘O elephas! sine me,’ inquit, ‘maiora verbis tuis cogitantem, noli esse molestus.’</p>
+<p><br/></p>
 
-<p>Joke 121</p>
+<b>Joke 121</b>
 
 <p>When our poet Dante was in exile in Siena, he was once in a mendicant church where he was searching his soul and privately pondering something. A man then walked up to him and asked something very annoying. To which Dante replied: “Tell me, which is the biggest of all animals?” “The elephant,” the man replied. Dante then told him: “Oh elephant, leave me alone to ponder things greater than your words and stop being annoying!”</p>
 

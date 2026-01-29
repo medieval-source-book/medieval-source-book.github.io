@@ -105,7 +105,7 @@ imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.153r [Publ
 <p>que por Dios pense morir.</p>
 <p><br/></p>
 
-<p>Traveling through Tuscany,</p>
+<b>Traveling through Tuscany,</b>
 <p>between Siena and Florence,</p>
 <p>I saw an elegant gentle lady</p>
 <p>Worthy of great reverence.</p>

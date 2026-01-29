@@ -79,6 +79,8 @@ imagesource: "British Library MS Additional 10294, f. 89 [Public Domain]"
 <p>Russell, Paul, ed. and trans. 2005. <i> Vita Griffini Filii Conani</i>. Cardiff: University of Wales Press.</p>
 <p>Sutton, John William. 2001. “The Tomb of King Arthur by Gerald of Wales.” <i> The Camelot Project</i>. Rochester, NY: Robbins Library. http://d.lib.rochester.edu/camelot/text/gerald-of-wales-arthurs-tomb; accessed February 4, 2021.</p>
 
+
+
 <h2>The Burial of Arthur | Claddedigaeth Arthur</h2>
 
 <p>Llyma hyspysr6yd yn y llyfreu ac eglurach noc [a dyweit y] Brut y 6rth diwed Arthur vrenhin, ac adnavot g6irioned am chwedleu a dychmygyon geua6c. Adnabydet y darllea6dyr vot yma deu gabidul gwedy eu hyspyssu o’n llyfyr ni, yr h6nn a elwir Drych yr Eglwys.</p>
@@ -106,9 +108,9 @@ imagesource: "British Library MS Additional 10294, f. 89 [Public Domain]"
 <p>Ac odyna y dywededic abat h6nn6, o arch a dysc Henri vrenhin, a beris g6neuthur ysgrin ardercha6c o vaen marmor y esgyrn Arthur, megys y g6edei ac y dylyit y seilya6dyr pennaduraf y lle h6nn6. Ac ynteu yr egl6ys honno yn v6y noc egl6ysseu yr holl deyrnas, ac ef a’e g6nathoed yn gyuoetha6c o dir a daear yn amyl ac yn ehalaeth. Ac nyt heb y obryn ohona6 ynteu, namyn o gyfya6n vra6t Du6, y g6r a dal p6yth pob da yn ehalaeth heb petruster, nyt yn y nef e hun namyn ar y daear heuyt ac yn vy6 ac yn var6, a g6edy bo mar6, yn y vuched dragy6yd.</p>
 
 <p>Ac yn y diwed, yn y vanachla6c hynaf ac a6durdodaf o’r holl deyrnas y clad6yt Arthur yn anrydedus, megys y g6edei kyflehau g6r kymeint y glot a’e anryded a h6nn6. Ac velly y teruyna cladedigaeth Arthur vrenhin.</p>
+<p><br/></p>
 
-
-<p> The Burial of Arthur </p>
+<b> The Burial of Arthur </b>
 <p>Here is the information in the letters, and clearer than what the Brut says about the death of king Arthur, and it distinguishes truth from false stories and riddles. Let the readers know that here are two chapters made known to them from our book, the one which is called <i> Mirror of the Church</i>.</p>
 
 <p>Let it be certain to all that it is in the graveyard of the monastery of Glastonbury, after his mortal wound on the river Camlan, that Arthur was buried, between two crosses of stone made from the ingenuity of craftsmanship. And these were raised standing highly, with letters on them which had been to proclaim that the grave of Arthur was there. And now those letters have been worn away from age. Let it be known, however, to all, that the grave of Arthur was not of marble stone. There was no grave for Arthur, except that he was placed inside an oak after it had been hollowed out, and he was buried sixteen feet deep in the earth. The grave is two parts of length, as if the two highest thirds were separated from the [lower] third. And as if it were a border between them, the third part is separated from them by the arranged bones of Arthur, which were large and sturdy. In the skull there were sixteen wounds, and each one of them had closed and hardened except one, and that one was open and large, as though it were certain that it was from that one that he had become dead [i.e. that had been fatal to him.]</p>

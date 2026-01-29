@@ -59,7 +59,7 @@ imagesource: "Bibliothèque nationale de France, département Arsenal, RESERVE F
 
 <h2>Concerning Man and Woman | De homine et muliere</h2>
 
-<p>De homine et muliere</p>
+<b>De homine et muliere</b>
 
 <p>Homo est secundum philosophum mens incarnata, fantasma corporis, speculator vitæ, mancipium mortis, transiens viator, loci hospes, anima laboriosa, parvi temporis habitaculum. Mulier est secundum philosophum hominis confusio, insatiabilis bestia, continua sollicitudo, indeficiens pugna, humanum mancipium et viro continenti naufragium. Prout quidam vir castus et immaculatus quandoque habere voluit colloquium mulieris et familiaritatem, in qua illectus et illaqueatus sigillum castitatis quam cito amisit, attendens autem ad dulcedinem verbi illius et intuens pulchritudinem faciei ejus dissipatus est dicens: propter mulieres fracti multi sunt et vulnerati. Unde ait quidam: peccati forma femina est et mortis conditio.</p>
 
@@ -68,9 +68,9 @@ imagesource: "Bibliothèque nationale de France, département Arsenal, RESERVE F
 <p>Cui simile narrat Valerius lib. IV. cap. III de Scipione dicens, quod, cum intellexisset, quod virgo eximiæ formæ cuidam nobili desponsata esset inter obsides, qui erant apud Carthaginem, postquam Carthago fuit ab ipso capta, vocatis parentibus virginis et sponso, immaculatam virginem iis tradidit et aurum, quod pro redemtione puellæ oblatum erat, virgini in dotem sive marito in munus nuptiale dedit, per quam coutinentiam et munificientiam animos illorum sibi applicuit. De mira etiam continentia Xenocratis philosophi narrat Valerius eodem cap. dicens, quod apud Athenas quidam juvenes promiserunt cuidam mulieri impudicæ pecuniam sibi dare, si animum philosophi posset ad luxuriam inflectere.</p>
 
 <p>Quae nocte veniens juxta eum aceubuit nec in aliquo ejus continentiam labefecit et deridentibus adolescentibus, quod animum illius flectere non potuisset, respondit, quod non ad hominem sed ad statuam perrexisset. Vocarunt enim pbilosophum statuam propter immobilem ejus continentiam.</p>
+<p><br/></p>
 
-
-<p>Concerning Man and Woman</p>
+<b>Concerning Man and Woman</b>
 
 <p>According to the philosopher, Man is the mind made flesh, a phantom of time<sup>1</sup>, an explorer of life, a slave of death, a passing traveller, a guest of nature, a striving soul, and the receptacle of a short span of time. Woman is the confusion of mankind, an insatiable beast, a perpetual worry, an unceasing battle, a human slave<sup>2</sup>, and a shipwreck<sup>3</sup> for a man with self-restraint. Once, a pure and immaculate Man wanted to have a conversation and an intimate relationship with a Woman. Seduced and ensnared, he lost his mark of chastity as quickly as possible. As he paid attention to the sweetness of her words and the beauty of her face, he fell headlong into destruction, saying, “Many men have been broken and wounded because of women.” Thus it is said, “Sin and death take a feminine form.”</p>
 

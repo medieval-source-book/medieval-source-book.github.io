@@ -47,7 +47,7 @@ imagesource: "Detail from the title page of _Asia de Joam de Barros / dos fectos
 
 <h2>First Decade of Asia, Chapter 1 | Primeira Década da Asia, Capitulo I</h2>
 
-<h2>Asia de Ioam de Barros: Dos Feitos que os portugueses fizeram no descobrimento &amp; conquista dos mares &amp; terras do Oriente</h2>
+<b>Asia de Ioam de Barros: Dos Feitos que os portugueses fizeram no descobrimento &amp; conquista dos mares &amp; terras do Oriente</b>
 
 <p><i>Capítulo primeiro, como os mouros vieram tomar Espanha: &amp; depois que Portugal foy intitulado em Reynos, os Reys delle os lançaram alem mar, onde os foram conquistar, assi nas partes de Africa como nas de Asia: &amp; a causa do título dessa escriptura</i></p>
 
@@ -146,8 +146,8 @@ imagesource: "Detail from the title page of _Asia de Joam de Barros / dos fectos
 <p>[D]eixados meus defectos, &amp; assi esta geral preparaçam de toda a obra quasi em modo de argumento &amp; diuisam della: venhamos âs causas que o Infante dom Anrique teue pera tomar tam illustre empresa, como foy o descobrimento &amp; conquista que deu fundamento a esta nossa Asia, dos feitos que os Portugueses fizeram no descobrimento &amp; conquista das terras &amp; mares do Oriente, como diz o titulo desta nossa escriptura.</p>
 
 
-
-<h2>Asia by Joao de Barros: on the achievements by the Portuguese in their discovery and conquest of the oceans and lands in the East.</h2>
+<h2>First Decade of Asia, Chapter 1</h2>
+<b>Asia by Joao de Barros: on the achievements by the Portuguese in their discovery and conquest of the oceans and lands in the East.</b>
 
 <p><i>First chapter, on how the Muslims came to conquer Spain; and on how, after Portugal became a kingdom, its kings drove the Muslims overseas, both to parts of Africa and to parts of Asia, where the Portuguese kings went to conquer them; and on the reasons why this book has the title it has.</i></p>
 

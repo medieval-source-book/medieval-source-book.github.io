@@ -62,15 +62,16 @@ imagesource: "Barber from The Courtly Household Cards. Kunsthistorisches Museum 
 
 <h2>Joke 114: About the prostitute who complained about the barber’s evil deed | Facetia CXIV: De Meretrice Conquerente De Tonsoris Maleficio</h2>
 
-<p>Facetia CXIV</p>
+<b>Facetia CXIV</b>
 
 <p>Magistratus est Florentiae, quem Officiales honestatis vocant: horum praecipua cura est in iure meretricibus dicendo, curandoque ut in omni civitate absque molestia esse possint.</p>
 
 <p>Accessit ad eos semel meretrix, questa iniuriam damnumque a tonsore illatum, qui in balneum accersitus ab ea ut partes inferiores raderet, rasorio ita cunni partem incidit, ut pluribus diebus homines admittere nequivisset, ex quo damni infecti illum accusabat, amissi lucri restitutionem petens.</p>
 
 <p>Quaeritur quae sit futura sententia?</p>
+<p><br/></p>
 
-<p>Joke 114</p>
+<b>Joke 114</b>
 
 <p>In Florence there is a magistracy called the Office of Respectability, whose main responsibility it is to preside over legal matters pertaining to prostitutes and to make sure that they can work untroubled all through the city.</p>
 

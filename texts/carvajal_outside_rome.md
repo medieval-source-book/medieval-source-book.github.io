@@ -60,7 +60,7 @@ imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.157r [Publ
 <p>galindos los pies que diablo semblaua.</p>
 <p><br/></p>
 
-<p>Outside of Rome, crossing Marino,</p>
+<b>Outside of Rome, crossing Marino,</b>
 <p>Out of the woods, in a large plain,</p>
 <p>Chasing a porcupine,</p>
 <p>The mountain woman came [to me] in big leaps.</p>

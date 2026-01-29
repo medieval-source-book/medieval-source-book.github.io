@@ -85,7 +85,7 @@ imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.130v [Publ
 <p>me fiso de mi iornada.</p>
 <p><br/></p>
 
-<p>Walking out of an olive grove,</p>
+<b>Walking out of an olive grove,</b>
 <p>Much prettier than dressed up,</p>
 <p>I saw a mountain girl who</p>
 <p>Made me come back from my travel.</p>
