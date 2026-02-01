@@ -42,7 +42,9 @@ imagesource: "Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.42
 <p>Nicht lass mich gen dir verhetzen / letzen / auch nit setzen / kan mich von dir kayns menschen list / ach werden glück erbarmb dich mein / vereyn solch schwere pein / durch deine gůt als frumb du bist / o mein hertz aller liebster gsell / ich stell / mein trost und hayl in dich / ich mayns treylich / mein lieb an sich / bit hertziklich / deyn aygen bin glaub sicherlich.</p>
 
 <p>Ach gsell nit glaub ir trew sich an / ob schon / sein gwonlich lon / traurige lieb erzaygen thůt / rumb laß nit ab deyn gmůt hyn lenck / bedenck / on not nicht krenck / dich selber han ayn gůten můt / der gleychen dw zart schöne fraw / an schaw / sein klag und schmertzlich peyn / den hertz verzeyn / kein frömbden scheyn / nit lass darein / trew ist seltzam drumb hallt dich sein.</p>
+<p><br/></p>
 
+<b>Grace, honor and praise are her Domain</b>
 <p>Whatever I do, my favor is in vain; the great ardor of faithful love torments me grievously; I’m being wronged, I swear! I have to pass the time with no joy; that’s my reward. Sweetheart, think hard about how faithful I have always been, and let me remain yours forevermore; come to me in good cheer, take away my pain and let me be bound to you: have mercy on me!</p>
 
 <p>Yes, my lady, your words move my heart deeply; now your virtue beguiles and [at the same time] saddens, me, poor brother that I am, without measure. You know that I love you and trust you, my dearest treasure, and always maintain your favor and grace: For all my joy lies in your goodness. I ask and understand me right: I’m being completely honest; so look at me, your faithful servant, and don’t weaken us both anymore.</p>

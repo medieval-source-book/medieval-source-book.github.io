@@ -58,7 +58,7 @@ imagesource: "Detail from 宋高宗書女孝經馬和之補圖上卷(Women Gathe
 
 <h2>To the tune “Bodhisattva Barbarian”—“The wind is gentle, the sunlight soft” | 菩薩蠻 · 風柔日薄春猶早</h2>
 
-<p>菩薩蠻</p>
+<b>菩薩蠻</b>
 <p><br/></p>
 
 <p>風柔日薄春猶早。</p>
@@ -73,7 +73,7 @@ imagesource: "Detail from 宋高宗書女孝經馬和之補圖上卷(Women Gathe
 <p>香消酒未消。</p>
 <p><br/></p>
 
-<p>To the tune “Bodhisattva Barbarian”</p>
+<b>To the tune “Bodhisattva Barbarian”</b>
 <p><br/></p>
 
 <p>The wind is gentle, the sunlight soft; it is still early spring.</p>

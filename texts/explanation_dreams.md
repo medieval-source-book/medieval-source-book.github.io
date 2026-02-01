@@ -80,8 +80,9 @@ imagesource: "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, MS Ham. 39
 <p>¶ In .X. significat saluatorem ad esse.</p>
 <p>¶ In .Y. significat id adiuuare.</p>
 <p>¶ In .Ç. significat mortem adesse.</p>
-
 <p><br/></p>
+
+<p>On the Explanation of Dreams</p>
 <p>¶ An .A. signifies the help of the Lord.</p>
 <p>¶ A .B. signifies something good.</p>
 <p>¶ A .C. signifes blood.</p>

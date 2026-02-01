@@ -40,7 +40,9 @@ imagesource: "Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.45
 <p>Ich hann zwar lanng auff das gewart / ob er ayn fart / trew gůttat wurd noch recht erkennen / die mich můß ewig rewen hart / hyetz woll erspart / ein närrin můß ich mich selbs nennen / will suchen weg / damit ich füran pfleg / der rue unnd mich verhüte / vor solchem gwin / das ist mein sin und gmüte.</p>
 
 <p>Will mich wol schicken recht darein / und mercken feyn / wie er sich than hat gen mir halten / verschlossen ist das hertze mein / recht wye ayn schreyn / vor im wil mein selbs walten / ob kem ayn not / das ich nit fall in spot / von im wer ich verlassen / verstee gantz wol / das ich mich sol / sein massen.</p>
+<p><br/></p>
 
+<b>Whoever repays loyalty with falsehood</b>
 <p>Whoever repays loyalty with falsehood, has lost the game for all to see, and with good reason, and if he could shoot even more, he still wouldn’t hit a target: I’d hope that it costs him his ears. No matter how hard he tries, he won’t hit many pins because he acts so wickedly.</p>
 
 <p>I’ve indeed waited a long time for him to someday correctly understand loyalty and integrity, which will pain me sorely forever. Now spared this I must call myself a foolish woman. I want to find a way to ensure a quiet life from now on and keep myself away from such a reward; this is my mind and intention.</p>

@@ -63,7 +63,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 
 <h2>To the tune “Strike the Parasol Tree”—“Her deep dimples are fragrantly powdered” | 擊梧桐 · 香靨深深</h2>
 
-<p>擊梧桐</p>
+<b>擊梧桐</b>
 <p><br/></p>
 
 <p>香靨深深，</p>
@@ -92,7 +92,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>行雲何處去。</p>
 <p><br/></p>
 
-<p>To the tune “Strike the Parasol Tree”</p>
+<b>To the tune “Strike the Parasol Tree”</b>
 <p><br/></p>
 
 <p>Her deep dimples are fragrantly powdered,</p>

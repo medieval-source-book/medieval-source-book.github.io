@@ -58,7 +58,7 @@ imagesource: "Detail from 宋徽宗池塘秋晚圖(Flying Bird) 卷, 赵佶, Nat
 
 <h2>To the tune “As if in a Dream”—“I often recall the sunset by Xiting” | 如夢令 · 常記溪亭日暮</h2>
 
-<p>如夢令</p>
+<b>如夢令</b>
 <p><br/></p>
 
 <p>常記溪亭日暮。</p>
@@ -70,7 +70,7 @@ imagesource: "Detail from 宋徽宗池塘秋晚圖(Flying Bird) 卷, 赵佶, Nat
 <p>驚起一灘鷗鷺。</p>
 <p><br/></p>
 
-<p>To the tune “As if in a Dream”</p>
+<b>To the tune “As if in a Dream”</b>
 <p><br/></p>
 
 <p>I often recall the sunset by Xiting:</p>

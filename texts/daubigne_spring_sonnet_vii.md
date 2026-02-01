@@ -77,6 +77,7 @@ imagesource: "Bibliothèque de Genève, Detail from Le Printemps et divers texte
 <p>Qu’il ait passages forts, la langue &amp; le pais.</p>
 <p><br/></p>
 
+<b>The Spring – The Hecatomb for Diane, VII</b>
 <p>With* an outrageous combat, fortune and love</p>
 <p>Wish to ruin me and wish to do me good.</p>
 <p>Love wants to help me, fortune on the contrary</p>

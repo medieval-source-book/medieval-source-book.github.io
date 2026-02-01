@@ -40,7 +40,9 @@ imagesource: "Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.28
 <p>Nun hat sich glück herwider kert / und mich ernert / vor schaydens pein / dardurch al mein / plut was betrübt / glück hat geübt / in disem spil / darin ich vil / frewd lust und gnad erwerben wil.</p>
 
 <p>Sölch frewd ytz niemer widerfart / ist mir gar hart / verkert in laid ich wider schayd / macht newes wee / noch mer dan ee / mein hertz erkant / recht lieb befandt / erst thut mir schayden angstlich andt.</p>
+<p><br/></p>
 
+<b>Now the depths of my heart</b>
 <p>Now the depths of my heart have discovered separation’s sorrow, my heart, spirit and senses, which I have only experienced because of her, were scattered far and wide: I thought I’d die of a broken heart.</p>
 
 <p>Now fortune has returned and saved me from separation’s pain, through which all my blood was dulled. Fortune has played its part in this game, in which I will gain much joy, pleasure and favor.</p>

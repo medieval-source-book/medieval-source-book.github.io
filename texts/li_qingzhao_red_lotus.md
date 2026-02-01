@@ -58,7 +58,7 @@ imagesource: "Detail from 宋徽宗池塘秋晚圖 (Lotus)卷, 赵佶, National 
 
 <h2>To the tune “A Single Cutting of Plum Blossom”—“The red lotus fragrance still lingered” | 一剪梅 · 紅藕香殘玉簟秋</h2>
 
-<p>一剪梅</p>
+<b>一剪梅</b>
 <p><br/></p>
 
 <p>紅藕香殘玉簟秋。</p>
@@ -77,7 +77,7 @@ imagesource: "Detail from 宋徽宗池塘秋晚圖 (Lotus)卷, 赵佶, National 
 <p>卻上心頭。</p>
 <p><br/></p>
 
-<p>To the tune “A Single Cutting of Plum Blossom”</p>
+<b>To the tune “A Single Cutting of Plum Blossom”</b>
 <p><br/></p>
 
 <p>The red lotus fragrance still lingered on the jade-like mat in autumn. </p>

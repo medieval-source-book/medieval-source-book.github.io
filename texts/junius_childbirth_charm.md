@@ -57,6 +57,9 @@ imagesource: "Detail from New York, Metropolitan Museum, Manuscript Illumination
 
 <p>Writ ðis on wexe ðe næfre ne com to nanen wyrce and bind under hire swiðran fot.</p>
 
+<p><br/></p>
+<b>Junius Peperit Charm</b>
+
 <p>The Virgin Mary gave birth to Christ. The infertile Elizabeth gave birth to John the Baptist. I urge you, child, whether you are male or female, by the Father and the Son and the Holy Spirit, to come out and move beyond. May you not harm the child nor make him foolish. Amen. The Lord, seeing the wailing sisters of Lazarus, wept in front of the tomb. In the presence of the Jews, he exclaimed: “Lazarus, come out!” And he who had been dead for four days came out with his hands and feet bound.</p>
 
 <p>Write this in wax which has never been worked on and bind it under her right foot.</p>

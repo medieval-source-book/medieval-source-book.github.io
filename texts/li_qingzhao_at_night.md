@@ -59,7 +59,7 @@ imagesource: "Detail from 宋人花王圖(Flower) 軸, Anonymous, National Palac
 
 <h2>To the tune “Revealing Inmost Feelings”—”At night, I was drunk and did not take off my makeup” | 訴衷情· 夜來沉醉卸妝遲</h2>
 
-<p>訴衷情</p>
+<b>訴衷情</b>
 <p><br/></p>
 
 <p>夜來沉醉卸妝遲</p>
@@ -76,7 +76,7 @@ imagesource: "Detail from 宋人花王圖(Flower) 軸, Anonymous, National Palac
 <p>10 更得些時。</p>
 <p><br/></p>
 
-<p>To the tune “Revealing Inmost Feelings”</p>
+<b>To the tune “Revealing Inmost Feelings”</b>
 
 <p>At night, I was drunk and did not take off my makeup.</p>
 <p>The plum blossom petals withered on the twig.</p>

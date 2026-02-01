@@ -2572,7 +2572,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 
 <p><i>Line 391:</i> While audiences are aware of her nobility, Emaré/Egaré presents as a “nobody” in Galys. The phrase plays on this tension and taps into medieval literary representations of saints, whose ordeal is a “low” life despite their high birth.</p>
 
-<p><i>Line 409:</i> Ritson does not indicate having emended <i>called</i> and White, p. 330 (f. 73rb), transcribes <i>called</i>, but Laskaya and Salisbury indicate that the MS spells <i>calle<./i>. https://d.lib.rochester.edu/teams/text/laskaya-and-salisbury-middle-english-breton-lays-emare#409.</p>
+<p><i>Line 409:</i> Ritson does not indicate having emended <i>called</i> and White, p. 330 (f. 73rb), transcribes <i>called</i>, but Laskaya and Salisbury indicate that the MS spells <i>calle<./i>. https://d.lib.rochester.edu/teams/text/laskaya-and-salisbury-middle-english-breton-lays-emare#409.</i></p>
 
 <p><i>Line 411:</i> Laskaya and Salisbury and Rickert note, as White’s transcription indicates, that this line was added in the margin of the MS.</p>
 

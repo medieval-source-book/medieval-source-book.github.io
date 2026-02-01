@@ -38,7 +38,9 @@ imagesource: "Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.6v
 <p>Zwischen perg und tieffe tal / da ligt ain freie strassen / wer seinen půll nit haben mag / der můß yn faren lassen.</p>
 
 <p>Far hin, far hin, du hast die wal / ich kann mich dein wol maßen / im jar sind noch vil langer tag / glück ist in allen gassen.</p>
+<p><br/></p>
 
+<b>Between hill and valley deep</b>
 <p>Between hill and valley deep there runs a public road, whoever can’t keep her lover must let him ride away.</p>
 
 <p>Ride on, ride on, the choice is yours, I can measure up to you; there is many a long day left in the year, and fortune waits at every turn.</p>

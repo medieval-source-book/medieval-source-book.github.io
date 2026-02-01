@@ -71,11 +71,12 @@ imagesource: "Detail from \"Reeds and Geese\", Tesshū Tokusai, Dated 11th Month
 
 <h2>From the 5th Book of Love. Poem 1384. | <em>戀歌五、1384</em></h2>
 
-<p>戀の御歌の中に</p>
+<b>戀の御歌の中に</b>
 
 <p>よそなりし其夜に人は歸れども身は改めぬ物をこそ思へ</p>
+<p><br/></p>
 
-<p>From the love poems of the Empress.</p>
+<b>From the love poems of the Empress.</b>
 
 <p>We’re strangers again,</p>
 <p>and now my lover’s gone back</p>

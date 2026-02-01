@@ -71,11 +71,13 @@ imagesource: "Detail from Geese and Reeds, Tesshū Tokusai, Late 14th C., Hangin
 
 <h2>From the 5th Book of Love. Poem 1388. | 戀歌五、1388</h2>
 
-<p>題志らず</p>
+<b>題志らず</b>
 
 <p>人の捨てし哀を獨り身にとめて歎き殘れるはてぞ久しき<sup>1</sup></p>
+<p><br/></p>
 
-<p>Topic unknown.</p>
+
+<b>Topic unknown.</b>
 
 <p>Loved ones tossed aside</p>
 <p>tenderness, which, all alone,</p>

@@ -83,6 +83,8 @@ imagesource: "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, MS Ham. 39
 <p>Quicquid tibi volueris ut eunte pecunie augmentum.</p>
 
 <p><br/></p>
+
+<b>An Explanation of Divination Through the Apostles</b>
 <p>If you would like to know of any thing, you will be able to in this way. First a psalm is to be sung as a prayer to the Lord. The mind having thus been dedicated, the Lord reveals what you ask. Afterward, open a psalter and consider the first letter that will appear to you and you will see what you seek:</p>
 <p>¶ .A. signifies alternatively life or power:</p>
 <p>¶ .B. signifies power over people:</p>

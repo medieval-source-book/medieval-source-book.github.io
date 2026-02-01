@@ -146,6 +146,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 
 
 <p><br/></p>
+<b>Discourse on Angels and Pagans</b>
 <p>As the wise Epiphanius<sup>1</sup> writes, “An angel is appointed to each creation, to clouds, and fogs, and snow, and hail, and frost. There are angels for sounds and for thunders, angels of winter, of heat, of autumn, spring, and summer. [And angels are appointed] to all the spirits of His creation on the earth, and to secret abysses, and to what is hidden under the earth, and to the darkness beneath the earth, and to the darkness in the abyss that was once above the earth which gave origin to the evening, and the night, and light, and the day.”<sup>2</sup></p>
 
 <p>Angels are appointed to all creation. In the same way, an angel is appointed to each land, to guard all lands, even if they are pagan. In the case of God’s anger at a certain land, God commands one of those angels to wage a war against that land, and the angel of the land [commanded to wage a war] does not disobey God’s command. Likewise, God sent pagan aliens<sup>3</sup> against us on account of our sins, and they won by God’s command, for they were led by an angel by God’s command.</p>

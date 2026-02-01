@@ -40,7 +40,9 @@ imagesource: "Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.40
 <p>F Du solt hann / auff aller pann / von mir für ander all den preyß / in disem reich / lebt nit dein gleich mit allem thun zucht perd und weyß / da für dich acht / mein hertz das lacht / und stätz betracht / mein freüd mit dyr zů meren.</p>
 
 <p>Zů dyr ich mich freüntlich versich / dein hertz mir gantz mir trewen sey / die weyl dir gar an alles gfar/ mich findest auch gerecht unnd frey / on all umb stendt von dir nit wendt / is in mein enndt / des thů ich dich geweren.</p>
+<p><br/></p>
 
+<b>Dearest sight of my heart</b>
 <p>Dearest sight of my heart, show your gentleness through your love and favor for me; and I will do the same, for I have chosen you, following the want and wish of my heartfelt desire, above all others in this valley I delight in you with honor, and greatly rejoice.</p>
 
 <p>F., wherever you go, you deserve my praise above all others; you have no equals in this realm, no matter their conduct, cultivation, bearing or air. So, take care, my heart rejoices and always aims to increase its joy with you.</p>

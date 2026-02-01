@@ -61,7 +61,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 
 <h2>To the tune “Still Wind and Waves”—“Since the spring came” | 定風波 · 自春來</h2>
 
-<p>定風波</p>
+<b>定風波</b>
 <p><br/></p>
 
 <p>自春來、</p>
@@ -92,7 +92,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>光陰虛過。</p>
 <p><br/></p>
 
-<p>To the tune “Still Wind and Waves”</p>
+<b>To the tune “Still Wind and Waves”</b>
 <p><br/></p>
 
 <p>Since the spring came,</p>
@@ -121,7 +121,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>Promise me</p>
 <p>that we won’t let our youth</p>
 <p>pass away in vain.</p>
-<p><br/></p>
+
 
 <h2>Critical Notes</h2>
 

@@ -58,7 +58,7 @@ imagesource: "Detail from 宋人秋荷野鳧圖(Autumn) 軸, Anonymous, National
 
 <h2>To the tune “On Top of the Phoenix Terrace, Recalling Flute Music”—“The incense chills in the golden lion” | 鳳凰臺上憶吹簫 · 香冷金猊</h2>
 
-<p>鳳凰臺上憶吹簫</p>
+<b>鳳凰臺上憶吹簫</b>
 <p><br/></p>
 
 <p>香冷金猊，</p>
@@ -88,7 +88,7 @@ imagesource: "Detail from 宋人秋荷野鳧圖(Autumn) 軸, Anonymous, National
 <p>一段新愁。</p>
 <p><br/></p>
 
-<p>To the tune “On Top of the Phoenix Terrace, Recalling Flute Music”</p>
+<b>To the tune “On Top of the Phoenix Terrace, Recalling Flute Music”</b>
 <p><br/></p>
 
 <p>The incense chills in the golden lion;</p>

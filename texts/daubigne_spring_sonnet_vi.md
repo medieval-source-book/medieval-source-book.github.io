@@ -76,6 +76,7 @@ imagesource: "Bibliothèque de Genève, Detail from Le Printemps et divers texte
 <p>Comme sont les vertus, aussi est infinie</p>
 <p><br/></p>
 
+<b>The Spring – The Hecatomb for Diane, VI</b>
 <p>Boldly I will undertake to render you eternal,</p>
 <p>Shielding* with my writing your name against death;</p>
 <p>But in eternalizing you, I need barely work*:</p>

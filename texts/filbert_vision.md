@@ -34,7 +34,7 @@ imagesource: "Biblioteca Nacional de España MS Vitr. 6/1, f.3r [http://bdh-rd.b
 
 <h2>Filbert’s Vision | La visión de Filiberto</h2>
 
-<p>La visión de Filiberto</p>
+<b>La visión de Filiberto</b>
 
 <p>¶ vn omne bueno ermjtano que llamaron fyliberto era omne de buen lynage ca deçendia de lynage de rreys de françia ¶ et consyderando las cosas desta vida ser con-rronpibres ¶ et menos preçiando las propuso de serujr adios λ perseuerando enel serujçio de dios conpuso este lybro enel qual puso λ escriujo muy santas palabras de vna ujsion que vio λ ¶ asy açaiçio vysion filoberto</p>
 
@@ -125,7 +125,7 @@ imagesource: "Biblioteca Nacional de España MS Vitr. 6/1, f.3r [http://bdh-rd.b
 
 
 <p><br/></p>
-<p>Filbert’s Vision</p>
+<b>Filbert’s Vision</b>
 
 <p>A good man, a hermit that they called Filbert, was a man of respectable lineage; indeed, he was a descendant of the kings of France. Considering worldly things to be a source of corrup-tion, and not valuing them, he dedicated himself to the service of God. In observance of his service to God, he composed this book in which he laid down and wrote very holy words of a vi-sion that he saw, thus occurred Filbert’s vision:</p>
 

@@ -57,7 +57,7 @@ imagesource: "Detail from 宋人畫調鶴采花仙(Woman Outside) 軸, Anonymous
 </ul>
 <h2>To the tune “Spring in Wuling”—“The wind stops, the dust is fragrant, and the flowers all gone” | 武陵春 · 風住塵香花已盡</h2>
 
-<p>武陵春</p>
+<b>武陵春</b>
 <p><br/></p>
 
 <p>風住塵香花已盡，</p>
@@ -73,7 +73,7 @@ imagesource: "Detail from 宋人畫調鶴采花仙(Woman Outside) 軸, Anonymous
 <p>許多愁。</p>
 <p><br/></p>
 
-<p>To the tune “Spring in Wuling”</p>
+<b>To the tune “Spring in Wuling”</b>
 <p><br/></p>
 
 <p>The wind stops, the dust is fragrant, and the flowers are all gone.</p>

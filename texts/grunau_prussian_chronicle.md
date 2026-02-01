@@ -86,11 +86,11 @@ imagesource: "Landscape with a Double Spruce, Metropolitan Museum of Art, Access
 <p>Szwaybrotto war der funffte gott, und in auch selber die Brudeni einen gott gemacht haben um der liebe willen, wen so er ihr koning war und Witowuto genant mit sei-nem bruder Bruteno dem kirwaiten; sie sich lebendigk vorbrandten vor der eichen, wie den obene ist gesagtt worden, mit welchem tode die Bruteni meinten, die zwene bruder hetten gottheit irlangt und sessen bey in. Diesem man auch uberall oppherte vor einer eichen und war ein gott, der in bescherte vil hunner, gense, entvogil und man im muste opphiren ein jungk sogefarckill.</p>
 
 <p>Curcho war der 6. gott, und diesen sie hetten von den Ma-suren genomen. Darumb auff der stel itzundt Heiligenbeil genant sein bilt und eiche mit dem feuer war, und do man brandte gedrossen korne, wezen adir meel, honigk, milch und dergleichen. Diesem man auch vorbrandte zur ehren die ersten garben des getreides und solchir manirung vil. So ist am Hockerlande am habe ein stein genant zum hei-ligen stein, auff diesem ein iglicher fischer im den irsten fisch zur ehren vorbrandte, dan er im gerne irgreiff. Und ein solchs man auch andirswu thun mochte, idoch alhie war seine sonderliche stelle zu dem lobe.</p>
-
-
-
-<p>Of the names of the Prussian false gods before the time of the conversion.</p>
 <p><br/></p>
+
+
+<b>Of the names of the Prussian false gods before the time of the conversion.</b>
+
 <p>From the beginning, the inhabitants of the land of Prussia knew neither of god nor gods to speak of, rather they honoured<sup>1</sup> the sun. Then, however, the Cimbri came; they brought with them three images of their false gods: one they called Patollo, the second Potrimpo, the third Perkuno. To honour these gods, the Cimbri conquered their neighbours, and forced them to consider their gods as all-powerful.<sup>2</sup></p>
 
 <p>Patollo [was] the highest<sup>3</sup> false god of the Bruteni, as the inhab-itants of Brudenie, now called Prussia, were formerly known. He was a terrifying god of the night, haunting houses [and] floating, particularly in the courtyards of nobles. Above all, he would act unreasonably if the command of the high priest was not fol-lowed, and came many times; he so frightened some during the night, that they died from it. If someone had promised an hon-our to his image in Rickoyott,<sup>4</sup> and he did not fulfil the promise soon, then [Patollo] played out the Passion with the offender, and his sacrifice was all expensive things.</p>

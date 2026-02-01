@@ -57,7 +57,7 @@ imagesource: "Detail from 宋夏珪溪山清遠(Open Water) 卷, National Palace
 
 <h2>To the tune “Yearning for the Prince”—“Wind comes from the lake and the waves are misty and grand” | 怨王孫 · 湖上風來波浩渺</h2>
 
-<p>怨王孫</p>
+<b>怨王孫</b>
 <p><br/></p>
 
 <p>湖上風來波浩渺，</p>
@@ -77,7 +77,7 @@ imagesource: "Detail from 宋夏珪溪山清遠(Open Water) 卷, National Palace
 <p><br/></p>
 
 
-<p>To the tune “Yearning for the Prince”</p>
+<b>To the tune “Yearning for the Prince”</b>
 <p><br/></p>
 
 <p>Wind comes from the lake and the waves are misty and grand.</p>

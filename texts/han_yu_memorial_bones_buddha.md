@@ -68,7 +68,7 @@ imagesource: "Buddha, Probably Amitabha (Amituofo), Early 7th C., T’ang Dynast
 </ul>
 
 <h2>Memorial on the Bones of the Buddha | 論佛骨表</h2>
-<p><br/></p>
+
 <p>臣某言：伏以佛者，夷狄之一法耳。 自後漢時流入中國，上古未嘗有也。昔者黃帝在位百年，年百一十歲；少昊在位八十年，年百歲；顓頊在位七十九年，年九十八歲；帝嚳在位七十年，年百五歲；帝堯在位九十八年，年百一十八歲；帝 舜及禹，年皆百歲。此時天下太平，百姓安樂壽考，然而中國未有佛也。其後殷湯亦年百歲，湯孫太戊在位七十五年，武丁在位五十九年，書史不言其年壽所極，推其年數，蓋亦俱不減百歲；周文王年九十七歲，武王年九十三歲，穆王在位百年：此時佛法亦未入中國，非因事佛而致然也。</p>
 
 <p>漢明帝時始有佛法，明帝在位纔十八年耳。其後亂亡相繼，運祚不長。宋、齊、梁、陳、元魏已下，事佛漸謹，年代尤促。惟梁武帝在位四十八年，前後三度捨身施佛，宗廟之祭不用牲牢，晝日一食止於菜果，其後竟為侯景所逼，餓死臺城，國亦尋滅。事佛求福，乃更得禍。由此觀之，佛不足事，亦可知矣。</p>
@@ -83,7 +83,8 @@ imagesource: "Buddha, Probably Amitabha (Amituofo), Early 7th C., T’ang Dynast
 
 <p>乞以此骨付之有司，投諸水火，永絕根本，斷天下之疑，絕後代之惑，使天下之人，知大聖人之所作為，出於尋常萬萬也， 豈不盛哉！ 豈不快哉！ 佛如有靈，能作禍祟，凡有殃咎，宜加臣身，上天鑒臨，臣不怨悔。 無任感激懇悃之至，謹奉表以聞。臣某誠惶誠恐。</p>
 
-
+<p><br/></p>
+<b>Memorial on the Bones of the Buddha</b>
 
 <p>Your humble servant submits: this practice of bowing to the Buddha is merely a philosophy of the Yi and the Di [i.e., people beyond the civilized realm]. Flowing into China during the Later Han, it had not been present in ancient times. Of the ancients, Huangdi 黃帝was on the throne for a century, and lived to be 110<sup>1</sup>; Shao Hao 少昊 ruled for 80 years, dying at 100<sup>2</sup>; Zhuan Xu 顓頊 kept his throne for 79 years, living to be 98<sup>3</sup>; Di Ku 帝嚳 ruled for 70 years and lived to 105<sup>4</sup>; Di Yao 帝堯 had 98 years on the throne and lived to be 118<sup>5</sup>; Emperors Shun 舜 and Yu 禹 both lived to be 100<sup>6</sup>. At that time the world was peaceful and happy, the common people living long and joyful lives, but China did not yet have Buddhism. After this, Tang 湯 of Yin 殷 lived to 100 too, Tang’s grandson Tai Wu 太戊 was on the throne for 75 years, Wu Ding 武丁 was on the throne 59 years, and although the books of history do not give his final age, if one had to guess it would most likely not fall short of a century<sup>7</sup>. King Wen of Zhou 周文王 lived to be 97, King Wu 武王 lived to 93, King Mu 穆王 ruled for 100 years<sup>8</sup>: at this time too Buddhism had not yet arrived in China, and this [longevity] was not a result of serving the Buddha.</p>
 

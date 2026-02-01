@@ -59,7 +59,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 
 <h2>To the tune “Waves Scour the Sand”—“I wake from a dream” | 浪淘沙 · 夢覺</h2>
 
-<p>浪淘沙</p>
+<b>浪淘沙</b>
 <p><br/></p>
 
 <p>夢覺、</p>
@@ -99,7 +99,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>數寒更思憶。</p>
 <p><br/></p>
 
-<p>To the tune “Waves Scour the Sand”</p>
+<b>To the tune “Waves Scour the Sand”</b>
 <p><br/></p>
 
 <p>I wake from a dream,</p>
@@ -137,7 +137,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>whisper to her softly and slowly</p>
 <p>30 about the nights in this river town:</p>
 <p>as I counted the coldness,<sup>4</sup> I yearned for her more and more.</p>
-<p><br/></p>
+
 
 <h2>Critical Notes</h2>
 <ol id="l2">

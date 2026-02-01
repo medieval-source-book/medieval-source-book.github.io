@@ -61,7 +61,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 
 <h2>To the tune “Joys of Day and Night”—“I remember the day we first met in the bedroom” | 晝夜樂 · 洞房記得初相遇</h2>
 
-<p>晝夜樂</p>
+<b>晝夜樂</b>
 <p><br/></p>
 
 <p>洞房記得初相遇。</p>
@@ -84,7 +84,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>也攢眉千度。</p>
 <p><br/></p>
 
-<p>To the tune “Joys of Day and Night”</p>
+<b>To the tune “Joys of Day and Night”</b>
 <p><br/></p>
 
 <p>I remember the day we first met in the bedroom.<sup>1</sup></p>
@@ -105,7 +105,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>but also has many other good traits that tie one’s heart?</p>
 <p>15 Even when I am not thinking about him for one day,</p>
 <p>my eyebrows frown<sup>2</sup> a thousand times.</p>
-<p><br/></p>
+
 
 <h2>Critical Notes</h2>
 

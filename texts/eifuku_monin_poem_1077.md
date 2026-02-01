@@ -71,11 +71,12 @@ imagesource: "Detail from Orchids, Bamboo, Briars, and Rocks, Tesshū Tokusai, M
 
 <h2>From the 2nd Book of Love. Poem 1077. | 戀歌二、1077</h2>
 
-<p>待戀の心を</p>
+<b>待戀の心を</b>
 
 <p>何となく今夜ひさへこそ待たれけれあかぬ<sup>1</sup>昨日の心習ひに</p>
+<p><br/></p>
 
-<p>On the topic of waiting for a lover.</p>
+<b>On the topic of waiting for a lover.</b>
 
 <p>I don’t know why, since</p>
 <p>he won’t come back tonight, but</p>

@@ -63,7 +63,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 
 <h2>To the tune “Cross the Stream and Rest Nearby”—“Sobered up” | 過澗歇近 · 酒醒</h2>
 
-<p>過澗歇近</p>
+<b>過澗歇近</b>
 <p><br/></p>
 
 <p>酒醒。</p>
@@ -88,7 +88,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>是誰與把重衾整。</p>
 <p><br/></p>
 
-<p>To the tune “Cross the Stream and Rest Nearby”</p>
+<b>To the tune “Cross the Stream and Rest Nearby”</b>
 <p><br/></p>
 
 <p>Sobered up,</p>
@@ -111,7 +111,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>the shiny pillow is ice cold.</p>
 <p>The smoke from the coiling incense stops;</p>
 <p>who will tidy up my double quilt<sup>4</sup>?</p>
-<p><br/></p>
+
 
 <h2>Critical Notes</h2>
 

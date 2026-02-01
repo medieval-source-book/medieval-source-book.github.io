@@ -71,11 +71,12 @@ imagesource: "Detail from \"Reeds and Geese\", Tesshū Tokusai, Dated 11th Month
 
 <h2>From the 1st Book of Love. Poem 979. | <em>戀歌一、９７９</em></h2>
 
-<p>戀の心を</p>
+<b>戀の心を</b>
 
 <p>さても我が思ふ思よ遂にいかに何のかひなき詠のみして</p>
+<p><br/></p>
 
-<p>On the topic of love.</p>
+<b>On the topic of love.</b>
 
 <p>Well, well, here I am,</p>
 <p>so many feelings I feel!</p>

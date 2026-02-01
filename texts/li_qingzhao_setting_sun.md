@@ -58,7 +58,7 @@ imagesource: "Detail from 元人畫梅花仕女(Woman by Plum Blossom) 軸, Anon
 
 <h2>To the tune “Always Having Fun”—“The setting sun is like melted gold” | 永遇樂 · 落日鎔金</h2>
 
-<p>永遇樂</p>
+<b>永遇樂</b>
 <p><br/></p>
 
 <p>落日鎔金，</p>
@@ -89,7 +89,7 @@ imagesource: "Detail from 元人畫梅花仕女(Woman by Plum Blossom) 軸, Anon
 <p>聽人笑語。</p>
 <p><br/></p>
 
-<p>To the tune “Always Having Fun”</p>
+<b>To the tune “Always Having Fun”</b>
 <p><br/></p>
 
 <p>The setting sun is like melted gold;</p>

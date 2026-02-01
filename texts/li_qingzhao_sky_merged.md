@@ -58,7 +58,7 @@ imagesource: "Detail from 宋人布畫山水(Mountain and Water) 軸, Anonymous,
 
 <h2>To the tune “The Fisherman is Proud”—“The sky merged the sea of clouds with the mist of dawn” | 漁家傲 · 天接雲濤連曉霧</h2>
 
-<p>漁家傲</p>
+<b>漁家傲</b>
 <p><br/></p>
 
 <p>天接雲濤連曉霧。</p>
@@ -75,7 +75,7 @@ imagesource: "Detail from 宋人布畫山水(Mountain and Water) 軸, Anonymous,
 <p>10 蓬舟吹取三山去。</p>
 <p><br/></p>
 
-<p>To the tune “The Fisherman is Proud”</p>
+<b>To the tune “The Fisherman is Proud”</b>
 <p><br/></p>
 
 <p>The sky merged the sea of clouds with the mist of dawn.</p>

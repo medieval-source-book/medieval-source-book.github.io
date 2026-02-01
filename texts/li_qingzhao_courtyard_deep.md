@@ -59,7 +59,7 @@ imagesource: "Detail from 元盛懋柳陰書屋(Willow House) 軸, 盛懋, Natio
 
 <h2>To the tune “Immortal by the River”—“The courtyard is deep, how far does it extend” | 臨江仙 · 庭院深深深幾許</h2>
 
-<p>臨江仙</p>
+<b>臨江仙</b>
 <p><br/></p>
 
 <p>庭院深深深幾許，</p>
@@ -76,7 +76,7 @@ imagesource: "Detail from 元盛懋柳陰書屋(Willow House) 軸, 盛懋, Natio
 <p>10 踏雪沒心情。</p>
 <p><br/></p>
 
-<p>To the tune “Immortal by the River”</p>
+<b>To the tune “Immortal by the River”</b>
 <p><br/></p>
 
 <p>The courtyard is deep, how far does it extend?</p>

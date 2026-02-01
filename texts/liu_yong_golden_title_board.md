@@ -58,7 +58,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 
 <h2>To the tune “Crane Soaring in the Sky”—“On the golden title board” | 鶴沖天 · 黃金榜上</h2>
 
-<p>鶴沖天</p>
+<b>鶴沖天</b>
 <p><br/></p>
 
 <p>黃金榜上。</p>
@@ -84,7 +84,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>換了淺斟低唱。</p>
 <p><br/></p>
 
-<p>To the tune “Crane Soaring in the Sky”</p>
+<b>To the tune “Crane Soaring in the Sky”</b>
 <p><br/></p>
 
 <p>On the golden title board,<sup>1</sup></p>
@@ -108,7 +108,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>Youth is just a fleeting moment.</p>
 <p>I would rather exchange meaningless fame</p>
 <p>to drink wine and hum tunes.<sup>8</sup></p>
-<p><br/></p>
+
 
 <h2>Critical Notes</h2>
 

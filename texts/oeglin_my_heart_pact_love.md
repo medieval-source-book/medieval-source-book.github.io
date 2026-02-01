@@ -40,7 +40,9 @@ imagesource: "Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.24
 <p>Du bist meins gfallens uberal / nach wunsch unnd rechter wal / frewd one zal / han ich von dir zumal / an die doch gar kayn mangel ist / falsch red ist mist / deshalb nicht schafft des klaffers list / zů kayner frist / man ways wol wer er ist.</p>
 
 <p>Was glücks ich im wünsch und gan / das gee den schwetzer an / sein untrew kann / nit unvergolten stan / erscheinen wird in kurtzer zeit / wye vast er schreit / an seinem plerr mir gar nichtz leyt / es felt im weit / mein hertz sich dir ergeit.</p>
+<p><br/></p>
 
+<b>My heart has made a pact with love for you</b>
 <p>My heart has made a pact with love for you. The slanderer’s lies won’t lead me astray; even if he broke his neck because of his false hate and the poisoned blade of his base envy: Believe me, I will not avoid you because of this and won’t tolerate any trouble however sly he may be.</p>
 
 <p>I’ve fallen for you above all things following my desire and true choice. You above all bring me infinite joy. You are completely flawless, the deceitful talk is garbage, that’s why the trickery of a slanderer never achieves anything; his ways are well known to everybody.</p>

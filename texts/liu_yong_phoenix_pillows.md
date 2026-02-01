@@ -60,7 +60,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 
 <h2>To the tune “Stop Your Horse and Listen”—“Phoenix pillows and curtains” | 駐馬聽 · 鳳枕鸞帷</h2>
 
-<p>駐馬聽</p>
+<b>駐馬聽</b>
 <p><br/></p>
 
 <p>鳳枕鸞帷。</p>
@@ -88,7 +88,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>難似當時。</p>
 <p><br/></p>
 
-<p>To the tune “Stop Your Horse and Listen”</p>
+<b>To the tune “Stop Your Horse and Listen”</b>
 <p><br/></p>
 
 <p>Phoenix pillows and curtains.<sup>1</sup></p>
@@ -114,7 +114,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>Even if we reunite,</p>
 <p>20 I am afraid our love</p>
 <p>could hardly be what it was.</p>
-<p><br/></p>
+
 
 <h2>Critical Notes</h2>
 <ol id="l2">

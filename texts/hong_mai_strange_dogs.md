@@ -49,4 +49,7 @@ imagesource: "Detail from 南宋 佚名 “三元得祿”圖扇頁 (Gibbons Rai
 <h2>Strange Dogs | <em>犬異</em></h2>
 
 <p>金國天會十四年四月中, 京小雨, 大雷震, 群犬數十爭赴土河而死, 所可救者才一二耳。</p>
+<p><br/></p>
+
+<b>Strange Dogs</b>
 <p>In the fourteenth year of the Tianhui era of the State of Jin, it was raining in the capital. There occurred a huge thunderbolt. Several dozen dogs ran in a group into the Tu River and died. Only one or two were rescued and survived.</p>

@@ -61,7 +61,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 
 <h2>To the tune “Spring of the Brocade Hall”—“Drooping hair-bun, I am too listless to comb it” | 锦堂春 · 墜髻慵梳</h2>
 
-<p>锦堂春</p>
+<b>锦堂春</b>
 <p><br/></p>
 
 <p>墜髻慵梳，</p>
@@ -90,7 +90,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>今後更敢無端。</p>
 <p><br/></p>
 
-<p>To the tune “Spring of the Brocade Hall”</p>
+<b>To the tune “Spring of the Brocade Hall”</b>
 <p><br/></p>
 
 <p>Drooping hair-bun, I am too listless to comb it;</p>
@@ -117,7 +117,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>20 When the night is late,</p>
 <p>I will ask him slowly,</p>
 <p>“From now on, do you dare to be so unreasonable?”</p>
-<p><br/></p>
+
 
 <h2>Critical Notes</h2>
 

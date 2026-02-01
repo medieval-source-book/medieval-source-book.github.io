@@ -95,8 +95,10 @@ imagesource: "Image in Public Domain"
 <p>Uuolar abur Hluduig, Kuning uuigsalig!</p>
 <p>So garo soser hio uuas, So uuar soses thurft uuas.</p>
 <p>Gihalde inan thruhtin Bi sinan ergrehtin.</p>
+<p><br/></p>
 
 
+<b>The Lay of Ludwig</b>
 <p>I know a king, Ludwig is his name,</p>
 <p>who gladly serves God: I know that he will reward him for this.</p>
 <p>He lost his father when he was a child but soon was compensated for it:</p>

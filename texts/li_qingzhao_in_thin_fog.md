@@ -60,7 +60,7 @@ imagesource: "Detail from Incense burner in the shape of a goose, Han dynasty (2
 
 <h2>To the tune “Drunk under the Shadow of Flowers”—“In thin fog and heavy mist” | 醉花陰 · 薄霧濃雰愁永晝</h2>
 
-<p>醉花陰</p>
+<b>醉花陰</b>
 <p><br/></p>
 
 <p>薄霧濃雰愁永晝。</p>
@@ -77,7 +77,7 @@ imagesource: "Detail from Incense burner in the shape of a goose, Han dynasty (2
 <p>10 人比黃花瘦。</p>
 <p><br/></p>
 
-<p>To the tune “Drunk under the Shadow of Flowers”</p>
+<b>To the tune “Drunk under the Shadow of Flowers”</b>
 <p><br/></p>
 
 <p>In thin fog and heavy mist, I am dismayed by the eternal daytime.</p>

@@ -64,7 +64,7 @@ A comprehensive edition of <em>ci</em> from the Song dynasty and the source text
 </ul>
 <h2>To the tune “Southland Song”—“In the sky, the Starry River turns” | 南歌子 · 天上星河轉</h2>
 
-<p>南歌子</p>
+<b>南歌子</b>
 <p><br/></p>
 
 <p>天上星河轉,</p>
@@ -81,7 +81,7 @@ A comprehensive edition of <em>ci</em> from the Song dynasty and the source text
 <p>10 舊家時。</p>
 <p><br/></p>
 
-<p>To the tune “Southland Song”</p>
+<b>To the tune “Southland Song”</b>
 <p><br/></p>
 
 <p>In the sky, the Starry River turns;</p>

@@ -40,7 +40,9 @@ imagesource: "Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.5v
 <p>O iungkgfraw rayn / on nayn / alzeit der sunder trösterinn / was ich begynn / dennck synn / von hynn / müß ich mich wenden / enden sol sich / umb mich / der welde lust / umb sust / ist aller můt / unnd hilfft kain gůt / ich muß daran / unnd kann / den tod nit fliechenn / dan das ich bitt / versag mit nit / und tayl mir mit / dein gnad on alls verziechen.</p>
 
 <p>Der welde hayl / on mayl bistu Maria ewiklich / und frew auch mich / der täglich dich / mit fleiß thůt eren / geren / ertzaygst / und naygst / dich gottes arch / und sarch / dem sünder zůe / O fraw das thůe / ytz in der nott / zum todt / vill kranckhait schweben / erwirb mir huld / das ich mein schuld / mit rew und duld / müg püssen hye in leben.</p>
+<p><br/></p>
 
+<b>Help, our lady of Aachen!</b>
 <p>Help, our lady of Aachen! How immeasurably weak I, poor sinner, am! Soon I will lose my senses in vain, I’m being led astray. I can definitely tell that God is displeased at the world’s ingratitude. Oh, immaculate maiden, tender Mary! How hard this weighs on my heart. Don’t spare me your mercy and hear me, My Lady, by your seven sorrows!</p>
 
 <p>Oh, immaculate virgin, who without doubt always consoles sinners. Whatever I start, think or come up with, I have to turn myself away from it; around me the world’s pleasure has to come to an end. All bravery is in vain, no wealth can help, I must face it and I can’t flee from death, so I ask you: don’t deny me, and impart on me your grace without delay.</p>

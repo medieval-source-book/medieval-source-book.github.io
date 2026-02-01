@@ -60,7 +60,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 
 <h2>To the tune “Jade Butterfly”—“By mistake, I enter a narrow alley in the Pingkang Ward” | 玉蝴蝶 · 誤入平康小巷</h2>
 
-<p>玉蝴蝶</p>
+<b>玉蝴蝶</b>
 <p><br/></p>
 
 <p>誤入平康小巷，</p>
@@ -92,7 +92,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>25 忍負良天。</p>
 <p><br/></p>
 
-<p>To the tune “Jade Butterfly”</p>
+<b>To the tune “Jade Butterfly”</b>
 <p><br/></p>
 
 <p>By mistake, I enter a narrow alley in the Pingkang Ward.<sup>1</sup></p>
@@ -122,7 +122,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>She begs me to stay.</p>
 <p>Phoenix quilt and mandarin duck pillows,<sup>9</sup></p>
 <p>25 how could I bear to betray this beautiful day?</p>
-<p><br/></p>
+
 
 <h2>Critical Notes</h2>
 

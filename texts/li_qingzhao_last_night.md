@@ -58,7 +58,7 @@ imagesource: "Detail from 宋夏珪溪山清遠(Pavilion) 卷, 夏珪, National 
 
 <h2>To the tune “As If in a Dream”—“Last night the rain was sparse” | 如夢令 · 昨夜雨疏風驟</h2>
 
-<p>如夢令</p>
+<b>如夢令</b>
 <p><br/></p>
 
 <p>昨夜雨疏風驟。</p>
@@ -70,7 +70,7 @@ imagesource: "Detail from 宋夏珪溪山清遠(Pavilion) 卷, 夏珪, National 
 <p>應是綠肥紅瘦。</p>
 <p><br/></p>
 
-<p>To the tune “As If in a Dream”</p>
+<b>To the tune “As If in a Dream”</b>
 <p><br/></p>
 
 <p>Last night, the rain was sparse and the wind was strong;</p>

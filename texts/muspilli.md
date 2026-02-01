@@ -149,10 +149,9 @@ imagesource: "Detail from Munich, Bayerische Staatbibliothek, Clm 14098, f.120r 
 <p>dar der heligo Christ ana arhangan uuard,</p>
 <p>denne augit er dio masun, dio er in deru menniski anfenc,</p>
 <p>duruh desse mancunnes minna f[ardoleta]...</p>
+<p><br/></p>
 
-
-
-<p>Muspilli</p>
+<b>Muspilli</b>
 <p>...his day comes, when he has to die.</p>
 <p>Immediately afterwards, when the soul starts its journey</p>
 <p>and leaves the body behind,</p>

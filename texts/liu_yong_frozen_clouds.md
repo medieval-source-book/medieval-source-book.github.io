@@ -61,7 +61,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 
 <h2>To the tune “Midnight Tune”—“Frozen clouds dim the sky” | 夜半樂 · 凍雲黯淡天氣</h2>
 
-<p>夜半樂</p>
+<b>夜半樂</b>
 <p><br/></p>
 
 <p>凍雲黯淡天氣，</p>
@@ -102,7 +102,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>斷鴻聲遠長天暮。</p>
 <p><br/></p>
 
-<p>To the tune “Midnight Tune”</p>
+<b>To the tune “Midnight Tune”</b>
 <p><br/></p>
 
 <p>Frozen clouds dim the sky,</p>
@@ -141,7 +141,7 @@ imagesource: "Detail from _Bridge in Snow_. Late 10th century. China. Ink and co
 <p>30 I let my watery eyes gaze</p>
 <p>at the long, distant road to the capital.</p>
 <p>The cry of the wild goose resounds, lingering in the vast evening sky.</p>
-<p><br/></p>
+
 
 <h2>Critical Notes</h2>
 

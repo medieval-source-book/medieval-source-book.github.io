@@ -78,8 +78,10 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>Kay hinapaq<sup>14</sup></p>
 <p>Churasunki</p>
 <p>Kamasunki<sup>15</sup></p>
+<p><br/></p>
 
-<p>Noble Lady!</p>
+
+<b>Noble Lady!</b>
 <p>It is definitely your brother</p>
 <p>Who shatters</p>
 <p>Your clay jug.</p>

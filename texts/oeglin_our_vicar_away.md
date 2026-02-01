@@ -36,4 +36,7 @@ imagesource: "Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.46
 
 <h2>Our vicar is away | Unser pfarrer ist auf der pan</h2>
 <p>Unser pfarrer ist auf der pan / was getz dich an / ich wais und kan / dy junngen feilel müstern über gan / es fleügt do her ein weisser schwan / wil kurtzweil han / er prangt gar schan / do můsst ich armer půb gar pald dar von / ich gyeng durch ayn zerrissens haus / still was dy maus / sy ruckt her aus / ayn flügel mein gans / gyng gang / gyng gang / also laut unser gsang / schaubhůt der ist fürd sunnen gůt / das pferd ist wild kumbt aus der stůt / das pferd ist will kumpt aus der stůt.</p>
+<p><br/></p>
+
+<b>Our vicar is away</b>
 <p>Our vicar is away. What’s it to you? I can and know how to ogle the young violets as I go. A white swan flies by, it wants to have fun; it shows off nicely: thus I, poor lad that I am, soon had to leave. I walked through a tumbled-down house; the mouse was quiet, my goose spread apart her wings: gyng gang, gyng gang—so our song goes. A straw hat, it’s good for the sun. The horse is wild, it comes from the mare. The horse is wild, it comes from the mare.</p>

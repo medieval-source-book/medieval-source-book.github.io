@@ -87,9 +87,9 @@ imagesource: "Portrait of Hans Folz by Hans Schwarz, c.1520. [Public Domain]"
 <p>Die cristlich ler so weiten wer in alle wellt entsprungen lob hab der erst got her der herst all er werd im gesungen dar nach dem ersten in dem werk juncker hansen von gutenberck die gotlich sterk gab daz der teutschen zungen</p>
 
 <p>Der diß gedicht hat auß gericht der nent sich nit mit namen waz er sunst mach puchz flid scharsach sein narung pracht zu samen nun gib her daz er dich dort sech und daz uns allen daz geschech und unß nit schmech der hellisch feint sprecht amen</p>
-
-
 <p><br/></p>
+
+<b>The Song of Gutenberg</b>
 <p>Long ago King Solomon said that, from that moment on, there would be nothing new on earth. Since then, God has descended from His throne and become human, which was indeed something new, although the scriptures had foretold it.</p>
 
 <p>I truly doubt that this craft of book printing has existed on earth before. Has anyone read about it? But God knew it would exist, so there is not anything new on earth. Praise him ardently in his eternal reign.</p>
