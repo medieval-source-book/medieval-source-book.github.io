@@ -53,7 +53,7 @@ imagesource: "宋米芾雲山煙樹(Smoke and Trees) 卷 , 米芾,  National Pal
 
 </ul><h2>To the tune “Spring in the Jade Building”—“In a tall building behind the willows by the lakeside” | 玉樓春 · 湖邊柳外樓高處</h2>
 
-<p>玉樓春</p>
+<b>玉樓春</b>
 <p><br/></p>
 
 <p>湖邊柳外樓高處。</p>
@@ -68,7 +68,7 @@ imagesource: "宋米芾雲山煙樹(Smoke and Trees) 卷 , 米芾,  National Pal
 <p>去便不來來便去。</p>
 <p><br/></p>
 
-<p>To the tune “Spring in the Jade Building”</p>
+<b>To the tune “Spring in the Jade Building”</b>
 <p><br/></p>
 
 <p>In a tall building behind the willows by the lakeside,</p>

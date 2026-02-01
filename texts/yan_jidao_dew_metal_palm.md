@@ -56,7 +56,7 @@ imagesource: "Detail from 宋高宗書女孝經馬和之補圖上卷 (Hometown)\
 
 <h2>To the tune “Ruan Returns”—“The dew on the metal palm at the edge of the sky has turned into frost” | 阮郎歸 · 天邊金掌露成霜</h2>
 
-<p>阮郎歸</p>
+<b>阮郎歸</b>
 <p><br/></p>
 
 <p>天邊金掌露成霜。</p>
@@ -73,7 +73,7 @@ imagesource: "Detail from 宋高宗書女孝經馬和之補圖上卷 (Hometown)\
 <p><br/></p>
 
 
-<p>To the tune “Ruan Returns”</p>
+<b>To the tune “Ruan Returns”</b>
 <p><br/></p>
 
 <p>The dew on the Metal Palm<sup>1</sup> at the edge of the sky has turned into frost.</p>

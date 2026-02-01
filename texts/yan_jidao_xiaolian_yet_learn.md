@@ -58,7 +58,7 @@ imagesource: "Detail from 宋高宗書女孝經馬和之補圖上卷 (Women)\", 
 
 <h2>To the tune “Magnolia Flower”—“Xiaolian has yet to learn to unravel her heart’s tangled feelings” | 木蘭花 · 小蓮未解論心素</h2>
 
-<p>木蘭花</p>
+<b>木蘭花</b>
 <p><br/></p>
 
 <p>小蓮未解論心素。</p>
@@ -74,7 +74,7 @@ imagesource: "Detail from 宋高宗書女孝經馬和之補圖上卷 (Women)\", 
 <p><br/></p>
 
 
-<p>To the tune “Magnolia Flower”</p>
+<b>To the tune “Magnolia Flower”</b>
 <p><br/></p>
 
 <p>Xiaolian has yet to learn to unravel her heart’s tangled feelings;</p>

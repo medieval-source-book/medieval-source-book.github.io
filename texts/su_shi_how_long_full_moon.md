@@ -57,7 +57,7 @@ imagesource: "“Detail from 宋馬遠舉杯玩月軸 (moon)”, 馬遠;鍾禮, 
 <h2>To the tune “Prelude to Water Melody”—“How long will the full moon last?”</h2>
 <p>水調歌頭 · 明月幾時有</p>
 
-<p>水調歌頭</p>
+<b>水調歌頭</b>
 <p><br/></p>
 
 <p>丙辰中秋歡飲達旦 </p>
@@ -82,7 +82,7 @@ imagesource: "“Detail from 宋馬遠舉杯玩月軸 (moon)”, 馬遠;鍾禮, 
 <p>20 但願人長久，</p>
 <p>千里共嬋娟。</p>
 
-<p>To the tune “Prelude to Water Melody”</p>
+<b>To the tune “Prelude to Water Melody”</b>
 <p><br/></p>
 
 <p>On the night of the Mid-Autumn Festival in 1076 CE,</p>

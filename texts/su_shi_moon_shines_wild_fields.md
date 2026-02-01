@@ -56,7 +56,7 @@ imagesource: "“Detail from 宋夏珪溪山清遠卷 (stream)”, 夏珪, Natio
 
 <h2>To the tune “The Moon Over the West River”—“The moon shines on the wild fields” | 西江月 · 照野瀰瀰淺浪</h2>
 
-<p>西江月</p>
+<b>西江月</b>
 <p><br/></p>
 
 <p>春夜行蘄水中過酒家飲。</p>
@@ -80,7 +80,7 @@ imagesource: "“Detail from 宋夏珪溪山清遠卷 (stream)”, 夏珪, Natio
 <p>杜宇一聲春曉。</p>
 <p><br/></p>
 
-<p>To the tune “The Moon Over the West River”</p>
+<b>To the tune “The Moon Over the West River”</b>
 <p><br/></p>
 
 <i>

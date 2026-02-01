@@ -70,12 +70,12 @@ imagesource: "Life of Rigaut de Berbezilh in Paris BnF Fr. 12473 f.71r (Occitan 
 
 <p>Be sai qu’amors es tan gransqu/e,
 <p>que leu me pot perdonar,</p>
-<p>s’ieu falhi per sobramar</p>
+<p>25 s’ieu falhi per sobramar</p>
 <p>ni renhey cum Dedalus,</p>
 <p>que dis qu’elh era Jhezus</p>
 <p>e volc volar al cel outracuians,</p>
 <p>mas Dieus baisset l’orguel e lo sobrans;</p>
-<p>e mos orguelhs non es res mas amors,</p>
+<p>30 e mos orguelhs non es res mas amors,</p>
 <p>per que merces mi deu faire socors,</p>
 <p>que maint luec son on razos vens merce,</p>
 <p>e luec on dregz ni razos no·s ave.</p>
@@ -115,7 +115,7 @@ imagesource: "Life of Rigaut de Berbezilh in Paris BnF Fr. 12473 f.71r (Occitan 
 <p>tot quan vuelh ai, quan de vos me sove.</p>
 <p><br/></p>
 
-<p>Just as the Elephant</p>
+<b>Just as the Elephant</b>
 <p>Which, when it falls, cannot get up</p>
 <p>Until the others, through their trumpeting,</p>
 <p>Make it stand up with the sounds they emit,</p>

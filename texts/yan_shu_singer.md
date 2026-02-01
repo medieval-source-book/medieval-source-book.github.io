@@ -54,7 +54,7 @@ imagesource: "Detail from 宋人枯木竹石(Bird on Branch)軸, Anonymous, Nati
 
 <h2>To the tune “Willows by the Mountain Pavilion”—“To a singer” | 山亭柳 · 贈歌者</h2>
 
-<p>贈歌者</p>
+<b>贈歌者</b>
 <p><br/></p>
 
 <p>家住西秦。</p>
@@ -75,7 +75,7 @@ imagesource: "Detail from 宋人枯木竹石(Bird on Branch)軸, Anonymous, Nati
 <p>重掩羅巾。</p>
 <p><br/></p>
 
-<p>To a singer</p>
+<b>To a singer</b>
 <p><br/></p>
 
 <p>My family lived in the west of Qin,</p>

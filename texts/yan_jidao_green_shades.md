@@ -57,7 +57,7 @@ imagesource: "Detail from 宋法常寫生卷 (flower)\", 法常, National Palace
 
 <h2>To the tune “Six Beats”—“Green shades of the trees mark the end of spring” | 六麼令 · 綠陰春盡</h2>
 
-<p>六麼令</p>
+<b>六麼令</b>
 <p><br/></p>
 
 <p>綠陰春盡，</p>
@@ -83,7 +83,7 @@ imagesource: "Detail from 宋法常寫生卷 (flower)\", 法常, National Palace
 <p><br/></p>
 
 
-<p>To the tune “Six Beats”</p>
+<b>To the tune “Six Beats”</b>
 <p><br/></p>
 
 <p>Green shades of the trees mark the end of spring;</p>

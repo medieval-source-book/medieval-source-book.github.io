@@ -462,11 +462,11 @@ imagesource: "Berlin, Staatsbibliothek zu Berlin, Ms. germ. oct. 222, f160r (det
 <p>da mit havt diss buoch ain end,</p>
 <p>got vns sinen hailigen segen send</p>
 <p>400 vnd verlich vns allen ain guotes end. Amen</p>
+<p><br/></p>
 
 
 
-
-<p>The Sultan's Daughter in the Flower Garden</p>
+<b>The Sultan's Daughter in the Flower Garden</b>
 
 <p>In the city of Babylon</p>
 <p>lived a wealthy and handsome lord</p>
@@ -744,7 +744,6 @@ imagesource: "Berlin, Staatsbibliothek zu Berlin, Ms. germ. oct. 222, f160r (det
 <p>Then they dressed her in a robe</p>
 <p>275 That was gray. — — —</p>
 <p>They were all happy about the miracle</p>
-
 <p>and then they sang Te deum laudamus,</p>
 <p>all the priests, old and young</p>
 <p>and the whole assembly.</p>
@@ -879,7 +878,7 @@ imagesource: "Berlin, Staatsbibliothek zu Berlin, Ms. germ. oct. 222, f160r (det
 
 <p><i>Line 14:</i> As with this verse, text appearing inside square brackets hereafter indicates an addition or emendation by the editor, Johannes Bolte, that is not present in the Berlin manuscript.</p>
 
-<p><i>Line 70:<i> Bolte misreads the manuscript here as “siú”, but what he read as a u is clearly an n, which would make the diacritic an abbreviation for, in this case, em. This reading is confirmed by the other manuscript witness (which was unknown to Bolte), which for this line reads: “Das auch seinem recht was vnd ist” (emphasis added).</p>
+<p><i>Line 70:</i> Bolte misreads the manuscript here as “siú”, but what he read as a u is clearly an n, which would make the diacritic an abbreviation for, in this case, em. This reading is confirmed by the other manuscript witness (which was unknown to Bolte), which for this line reads: “Das auch seinem recht was vnd ist” (emphasis added).</p>
 
 <p><i>Line 74:</i> A series of em-dashes indicates a line that is missing.</p>
 
@@ -894,7 +893,7 @@ imagesource: "Berlin, Staatsbibliothek zu Berlin, Ms. germ. oct. 222, f160r (det
 <p><i>Line 142:</i> Bolte’s “dre” has been corrected to “die” after consulting the manuscript (fol 163b).</p>
 
 <p><i>Line 275:</i> Bolte assumes missing text here, as well as an additional missing line (not included in the line count).</p>
-
+<p><br/></p>
 
 <p><i>Translation</i></p>
 <p><i>Line 14:</i> As with this verse, text appearing inside square brackets hereafter indicates an addition or emendation by the editor, Johannes Bolte, that is not present in the Berlin manuscript.</p>

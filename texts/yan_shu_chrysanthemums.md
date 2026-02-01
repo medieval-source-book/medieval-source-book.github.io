@@ -52,7 +52,7 @@ imagesource: "宋錢選荔枝圖(Lychee)　卷, 夏珪,  National Palace Museum,
 
 <h2>To the tune “Magpie Treads the Branch”—“Chrysanthemums by the railings wilt” | 鹊踏枝 · 檻菊愁煙蘭泣露</h2>
 
-<p>鹊踏枝</p>
+<b>鹊踏枝</b>
 <p><br/></p>
 
 <p>檻菊愁煙蘭泣露。</p>
@@ -70,7 +70,7 @@ imagesource: "宋錢選荔枝圖(Lychee)　卷, 夏珪,  National Palace Museum,
 <p><br/></p>
 
 
-<p>To the tune “Magpie Treads the Branch”</p>
+<b>To the tune “Magpie Treads the Branch”</b>
 <p><br/></p>
 
 <p>Chrysanthemums by the railings wilt in the mist, the orchids weep dew.</p>

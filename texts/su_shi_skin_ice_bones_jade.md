@@ -57,7 +57,7 @@ imagesource: "“Detail from 宋人畫仙巖壽鹿軸 (goddess)”, Anonymous, N
 
 <h2>To the tune “Song of the Immortal in the Grotto”—Skin of Ice and Bones of Jade | 洞仙歌 · 冰肌玉骨</h2>
 
-<p>洞仙歌 </p>
+<b>洞仙歌 </b>
 <p>冰肌玉骨</p>
 <p><br/></p>
 
@@ -99,7 +99,7 @@ imagesource: "“Detail from 宋人畫仙巖壽鹿軸 (goddess)”, Anonymous, N
 <p>流年暗中偷換</p>
 <p><br/></p>
 
-<p>To the tune “Song of the Immortal in the Grotto”</p>
+<b>To the tune “Song of the Immortal in the Grotto”</b>
 <p>Skin of Ice and Bones of Jade</p>
 <p><br/></p>
 

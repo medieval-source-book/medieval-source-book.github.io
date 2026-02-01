@@ -52,7 +52,7 @@ imagesource: "Detail from 宋趙伯駒秋山無盡圖(Courtyard)卷, 趙伯駒, 
 
 <h2>To the tune “Sands of the Washing Stream”—“A single new song, a single cup of wine” | 浣溪沙 · 一曲新詞酒一杯</h2>
 
-<p>浣溪沙</p>
+<b>浣溪沙</b>
 <p><br/></p>
 
 <p>曲新詞酒一杯。</p>
@@ -65,7 +65,7 @@ imagesource: "Detail from 宋趙伯駒秋山無盡圖(Courtyard)卷, 趙伯駒, 
 <p>小園香徑獨徘徊。</p>
 <p><br/></p>
 
-<p>To the tune “Sands of the Washing Stream”</p>
+<b>To the tune “Sands of the Washing Stream”</b>
 <p><br/></p>
 
 <p>A single new song, a single cup of wine</p>

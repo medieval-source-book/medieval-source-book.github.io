@@ -45,7 +45,7 @@ imagesource: "British Library MS Burney 275 f.120 [Public Domain]"
 <p>La fiance [que j’ay en vous]</p>
 <p><br/></p>
 
-<p>The trust that I have in you,</p>
+<b>The trust that I have in you,</b>
 <p>my love, without wanting to choose anyone else,</p>
 <p>makes me forget the torture</p>
 <p>that I suffer and all my great anguish.</p>

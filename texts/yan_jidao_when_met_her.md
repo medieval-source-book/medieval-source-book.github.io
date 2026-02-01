@@ -57,7 +57,7 @@ imagesource: "“Detail from 宋馬遠松間吟月軸 (beneath the moon)”, 馬
 
 <h2>To the tune “Bodhisattva Barbarians”—“When I met her, I wanted to tell her about my affliction with lovesickness” | 菩薩蠻 · 相逢欲話相思苦</h2>
 
-<p>菩薩蠻</p>
+<b>菩薩蠻</b>
 <p><br/></p>
 
 <p>相逢欲話相思苦。</p>
@@ -73,7 +73,7 @@ imagesource: "“Detail from 宋馬遠松間吟月軸 (beneath the moon)”, 馬
 <p><br/></p>
 
 
-<p>To the tune “Bodhisattva Barbarians”</p>
+<b>To the tune “Bodhisattva Barbarians”</b>
 <p><br/></p>
 
 <p>When I met her, I wanted to tell her about my affliction with lovesickness.</p>

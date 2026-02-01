@@ -56,7 +56,7 @@ imagesource: "“Detail from 宋人歲朝圖軸 (plum blossom)”, Anonymous, Na
 
 <h2>To the tune “The Moon Over the West River”—Plum Blossom | 西江月 · 梅花</h2>
 
-<p>西江月 梅花</p>
+<b>西江月 梅花</b>
 <p><br/></p>
 
 <p>玉骨那愁瘴霧，</p>
@@ -70,7 +70,7 @@ imagesource: "“Detail from 宋人歲朝圖軸 (plum blossom)”, Anonymous, Na
 <p><br/></p>
 
 
-<p>To the tune “The Moon Over the West River” Plum Blossom</p>
+<b>To the tune “The Moon Over the West River” Plum Blossom</b>
 <p><br/></p>
 
 <p>Why would the jade bones (need to) worry about noxious air<sup>1</sup>?</p>

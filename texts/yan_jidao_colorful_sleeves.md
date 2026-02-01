@@ -56,7 +56,7 @@ imagesource: "Detail from 宋李嵩聽阮圖軸 (colorful sleeves)\", 李嵩, Na
 
 <h2>To the tune “Partridge in the Sky”—“Your colorful sleeves held the jade cup with affection” | 鷓鴣天 · 彩袖殷勤捧玉鐘</h2>
 
-<p>鷓鴣天</p>
+<b>鷓鴣天</b>
 <p><br/></p>
 
 <p>彩袖殷勤捧玉鐘。</p>
@@ -72,7 +72,7 @@ imagesource: "Detail from 宋李嵩聽阮圖軸 (colorful sleeves)\", 李嵩, Na
 <p>猶恐相逢是夢中。</p>
 <p><br/></p>
 
-<p>To the tune “Partridge in the Sky”</p>
+<b>To the tune “Partridge in the Sky”</b>
 <p><br/></p>
 
 <p>Your colorful sleeves<sup>1</sup> held the jade cup with affection;</p>

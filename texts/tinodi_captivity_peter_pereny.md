@@ -259,9 +259,7 @@ imagesource: "Detail from \"Buda, Vulgo Ofen, Prima et Regia Ungarici\" (1572). 
 
 
 
-<p>The Captivity of Peter Perény, István Majlád and Bálint Török</p>
-<p><br/></p>
-
+<b>The Captivity of Peter Perény, István Majlád and Bálint Török</b>
 <p>Poor Hungary now sounds the hue and cry </p>
 <p>Because its merriment is silenced,</p>
 <p>Much splendid wealth departs,</p>

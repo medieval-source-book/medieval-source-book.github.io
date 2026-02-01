@@ -51,6 +51,7 @@ imagesource: "Detail from BSB MS Clm 6260, fol.158v"
 <p>do ginaden<sup>1</sup>. kirie eleyson criste eleyson</p>
 <p><br/></p>
 
+<b>The Song of Peter</b>
 <p>Our Lord gave Saint Peter the power to save</p>
 <p>those entrusted to him. <i> Kyrie eleison. Christe eleison.</i></p>
 <p>With words, he also guards the gates of heaven through which he admits</p>

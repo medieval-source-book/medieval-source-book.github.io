@@ -56,7 +56,7 @@ imagesource: "“Detail from 宋錢選蘭亭觀鵝圖卷 (lake)”, 錢選, Nati
 
 <h2>To the tune “Bodhisattva Barbarians”—Sending off Shugu at West Lake | 菩薩蠻 · 西湖</h2>
 
-<p>菩薩蠻</p>
+<b>菩薩蠻</b>
 <p>西湖</p>
 <p><br/></p>
 
@@ -70,7 +70,7 @@ imagesource: "“Detail from 宋錢選蘭亭觀鵝圖卷 (lake)”, 錢選, Nati
 <p>路人啼更多。</p>
 <p><br/></p>
 
-<p>To the tune “Bodhisattva Barbarians”</p>
+<b>To the tune “Bodhisattva Barbarians”</b>
 <p>Sending off Shugu<sup>1</sup> at West Lake<sup>2</sup></p>
 <p><br/></p>
 

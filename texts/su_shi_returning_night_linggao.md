@@ -57,7 +57,7 @@ imagesource: "“Detail from 宋李公麟畫歸去來辭卷 (boat)”, 李公麟
 
 <h2>To the tune “Immortal by the River”—Returning at Night to Linggao | 臨江仙 · 夜歸臨皋</h2>
 
-<p>臨江仙 夜歸臨皋</p>
+<b>臨江仙 夜歸臨皋</b>
 <p><br/></p>
 
 <p>夜飲東坡醒復醉，</p>
@@ -72,7 +72,7 @@ imagesource: "“Detail from 宋李公麟畫歸去來辭卷 (boat)”, 李公麟
 <p>10 江海寄餘生。</p>
 <p><br/></p>
 
-<p>To the tune “Immortal by the River” Returning at Night to Linggao<sup>1</sup></p>
+<b>To the tune “Immortal by the River” Returning at Night to Linggao<sup>1</sup></b>
 <p><br/></p>
 
 <p>Drinking at night on the Eastern Slope,<sup>2</sup> I sobered up and got drunk again.</p>

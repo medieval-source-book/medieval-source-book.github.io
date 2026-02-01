@@ -56,7 +56,7 @@ imagesource: "Detail from 宋人畫南唐耿先生煉雪圖軸 (building)\", Ano
 
 <h2>To the tune “Picking Mulberries”—“Since we parted, I often recall the time in the western building” | 採桑子 · 別來長憶西樓事</h2>
 
-<p>採桑子</p>
+<b>採桑子</b>
 <p><br/></p>
 
 <p>別來長憶西樓事，</p>
@@ -71,7 +71,7 @@ imagesource: "Detail from 宋人畫南唐耿先生煉雪圖軸 (building)\", Ano
 <p>也似當時著意深。</p>
 <p><br/></p>
 
-<p>To the tune “Picking Mulberries”</p>
+<b>To the tune “Picking Mulberries”</b>
 <p><br/></p>
 
 <p>Since we parted, I often recall the time in the western building.</p>

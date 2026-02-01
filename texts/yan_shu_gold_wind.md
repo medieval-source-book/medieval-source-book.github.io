@@ -52,7 +52,7 @@ imagesource: "Detail from 宋郭忠恕山水圖(Narrow Road)軸, 郭忠恕, Nati
 
 <h2>To the tune “Qingping Music”—“The gold wind is gentle and tender” |  清平樂 · 金風細細</h2>
 
-<p>清平樂</p>
+<b>清平樂</b>
 <p><br/></p>
 
 <p>金風細細。</p>
@@ -67,7 +67,7 @@ imagesource: "Detail from 宋郭忠恕山水圖(Narrow Road)軸, 郭忠恕, Nati
 <p>銀屏昨夜微寒。</p>
 <p><br/></p>
 
-<p>To the tune “Qingping Music”</p>
+<b>To the tune “Qingping Music”</b>
 <p><br/></p>
 
 <p>The gold wind is gentle and tender,</p>

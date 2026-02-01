@@ -78,11 +78,12 @@ imagesource: "British Library MS Additional 24199 f.12 [Public Domain]"
 <p>quicquid ac omisit, ouch geried iz Heinrihc.</p>
 <p><br/></p>
 
-<p>Hic non fuit ullus – thes hafon ig guoda fulleist</p>
+<p>25 Hic non fuit ullus – thes hafon ig guoda fulleist</p>
 <p>nobilibus ac liberis, thaz thid allaz uuar is –</p>
 <p>cui non fecisset Heinrich allero rehto gilich.</p>
 <p><br/></p>
 
+<b>The Song of Heinrich</b>
 <p>Now help, kind son of the eternal Virgin,</p>
 <p>my benevolent protector, so that I may tell</p>
 <p>of a certain duke, of Lord Heinrich,</p>

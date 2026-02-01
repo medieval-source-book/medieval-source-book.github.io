@@ -56,7 +56,7 @@ imagesource: "“Detail from 宋人拜月圖軸 (house)”, Anonymous, National 
 
 <h2>To the tune “The Moon Over the West River”—Pingshan Hall | 西江月 · 平山堂</h2>
 
-<p>西江月</p>
+<b>西江月</b>
 <p>平山堂</p>
 <p><br/></p>
 

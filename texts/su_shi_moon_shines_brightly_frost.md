@@ -56,7 +56,7 @@ imagesource: "“Detail from 宋范安仁魚藻圖卷 (fish)”, 范安仁, Nati
 
 <h2>To the tune “Always Encountering Joy”—“The moon shines so brightly” | 永遇樂 · 明月如霜</h2>
 
-<p>永遇樂</p>
+<b>永遇樂</b>
 <p><br/></p>
 
 <p>彭城夜宿燕子樓</p>
@@ -90,7 +90,7 @@ imagesource: "“Detail from 宋范安仁魚藻圖卷 (fish)”, 范安仁, Nati
 <p><br/></p>
 
 
-<p>To the tune “Always Encountering Joy”</p>
+<b>To the tune “Always Encountering Joy”</b>
 
 <i>
 <p>Staying the night in the Swallow Tower in Pengcheng</p>

@@ -57,7 +57,7 @@ imagesource: "“Detail from 宋夏珪溪山清遠卷 (mountain)”, 夏珪, Nat
 
 <h2>To the tune “River God”—Recording a Dream on the Night of the Twentieth of the First Month of 1075 CE | 江神子 · 乙卯正月二十日夜記夢</h2>
 
-<p>江神子</p>
+<b>江神子</b>
 <p>乙卯正月二十日夜記夢</p>
 <p><br/></p>
 
@@ -79,7 +79,7 @@ imagesource: "“Detail from 宋夏珪溪山清遠卷 (mountain)”, 夏珪, Nat
 <p>短松岡。</p>
 <p><br/></p>
 
-<p>To the tune “River God”</p>
+<b>To the tune “River God”</b>
 <p>Recording a Dream on the Night of the Twentieth of the First Month of 1075 CE</p>
 <p><br/></p>
 

@@ -42,7 +42,9 @@ imagesource: "Dijon Chansonnier (Dijon, Bibliothèque Municipale, 517), f.127v (
 <p>A ceulx quy sont amis de luy</p>
 <p>Car par ma foi je vous dis</p>
 <p>10 Quen temps mieulx con cuer ne lama</p>
-<p>Two or three days ago</p>
+<p><br/></p>
+
+<b>Two or three days ago</b>
 <p>my sweet love went away</p>
 <p>without saying anything to me.</p>
 <p>Alas, who will comfort me?</p>

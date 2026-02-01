@@ -56,7 +56,7 @@ imagesource: "“Detail from 歷代集繪冊　宋崔白柳陰戲鵝 (willow)”
 
 <h2>To the tune “Picking Mulberries”—“Back then I met with her in the western building” | 採桑子 · 西樓月下當時見</h2>
 
-<p>採桑子</p>
+<b>採桑子</b>
 <p><br/></p>
 
 <p>西樓月下當時見，</p>
@@ -71,7 +71,7 @@ imagesource: "“Detail from 歷代集繪冊　宋崔白柳陰戲鵝 (willow)”
 <p>長記樓中粉淚人。</p>
 <p><br/></p>
 
-<p>To the tune “Picking Mulberries”</p>
+<b>To the tune “Picking Mulberries”</b>
 <p><br/></p>
 
 <p>Back then I met with her in the western building beneath the moon;</p>

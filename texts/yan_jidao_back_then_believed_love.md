@@ -56,7 +56,7 @@ imagesource: "“Detail from 宋錢選蘭亭觀鵝圖卷 (pavilion)”, 錢選, 
 
 <h2>To the tune “Jade Tower in Spring”—“Back then, I believed that love was priceless” | 玉樓春 · 當年信道情無價</h2>
 
-<p>玉樓春</p>
+<b>玉樓春</b>
 <p><br/></p>
 
 <p>當年信道情無價。</p>
@@ -71,7 +71,7 @@ imagesource: "“Detail from 宋錢選蘭亭觀鵝圖卷 (pavilion)”, 錢選, 
 <p>不記臨分多少話。</p>
 <p><br/></p>
 
-<p>To the tune “Jade Tower in Spring”</p>
+<b>To the tune “Jade Tower in Spring”</b>
 <p><br/></p>
 
 <p>Back then, I believed that love was priceless,</p>

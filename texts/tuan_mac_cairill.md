@@ -74,7 +74,7 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <li>The second of two articles containing an important analysis of Lebor Gabála Érenn (“The Book of Invasions”).</li>
 </ul>
 
-<h2>Tuán mac Cairill ro clos | Tuán mac Cairill—it was heard</h2>
+<h2>Tuán mac Cairill—it was heard | Tuán mac Cairill ro clos</h2>
 
 <p>Tuan mac Cairill ro clos</p>
 <p>Do-rad Ísu for anfos</p>
@@ -118,7 +118,9 @@ imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gi
 <p>ro baí ac acalláim Tuain.</p>
 <p><br/></p>
 
-<p>Tuán mac Cairill—it was heard</p>
+
+
+<b>Tuán mac Cairill—it was heard</b>
 <p>Jesus caused him to wander.</p>
 <p>He spent one hundred long years</p>
 <p>In the shape of a human being; it was an excellent destiny</p>

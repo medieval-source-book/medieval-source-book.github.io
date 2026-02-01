@@ -56,7 +56,7 @@ imagesource: "“Detail from 宋人卞莊子刺虎圖卷 (tiger)”, Anonymous, 
 
 <h2>To the tune “River Town”—Hunting in Mizhou | 江城子 · 密州出獵</h2>
 
-<p>江城子 密州出獵</p>
+<b>江城子 密州出獵</b>
 <p><br/></p>
 
 <p>老夫聊發少年狂。</p>
@@ -77,7 +77,7 @@ imagesource: "“Detail from 宋人卞莊子刺虎圖卷 (tiger)”, Anonymous, 
 <p>射天狼。</p>
 <p><br/></p>
 
-<p>To the tune “River Town” Hunting in Mizhou</p>
+<b>To the tune “River Town” Hunting in Mizhou</b>
 <p><br/></p>
 
 <p>I take on a young man’s arrogance for a moment,</p>

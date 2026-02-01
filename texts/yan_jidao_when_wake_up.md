@@ -56,7 +56,7 @@ imagesource: "Detail from 宋趙伯駒飛仙圖軸 (immortal)\", 趙伯駒, Nati
 
 <h2>To the tune “The Immortal by the River”—“When I wake up from the dream” | 臨江仙 · 夢後樓臺高鎖</h2>
 
-<p>臨江仙</p>
+<b>臨江仙</b>
 <p><br/></p>
 
 <p>夢後樓臺高鎖，</p>
@@ -73,7 +73,7 @@ imagesource: "Detail from 宋趙伯駒飛仙圖軸 (immortal)\", 趙伯駒, Nati
 <p>10 曾照彩雲歸。</p>
 <p><br/></p>
 
-<p>To the tune “The Immortal by the River”</p>
+<b>To the tune “The Immortal by the River”</b>
 <p><br/></p>
 
 <p>When I wake up from the dream, the buildings already have their doors locked.</p>

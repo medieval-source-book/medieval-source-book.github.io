@@ -53,7 +53,7 @@ imagesource: "Detail from 宋元集繪 冊 宋緙絲翠羽秋荷(Lotuses), Anony
 
 <h2>To the tune “Magnolia Flower”—“The water in the pond is green” | 木蘭花 · 池塘水綠風微暖</h2>
 
-<p>木蘭花</p>
+<b>木蘭花</b>
 <p><br/></p>
 
 <p>池塘水綠風微暖。</p>
@@ -68,7 +68,7 @@ imagesource: "Detail from 宋元集繪 冊 宋緙絲翠羽秋荷(Lotuses), Anony
 <p>點檢如今無一半。</p>
 <p><br/></p>
 
-<p>To the tune “Magnolia Flower”</p>
+<b>To the tune “Magnolia Flower”</b>
 <p><br/></p>
 
 <p>The water in the pond is green, and the wind is slightly warm.</p>

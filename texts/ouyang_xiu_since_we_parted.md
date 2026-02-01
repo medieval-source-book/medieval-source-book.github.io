@@ -53,7 +53,7 @@ imagesource: "Detail from 宋夏珪真蹟(Two Men Talking) 卷 , 夏珪,  Nation
 
 <h2>To the tune “Spring in the Jade Building”—“Since we parted I do not know how far away you are” | 玉樓春 · 別後不知君遠近</h2>
 
-<p>玉樓春</p>
+<b>玉樓春</b>
 <p><br/></p>
 
 <p>別後不知君遠近。</p>
@@ -69,7 +69,7 @@ imagesource: "Detail from 宋夏珪真蹟(Two Men Talking) 卷 , 夏珪,  Nation
 <p><br/></p>
 
 
-<p>To the tune “Spring in the Jade Building”</p>
+<b>To the tune “Spring in the Jade Building”</b>
 <p><br/></p>
 
 <p>Since we parted I do not know how far away you are,</p>

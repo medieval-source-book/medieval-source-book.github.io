@@ -54,7 +54,7 @@ imagesource: "Detail from 宋元集繪 冊 宋緙絲翠羽秋荷(Lotuses) , Anon
 
 <h2>To the tune “Immortal by the River”—“Beyond the willows there is light thunder” | 臨江仙 · 柳外輕雷池上雨</h2>
 
-<p>臨江仙</p>
+<b>臨江仙</b>
 <p><br/></p>
 
 <p>柳外輕雷池上雨，</p>
@@ -71,7 +71,7 @@ imagesource: "Detail from 宋元集繪 冊 宋緙絲翠羽秋荷(Lotuses) , Anon
 <p>10 傍有墮釵橫。</p>
 <p><br/></p>
 
-<p>To the tune “Immortal by The River”</p>
+<b>To the tune “Immortal by The River”</b>
 <p><br/></p>
 
 <p>Beyond the willows there is light thunder, over the pond it rains.</p>
