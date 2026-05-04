@@ -8,11 +8,11 @@ engtitle: |
 origtitle: |
   Smrt krále Jana
 breadcrumb: true
-permalink: "text/discourse_angels_pagans"
-redirect_from: /text/discourse-angels-and-pagans
-identifier: discourse_angels_pagans.md
-tei: /assets/tei/discourse_angels_pagans.xml
-pdf: /assets/pdf/discourse_angels_pagans.pdf
+permalink: "text/death_king_john"
+redirect_from: /text/death-king-john
+identifier: death_king_john.md
+tei: /assets/tei/death_king_john.xml
+pdf: /assets/pdf/death_king_john.pdf
 textauthor: Anonymous
 languages: [czech]
 periods: [14th_century]

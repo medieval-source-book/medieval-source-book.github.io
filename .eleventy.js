@@ -100,6 +100,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.ignores.add("_texts original/**");
   eleventyConfig.ignores.add("html/**");
   eleventyConfig.ignores.add("jekyll-site/**");
+  eleventyConfig.ignores.add("edits_needed/**");
 
   // Filters
   eleventyConfig.addFilter("readableDate", dateObj => {
