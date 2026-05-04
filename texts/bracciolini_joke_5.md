@@ -14,10 +14,15 @@ identifier: bracciolini_joke_5.md
 tei: /assets/tei/bracciolini_joke_5.xml
 pdf: /assets/pdf/bracciolini_joke_5.pdf
 textauthor: Poggio Bracciolini
+translator: Robin Wahlsten Böckerman
+tei_prep: Danny Smith
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
+transcription: "Basel 1538 (Reprinted in Poggio Bracciolini, Scripta in editione Basilensi anno 1538 collata. Ed. Riccardo Fulbini. Turin: Bottega d'Erasmo, 1964.)"
 languages: [latin]
 periods: [15th_century]
 textcollections: [facetiae-jokes, prank-or-be-pranked]
-sdr: https://purl.stanford.edu/zz135cw7207
+sdr: https://doi.org/10.25740/ft546yg2522
 image: /assets/img/text/bracciolini_joke_5.jpg
 thumb: /assets/img/text/bracciolini_joke_5-thumb.jpg
 imagesource: "London, British Library Royal 15 E VI, fol. 6r. [Public Domain]"

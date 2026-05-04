@@ -17,10 +17,11 @@ textauthor: João de Barros
 translator: Leonardo Velloso-Lyons
 tei_prep: Danny Smith
 pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [portuguese]
 periods: [16th_century]
 textcollections: [cross-cultural-encounters, making-history]
-sdr: https://purl.stanford.edu/xf832ws7375
+sdr: https://doi.org/10.25740/pf099jt4195
 image: /assets/img/text/barros_first_decade_asia.png
 thumb: /assets/img/text/barros_first_decade_asia-thumb.png
 imagesource: "Detail from the title page of _Asia de Joam de Barros / dos fectos que os Portugueses fizeram no descobrimento e conquista dos mares e terras do Oriente_ (Lisbon: Germão Galharde, 1552)."

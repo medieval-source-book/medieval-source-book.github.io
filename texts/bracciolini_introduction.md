@@ -14,10 +14,15 @@ identifier: bracciolini_introduction.md
 tei: /assets/tei/bracciolini_introduction.xml
 pdf: /assets/pdf/bracciolini_introduction.pdf
 textauthor: Poggio Bracciolini
+translator: Robin Wahlsten Böckerman
+tei_prep: Danny Smith
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
+transcription: "Basel 1538 (Reprinted in Poggio Bracciolini, Scripta in editione Basilensi anno 1538 collata. Ed. Riccardo Fulbini. Turin: Bottega d'Erasmo, 1964.)"
 languages: [latin]
 periods: [15th_century]
 textcollections: [facetiae-jokes]
-sdr: https://purl.stanford.edu/sv990qy7712
+sdr: https://doi.org/10.25740/mf709br3356
 image: /assets/img/text/bracciolini_introduction.jpg
 thumb: /assets/img/text/bracciolini_introduction-thumb.jpg
 imagesource: "Poggio Bracciolini, detail from Vatican Urb.Lat.224 f.68r [Public Domain]"

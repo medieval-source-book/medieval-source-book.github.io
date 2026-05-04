@@ -14,6 +14,11 @@ identifier: bracciolini_joke_114.md
 tei: /assets/tei/bracciolini_joke_114.xml
 pdf: /assets/pdf/bracciolini_joke_114.pdf
 textauthor: Poggio Bracciolini
+translator: Robin Wahlsten Böckerman
+tei_prep: Danny Smith
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
+transcription: "Basel 1538 (Reprinted in Poggio Bracciolini, Scripta in editione Basilensi anno 1538 collata. Ed. Riccardo Fulbini. Turin: Bottega d'Erasmo, 1964.)"
 languages: [latin]
 periods: [15th_century]
 textcollections: [facetiae-jokes]

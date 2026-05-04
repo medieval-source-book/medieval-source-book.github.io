@@ -14,6 +14,10 @@ identifier: carvajal_outside_rome.md
 tei: /assets/tei/carvajal_outside_rome.xml
 pdf: /assets/pdf/carvajal_outside_rome.pdf
 textauthor: Carvajal
+translator:
+tei_prep:
+pdf_prep:
+web_prep: Nino Martin
 languages: [spanish]
 periods: [15th_century]
 textcollections: [prank-or-be-pranked]
