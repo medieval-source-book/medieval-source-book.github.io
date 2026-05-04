@@ -14,6 +14,9 @@ identifier: barros_first_decade_asia.md
 tei: /assets/tei/barros_first_decade_asia.xml
 pdf: /assets/pdf/barros_first_decade_asia.pdf
 textauthor: João de Barros
+translator: Leonardo Velloso-Lyons
+tei_prep: Danny Smith
+pdf_prep: Mae Velloso-Lyons
 languages: [portuguese]
 periods: [16th_century]
 textcollections: [cross-cultural-encounters, making-history]
