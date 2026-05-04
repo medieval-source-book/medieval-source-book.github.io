@@ -14,6 +14,10 @@ identifier: al_shafii_were_it_not_that_poesy.md
 tei: /assets/tei/al_shafii_were_it_not_that_poesy.xml
 pdf: /assets/pdf/al_shafii_were_it_not_that_poesy.pdf
 textauthor: Muḥammad ibn Idrīs al-Shāfiʿī
+transcription: "based on al-Shāfiʿī, M. 1911. Dīwān al-Imām Muḥammad ibn Idrīs al-Shāfiʿī, ed. Maḥmūd Ibrāhīm Haybah. al-Qāhirah: Maṭbaʿat al-Taqaddum, p.18"
+tei_prep: Danny Smith
+pdf_prep: Mae Velloso-Lyons
+translator: Sherif Abdelkarim
 languages: [arabic]
 periods: [8th_century, 9th_century]
 textcollections: [good-life]

@@ -14,6 +14,10 @@ identifier: al_mulhalhil_twilights_ruins.md
 tei: /assets/tei/al_mulhalhil_twilights_ruins.xml
 pdf: /assets/pdf/al_mulhalhil_twilights_ruins.pdf
 textauthor: al-Muhalhil
+transcription: "Text based on Cheikho, L. 1890. Kitāb Shuʿarāʾ al-Naṣrāniyyah. Vol. 1. Beirut: Maṭbaʿat al-Ābāʾ al-Mursilīn al-Yasūʿiyyīn fī Bayrūt, pages 273-276."
+translator: "Sherif Abdelkarim"
+tei_prep: "Danny Smith"
+pdf_prep: "Mae Velloso-Lyons"
 languages: [arabic]
 periods: [5th_century, 6th_century]
 textcollections: [making-history]

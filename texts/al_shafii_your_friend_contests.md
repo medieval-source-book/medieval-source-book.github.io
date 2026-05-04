@@ -14,6 +14,11 @@ identifier: al_shafii_your_friend_contests.md
 tei: /assets/tei/al_shafii_your_friend_contests.xml
 pdf: /assets/pdf/al_shafii_your_friend_contests.pdf
 textauthor: Muḥammad ibn Idrīs al-Shāfiʿī
+translator: Sherif Abdelkarim
+transcription: "from al-Shāfiʿī, M. 1999. Dīwān al-Shāfiʿī: al-Imām al-Faqīh Abū ʿAbd Allāh Muḥammad ibn Idrīs al-Shāfiʿī, ed. Mujāhid Muṣṭafā Bahjat. Dimashq: Dār al-Qalam, page 97."
+tei_prep: Danny Smith
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [arabic]
 periods: [8th_century, 9th_century]
 textcollections: [good-life]

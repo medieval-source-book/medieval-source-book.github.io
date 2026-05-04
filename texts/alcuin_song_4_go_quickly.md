@@ -14,10 +14,15 @@ identifier: alcuin_song_4_go_quickly.md
 tei: /assets/tei/alcuin_song_4_go_quickly.xml
 pdf: /assets/pdf/alcuin_song_4_go_quickly.pdf
 textauthor: Alcuin
+transcription: "based on Ernst Duemmler ed., Poetae Latini Aevi Carolini, Vol. I, MGH (Berlin: Weidmann, 1881), pp. 220-3"
+translator: Samuel Cardwell
+tei_prep: Danny Smith
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [latin]
 periods: [8th_century]
 textcollections: [making-history]
-sdr: https://purl.stanford.edu/wf172pp9458
+sdr: https://doi.org/10.25740/yt240jq8877
 image: /assets/img/text/alcuin_song_4_go_quickly.jpg
 thumb: /assets/img/text/alcuin_song_4_go_quickly-thumb.jpg
 imagesource: "Paris BNF MS Latin 528 f.140v [Public Domain]"
