@@ -2,14 +2,20 @@ module.exports = {
 	eleventyComputed: {
 		permalink: (data) => {
 			if (typeof data.permalink !== "string") {
-				return data.permalink;
+				return `text/${data.page.fileSlug}/index.html`;
 			}
 
-			if (data.permalink.endsWith("/") || data.permalink.endsWith(".html")) {
-				return data.permalink;
+			const permalink = data.permalink.trim();
+
+			if (!permalink) {
+				return `text/${data.page.fileSlug}/index.html`;
 			}
 
-			return `${data.permalink}/index.html`;
+			if (permalink.endsWith("/") || permalink.endsWith(".html")) {
+				return permalink;
+			}
+
+			return `${permalink}/index.html`;
 		},
 	},
 };

@@ -9,6 +9,7 @@ origtitle: |
   Якоже пишеть премудрый Епифаний
 breadcrumb: true
 redirect_from: /text/discourse-angels-and-pagans
+permalink: /text/discourse_angels_pagans/
 identifier: discourse_angels_pagans.md
 tei: /assets/tei/discourse_angels_pagans.xml
 pdf: /assets/pdf/discourse_angels_pagans.pdf
