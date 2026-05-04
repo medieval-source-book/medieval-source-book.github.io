@@ -8,7 +8,7 @@ engtitle: |
 origtitle: |
   Carmen IV "Cartula, perge cito"
 breadcrumb: true
-permalink: "text/alcuin_song_4_go_quickly"
+permalink: "/text/alcuin_song_4_go_quickly/"
 redirect_from: /text/song-iv-go-quickly-little-letter
 identifier: alcuin_song_4_go_quickly.md
 tei: /assets/tei/alcuin_song_4_go_quickly.xml

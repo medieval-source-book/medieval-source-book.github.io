@@ -8,7 +8,7 @@ engtitle: |
 origtitle: |
   صديقك من يعادي من تعادي
 breadcrumb: true
-permalink: "text/al_shafii_your_friend_contests"
+permalink: "/text/al_shafii_your_friend_contests/"
 redirect_from: /text/your-friend-contests-whomever-you-contest
 identifier: al_shafii_your_friend_contests.md
 tei: /assets/tei/al_shafii_your_friend_contests.xml
