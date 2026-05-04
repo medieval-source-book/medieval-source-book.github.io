@@ -14,6 +14,8 @@ identifier: perez_de_pineda_brief_treatise_doctrine.md
 tei: /assets/tei/perez_de_pineda_brief_treatise_doctrine.xml
 pdf: /assets/pdf/perez_de_pineda_brief_treatise_doctrine.pdf
 textauthor: Juan Perez de Piñeda
+translator: Kathryn Phipps
+tei_prep: Danny Smith
 languages: [spanish]
 periods: [16th_century]
 textcollections: [prayer-spirituality]
