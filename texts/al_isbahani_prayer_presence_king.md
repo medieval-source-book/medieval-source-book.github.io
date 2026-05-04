@@ -14,10 +14,13 @@ identifier: al_isbahani_prayer_presence_king.md
 tei: /assets/tei/al_isbahani_prayer_presence_king.xml
 pdf: /assets/pdf/al_isbahani_prayer_presence_king.pdf
 textauthor: Abū Nuʻaym al-Iṣbahānī [att.]
+translator: Joshua Mugler
+tei_prep: Danny Smith
+pdf_prep: Mae Velloso-Lyons
 languages: [arabic]
 periods: [11th_century]
 textcollections: [prayer-spirituality]
-sdr: https://purl.stanford.edu/kw226mf8206
+sdr: https://doi.org/10.25740/vg681dg8483
 image: /assets/img/text/al_isbahani_prayer_presence_king.jpg
 thumb: /assets/img/text/al_isbahani_prayer_presence_king-thumb.jpg
 imagesource: "Khalidi Library (Jerusalem) MS 214, fol. 59v-60r [Courtesy of the Hill Museum and Manuscript Library]"
