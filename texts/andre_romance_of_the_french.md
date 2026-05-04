@@ -14,6 +14,11 @@ identifier: andre_romance_of_the_french.md
 tei: /assets/tei/andre_romance_of_the_french.xml
 pdf: /assets/pdf/andre_romance_of_the_french.pdf
 textauthor: André de Coutances
+translator: Johannes Junge Ruhland
+transcription: Johannes Junge Ruhland
+tei_prep: Danny Smith
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [french]
 periods: [12th_century]
 textcollections: [cross-cultural-encounters, prank-or-be-pranked]
