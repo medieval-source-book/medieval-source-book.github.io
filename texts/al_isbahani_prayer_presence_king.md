@@ -8,8 +8,8 @@ engtitle: |
 origtitle: |
   دعاء شريف يقال عند مقابلة الملوك نافع مجرب إن شاء الله تعالى
 breadcrumb: true
-permalink: "/text/noble-prayer-said-when-standing-kings-known-experience-be-beneficial-god-most-high-willing/"
-redirect_from: /text/noble-prayer-said-when-standing-kings-known-experience-be-beneficial-god-most-high-willing
+permalink: "text/al_isbahani_prayer_presence_king/"
+redirect_from: "/text/noble-prayer-said-when-standing-kings-known-experience-be-beneficial-god-most-high-willing"
 identifier: al_isbahani_prayer_presence_king.md
 tei: /assets/tei/al_isbahani_prayer_presence_king.xml
 pdf: /assets/pdf/al_isbahani_prayer_presence_king.pdf

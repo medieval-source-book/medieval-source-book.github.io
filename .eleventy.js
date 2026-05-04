@@ -10,6 +10,35 @@ const md = new MarkdownIt({
 const fs = require("fs");
 const path = require("path");
 
+function normalizeUrlPath(value) {
+  if (typeof value !== "string") {
+    return null;
+  }
+
+  const trimmed = value.trim();
+  if (!trimmed) {
+    return null;
+  }
+
+  return trimmed.startsWith("/") ? trimmed : `/${trimmed}`;
+}
+
+function toRedirectOutputPath(urlPath) {
+  if (!urlPath) {
+    return null;
+  }
+
+  if (urlPath.endsWith(".html")) {
+    return urlPath;
+  }
+
+  if (urlPath.endsWith("/")) {
+    return `${urlPath}index.html`;
+  }
+
+  return `${urlPath}/index.html`;
+}
+
 module.exports = function(eleventyConfig) {
   // Enable YAML global data files (e.g., 11ty/_data/*.yml)
   eleventyConfig.addDataExtension("yml", contents => yaml.load(contents));
@@ -105,6 +134,65 @@ module.exports = function(eleventyConfig) {
   // Collections mapped to Jekyll-style folders in repo root  
   eleventyConfig.addCollection("texts", function(collectionApi) {
     return collectionApi.getFilteredByGlob(["texts/**/*.md", "texts/**/*.html"]);
+  });
+  eleventyConfig.addCollection("textRedirects", function(collectionApi) {
+    const redirectPages = [];
+    const usedPermalinks = new Set();
+    const usedRedirects = new Set();
+
+    for (const item of collectionApi.getFilteredByGlob(["texts/**/*.md", "texts/**/*.html"])) {
+      const targetUrl = normalizeUrlPath(item.url || item.data.permalink);
+      if (!targetUrl) {
+        continue;
+      }
+
+      usedPermalinks.add(targetUrl);
+      usedPermalinks.add(toRedirectOutputPath(targetUrl));
+    }
+
+    for (const item of collectionApi.getFilteredByGlob(["texts/**/*.md", "texts/**/*.html"])) {
+      const redirects = Array.isArray(item.data.redirect_from)
+        ? item.data.redirect_from
+        : [item.data.redirect_from];
+      const targetUrl = normalizeUrlPath(item.url || item.data.permalink);
+
+      if (!targetUrl) {
+        continue;
+      }
+
+      for (const redirectValue of redirects) {
+        const redirectFrom = normalizeUrlPath(redirectValue);
+        const redirectOutputPath = toRedirectOutputPath(redirectFrom);
+        const redirectPathParts = redirectFrom ? redirectFrom.split("/").filter(Boolean) : [];
+
+        if (!redirectFrom || !redirectOutputPath) {
+          continue;
+        }
+
+        if (redirectPathParts.length < 2) {
+          continue;
+        }
+
+        if (
+          redirectFrom === targetUrl ||
+          redirectOutputPath === toRedirectOutputPath(targetUrl) ||
+          usedPermalinks.has(redirectFrom) ||
+          usedPermalinks.has(redirectOutputPath) ||
+          usedRedirects.has(redirectOutputPath)
+        ) {
+          continue;
+        }
+
+        usedRedirects.add(redirectOutputPath);
+        redirectPages.push({
+          permalink: redirectOutputPath,
+          target: targetUrl,
+          source: item.inputPath,
+        });
+      }
+    }
+
+    return redirectPages;
   });
   eleventyConfig.addCollection("textcollections", function(collectionApi) {
     return collectionApi.getFilteredByGlob(["textcollections/**/*.md", "textcollections/**/*.html"]);
