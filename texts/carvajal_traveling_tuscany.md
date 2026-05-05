@@ -14,10 +14,16 @@ identifier: carvajal_traveling_tuscany.md
 tei: /assets/tei/carvajal_traveling_tuscany.xml
 pdf: /assets/pdf/carvajal_traveling_tuscany.pdf
 textauthor: Carvajal
+introauthor: Albert Lloret
+translator: Paulina Ochoa Figueroa
+transcription: Paulina Ochoa Figueroa
+tei_prep: Danny Smith
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [spanish]
 periods: [15th_century]
 textcollections: [love-songs]
-sdr: https://purl.stanford.edu/rz666qw6921
+sdr: https://doi.org/10.25740/gf132vx8604
 image: /assets/img/text/carvajal_traveling_tuscany.jpg
 thumb: /assets/img/text/carvajal_traveling_tuscany-thumb.jpg
 imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.153r [Public domain]"

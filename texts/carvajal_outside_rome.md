@@ -14,14 +14,16 @@ identifier: carvajal_outside_rome.md
 tei: /assets/tei/carvajal_outside_rome.xml
 pdf: /assets/pdf/carvajal_outside_rome.pdf
 textauthor: Carvajal
-translator:
-tei_prep:
-pdf_prep:
+introauthor: Albert Lloret
+translator: Eva Álvarez Vázquez
+transcription: Eva Álvarez Vázquez
+tei_prep: Danny Smith
+pdf_prep: Mae Velloso-Lyons
 web_prep: Nino Martin
 languages: [spanish]
 periods: [15th_century]
 textcollections: [prank-or-be-pranked]
-sdr: https://purl.stanford.edu/gd523jq2768
+sdr: https://doi.org/10.25740/rw418pq3956
 image: /assets/img/text/carvajal_outside_rome.jpg
 thumb: /assets/img/text/carvajal_outside_rome-thumb.jpg
 imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.157r [Public domain]"

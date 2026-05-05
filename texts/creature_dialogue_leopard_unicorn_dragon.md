@@ -14,6 +14,10 @@ identifier: creature_dialogue_leopard_unicorn_dragon.md
 tei: /assets/tei/creature_dialogue_leopard_unicorn_dragon.xml
 pdf: /assets/pdf/creature_dialogue_leopard_unicorn_dragon.pdf
 textauthor: Nicolaus Pergamenus [att.]
+translator: Astrid Khoo
+tei_prep: Irene Han
+pdf_prep: Mae Velloso-Lyons
+transcription: Johann Georg Theodor Grässe
 languages: [latin]
 periods: [14th_century]
 textcollections: [fantastic-fables]

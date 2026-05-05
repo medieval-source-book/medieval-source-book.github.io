@@ -14,10 +14,15 @@ identifier: adam_st_victor_hymn_honor_augustine.md
 tei: /assets/tei/adam_st_victor_hymn_honor_augustine.xml
 pdf: /assets/pdf/adam_st_victor_hymn_honor_augustine.pdf
 textauthor: Adam of St. Victor [att.]
+translator: Runqi Zhang
+transcription: Runqi Zhang
+tei_prep: Runqi Zhang
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [latin]
 periods: [12th_century]
 textcollections: [prayer-spirituality]
-sdr: https://purl.stanford.edu/tw944yz2527
+sdr: https://doi.org/10.25740/rd813vd7894
 image: /assets/img/text/adam_st_victor_hymn_honor_augustine.png
 thumb: /assets/img/text/adam_st_victor_hymn_honor_augustine-thumb.png
 imagesource: "Detail from Cambridge, Corpus Christi College, MS 253, f. 140v [Public Domain]"

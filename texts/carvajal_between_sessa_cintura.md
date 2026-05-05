@@ -14,10 +14,15 @@ identifier: carvajal_between_sessa_cintura.md
 tei: /assets/tei/carvajal_between_sessa_cintura.xml
 pdf: /assets/pdf/carvajal_between_sessa_cintura.pdf
 textauthor: Carvajal
+translator: "Virginia Correia"
+introauthor: "Albert Lloret"
+pdf_prep: Mae Velloso-Lyons
+tei_prep: Danny Smith
+web_prep: Nino Martin
 languages: [spanish]
 periods: [15th_century]
 textcollections: [love-songs, gender-sex-sensuality]
-sdr: https://purl.stanford.edu/vh669nf9534
+sdr: https://doi.org/10.25740/nj537rm5802
 image: /assets/img/text/carvajal_between_sessa_cintura.jpg
 thumb: /assets/img/text/carvajal_between_sessa_cintura-thumb.jpg
 imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.136v [Public domain]"

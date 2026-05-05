@@ -14,6 +14,12 @@ identifier: carvajal_wandering_lost.md
 tei: /assets/tei/carvajal_wandering_lost.xml
 pdf: /assets/pdf/carvajal_wandering_lost.pdf
 textauthor: Carvajal
+introauthor: Albert Lloret
+translator: M. Camila Vera Arias
+transcription: M. Camila Vera Arias
+tei_prep: Danny Smith
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [spanish]
 periods: [15th_century]
 textcollections: [gender-sex-sensuality]

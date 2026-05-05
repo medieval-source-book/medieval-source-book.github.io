@@ -14,10 +14,16 @@ identifier: carvajal_walking_out.md
 tei: /assets/tei/carvajal_walking_out.xml
 pdf: /assets/pdf/carvajal_walking_out.pdf
 textauthor: Carvajal
+introauthor: Albert Lloret
+translator: Simón Andrés Villegas
+transcription: Simón Andrés Villegas
+tei_prep: Danny Smith
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [spanish]
 periods: [15th_century]
 textcollections: [love-songs, gender-sex-sensuality]
-sdr: https://purl.stanford.edu/rw838fz3671
+sdr: https://doi.org/10.25740/xw221zn8089
 image: /assets/img/text/carvajal_walking_out.jpg
 thumb: /assets/img/text/carvajal_walking_out-thumb.jpg
 imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.130v [Public domain]"
