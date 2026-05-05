@@ -14,10 +14,15 @@ identifier: eifuku_monin_poem_1388.md
 tei: /assets/tei/eifuku_monin_poem_1388.xml
 pdf: /assets/pdf/eifuku_monin_poem_1388.pdf
 textauthor: Eifuku Mon’in 永福門院
+translator: Scott Stevens
+tei_prep: Danny Smith
+transcription: "国歌大観 : 五句索引 歌集部 (Kokka taikan: goku sakuin); Kyōbunsha; Date published: 1918"
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [japanese]
 periods: [14th_century]
 textcollections: [love-songs, gender-sex-sensuality]
-sdr: https://purl.stanford.edu/fk792gp6900
+sdr: https://doi.org/10.25740/mz761vc5370
 image: /assets/img/text/eifuku_monin_poem_1388.jpg
 thumb: /assets/img/text/eifuku_monin_poem_1388-thumb.jpg
 imagesource: "Detail from Geese and Reeds, Tesshū Tokusai, Late 14th C., Hanging scroll; ink on paper, Metropolitan Museum of Art, Mary Griggs Burke Collection, Gift of the Mary and Jackson Burke Foundation, 2015 [Public Domain]"

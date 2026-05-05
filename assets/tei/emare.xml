@@ -9,22 +9,18 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title><!--Title in English--></title>
-				<author><!--Anonymous if unknown--></author>
+				<title>Emare</title>
+				<author>Anonymous</author>
 				<respStmt>
-					<resp>Transcription by</resp>
-					<name><!--Name of editor if based on published edition--></name>
+					<resp>Source</resp>
+					<name>British Library MS Cotton Caligula Aii</name>
 				</respStmt>
 				<respStmt>
-					<resp>Translation by</resp>
+					<resp>Translation by Antonia Murath</resp>
 					<name></name>
 				</respStmt>
 				<respStmt>
-					<resp>Introduction by</resp>
-					<name></name>
-				</respStmt>
-				<respStmt>
-					<resp>Encoded in TEI P5 XML by</resp>
+					<resp>Introduction by Antonia Murath</resp>
 					<name></name>
 				</respStmt>
 			</titleStmt>
@@ -47,7 +43,7 @@
 		</fileDesc>
 		<encodingDesc>
 			<projectDesc>
-            	<p>"<!--Title in English-->" is published by <hi rend="italic">The Global Medieval Sourcebook (GMS)</hi>, a free, open access, and open source compendium of medieval texts in their original languages and in English translation. <hi rend="italic">GMS</hi> comprises computer-readable transcriptions or editions alongside new translations of texts dating from the ninth to the sixteenth century and originating in Europe, North Africa, the Middle East, and Asia. The <hi rend="italic">GMS</hi> platform includes critical introductions as well as sources for further reading.  
+            	<p>"Emare"er is published by <hi rend="italic">The Global Medieval Sourcebook (GMS)</hi>, a free, open access, and open source compendium of medieval texts in their original languages and in English translation. <hi rend="italic">GMS</hi> comprises computer-readable transcriptions or editions alongside new translations of texts dating from the ninth to the sixteenth century and originating in Europe, North Africa, the Middle East, and Asia. The <hi rend="italic">GMS</hi> platform includes critical introductions as well as sources for further reading.  
             </p> 
          	</projectDesc>
 			<editorialDecl>

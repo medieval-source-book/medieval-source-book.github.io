@@ -14,10 +14,14 @@ identifier: explanation_dreams.md
 tei: /assets/tei/explanation_dreams.xml
 pdf: /assets/pdf/explanation_dreams.pdf
 textauthor: Anonymous
+translator: Danny Smith
+tei_prep: Danny Smith
+pdf_prep: Danny Smith
+web_prep: Nino Martin
 languages: [latin]
 periods: [13th_century]
 textcollections: [prayer-spirituality]
-sdr: https://purl.stanford.edu/rh029gw5314
+sdr: https://doi.org/10.25740/jv574qw4946
 image: /assets/img/text/explanation_dreams.jpg
 thumb: /assets/img/text/explanation_dreams-thumb.jpg
 imagesource: "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, MS Ham. 390 f.49v [Public Domain]"
