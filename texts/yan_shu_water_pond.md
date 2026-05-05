@@ -14,6 +14,10 @@ identifier: yan_shu_water_pond.md
 tei: /assets/tei/yan_shu_water_pond.xml
 pdf: /assets/pdf/yan_shu_water_pond.pdf
 textauthor: Yan Shu 晏殊
+translator: Qian Jia
+tei_prep: Nina Du, Runqi Zhang
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [chinese]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
