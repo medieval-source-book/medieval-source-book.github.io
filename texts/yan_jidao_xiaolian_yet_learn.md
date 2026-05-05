@@ -14,10 +14,15 @@ identifier: yan_jidao_xiaolian_yet_learn.md
 tei: /assets/tei/yan_jidao_xiaolian_yet_learn.xml
 pdf: /assets/pdf/yan_jidao_xiaolian_yet_learn.pdf
 textauthor: Yan Jidao 晏幾道
+translator: Qian Jia
+noteauthor: Dante Zhu
+tei_prep: Dante Zhu
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [chinese]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
-sdr: https://purl.stanford.edu/wy306mq1325
+sdr: https://doi.org/10.25740/vz644xg2086
 image: /assets/img/text/yan_jidao_xiaolian_yet_learn.jpg
 thumb: /assets/img/text/yan_jidao_xiaolian_yet_learn-thumb.jpg
 imagesource: "Detail from 宋高宗書女孝經馬和之補圖上卷 (Women)\", 馬和之;趙構, National Palace Museum, Accession Number: K2A001100N000000000PBH [Public Domain]"

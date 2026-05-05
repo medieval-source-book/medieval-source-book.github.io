@@ -14,10 +14,15 @@ identifier: yan_jidao_when_wake_up.md
 tei: /assets/tei/yan_jidao_when_wake_up.xml
 pdf: /assets/pdf/yan_jidao_when_wake_up.pdf
 textauthor: Yan Jidao 晏幾道
+translator: Qian Jia
+noteauthor: Dante Zhu
+tei_prep: Dante Zhu
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [chinese]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
-sdr: https://purl.stanford.edu/wz124km9116
+sdr: https://doi.org/10.25740/gh427qq3359
 image: /assets/img/text/yan_jidao_when_wake_up.jpg
 thumb: /assets/img/text/yan_jidao_when_wake_up-thumb.jpg
 imagesource: "Detail from 宋趙伯駒飛仙圖軸 (immortal)\", 趙伯駒, National Palace Museum, Accession Number: K2A001818N000000000PAA [Public Domain]"

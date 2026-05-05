@@ -14,10 +14,15 @@ identifier: yan_jidao_back_then_believed_love.md
 tei: /assets/tei/yan_jidao_back_then_believed_love.xml
 pdf: /assets/pdf/yan_jidao_back_then_believed_love.pdf
 textauthor: Yan Jidao 晏幾道
+translator: Qian Jia
+noteauthor: Dante Zhu
+tei_prep: Dante Zhu
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [chinese]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
-sdr: https://purl.stanford.edu/mk306vg8401
+sdr: https://doi.org/10.25740/vr552wz0508
 image: /assets/img/text/yan_jidao_back_then_believed_love.jpg
 thumb: /assets/img/text/yan_jidao_back_then_believed_love-thumb.jpg
 imagesource: "“Detail from 宋錢選蘭亭觀鵝圖卷 (pavilion)”, 錢選, National Palace Museum, Accession Number: K2A001001N000000000PAC [Public Domain]"

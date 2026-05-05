@@ -14,10 +14,15 @@ identifier: yan_jidao_colorful_sleeves.md
 tei: /assets/tei/yan_jidao_colorful_sleeves.xml
 pdf: /assets/pdf/yan_jidao_colorful_sleeves.pdf
 textauthor: Yan Jidao 晏幾道
+translator: Qian Jia
+noteauthor: Dante Zhu
+tei_prep: Dante Zhu
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [chinese]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
-sdr: https://purl.stanford.edu/pp376zc0708
+sdr:   https://doi.org/10.25740/jh554bg6310
 image: /assets/img/text/yan_jidao_colorful_sleeves.jpg
 thumb: /assets/img/text/yan_jidao_colorful_sleeves-thumb.jpg
 imagesource: "Detail from 宋李嵩聽阮圖軸 (colorful sleeves)\", 李嵩, National Palace Museum, Accession Number: K2A000106N000000000PAA [Public Domain]"

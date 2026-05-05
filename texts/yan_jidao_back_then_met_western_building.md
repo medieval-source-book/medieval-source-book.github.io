@@ -14,10 +14,15 @@ identifier: yan_jidao_back_then_met_western_building.md
 tei: /assets/tei/yan_jidao_back_then_met_western_building.xml
 pdf: /assets/pdf/yan_jidao_back_then_met_western_building.pdf
 textauthor: Yan Jidao 晏幾道
+translator: Qian Jia
+noteauthor: Dante Zhu
+tei_prep: Dante Zhu
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [chinese]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
-sdr: https://purl.stanford.edu/pj401jn0383
+sdr: https://doi.org/10.25740/zq252ks9218
 image: /assets/img/text/yan_jidao_back_then_met_western_building.jpg
 thumb: /assets/img/text/yan_jidao_back_then_met_western_building-thumb.jpg
 imagesource: "“Detail from 歷代集繪冊　宋崔白柳陰戲鵝 (willow)”, 崔白, National Palace Museum, Accession Number: K2A001254N000000002PAA [Public Domain]"

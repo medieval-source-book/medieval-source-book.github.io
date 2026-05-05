@@ -14,10 +14,16 @@ identifier: yan_shu_chrysanthemums.md
 tei: /assets/tei/yan_shu_chrysanthemums.xml
 pdf: /assets/pdf/yan_shu_chrysanthemums.pdf
 textauthor: Yan Shu 晏殊
+translator: Qian Jia
+introauthor: Nina Du, Runqi Zhang
+noteauthor: Nina Du, Runqi Zhang
+tei_prep: Nina Du, Manya Bansal, and Danny Smith
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [chinese]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
-sdr: https://purl.stanford.edu/gc817sq3338
+sdr: https://doi.org/10.25740/qy541cc1989
 image: /assets/img/text/yan_shu_chrysanthemums.jpg
 thumb: /assets/img/text/yan_shu_chrysanthemums-thumb.jpg
 imagesource: "宋錢選荔枝圖(Lychee)　卷, 夏珪,  National Palace Museum, Accession Number: K2A001487N000000000PAB [Public Domain]"

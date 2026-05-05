@@ -14,10 +14,15 @@ identifier: yan_jidao_since_we_parted.md
 tei: /assets/tei/yan_jidao_since_we_parted.xml
 pdf: /assets/pdf/yan_jidao_since_we_parted.pdf
 textauthor: Yan Jidao 晏幾道
+translator: Qian Jia
+noteauthor: Dante Zhu
+tei_prep: Dante Zhu
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [chinese]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
-sdr: https://purl.stanford.edu/xy386fb2651
+sdr: https://doi.org/10.25740/yz761xs8021
 image: /assets/img/text/yan_jidao_since_we_parted.jpg
 thumb: /assets/img/text/yan_jidao_since_we_parted-thumb.jpg
 imagesource: "Detail from 宋人畫南唐耿先生煉雪圖軸 (building)\", Anonymous, National Palace Museum, Accession Number: K2A000172N000000000PAA [Public Domain]"

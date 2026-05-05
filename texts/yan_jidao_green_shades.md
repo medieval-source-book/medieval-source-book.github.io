@@ -14,10 +14,15 @@ identifier: yan_jidao_green_shades.md
 tei: /assets/tei/yan_jidao_green_shades.xml
 pdf: /assets/pdf/yan_jidao_green_shades.pdf
 textauthor: Yan Jidao 晏幾道
+translator: Dante Zhu
+noteauthor: Dante Zhu
+tei_prep: Dante Zhu
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [chinese]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
-sdr: https://purl.stanford.edu/wk343xs3767
+sdr: https://doi.org/10.25740/bx170cq1156
 image: /assets/img/text/yan_jidao_green_shades.jpg
 thumb: /assets/img/text/yan_jidao_green_shades-thumb.jpg
 imagesource: "Detail from 宋法常寫生卷 (flower)\", 法常, National Palace Museum, Accession Number: K2A000989N000000000PAG [Public Domain]"
