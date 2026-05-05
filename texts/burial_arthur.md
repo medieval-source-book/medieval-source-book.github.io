@@ -14,10 +14,15 @@ identifier: burial_arthur.md
 tei: /assets/tei/burial_arthur.xml
 pdf: /assets/pdf/burial_arthur.pdf
 textauthor: Anonymous
+translator: Georgia Henley
+transcription: Georgia Henley
+tei_prep: Mae Velloso-Lyons
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [welsh]
 periods: [13th_century]
 textcollections: [making-history]
-sdr: https://purl.stanford.edu/qh162zv9519
+sdr: https://doi.org/10.25740/kr583gp2431
 image: /assets/img/text/burial_arthur.png
 thumb: /assets/img/text/burial_arthur-thumb.png
 imagesource: "British Library MS Additional 10294, f. 89 [Public Domain]"
