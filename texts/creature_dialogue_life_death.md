@@ -14,6 +14,11 @@ identifier: creature_dialogue_life_death.md
 tei: /assets/tei/creature_dialogue_life_death.xml
 pdf: /assets/pdf/creature_dialogue_life_death.pdf
 textauthor: Nicolaus Pergamenus [att.]
+translator: Astrid Khoo
+transcription: Johann Georg Theodor Grässe
+tei_prep: Danny Smith
+pdf_prep: Mae Velloso Lyons
+web_prep: Nino Martin
 languages: [latin]
 periods: [14th_century]
 textcollections: [fantastic-fables, prayer-spirituality]
