@@ -14,6 +14,12 @@ identifier: yan_shu_new_song.md
 tei: /assets/tei/yan_shu_new_song.xml
 pdf: /assets/pdf/yan_shu_new_song.pdf
 textauthor: Yan Shu 晏殊
+translator: Qian Jia
+introauthor: Nina Du, Runqi Zhang
+noteauthor: Nina Du, Runqi Zhang
+tei_prep: Nina Du, Manya Bansal, and Danny Smith
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [chinese]
 periods: [11th_century]
 textcollections: [good-life]

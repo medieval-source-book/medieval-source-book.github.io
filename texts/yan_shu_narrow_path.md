@@ -14,7 +14,12 @@ identifier: yan_shu_narrow_path.md
 tei: /assets/tei/yan_shu_narrow_path.xml
 pdf: /assets/pdf/yan_shu_narrow_path.pdf
 textauthor: Yan Shu 晏殊
-languages: [chinese]
+translator: Qian Jia
+introauthor: Nina Du, Runqi Zhang
+noteauthor: Nina Du, Runqi Zhang
+tei_prep: Nina Du, Manya Bansal, and Danny Smith
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martinlanguages: [chinese]
 periods: [11th_century]
 textcollections: [good-life]
 sdr: https://purl.stanford.edu/qc237vk7231
