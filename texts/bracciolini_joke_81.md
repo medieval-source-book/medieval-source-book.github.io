@@ -22,7 +22,7 @@ transcription: "Basel 1538 (Reprinted in Poggio Bracciolini, Scripta in editione
 languages: [latin]
 periods: [15th_century]
 textcollections: [facetiae-jokes]
-sdr: https://purl.stanford.edu/sy186gs1533
+sdr: https://doi.org/10.25740/zy349qg4546
 image: /assets/img/text/bracciolini_joke_81.jpg
 thumb: /assets/img/text/bracciolini_joke_81-thumb.jpg
 imagesource: "Venice, from Hartmann Schedel’s Nuremberg Chronicle [Public Domain]"

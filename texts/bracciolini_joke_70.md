@@ -22,7 +22,7 @@ transcription: "Basel 1538 (Reprinted in Poggio Bracciolini, Scripta in editione
 languages: [latin]
 periods: [15th_century]
 textcollections: [facetiae-jokes, prank-or-be-pranked]
-sdr: https://purl.stanford.edu/gx976zm1272
+sdr: https://doi.org/10.25740/hy950bc9914
 image: /assets/img/text/bracciolini_joke_70.jpg
 thumb: /assets/img/text/bracciolini_joke_70-thumb.jpg
 imagesource: "A physician examining urine, London, British Library Harley 3140 f. 32v [Public Domain]"

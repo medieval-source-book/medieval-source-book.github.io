@@ -22,7 +22,7 @@ transcription: "Basel 1538 (Reprinted in Poggio Bracciolini, Scripta in editione
 languages: [latin]
 periods: [15th_century]
 textcollections: [facetiae-jokes]
-sdr: https://purl.stanford.edu/qx141dj8307
+sdr:   https://doi.org/10.25740/xg653rs8090
 image: /assets/img/text/bracciolini_joke_13.png
 thumb: /assets/img/text/bracciolini_joke_13-thumb.png
 imagesource: "The Temperate and the Intemperate, Master of the Dresden Prayer Book, miniature from Valerius Maximus, The Memorable Deeds and Sayings of the Romans, Bruges, about 1470-80. The J. Paul Getty Museum, Ms. 43, recto"

@@ -22,7 +22,7 @@ transcription: "Basel 1538 (Reprinted in Poggio Bracciolini, Scripta in editione
 languages: [latin]
 periods: [15th_century]
 textcollections: [facetiae-jokes]
-sdr: https://purl.stanford.edu/kg337yq8278
+sdr: https://doi.org/10.25740/sx450hf8685
 image: /assets/img/text/bracciolini_joke_114.jpg
 thumb: /assets/img/text/bracciolini_joke_114-thumb.jpg
 imagesource: "Barber from The Courtly Household Cards. Kunsthistorisches Museum Wien, Kunstkammer (KK 5088) [Public Domain]"

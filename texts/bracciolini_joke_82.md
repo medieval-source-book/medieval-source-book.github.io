@@ -22,7 +22,7 @@ transcription: "Basel 1538 (Reprinted in Poggio Bracciolini, Scripta in editione
 languages: [latin]
 periods: [15th_century]
 textcollections: [facetiae-jokes]
-sdr: https://purl.stanford.edu/mm445bx7141
+sdr: https://doi.org/10.25740/kc596mf0994
 image: /assets/img/text/bracciolini_joke_82.jpg
 thumb: /assets/img/text/bracciolini_joke_82-thumb.jpg
 imagesource: "Simon Marmion, Images from the Song of Roland, Grandes Chroniques de France, St. Petersburg, Ms. Hermitage. fr. 88: (Niederl. Burgund, Mitte 15. Jh., Exemplar Philipps des Guten), folio. 154v [Public Domain]]"
@@ -34,7 +34,7 @@ imagesource: "Simon Marmion, Images from the Song of Roland, Grandes Chroniques 
 
 <p>Through his texts we also meet a very polemical man, who seems to get into fights with many of his contemporaries, the most famous of which is his conflict with another of the humanist greats, Lorenzo Valla. The collections of jokes and stories known today as the <i> Facetiae</i>, but which Poggio himself preferred to refer to as <i> Conversations </i> (<i> Confabulationes</i>), certainly contains a polemical edge. While Poggio’s invectives are violently polemical and often personal, his <i> Facetiae </i> are more mildly polemical in the satirical tradition. The <i> Facetiae </i> as it is preserved consists of 273 jokes/stories ranging from just a few lines to a page in length. The collection also has an introduction and a type of conclusion. The short selection presented here contains a few rowdy jokes that poke fun at crude people and priests or monks, and another few stories with witty remarks from historical or contemporary characters. For readers interested in the obscene elements in the <i> Facetiae</i>, Poggio’s work can be compared to Beccadelli’s <i> The Hermaphrodite</i>, which offers another contemporary source of obscenity, but one based on very clear ancient models (among others Catullus). The selection shows that Poggio seems to have put his main focus on witticism when writing the stories; whether rude tales or short adventures of cooks, soldiers or even the famous Dante, the punchline seems almost always to be some sort of turn of phrase or wry observation (although this might not always be completely obvious to a modern reader).</p>
 
-<p>One of many stories in the collection centring around a witty reply, this joke adds the Carolingian hero Roland as an ingredient.</p>
+<p>One of many stories in the collection centering around a witty reply, this joke adds the Carolingian hero Roland as an ingredient.</p>
 
 <h2>Introduction to the Source</h2>
 <p>The <i> Facetiae </i> seems to have had immediate success. The collection as we now know it was composed between 1452-53, but Poggio had by then been working on versions of it (some of which had been in circulation) from as early as 1438. Over fifty manuscripts containing the text are preserved to this day. The <i> Facetiae </i> was also printed early and repeatedly, first appearing in this form around 1470. Another testimony to the popularity of the text is the fact that Poggio’s jokes or ‘conversations’ were translated to several other languages, either the entire collection (to Italian and French at the end of the fifteenth century) or individual stories, which were mixed into the different Aesop collections circulating during this period. Herein lies somewhat of an irony, since Poggio himself in the introduction to the <i> Facetiae </i> seems to indicate that the object of writing them is to write stories in Latin that are usually told in the vernacular languages.</p>

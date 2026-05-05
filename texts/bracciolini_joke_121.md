@@ -22,7 +22,7 @@ transcription: "Basel 1538 (Reprinted in Poggio Bracciolini, Scripta in editione
 languages: [latin]
 periods: [15th_century]
 textcollections: [facetiae-jokes]
-sdr: https://purl.stanford.edu/mt010pz7336
+sdr: https://doi.org/10.25740/cg621cc8952
 image: /assets/img/text/bracciolini_joke_121.jpg
 thumb: /assets/img/text/bracciolini_joke_121-thumb.jpg
 imagesource: "Domenico di Michelino, La commedia illumina Firenze, from the Duomo di Firenze, 1456 [Public Domain]"

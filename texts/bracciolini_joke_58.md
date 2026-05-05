@@ -22,7 +22,7 @@ transcription: "Basel 1538 (Reprinted in Poggio Bracciolini, Scripta in editione
 languages: [latin]
 periods: [15th_century]
 textcollections: [facetiae-jokes]
-sdr: https://purl.stanford.edu/tf627nm3963
+sdr: https://doi.org/10.25740/zx618zj0197
 image: /assets/img/text/bracciolini_joke_58.jpg
 thumb: /assets/img/text/bracciolini_joke_58-thumb.jpg
 imagesource: "Andrea del Castagno, Dante from the Cycle of Famous Men and Women, Galleria degli Uffizi, Florence [Image in Public Domain]"

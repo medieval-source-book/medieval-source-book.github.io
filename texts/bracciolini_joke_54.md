@@ -22,7 +22,7 @@ transcription: "Basel 1538 (Reprinted in Poggio Bracciolini, Scripta in editione
 languages: [latin]
 periods: [15th_century]
 textcollections: [facetiae-jokes]
-sdr: https://purl.stanford.edu/rs785ht2018
+sdr: https://doi.org/10.25740/rf433fx5526
 image: /assets/img/text/bracciolini_joke_54.png
 thumb: /assets/img/text/bracciolini_joke_54-thumb.png
 imagesource: "Archers Assaulting a City from London, British Library Yates Thompson MS 12 f.204r [Public Domain]"

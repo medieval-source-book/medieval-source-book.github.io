@@ -22,7 +22,7 @@ transcription: "Basel 1538 (Reprinted in Poggio Bracciolini, Scripta in editione
 languages: [latin]
 periods: [15th_century]
 textcollections: [facetiae-jokes]
-sdr: https://purl.stanford.edu/ym333kk6225
+sdr: https://doi.org/10.25740/qf265tj9589
 image: /assets/img/text/bracciolini_joke_57.jpg
 thumb: /assets/img/text/bracciolini_joke_57-thumb.jpg
 imagesource: "Ugo Zannoni, Dante, Piazza dei Signori, Verona, c.1865. Photo: Didier Descouens [CC BY-SA 4.0]"

@@ -22,7 +22,7 @@ transcription: "Basel 1538 (Reprinted in Poggio Bracciolini, Scripta in editione
 languages: [latin]
 periods: [15th_century]
 textcollections: [facetiae-jokes]
-sdr: https://purl.stanford.edu/pb612ws1048
+sdr: https://doi.org/10.25740/nz677jj4183
 image: /assets/img/text/bracciolini_joke_273.jpg
 thumb: /assets/img/text/bracciolini_joke_273-thumb.jpg
 imagesource: "Cuthbert with the elderly Hildmaer and his wife. London, British Library, Yates Thompson MS 26, fol. 33v [Public Domain]"

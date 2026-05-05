@@ -22,7 +22,7 @@ transcription: "Basel 1538 (Reprinted in Poggio Bracciolini, Scripta in editione
 languages: [latin]
 periods: [15th_century]
 textcollections: [facetiae-jokes, prank-or-be-pranked]
-sdr: https://purl.stanford.edu/ww555hr8382
+sdr: https://doi.org/10.25740/gp558fd2042
 image: /assets/img/text/bracciolini_joke_27.jpg
 thumb: /assets/img/text/bracciolini_joke_27-thumb.jpg
 imagesource: "Pregnant Woman, detail from Limbourg Brothers, September from Les Très Riches Heures du duc de Berry, Chantilly, Musée Condé Ms.65, f.9v"
