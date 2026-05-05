@@ -14,10 +14,16 @@ identifier: yan_shu_gold_wind.md
 tei: /assets/tei/yan_shu_gold_wind.xml
 pdf: /assets/pdf/yan_shu_gold_wind.pdf
 textauthor: Yan Shu 晏殊
+translator: Qian Jia
+introauthor: Nina Du, Runqi Zhang
+noteauthor: Nina Du, Runqi Zhang
+tei_prep: Nina Du, Manya Bansal, and Danny Smith
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [chinese]
 periods: [11th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/hb663ys4009
+sdr: https://doi.org/10.25740/nj094yc0068
 image: /assets/img/text/yan_shu_gold_wind.jpg
 thumb: /assets/img/text/yan_shu_gold_wind-thumb.jpg
 imagesource: "Detail from 宋郭忠恕山水圖(Narrow Road)軸, 郭忠恕, National Palace Museum, Accesion Number: K2A001791N000000000PAA [Public Domain]"

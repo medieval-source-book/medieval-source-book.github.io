@@ -14,10 +14,15 @@ identifier: yan_jidao_could_not_make.md
 tei: /assets/tei/yan_jidao_could_not_make.xml
 pdf: /assets/pdf/yan_jidao_could_not_make.pdf
 textauthor: Yan Jidao 晏幾道
+translator: Qian Jia
+noteauthor: Dante Zhu
+tei_prep: Dante Zhu
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [chinese]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
-sdr: https://purl.stanford.edu/fk885dj6733
+sdr: https://doi.org/10.25740/bv240gg1343
 image: /assets/img/text/yan_jidao_could_not_make.jpg
 thumb: /assets/img/text/yan_jidao_could_not_make-thumb.jpg
 imagesource: "“Detail from 宋人江帆山市卷 (boat)”, Anonymous, National Palace Museum, Accession Number: K2A001004N000000000PAB [Public Domain]"

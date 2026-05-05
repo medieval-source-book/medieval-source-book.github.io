@@ -14,10 +14,15 @@ identifier: yan_jidao_dew_metal_palm.md
 tei: /assets/tei/yan_jidao_dew_metal_palm.xml
 pdf: /assets/pdf/yan_jidao_dew_metal_palm.pdf
 textauthor: Yan Jidao 晏幾道
+translator: Qian Jia
+noteauthor: Dante Zhu
+tei_prep: Dante Zhu
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [chinese]
 periods: [11th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/cr552hm2906
+sdr:   https://doi.org/10.25740/cx851qt8138
 image: /assets/img/text/yan_jidao_dew_metal_palm.jpg
 thumb: /assets/img/text/yan_jidao_dew_metal_palm-thumb.jpg
 imagesource: "Detail from 宋高宗書女孝經馬和之補圖上卷 (Hometown)\", 馬和之;趙構, National Palace Museum, Accession Number: K2A001100N000000000PBI [Public Domain]"

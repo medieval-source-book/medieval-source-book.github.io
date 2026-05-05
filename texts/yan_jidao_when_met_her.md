@@ -14,10 +14,15 @@ identifier: yan_jidao_when_met_her.md
 tei: /assets/tei/yan_jidao_when_met_her.xml
 pdf: /assets/pdf/yan_jidao_when_met_her.pdf
 textauthor: Yan Jidao 晏幾道
+translator: Qian Jia
+noteauthor: Dante Zhu
+tei_prep: Dante Zhu
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [chinese]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
-sdr: https://purl.stanford.edu/kh875rn7042
+sdr: https://doi.org/10.25740/wb773sd2181
 image: /assets/img/text/yan_jidao_when_met_her.jpg
 thumb: /assets/img/text/yan_jidao_when_met_her-thumb.jpg
 imagesource: "“Detail from 宋馬遠松間吟月軸 (beneath the moon)”, 馬遠, National Palace Museum, Accession Number: K2A001839N000000000PAA [Public Domain]"
