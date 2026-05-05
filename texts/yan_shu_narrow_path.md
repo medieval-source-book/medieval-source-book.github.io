@@ -19,10 +19,11 @@ introauthor: Nina Du, Runqi Zhang
 noteauthor: Nina Du, Runqi Zhang
 tei_prep: Nina Du, Manya Bansal, and Danny Smith
 pdf_prep: Mae Velloso-Lyons
-web_prep: Nino Martinlanguages: [chinese]
+web_prep: Nino Martin
+languages: [chinese]
 periods: [11th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/qc237vk7231
+sdr: https://doi.org/10.25740/yd429zd1885
 image: /assets/img/text/yan_shu_narrow_path.jpg
 thumb: /assets/img/text/yan_shu_narrow_path-thumb.jpg
 imagesource: "Detail from 宋劉松年山水(Red Leaves and Houses)卷, 劉松年, National Palace Museum, Accesion Number: K2A001458N000000000PAD [Public Domain]"

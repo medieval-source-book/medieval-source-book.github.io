@@ -23,7 +23,7 @@ web_prep: Nino Martin
 languages: [chinese]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs, gender-sex-sensuality]
-sdr: https://purl.stanford.edu/yw538tr2725
+sdr: https://doi.org/10.25740/kk991ym8871
 image: /assets/img/text/yan_shu_singer.jpg
 thumb: /assets/img/text/yan_shu_singer-thumb.jpg
 imagesource: "Detail from 宋人枯木竹石(Bird on Branch)軸, Anonymous, National Palace Museum, Accesion Number: K2A000155N000000000PAA [Public Domain]"

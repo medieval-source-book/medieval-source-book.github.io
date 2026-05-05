@@ -14,10 +14,14 @@ identifier: creature_dialogue_man_woman.md
 tei: /assets/tei/creature_dialogue_man_woman.xml
 pdf: /assets/pdf/creature_dialogue_man_woman.pdf
 textauthor: Nicolaus Pergamenus [att.]
+translator: Astrid Khoo
+transcription: Johann Georg Theodor Grässe
+tei_prep: Irene Han
+pdf_prep: Mae Velloso-Lyons
 languages: [latin]
 periods: [14th_century]
 textcollections: [fantastic-fables, gender-sex-sensuality]
-sdr: https://purl.stanford.edu/cd889mt8602
+sdr: https://doi.org/10.25740/pc307fk0601
 image: /assets/img/text/creature_dialogue_man_woman.jpeg
 thumb: /assets/img/text/creature_dialogue_man_woman-thumb.jpeg
 imagesource: "Bibliothèque nationale de France, département Arsenal, RESERVE FOL-BL-911, f.99v [Public Domain]"

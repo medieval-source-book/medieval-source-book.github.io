@@ -14,6 +14,10 @@ identifier: creature_dialogue_preface.md
 tei: /assets/tei/creature_dialogue_preface.xml
 pdf: /assets/pdf/creature_dialogue_preface.pdf
 textauthor: Nicolaus Pergamenus [att.]
+translator: Astrid Khoo
+transcription: Johann Georg Theodor Grässe
+tei_prep: Irene Han
+pdf_prep: Mae Velloso-Lyons
 languages: [latin]
 periods: [14th_century]
 textcollections: [fantastic-fables]

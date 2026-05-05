@@ -23,7 +23,7 @@ web_prep: Nino Martin
 languages: [chinese]
 periods: [11th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/sx258bp0853
+sdr: https://doi.org/10.25740/fx629qj2701
 image: /assets/img/text/yan_shu_new_song.jpg
 thumb: /assets/img/text/yan_shu_new_song-thumb.jpg
 imagesource: "Detail from 宋趙伯駒秋山無盡圖(Courtyard)卷, 趙伯駒, National Palace Museum, Accession Number: K2A001434N000000000PAB [Public Domain]"

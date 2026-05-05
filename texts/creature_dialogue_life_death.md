@@ -22,7 +22,7 @@ web_prep: Nino Martin
 languages: [latin]
 periods: [14th_century]
 textcollections: [fantastic-fables, prayer-spirituality]
-sdr: https://purl.stanford.edu/jj379yr6162
+sdr: https://doi.org/10.25740/ff668ck9214
 image: /assets/img/text/creature_dialogue_life_death.jpg
 thumb: /assets/img/text/creature_dialogue_life_death-thumb.jpg
 imagesource: "Bibliothèque nationale de France, département Arsenal, RESERVE FOL-BL-911, f.100r [Public Domain]"
