@@ -14,10 +14,13 @@ identifier: fesneau_agricola_oh_how_troubles_me.md
 tei: /assets/tei/fesneau_agricola_oh_how_troubles_me.xml
 pdf: /assets/pdf/fesneau_agricola_oh_how_troubles_me.pdf
 textauthor: Fesneau/Agricola [att.]
+translator: Mae Velloso-Lyons
+tei_prep: Jordan Rosen-Kaplan
+pdf_prep: Mae Velloso-Lyons
 languages: [french]
 periods: [15th_century]
 textcollections: [love-songs]
-sdr: https://purl.stanford.edu/cr338fw5858
+sdr: https://doi.org/10.25740/km477xz6458
 image: /assets/img/text/fesneau_agricola_oh_how_troubles_me.png
 thumb: /assets/img/text/fesneau_agricola_oh_how_troubles_me-thumb.png
 imagesource: "British Library MS King’s 322 f.1 [Public Domain]"

@@ -14,10 +14,15 @@ identifier: girl_wanted_fly.md
 tei: /assets/tei/girl_wanted_fly.xml
 pdf: /assets/pdf/girl_wanted_fly.pdf
 textauthor: Anonymous
+transcription: J.Th. Verhulsdonck
+translator: Michael Widner, Johannes Junge Ruhland
+tei_prep: Michael Widner, Clara Romani
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [french]
 periods: [13th_century]
 textcollections: [gender-sex-sensuality, prank-or-be-pranked]
-sdr: https://purl.stanford.edu/jz526tt3099
+sdr: https://doi.org/10.25740/dh254pf0024
 image: /assets/img/text/girl_wanted_fly.jpeg
 thumb: /assets/img/text/girl_wanted_fly-thumb.jpeg
 imagesource: "Bibliothèque nationale de France, Département des manuscrits, Français 25545"

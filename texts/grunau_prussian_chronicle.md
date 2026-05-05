@@ -14,10 +14,14 @@ identifier: grunau_prussian_chronicle.md
 tei: /assets/tei/grunau_prussian_chronicle.xml
 pdf: /assets/pdf/grunau_prussian_chronicle.pdf
 textauthor: Simon Grunau
+translator: Thomas Hewitt
+transcription: "Perlbach, M., Philippi, R., and Wagner, P., Duncker and Humblot"
+tei_prep: Dante Zhu
+pdf_prep: Mae Velloso-Lyons
 languages: [german]
 periods: [16th_century]
 textcollections: [cross-cultural-encounters, making-history]
-sdr: https://purl.stanford.edu/pq614tg2172
+sdr: https://doi.org/10.25740/ys385jy8774
 image: /assets/img/text/grunau_prussian_chronicle.jpg
 thumb: /assets/img/text/grunau_prussian_chronicle-thumb.jpg
 imagesource: "Landscape with a Double Spruce, Metropolitan Museum of Art, Accession No. 1993.1097"

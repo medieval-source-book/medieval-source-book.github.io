@@ -14,10 +14,15 @@ identifier: filbert_vision.md
 tei: /assets/tei/filbert_vision.xml
 pdf: /assets/pdf/filbert_vision.pdf
 textauthor: Anonymous
+translator: Guinevere Allen
+transcription: Guinevere Allen
+tei_prep: Jordan Rosen-Kaplan
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [spanish]
 periods: [14th_century]
 textcollections: [prayer-spirituality]
-sdr: https://purl.stanford.edu/xb396fx9837
+sdr: https://doi.org/10.25740/rn519df7423
 image: /assets/img/text/filbert_vision.png
 thumb: /assets/img/text/filbert_vision-thumb.png
 imagesource: "Biblioteca Nacional de España MS Vitr. 6/1, f.3r [http://bdh-rd.bne.es/viewer.vm?id=0000051820]"

@@ -14,10 +14,15 @@ identifier: folz_song_gutenberg.md
 tei: /assets/tei/folz_song_gutenberg.xml
 pdf: /assets/pdf/folz_song_gutenberg.pdf
 textauthor: Hans Folz
+transcription: "August Mayer, Die meisterlieder des Hans Folz aus der Müchener Originalhandschrift und der Weimarer Handschrift Q.566. Berlin: Weidmann, 1908."
+translator: Christopher Hutchinson
+tei_prep: Irene Han
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [german]
 periods: [15th_century]
 textcollections: [making-history]
-sdr: https://purl.stanford.edu/km445qd4850
+sdr: https://doi.org/10.25740/dt061bm5095
 image: /assets/img/text/folz_song_gutenberg.jpg
 thumb: /assets/img/text/folz_song_gutenberg-thumb.jpg
 imagesource: "Portrait of Hans Folz by Hans Schwarz, c.1520. [Public Domain]"

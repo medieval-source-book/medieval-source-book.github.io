@@ -14,10 +14,15 @@ identifier: gosling.md
 tei: /assets/tei/gosling.xml
 pdf: /assets/pdf/gosling.pdf
 textauthor: Anonymous
+transcription: Klaus Grubmüller
+translator: Kathryn Starkey, Björn K. Buschbeck, Robert Forke, Mae Velloso-Lyons
+tei_prep: Kathryn Starkey, Björn K. Buschbeck, Robert Forke, Mae Velloso-Lyons
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [german]
 periods: [13th_century]
 textcollections: [gender-sex-sensuality, prank-or-be-pranked]
-sdr: https://purl.stanford.edu/hb568sf1950
+sdr: https://doi.org/10.25740/vj266hp4483
 image: /assets/img/text/gosling.png
 thumb: /assets/img/text/gosling-thumb.png
 imagesource: "British Library MS Harley 4399 f.37 [Public Domain]"

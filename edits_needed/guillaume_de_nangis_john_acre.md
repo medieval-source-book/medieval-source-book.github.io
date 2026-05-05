@@ -14,6 +14,11 @@ identifier: guillaume_de_nangis_john_acre.md
 tei: /assets/tei/guillaume_de_nangis_john_acre.xml
 pdf: /assets/pdf/guillaume_de_nangis_john_acre.pdf
 textauthor: Guillaume de Nangis
+transcription: "Viard, Jules. Les Grandes Chroniques De France. Vol. 10, Société De L'Histoire De France, 1920."
+translator: Tirumular (Drew) Narayanan
+tei_prep: Danny Smith
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [french]
 periods: [13th_century, 14th_century]
 textcollections: [cross-cultural-encounters, making-history]
