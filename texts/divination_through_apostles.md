@@ -14,10 +14,14 @@ identifier: divination_through_apostles.md
 tei: /assets/tei/divination_through_apostles.xml
 pdf: /assets/pdf/divination_through_apostles.pdf
 textauthor: Anonymous
+translator: Danny Smith
+transcription: Danny Smith
+tei_prep: Danny Smith
+pdf_prep: Mae Velloso-Lyons
 languages: [latin]
 periods: [13th_century]
 textcollections: [prayer-spirituality]
-sdr: https://purl.stanford.edu/kg796py1204
+sdr: https://doi.org/10.25740/zv580wr5077
 image: /assets/img/text/divination_through_apostles.jpg
 thumb: /assets/img/text/divination_through_apostles-thumb.jpg
 imagesource: "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, MS Ham. 390 f.26v [Public Domain]"

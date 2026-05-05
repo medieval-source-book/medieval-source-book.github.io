@@ -14,10 +14,14 @@ identifier: creature_dialogue_sun_moon.md
 tei: /assets/tei/creature_dialogue_sun_moon.xml
 pdf: /assets/pdf/creature_dialogue_sun_moon.pdf
 textauthor: Nicolaus Pergamenus [att.]
+translator: Astrid Khoo
+transcription: Johann Georg Theodor Grässe
+tei_prep: Irene Han
+pdf_prep: Mae Velloso-Lyons
 languages: [latin]
 periods: [14th_century]
 textcollections: [fantastic-fables]
-sdr: https://purl.stanford.edu/yh552df1706
+sdr: https://doi.org/10.25740/cg093zx6096
 image: /assets/img/text/creature_dialogue_sun_moon.jpeg
 thumb: /assets/img/text/creature_dialogue_sun_moon-thumb.jpeg
 imagesource: "Bibliothèque nationale de France, département Arsenal, RESERVE FOL-BL-911, f.12r [Public Domain]"

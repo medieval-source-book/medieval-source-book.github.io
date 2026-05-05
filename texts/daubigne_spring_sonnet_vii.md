@@ -14,6 +14,11 @@ identifier: daubigne_spring_sonnet_vii.md
 tei: /assets/tei/daubigne_spring_sonnet_vii.xml
 pdf: /assets/pdf/daubigne_spring_sonnet_vii.pdf
 textauthor: Théodore Agrippa d’Aubigné
+transcription: Henri Weber
+translator: Nora Baker
+tei_prep: Dante Zhu
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [french]
 periods: [16th_century]
 textcollections: [love-songs]

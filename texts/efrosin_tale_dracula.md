@@ -14,12 +14,16 @@ identifier: efrosin_tale_dracula.md
 tei: /assets/tei/efrosin_tale_dracula.xml
 pdf: /assets/pdf/efrosin_tale_dracula.pdf
 textauthor: Efrosin
+translator: Kimberly St. Julian-Varnon
+tei_prep: Runqi Zhang
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [slavonic]
 periods: [15th_century]
 textcollections: [making-history]
-sdr: https://purl.stanford.edu/qz474jq3598
-image: /assets/img/text/efrosin_tale_dracula
-thumb: /assets/img/text/efrosin_tale_dracula-thumb
+sdr: https://doi.org/10.25740/zv886mn7861
+image: /assets/img/text/efrosin_tale_dracula.jpg
+thumb: /assets/img/text/efrosin_tale_dracula.jpg
 imagesource: ""
 ---
 

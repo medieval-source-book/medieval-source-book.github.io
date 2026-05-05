@@ -14,10 +14,15 @@ identifier: daubigne_spring_sonnet_vi.md
 tei: /assets/tei/daubigne_spring_sonnet_vi.xml
 pdf: /assets/pdf/daubigne_spring_sonnet_vi.pdf
 textauthor: Théodore Agrippa d’Aubigné
+transcription: Henri Weber
+translator: Nora Baker
+tei_prep: Dante Zhu
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [french]
 periods: [16th_century]
 textcollections: [love-songs]
-sdr: https://purl.stanford.edu/sp408wm2213
+sdr: https://doi.org/10.25740/hk145mg5437
 image: /assets/img/text/daubigne_spring_sonnet_vi.jpg
 thumb: /assets/img/text/daubigne_spring_sonnet_vi-thumb.jpg
 imagesource: "Bibliothèque de Genève, Detail from Le Printemps et divers textes, Bibliothèque de Genève, Archives Tronchin 157"

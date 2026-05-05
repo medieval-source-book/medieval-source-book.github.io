@@ -14,6 +14,10 @@ identifier: eckhart_sermon_coming_lord.md
 tei: /assets/tei/eckhart_sermon_coming_lord.xml
 pdf: /assets/pdf/eckhart_sermon_coming_lord.pdf
 textauthor: Meister Eckhart
+translator: Kathryn Starkey, Patric di Dio di Marco, Björn Buschbeck, Robert Forke, Mae Lyons-Penner
+tei_prep: Jordan Rosen-Kaplan and Mae Lyons-Penner
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [german]
 periods: [13th_century]
 textcollections: [prayer-spirituality]

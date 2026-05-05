@@ -14,6 +14,11 @@ identifier: discourse_angels_pagans.md
 tei: /assets/tei/discourse_angels_pagans.xml
 pdf: /assets/pdf/discourse_angels_pagans.pdf
 textauthor: Anonymous
+transcription: "O. V. Tvorogov, ed. Povest vremennykh let. Biblioteka literatury drevnei Rusi, vol. 1, edited by D. S. Likhachev et al. St. Petersburg: Nauka, 1997. pp. 62-315. The entries for 1110-1111 are found on pp. 296-304."
+translator: Yulia Mikhailova
+tei_prep: Dante Zhu
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages:
   - slavonic
 periods:
@@ -21,9 +26,9 @@ periods:
 textcollections:
   - cross-cultural-encounters
   - prayer-spirituality
-sdr: https://purl.stanford.edu/jw580fh4049
-image: /assets/img/text/default.png
-thumb: /assets/img/text/default.png
+sdr: https://doi.org/10.25740/fg627fz9696
+image: /assets/img/text/discourse_angels_pagans.jpg
+thumb: /assets/img/text/discourse_angels_pagans.jpg
 imagesource: "Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gilt metal on parchment over cotton. Central Asia, Sicily, or North Africa. 69 1/4 x 38 1/4 in. (175.9 x 97.2 cm). The Cloisters Collection, 1984, at the Metropolitan Museum of Art, New York. Object Number 1984.344. [https://www.metmuseum.org/art/collection/search/466119](https://www.metmuseum.org/art/collection/search/466119). [Public Domain]"
 ---
 
