@@ -21,7 +21,7 @@ pdf_prep: Mae Velloso-Lyons
 languages: [latin]
 periods: [14th_century]
 textcollections: [fantastic-fables]
-sdr: https://purl.stanford.edu/vm892gs1272
+sdr: https://doi.org/10.25740/hw314yt0036
 image: /assets/img/text/creature_dialogue_preface.jpeg
 thumb: /assets/img/text/creature_dialogue_preface-thumb.jpeg
 imagesource: "Bibliothèque nationale de France, département Arsenal, RESERVE FOL-BL-911, f.1r [Public Domain]"

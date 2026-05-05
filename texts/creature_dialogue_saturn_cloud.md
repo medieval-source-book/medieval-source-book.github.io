@@ -14,10 +14,14 @@ identifier: creature_dialogue_saturn_cloud.md
 tei: /assets/tei/creature_dialogue_saturn_cloud.xml
 pdf: /assets/pdf/creature_dialogue_saturn_cloud.pdf
 textauthor: Nicolaus Pergamenus [att.]
+translator: Astrid Khoo
+transcription: Johann Georg Theodor Grässe
+tei_prep: Irene Han and Lora Webb
+pdf_prep: Mae Velloso-Lyons
 languages: [latin]
 periods: [14th_century]
 textcollections: [fantastic-fables]
-sdr: https://purl.stanford.edu/vg743mp9789
+sdr: https://doi.org/10.25740/mt688pn7144
 image: /assets/img/text/creature_dialogue_saturn_cloud.jpeg
 thumb: /assets/img/text/creature_dialogue_saturn_cloud-thumb.jpeg
 imagesource: "Bibliothèque nationale de France, département Arsenal, RESERVE FOL-BL-911, f.11r [Public Domain]"
