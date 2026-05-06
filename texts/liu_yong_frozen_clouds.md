@@ -14,6 +14,12 @@ identifier: liu_yong_frozen_clouds.md
 tei: /assets/tei/liu_yong_frozen_clouds.xml
 pdf: /assets/pdf/liu_yong_frozen_clouds.pdf
 textauthor: Liu Yong 柳永
+transcription: "Tang, Guizhang 唐圭璋 (ed.). Quan Song Ci 全宋詞. Vol 1. Beijing: Zhonghua shu ju, 1965, 37."
+translator: Qian Jia
+notesauthor: Nina Du, Runqi Zhang, and Dante Zhu
+tei_prep: Manya Bansal and Dante Zhu
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [chinese]
 periods: [11th_century]
 textcollections: [good-life]
