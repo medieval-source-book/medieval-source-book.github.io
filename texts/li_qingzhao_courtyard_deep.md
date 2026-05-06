@@ -23,7 +23,7 @@ web_prep: Nino Martin
 languages: [chinese]
 periods: [12th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/gw430hn5901
+sdr: https://doi.org/10.25740/kt958xt3882
 image: /assets/img/text/li_qingzhao_courtyard_deep.png
 thumb: /assets/img/text/li_qingzhao_courtyard_deep-thumb.png
 imagesource: "Detail from 元盛懋柳陰書屋(Willow House) 軸, 盛懋, National Palace Museum, Accession Number: K2A002974N000000000PAA [Public Domain]"

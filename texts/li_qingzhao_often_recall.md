@@ -23,7 +23,7 @@ web_prep: Nino Martin
 languages: [chinese]
 periods: [12th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/cb117bq5034
+sdr:   https://doi.org/10.25740/cd564zn8498
 image: /assets/img/text/li_qingzhao_often_recall.png
 thumb: /assets/img/text/li_qingzhao_often_recall-thumb.png
 imagesource: "Detail from 宋徽宗池塘秋晚圖(Flying Bird) 卷, 赵佶, National Palace Museum, Accession Number: K2A000986N000000000PAF [Public Domain]"

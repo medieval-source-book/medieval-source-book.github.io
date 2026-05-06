@@ -23,7 +23,7 @@ web_prep: Nino Martin
 languages: [chinese]
 periods: [12th_century]
 textcollections: [love-lust-longing, love-songs]
-sdr: https://purl.stanford.edu/vx521th6365
+sdr: https://doi.org/10.25740/sx854qs8827
 image: /assets/img/text/li_qingzhao_in_the_sky.png
 thumb: /assets/img/text/li_qingzhao_in_the_sky-thumb.png
 imagesource: "Detail from 宋牟益擣衣圖(Women) 卷, 牟益, National Palace Museum, Accession Number: K2A000999N000000000PAH [Public Domain]"

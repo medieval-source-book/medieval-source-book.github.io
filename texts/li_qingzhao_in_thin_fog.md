@@ -23,7 +23,7 @@ web_prep: Nino Martin
 languages: [chinese]
 periods: [12th_century]
 textcollections: [love-lust-longing, love-songs]
-sdr: https://purl.stanford.edu/fc345br8089
+sdr:   https://doi.org/10.25740/ts464hy7977
 image: /assets/img/text/li_qingzhao_in_thin_fog.png
 thumb: /assets/img/text/li_qingzhao_in_thin_fog-thumb.png
 imagesource: "Detail from Incense burner in the shape of a goose, Han dynasty (206 BCE-220 CE), Anonymous, National Palace Museum, Accession Number: C1A000776N000000000PAC [Public Domain]"

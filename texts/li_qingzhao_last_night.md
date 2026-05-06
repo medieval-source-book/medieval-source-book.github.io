@@ -23,7 +23,7 @@ web_prep: Nino Martin
 languages: [chinese]
 periods: [12th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/yg919xm5179
+sdr: https://doi.org/10.25740/bf450kt6785
 image: /assets/img/text/li_qingzhao_last_night.png
 thumb: /assets/img/text/li_qingzhao_last_night-thumb.png
 imagesource: "Detail from 宋夏珪溪山清遠(Pavilion) 卷, 夏珪, National Palace Museum, Accession Number: C2A000009N000000000PAJ [Public Domain]"

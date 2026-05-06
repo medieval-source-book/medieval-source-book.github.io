@@ -23,7 +23,7 @@ web_prep: Nino Martin
 languages: [chinese]
 periods: [12th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/sz539xs9379
+sdr: https://doi.org/10.25740/zy488cn0079
 image: /assets/img/text/li_qingzhao_looking_searching.png
 thumb: /assets/img/text/li_qingzhao_looking_searching-thumb.png
 imagesource: "Detail from 宋朱銳春社醉歸圖(Drunk in the Trip) 卷, 朱銳, National Palace Museum, Accession Number: K2A001454N000000000PAI [Public Domain]"

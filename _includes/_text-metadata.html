@@ -1,8 +1,40 @@
 <div class="panel">
   <h3 id="tocheader">Text Information</h3>
   <ul id="toc">
-    {% if textauthor %}
+    {% if textauthor and textauthor != "" %}
     <li><strong>Author:</strong> {{ textauthor }}</li>
+    {% endif %}
+
+    {% if translator and translator != "" %}
+    <li><strong>Translator:</strong> {{ translator }}</li>
+    {% endif %}
+
+    {% if transcription and transcription != "" %}
+    <li><strong>Transcription:</strong> {{ transcription }}</li>
+    {% endif %}
+
+    {% if editor and editor != "" %}
+    <li><strong>Editor:</strong> {{ editor }}</li>
+    {% endif %}
+
+    {% if introauthor and introauthor != "" %}
+    <li><strong>Introduction:</strong> {{ introauthor }}</li>
+    {% endif %}
+
+    {% if notesauthor and notesauthor != "" %}
+    <li><strong>Notes:</strong> {{ notesauthor }}</li>
+    {% endif %}
+
+    {% if pdf_prep and pdf_prep != "" %}
+    <li><strong>PDF prepared by:</strong> {{ pdf_prep }}</li>
+    {% endif %}
+
+    {% if tei_prep and tei_prep != "" %}
+    <li><strong>TEI prepared by:</strong> {{ tei_prep }}</li>
+    {% endif %}
+
+    {% if web_prep and web_prep != "" %}
+    <li><strong>Web version prepared by:</strong> {{ web_prep }}</li>
     {% endif %}
 
     {% if periods and periods.size > 0 %}
