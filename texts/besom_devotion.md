@@ -22,8 +22,8 @@ languages: [irish]
 periods: [8th_century]
 textcollections: [prayer-spirituality]
 sdr:   https://doi.org/10.25740/vh266wy7162
-image: /assets/img/text/besom_devotion
-thumb: /assets/img/text/besom_devotion-thumb
+image: /assets/img/text/besom_devotion.jpg
+thumb: /assets/img/text/besom_devotion-thumb.jpg
 imagesource: "Book of Ballymote, MS 23 P 12, fol 43r."
 ---
 <h2>Introduction to the Text</h2>
