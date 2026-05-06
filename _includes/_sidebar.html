@@ -13,6 +13,10 @@
     <li><strong>Transcription:</strong> {{transcription}}</li>
     {% endif %}
 
+      {% if editor and editor != "" %}
+    <li><strong>Editor:</strong> {{editor}}</li>
+    {% endif %}
+
     {% if introauthor and introauthor != "" %}
     <li><strong>Introduction:</strong> {{introauthor}}</li>
     {% endif %}

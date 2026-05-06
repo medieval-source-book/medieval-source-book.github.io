@@ -15,7 +15,8 @@ tei: /assets/tei/girl_wanted_fly.xml
 pdf: /assets/pdf/girl_wanted_fly.pdf
 textauthor: Anonymous
 transcription: J.Th. Verhulsdonck
-translator: Michael Widner, Johannes Junge Ruhland
+translator: Michael Widner
+editor: Johannes Junge Ruhland
 tei_prep: Michael Widner, Clara Romani
 pdf_prep: Mae Velloso-Lyons
 web_prep: Nino Martin

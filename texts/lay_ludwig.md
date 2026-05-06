@@ -14,10 +14,16 @@ identifier: lay_ludwig.md
 tei: /assets/tei/lay_ludwig.xml
 pdf: /assets/pdf/lay_ludwig.pdf
 textauthor: Anonymous
+transcription: "Horst Dieter Schlosser, Althochdeutsche Literatur. Mit altniederdeutschen Textbeispielen. Auswahl mit Übertragungen und Kommentar, Berlin: Erich Schmidt Verlag 2004, pp. 82–86."
+translator: Hannah Frakes
+editor: Björn Buschbeck
+tei_prep: Hannah Frakes and Danny Smith
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [german]
 periods: [9th_century]
 textcollections: [hymns-and-histories, making-history, prayer-spirituality]
-sdr: https://purl.stanford.edu/gt005nj9609
+sdr: https://doi.org/10.25740/rq223rw1438
 image: /assets/img/text/lay_ludwig.jpg
 thumb: /assets/img/text/lay_ludwig-thumb.jpg
 imagesource: "Image in Public Domain"

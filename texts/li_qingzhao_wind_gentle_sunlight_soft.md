@@ -14,6 +14,12 @@ identifier: li_qingzhao_wind_gentle_sunlight_soft.md
 tei: /assets/tei/li_qingzhao_wind_gentle_sunlight_soft.xml
 pdf: /assets/pdf/li_qingzhao_wind_gentle_sunlight_soft.pdf
 textauthor: Li Qingzhao 李清照
+transcription: "Tang, Guizhang 唐圭璋 (ed.). Quan Song Ci 全宋詞. Vol 2. Beijing: Zhonghua shu ju, 1965, 927."
+translator: Qian Jia
+notesauthor: Nina Du and Runqi Zhang
+tei_prep: Runqi Zhang
+pdf_prep: Mae Velloso Lyons
+web_prep: Nino Martin
 languages: [chinese]
 periods: [12th_century]
 textcollections: [good-life]
