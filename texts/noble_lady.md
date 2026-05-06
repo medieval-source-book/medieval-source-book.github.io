@@ -14,6 +14,11 @@ identifier: noble_lady.md
 tei: /assets/tei/noble_lady.xml
 pdf: /assets/pdf/noble_lady.pdf
 textauthor: Anonymous
+transcription: "Based on the digital copy of Comentarios Reales, held by the John Carter Brown Library"
+translator: Leonardo Velloso-Lyons
+tei_prep: Dante Zhu
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [quechua]
 periods: [17th_century]
 textcollections: [prayer-spirituality]

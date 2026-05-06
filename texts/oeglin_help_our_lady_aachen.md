@@ -14,6 +14,11 @@ identifier: oeglin_help_our_lady_aachen.md
 tei: /assets/tei/oeglin_help_our_lady_aachen.xml
 pdf: /assets/pdf/oeglin_help_our_lady_aachen.pdf
 textauthor: Erhard Oeglin
+transcription: Christopher Hutchinson
+translator: Christopher Hutchinson
+tei_prep: Mae Velloso-Lyons and Jordan Rosen-Kaplan
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [german]
 periods: [16th_century]
 textcollections: [love-songs]

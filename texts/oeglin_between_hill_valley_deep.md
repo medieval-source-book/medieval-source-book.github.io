@@ -14,6 +14,11 @@ identifier: oeglin_between_hill_valley_deep.md
 tei: /assets/tei/oeglin_between_hill_valley_deep.xml
 pdf: /assets/pdf/oeglin_between_hill_valley_deep.pdf
 textauthor: Erhard Oeglin
+transcription: Christopher Hutchinson
+translator: Christopher Hutchinson
+tei_prep: Mae Velloso-Lyons and Jordan Rosen-Kaplan
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [german]
 periods: [16th_century]
 textcollections: [love-songs]

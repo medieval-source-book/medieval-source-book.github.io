@@ -14,6 +14,11 @@ identifier: origin_pastoral_care.md
 tei: /assets/tei/origin_pastoral_care.xml
 pdf: /assets/pdf/origin_pastoral_care.pdf
 textauthor: Anonymous
+transcription: Alexandra Reider
+translator: Alexandra Reider
+tei_prep: Danny Smith
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [latin]
 periods: [7th_century, 8th_century, 9th_century]
 textcollections: [making-history, prayer-spirituality]

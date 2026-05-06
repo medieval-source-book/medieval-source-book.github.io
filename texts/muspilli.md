@@ -14,6 +14,12 @@ identifier: muspilli.md
 tei: /assets/tei/muspilli.xml
 pdf: /assets/pdf/muspilli.pdf
 textauthor: Anonymous
+translator: Hannah Frakes
+transcription: "Schlosser, Horst Dieter. Althochdeutsche Literatur. Mit altniederdeutschen Textbeispielen. Auswahl mit Übertragungen und Kommentar, Berlin: Erich Schmidt Verlag 2004, pp. 82–86."
+introauthor: "Runqi Zhang"
+tei_prep: Hannah Frakes
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [german]
 periods: [9th_century]
 textcollections: [hymns-and-histories, prayer-spirituality]

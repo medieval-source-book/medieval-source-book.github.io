@@ -14,6 +14,11 @@ identifier: marston_childbirth_prayer.md
 tei: /assets/tei/marston_childbirth_prayer.xml
 pdf: /assets/pdf/marston_childbirth_prayer.pdf
 textauthor: Anonymous
+translator: Runqi Zhang
+transcription: Runqi Zhang
+tei_prep: Runqi Zhang
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [latin]
 periods: [14th_century]
 textcollections: [prayer-spirituality]

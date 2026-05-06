@@ -14,6 +14,11 @@ identifier: oeglin_grace_honor_praise.md
 tei: /assets/tei/oeglin_grace_honor_praise.xml
 pdf: /assets/pdf/oeglin_grace_honor_praise.pdf
 textauthor: Erhard Oeglin
+transcription: Christopher Hutchinson
+translator: Christopher Hutchinson
+tei_prep: Danny Smith
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [german]
 periods: [16th_century]
 textcollections: [love-songs]

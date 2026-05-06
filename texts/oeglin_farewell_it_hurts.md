@@ -14,6 +14,12 @@ identifier: oeglin_farewell_it_hurts.md
 tei: /assets/tei/oeglin_farewell_it_hurts.xml
 pdf: /assets/pdf/oeglin_farewell_it_hurts.pdf
 textauthor: Erhard Oeglin
+transcription: Christopher Hutchinson
+translator: Christopher Hutchinson
+tei_prep: Mae Velloso-Lyons and Jordan Rosen-Kaplan
+editor: Björn Buschbeck and Mae Velloso-Lyons
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [german]
 periods: [16th_century]
 textcollections: [love-songs]
