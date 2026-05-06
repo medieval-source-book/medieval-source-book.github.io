@@ -14,10 +14,15 @@ identifier: han_yu_memorial_bones_buddha.md
 tei: /assets/tei/han_yu_memorial_bones_buddha.xml
 pdf: /assets/pdf/han_yu_memorial_bones_buddha.pdf
 textauthor: Han Yu 韓愈
+transcription: "Han Yu 韓愈, Han changli ji 韓昌黎集 (Collected Works of Han Changli), 2 vols, (Beijing: Shangwu yinshuguan, c. 1930), vol. II, 39:7:34-37."
+translator: Geoff Humble
+tei_prep: Danny Smith
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [chinese]
 periods: [9th_century]
 textcollections: [cross-cultural-encounters, prayer-spirituality]
-sdr: https://purl.stanford.edu/ny166vp6716
+sdr: https://doi.org/10.25740/mh675zw9958
 image: /assets/img/text/han_yu_memorial_bones_buddha.jpg
 thumb: /assets/img/text/han_yu_memorial_bones_buddha.jpg
 imagesource: "Buddha, Probably Amitabha (Amituofo), Early 7th C., T’ang Dynasty, Hollow dry lacquer with traces of gilt and polychrome pigment and gilding. Metropolitan Museum of Art, Rogers Fund, 1919,  19.186. [Public Domain]]"

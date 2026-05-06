@@ -14,10 +14,15 @@ identifier: junius_childbirth_charm.md
 tei: /assets/tei/junius_childbirth_charm.xml
 pdf: /assets/pdf/junius_childbirth_charm.pdf
 textauthor: Anonymous
+translator: Runqi Zhang
+transcription: Runqi Zhang
+tei_prep: Runqi Zhang
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [english,latin]
 periods: [11th_century]
 textcollections: [prayer-spirituality]
-sdr: https://purl.stanford.edu/tk297nj5781
+sdr: https://doi.org/10.25740/xh223sk2705
 image: /assets/img/text/junius_childbirth_charm.png
 thumb: /assets/img/text/junius_childbirth_charm-thumb.png
 imagesource: "Detail from New York, Metropolitan Museum, Manuscript Illumination with the Birth of the Virgin in an Initial G, from a Gradual [Public Domain]"

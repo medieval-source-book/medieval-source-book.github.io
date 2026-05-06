@@ -14,10 +14,15 @@ identifier: hong_mai_chen_wangyou_daughter_law.md
 tei: /assets/tei/hong_mai_chen_wangyou_daughter_law.xml
 pdf: /assets/pdf/hong_mai_chen_wangyou_daughter_law.pdf
 textauthor: Hong Mai 洪邁
+translator: Likun Yang
+transcription: Likun Yang
+tei_prep: Jordan Rosen-Kaplan
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [chinese]
 periods: [12th_century]
 textcollections: [gender-sex-sensuality, making-history]
-sdr: https://purl.stanford.edu/mz614qp8232
+sdr: https://doi.org/10.25740/wk434ks1256
 image: /assets/img/text/hong_mai_chen_wangyou_daughter_law.jpg
 thumb: /assets/img/text/hong_mai_chen_wangyou_daughter_law-thumb.jpg
 imagesource: "Detail from 南宋 佚名 “三元得祿”圖扇頁 (Gibbons Raiding an Egret’s Nest), Artist Unknown, late 12th century, Metropolitan Museum of Art, Accession Number: 13.100.104 [Public Domain]"

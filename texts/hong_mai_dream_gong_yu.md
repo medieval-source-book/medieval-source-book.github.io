@@ -14,10 +14,15 @@ identifier: hong_mai_dream_gong_yu.md
 tei: /assets/tei/hong_mai_dream_gong_yu.xml
 pdf: /assets/pdf/hong_mai_dream_gong_yu.pdf
 textauthor: Hong Mai 洪邁
+translator: Likun Yang
+transcription: Likun Yang
+tei_prep: Jordan Rosen-Kaplan
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [chinese]
 periods: [12th_century]
 textcollections: [making-history]
-sdr: https://purl.stanford.edu/bk215pt5624
+sdr: https://doi.org/10.25740/hf184ff9308
 image: /assets/img/text/hong_mai_dream_gong_yu.jpg
 thumb: /assets/img/text/hong_mai_dream_gong_yu-thumb.jpg
 imagesource: "Detail from 南宋 佚名 “三元得祿”圖扇頁 (Gibbons Raiding an Egret’s Nest), Artist Unknown, late 12th century, Metropolitan Museum of Art, Accession Number: 13.100.104 [Public Domain]"

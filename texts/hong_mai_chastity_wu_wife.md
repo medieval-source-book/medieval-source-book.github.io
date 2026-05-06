@@ -14,10 +14,15 @@ identifier: hong_mai_chastity_wu_wife.md
 tei: /assets/tei/hong_mai_chastity_wu_wife.xml
 pdf: /assets/pdf/hong_mai_chastity_wu_wife.pdf
 textauthor: Hong Mai 洪邁
+translator: Likun Yang
+transcription: Likun Yang
+tei_prep: Jordan Rosen-Kaplan
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [chinese]
 periods: [12th_century]
 textcollections: [gender-sex-sensuality, making-history]
-sdr: https://purl.stanford.edu/ks690ym2656
+sdr: https://doi.org/10.25740/tm517cq7238
 image: /assets/img/text/hong_mai_chastity_wu_wife.jpg
 thumb: /assets/img/text/hong_mai_chastity_wu_wife-thumb.jpg
 imagesource: "Detail from 南宋 佚名 “三元得祿”圖扇頁 (Gibbons Raiding an Egret’s Nest), Artist Unknown, late 12th century, Metropolitan Museum of Art, Accession Number: 13.100.104 [Public Domain]"
