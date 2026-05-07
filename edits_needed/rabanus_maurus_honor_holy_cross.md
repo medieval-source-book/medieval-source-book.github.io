@@ -17,7 +17,7 @@ textauthor: Rabanus Maurus
 languages: [latin]
 periods: [9th_century]
 textcollections: [prayer-spirituality]
-sdr: https://purl.stanford.edu/vq580mg0167
+sdr:
 image: /assets/img/text/rabanus_maurus_honor_holy_cross.png
 thumb: /assets/img/text/rabanus_maurus_honor_holy_cross-thumb.png
 imagesource: "Copyright Biblioteca Apostolica Vaticana. http://digi.vatlib.it/view/MSS_Reg.lat.124/0078"

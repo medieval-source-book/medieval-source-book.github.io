@@ -17,7 +17,7 @@ textauthor: Ouyang Xiu 歐陽修
 languages: [chinese]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
-sdr: https://purl.stanford.edu/nn859sc8137
+sdr:
 image: /assets/img/text/ouyang_xiu_phoenix-like_bun.jpg
 thumb: /assets/img/text/ouyang_xiu_phoenix-like_bun-thumb.jpg
 imagesource: "Detail from 宋徽宗真蹟耄耋圖(Two Cats) 卷, 趙佶, National Palace Museum, Accession Number: K2A001419N000000000PAF [Public Domain]"

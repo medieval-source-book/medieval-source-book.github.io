@@ -21,7 +21,7 @@ tei_prep: Manya Bansal and Dante Zhu
 languages: [chinese]
 periods: [11th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/qk586jg4050
+sdr:
 image: /assets/img/text/su_shi_moon_shines_wild_fields.jpg
 thumb: /assets/img/text/su_shi_moon_shines_wild_fields-thumb.jpg
 imagesource: "“Detail from 宋夏珪溪山清遠卷 (stream)”, 夏珪, National Palace Museum, Accession Number: C2A000009N000000000PAP [Public Domain]"

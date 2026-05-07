@@ -21,7 +21,7 @@ tei_prep: Manya Bansal and Dante Zhu
 languages: [chinese]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
-sdr: https://purl.stanford.edu/wy782md1086
+sdr:
 image: /assets/img/text/su_shi_skin_ice_bones_jade.jpg
 thumb: /assets/img/text/su_shi_skin_ice_bones_jade-thumb.jpg
 imagesource: "“Detail from 宋人畫仙巖壽鹿軸 (goddess)”, Anonymous, National Palace Museum, Accession Number: K2A000165N000000000PAA [Public Domain]"

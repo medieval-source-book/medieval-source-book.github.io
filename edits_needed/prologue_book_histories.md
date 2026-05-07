@@ -17,7 +17,7 @@ textauthor: Anonymous
 languages: [french,]
 periods: [13th_century]
 textcollections: [making-history]
-sdr: https://purl.stanford.edu/sj521tx9527
+sdr:
 image: /assets/img/text/prologue_book_histories.png
 thumb: /assets/img/text/prologue_book_histories-thumb.png
 imagesource: "British Library MS Additional 12029 f.22v [Public Domain]"

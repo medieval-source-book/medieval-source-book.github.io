@@ -23,7 +23,7 @@ web_prep: Nino Martin
 languages: [chinese]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
-sdr: https://purl.stanford.edu/vm512sj0688
+sdr:
 image: /assets/img/text/ouyang_xiu_tall_building.jpg
 thumb: /assets/img/text/ouyang_xiu_tall_building-thumb.jpg
 imagesource: "宋米芾雲山煙樹(Smoke and Trees) 卷 , 米芾,  National Palace Museum, Accession Number: C2A000214N000000000PAH [Public Domain]"

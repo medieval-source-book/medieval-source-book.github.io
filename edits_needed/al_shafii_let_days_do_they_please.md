@@ -21,7 +21,7 @@ pdf_prep: Mae Velloso-Lyons
 languages: [arabic]
 periods: [8th_century, 9th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/js094nd6987
+sdr:
 image: /assets/img/text/al_shafii_let_days_do_they_please.jpg
 thumb: /assets/img/text/al_shafii_let_days_do_they_please-thumb.jpg
 imagesource: "Folio from a Qur’an Manuscript, AH 531 AD 1137, Attributed to Iran or Iraq, Ink, gold, and watercolor on paper. Metropolitan Museum of Art, Purchase, Friends of Islamic Art Gifts, 1996, 1996.238.2 [Public Domain]"

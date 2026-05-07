@@ -17,7 +17,7 @@ textauthor: Bar ‘Ebroyo
 languages: [syriac]
 periods: [13th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/kh002fw2662
+sdr:
 image: /assets/img/text/bar_ebroyo_on_april.JPG
 thumb: /assets/img/text/bar_ebroyo_on_april-thumb.JPG
 imagesource: "Star-Shaped Tile, second half 13th–14th century, Stonepaste; molded, overglaze painted and leaf gilded (lajvardina), Metropolitan Museum of Art 40.181.16, H.O. Havemeyer Collection, Gift of Horace Havemeyer, 1940 [Public Domain]]"

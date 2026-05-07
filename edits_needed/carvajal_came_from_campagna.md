@@ -17,7 +17,7 @@ textauthor: Carvajal
 languages: [spanish]
 periods: [15th_century]
 textcollections: [gender-sex-sensuality]
-sdr: https://purl.stanford.edu/rt158gj6450
+sdr:
 image: /assets/img/text/carvajal_came_from_campagna.jpg
 thumb: /assets/img/text/carvajal_came_from_campagna-thumb.jpg
 imagesource: "Madrid, Biblioteca Nacional de España, VITR/17/7, fol. 154r [Public Domain]"

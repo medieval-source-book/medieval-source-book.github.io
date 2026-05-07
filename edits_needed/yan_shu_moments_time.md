@@ -17,7 +17,7 @@ textauthor: Yan Shu 晏殊
 languages: [chinese]
 periods: [11th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/kb441dt6702
+sdr:
 image: /assets/img/text/yan_shu_moments_time.xml.jpg
 thumb: /assets/img/text/yan_shu_moments_time.xml-thumb.jpg
 imagesource: "Detail from 宋人十八學士圖(Scholar Talking)軸, Anonymous, National Palace Museum, Accession Number: K2A000857N000000000PAA [Public Domain]"

@@ -17,7 +17,7 @@ textauthor: Anonymous
 languages: [german]
 periods: [9th_century]
 textcollections: [hymns-and-histories, prayer-spirituality]
-sdr: https://purl.stanford.edu/fx384vn8343
+sdr:
 image: /assets/img/text/wessobrun_prayer.jpg
 thumb: /assets/img/text/wessobrun_prayer-thumb.jpg
 imagesource: "Image in Public Domain"

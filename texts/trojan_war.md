@@ -17,7 +17,7 @@ textauthor: Anonymous
 languages: [german]
 periods: [13th_century]
 textcollections: [making-history]
-sdr: https://purl.stanford.edu/hq527yc3939
+sdr:
 image: /assets/img/text/trojan_war.png
 thumb: /assets/img/text/trojan_war-thumb.png
 imagesource: "British Library MS Harley 4376 f.90 [Public Domain]"

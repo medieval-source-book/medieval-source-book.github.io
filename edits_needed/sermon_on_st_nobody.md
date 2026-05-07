@@ -17,7 +17,7 @@ textauthor: Anonymous
 languages: [latin]
 periods: [13th_century]
 textcollections: [prank-or-be-pranked]
-sdr: https://purl.stanford.edu/yr616pt1182
+sdr:
 image: /assets/img/text/sermon_on_st_nobody.jpg
 thumb: /assets/img/text/sermon_on_st_nobody-thumb.jpg
 imagesource: "London, British Library, Additional MS 18720, f. 217 (detail). [Public Domain]"

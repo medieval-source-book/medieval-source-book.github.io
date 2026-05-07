@@ -21,7 +21,7 @@ web_prep: Nino Martin
 languages: [german]
 periods: [13th_century]
 textcollections: [prayer-spirituality]
-sdr: https://purl.stanford.edu/wt910kn5815
+sdr:
 image: /assets/img/text/eckhart_sermon_coming_lord.png
 thumb: /assets/img/text/eckhart_sermon_coming_lord-thumb.png
 imagesource: "British Library MS Additional 18856 f. 3 [Public Domain]"

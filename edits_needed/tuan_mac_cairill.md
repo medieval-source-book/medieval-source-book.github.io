@@ -17,7 +17,7 @@ textauthor: Anonymous
 languages: [irish]
 periods: [15th_century]
 textcollections: [making-history]
-sdr: https://purl.stanford.edu/yf264nb8214
+sdr:
 image: /assets/img/text/tuan_mac_cairill.jpg
 thumb: /assets/img/text/tuan_mac_cairill.jpg
 imagesource: "From 'Myths and legends; the Celtic race', Rolleston, T. W. (Thomas William), 1910."

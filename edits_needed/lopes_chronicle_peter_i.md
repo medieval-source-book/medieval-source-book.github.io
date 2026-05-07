@@ -17,7 +17,7 @@ textauthor: Fernão Lopez
 languages: [portuguese]
 periods: [15th_century]
 textcollections: [making-history]
-sdr: https://purl.stanford.edu/xs041vv8049
+sdr:
 image: /assets/img/text/lopes_chronicle_peter_i.png
 thumb: /assets/img/text/lopes_chronicle_peter_i-thumb.png
 imagesource: "Biblioteca Nacional de Portugal MS IL. 123, f.i r [Public Domain]"

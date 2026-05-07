@@ -17,7 +17,7 @@ textauthor: Anonymous
 languages: [english]
 periods: [14th_century]
 textcollections: [cross-cultural-encounters, gender-sex-sensuality]
-sdr: https://purl.stanford.edu/yg764wn1882
+sdr:
 image: /assets/img/text/king_tars.png
 thumb: /assets/img/text/king_tars-thumb.png
 imagesource: "Oxford, Bodleian Library MS. Eng. poet. a. 1 [Public Domain]"

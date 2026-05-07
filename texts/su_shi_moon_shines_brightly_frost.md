@@ -21,7 +21,7 @@ tei_prep: Manya Bansal and Dante Zhu
 languages: [chinese]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
-sdr: https://purl.stanford.edu/ny539by5140
+sdr:
 image: /assets/img/text/su_shi_moon_shines_brightly_frost.jpg
 thumb: /assets/img/text/su_shi_moon_shines_brightly_frost-thumb.jpg
 imagesource: "“Detail from 宋范安仁魚藻圖卷 (fish)”, 范安仁, National Palace Museum, Accession Number: K2A000998N000000000PAE [Public Domain]"

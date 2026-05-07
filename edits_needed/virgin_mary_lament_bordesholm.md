@@ -17,7 +17,7 @@ textauthor: Anonymous
 languages: [german]
 periods: [15th_century]
 textcollections: [prayer-spirituality]
-sdr: https://purl.stanford.edu/fb720tj2636
+sdr:
 image: /assets/img/text/virgin_mary_lament_bordesholm.png
 thumb: /assets/img/text/virgin_mary_lament_bordesholm-thumb.png
 imagesource: "Bordesholmer Marienklage, f.1r [http://dibiki.ub.uni-kiel.de/viewer/image/PPN379967243/2/]"

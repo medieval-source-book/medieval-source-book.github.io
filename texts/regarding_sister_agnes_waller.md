@@ -22,7 +22,7 @@ web_prep: Nino Martin
 languages: [latin]
 periods: [13th_century, 14th_century]
 textcollections: [prayer-spirituality]
-sdr: https://purl.stanford.edu/qp135qw5144
+sdr:
 image: /assets/img/text/regarding_sister_agnes_waller.jpg
 thumb: /assets/img/text/regarding_sister_agnes_waller-thumb.jpg
 imagesource: "Detail from BVMM Colmar, Bibliothèque municipale, 0926 (508) f.61r (CC BY-NC 3.0)"

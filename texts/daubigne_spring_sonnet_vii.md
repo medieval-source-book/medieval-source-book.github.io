@@ -22,7 +22,7 @@ web_prep: Nino Martin
 languages: [french]
 periods: [16th_century]
 textcollections: [love-songs]
-sdr: https://purl.stanford.edu/xy533jz1052
+sdr:
 image: /assets/img/text/daubigne_spring_sonnet_vii.jpg
 thumb: /assets/img/text/daubigne_spring_sonnet_vii-thumb.jpg
 imagesource: "Bibliothèque de Genève, Detail from Le Printemps et divers textes, Bibliothèque de Genève, Archives Tronchin 157"

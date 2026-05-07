@@ -17,7 +17,7 @@ textauthor: Petrus Pictor
 languages: [latin]
 periods: [11th_century, 12th_century]
 textcollections: [gender-sex-and-sensuality]
-sdr: https://purl.stanford.edu/cn585mj1209
+sdr:
 image: /assets/img/text/pictor_concerning_wicked_woman.jpg
 thumb: /assets/img/text/pictor_concerning_wicked_woman-thumb.jpg
 imagesource: "British Library MS Additional 47682, f. 4 [Public Domain]"

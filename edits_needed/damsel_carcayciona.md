@@ -17,7 +17,7 @@ textauthor: Anonymous
 languages: [aljamiado]
 periods: [16th_century]
 textcollections: [gender-sex-sensuality, prayer-spirituality]
-sdr: https://purl.stanford.edu/sd545pv5527
+sdr:
 image: /assets/img/text/damsel_carcayciona.jpg
 thumb: /assets/img/text/damsel_carcayciona-thumb.jpg
 imagesource: "Consejo Superior de Investigaciones Científicas, MS Junta 57, f.1v [Public Domain]"

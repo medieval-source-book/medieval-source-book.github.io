@@ -23,7 +23,7 @@ web_prep: Nino Martin
 languages: [chinese]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
-sdr: https://purl.stanford.edu/yp092nr5057
+sdr:
 image: /assets/img/text/ouyang_xiu_since_we_parted.jpg
 thumb: /assets/img/text/ouyang_xiu_since_we_parted-thumb.jpg
 imagesource: "Detail from 宋夏珪真蹟(Two Men Talking) 卷 , 夏珪,  National Palace Museum, Accession Number: K2A000996N000000000PAA [Public Domain]"

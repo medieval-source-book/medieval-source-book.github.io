@@ -21,7 +21,7 @@ transcription: Johann Georg Theodor Grässe
 languages: [latin]
 periods: [14th_century]
 textcollections: [fantastic-fables]
-sdr: https://purl.stanford.edu/bp928pf2174
+sdr:
 image: /assets/img/text/creature_dialogue_leopard_unicorn_dragon.jpeg
 thumb: /assets/img/text/creature_dialogue_leopard_unicorn_dragon-thumb.jpeg
 imagesource: "Bibliothèque nationale de France, département Arsenal, RESERVE FOL-BL-911, f.73r [Public Domain]"

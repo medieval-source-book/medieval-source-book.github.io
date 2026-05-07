@@ -21,7 +21,7 @@ tei_prep: Manya Bansal and Dante Zhu
 languages: [chinese]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
-sdr: https://purl.stanford.edu/qr054sz8431
+sdr:
 image: /assets/img/text/su_shi_ten_years_dead_living.jpg
 thumb: /assets/img/text/su_shi_ten_years_dead_living-thumb.jpg
 imagesource: "“Detail from 宋夏珪溪山清遠卷 (mountain)”, 夏珪, National Palace Museum, Accession Number: C2A000009N000000000PAQ [Public Domain]"

@@ -22,7 +22,7 @@ web_prep: Nino Martin
 languages: [french]
 periods: [15th_century]
 textcollections: [love-songs]
-sdr: https://purl.stanford.edu/kf454sn1926
+sdr:
 image: /assets/img/text/two_three_days_ago.png
 thumb: /assets/img/text/two_three_days_ago-thumb.png
 imagesource: "Dijon Chansonnier (Dijon, Bibliothèque Municipale, 517), f.127v (new f.130v)."

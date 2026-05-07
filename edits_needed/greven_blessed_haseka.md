@@ -17,7 +17,7 @@ textauthor: Hermann Greven
 languages: [latin]
 periods: [15th_century]
 textcollections: [prayer-spirituality-]
-sdr: https://purl.stanford.edu/nz010dt0595
+sdr:
 image: /assets/img/text/greven_blessed_haseka.jpg
 thumb: /assets/img/text/greven_blessed_haseka-thumb.jpg
 imagesource: "A king consults an anchoress, Rothschild Canticles, Yale Bienecke MS 404 [Public Domain]"

@@ -21,7 +21,7 @@ web_prep: Nino Martin
 languages: [occitan]
 periods: [12th_century]
 textcollections: [love-songs]
-sdr: https://purl.stanford.edu/dt615xy7335
+sdr:
 image: /assets/img/text/rigaut_just_elephant.jpg
 thumb: /assets/img/text/rigaut_just_elephant-thumb.jpg
 imagesource: "Life of Rigaut de Berbezilh in Paris BnF Fr. 12473 f.71r (Occitan Songbook K) [Public Domain]"

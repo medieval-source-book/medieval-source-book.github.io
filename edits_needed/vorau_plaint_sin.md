@@ -17,7 +17,7 @@ textauthor: Anonymous
 languages: [german]
 periods: [12th_century]
 textcollections: [prayer-spirituality]
-sdr: https://purl.stanford.edu/yc554mt6147
+sdr:
 image: /assets/img/text/vorau_plaint_sin.png
 thumb: /assets/img/text/vorau_plaint_sin-thumb.png
 imagesource: "Drawing of the Tree of Virtues, flanked by angels, with Love at the top with an image of Christ blessing, illustrating epistle IV.1; \"Tree of Virtues\" from British Library Arundel 44, f.13r. [Public Domain]"

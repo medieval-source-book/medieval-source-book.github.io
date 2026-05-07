@@ -17,7 +17,7 @@ textauthor: Anonymous
 languages: [aramaic, hebrew]
 periods: [7th_century]
 textcollections: [gender-sex-sensuality]
-sdr: https://purl.stanford.edu/qs468ym2517
+sdr:
 image: /assets/img/text/tractate_sotah.jpeg
 thumb: /assets/img/text/tractate_sotah-thumb.jpeg
 imagesource: "Plechtigungen van het yver-water [Rites of the Bitter Water],\" Matthijs Pool (Amsterdam, 1686-1727), Engraving, Rijksmuseum, Gift of J.A. Saurel, The Hague, 1916. [Public Domain]"

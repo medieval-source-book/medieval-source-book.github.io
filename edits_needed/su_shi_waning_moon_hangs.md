@@ -17,7 +17,7 @@ textauthor: Su Shi 蘇軾
 languages: [chinese]
 periods: [11th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/rc694gb1371
+sdr:
 image: /assets/img/text/su_shi_waning_moon_hangs.jpg
 thumb: /assets/img/text/su_shi_waning_moon_hangs-thumb.jpg
 imagesource: "“Detail from 宋崔白蘆雁軸 (wild goose)”, 崔白, National Palace Museum, Accession Number: K2A000063N000000000PAA [Public Domain]"

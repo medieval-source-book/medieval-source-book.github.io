@@ -17,7 +17,7 @@ textauthor: Nicolaus Pergamenus [att.]
 languages: [latin]
 periods: [14th_century]
 textcollections: [fantastic-fables]
-sdr: https://purl.stanford.edu/pf807nv5337
+sdr:
 image: /assets/img/text/creature_dialogue_fire_water.jpeg
 thumb: /assets/img/text/creature_dialogue_fire_water-thumb.jpeg
 imagesource: "Bibliothèque nationale de France, département Arsenal, RESERVE FOL-BL-911, f.17r [Public Domain]"

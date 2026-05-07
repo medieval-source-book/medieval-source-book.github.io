@@ -17,7 +17,7 @@ textauthor: Anonymous
 languages: [latin]
 periods: [12th_century]
 textcollections: [gender-sex-sensuality, prayer-spirituality]
-sdr: https://purl.stanford.edu/vy261ys5972
+sdr:
 image: /assets/img/text/passion_holy_virgins.png
 thumb: /assets/img/text/passion_holy_virgins-thumb.png
 imagesource: "Cambridge, Corpus Christi College, MS 462, f.136r"

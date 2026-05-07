@@ -17,7 +17,7 @@ textauthor: Efrosin
 languages: [slavonic]
 periods: [15th_century]
 textcollections: [prayer-spirituality, making-history]
-sdr: https://purl.stanford.edu/bc474tx3718
+sdr:
 image: /assets/img/text/efrosin_solomon_kitovras.png
 thumb: /assets/img/text/efrosin_solomon_kitovras-thumb.png
 imagesource: ""

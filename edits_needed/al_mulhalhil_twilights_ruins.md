@@ -21,7 +21,7 @@ pdf_prep: "Mae Velloso-Lyons"
 languages: [arabic]
 periods: [5th_century, 6th_century]
 textcollections: [making-history]
-sdr: https://purl.stanford.edu/zf940dh4421
+sdr:
 image: /assets/img/text/al_mulhalhil_twilights_ruins.png
 thumb: /assets/img/text/al_mulhalhil_twilights_ruins-thumb.png
 imagesource: "“Nihayat al-Su’l wa al-Umniya fi Ta‘allum ‘Amal al-Furusiyya (‘Compendium of Military Arts’)” in Explore Islamic Art Collections. Museum With No Frontiers, 2021."

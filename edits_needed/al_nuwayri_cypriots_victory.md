@@ -21,7 +21,7 @@ pdf_prep:
 languages: [arabic]
 periods: [14th_century]
 textcollections: [cross-cultural-encounters, making-history]
-sdr: https://purl.stanford.edu/druid 
+sdr:
 image: /assets/img/text/aal_nuwayri_cypriot_victory.jpg
 thumb: /assets/img/text/al_nuwayri_cypriot_victory-thumb.jpg
 imagesource: "Reis, Piri. “City of Alexandria” (illumination) Kitāb-i baḥriye. Baltimore, Walters Art Museum, MS W658. fol. 302a. [Licensed for use under Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported Access Rights]"

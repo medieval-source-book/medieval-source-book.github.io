@@ -22,7 +22,7 @@ web_prep: Nino Martin
 languages: [arabic]
 periods: [9th_century, 10th_century, 11th_century]
 textcollections: [prayer-spirituality]
-sdr: https://purl.stanford.edu/kc903dr8183
+sdr:
 image: /assets/img/text/riddle_temple_saturn.jpg
 thumb: /assets/img/text/riddle_temple_saturn-thumb.jpg
 imagesource: "Hill Museum and Manuscript Library GAMS 00900"

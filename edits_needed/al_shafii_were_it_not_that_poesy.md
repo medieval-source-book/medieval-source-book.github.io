@@ -21,7 +21,7 @@ translator: Sherif Abdelkarim
 languages: [arabic]
 periods: [8th_century, 9th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/jh347tq0120
+sdr:
 image: /assets/img/text/al_shafii_were_it_not_that_poesy.jpg
 thumb: /assets/img/text/al_shafii_were_it_not_that_poesy-thumb.jpg
 imagesource: "Coin of al-Muhallab ibn Abi Sufra. Zibayrid governor, circa AH 75-79 / AD 694-698, Classical Numismatic Group, Inc. [CC BY-SA]"

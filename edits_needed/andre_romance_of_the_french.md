@@ -22,7 +22,7 @@ web_prep: Nino Martin
 languages: [french]
 periods: [12th_century]
 textcollections: [cross-cultural-encounters, prank-or-be-pranked]
-sdr: https://purl.stanford.edu/vb969qj2046
+sdr:
 image: /assets/img/text/andre_romance_of_the_french.jpg
 thumb: /assets/img/text/andre_romance_of_the_french-thumb.jpg
 imagesource: "London, British Library, MS Add. 10289 f.129r [Public Domain]"

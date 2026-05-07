@@ -17,7 +17,7 @@ textauthor: Anonymous
 languages: [german]
 periods: [14th_century]
 textcollections: [cross-cultural-encounters, prayer-spirituality, gender-sex-sensuality]
-sdr: https://purl.stanford.edu/ky797wd4864
+sdr:
 image: /assets/img/text/sultan_daughter.png
 thumb: /assets/img/text/sultan_daughter-thumb.png
 imagesource: "Berlin, Staatsbibliothek zu Berlin, Ms. germ. oct. 222, f160r (detail). [Public Domain]"

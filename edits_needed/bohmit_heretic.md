@@ -17,7 +17,7 @@ textauthor: Anonymous
 languages: [slavonic]
 periods: [15th_century]
 textcollections: [cross-cultural-encounters, making-history]
-sdr: https://purl.stanford.edu/druid 
+sdr:
 iimage: /assets/img/text/bohmit_heretic.png
 thumb: /assets/img/text/bohmit_heretic-thumb.png
 imagesource: "Russian State Library in Moscow, Manuscript РГБ, 228.162, fol. 342r."

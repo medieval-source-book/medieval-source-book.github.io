@@ -21,7 +21,7 @@ tei_prep: Manya Bansal and Dante Zhu
 languages: [chinese]
 periods: [11th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/td172pb8550
+sdr:
 image: /assets/img/text/su_shi_sending_shugu_west_lake.jpg
 thumb: /assets/img/text/su_shi_sending_shugu_west_lake-thumb.jpg
 imagesource: "“Detail from 宋錢選蘭亭觀鵝圖卷 (lake)”, 錢選, National Palace Museum, Accession Number: K2A001001N000000000PAB [Public Domain]"

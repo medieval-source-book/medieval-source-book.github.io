@@ -17,7 +17,7 @@ textauthor: Anonymous
 languages: [greek]
 periods: [10th_century, 11th_century]
 textcollections: [prayer-spirituality]
-sdr: https://purl.stanford.edu/xs848ys4025
+sdr:
 image: /assets/img/text/memorial_father_ignatios.jpg
 thumb: /assets/img/text/memorial_father_ignatios-thumb.jpg
 imagesource: "Ignatios from Tympanum Mosaics, Hagia Sophia, Istanbul, Mosaic [Public Domain]"

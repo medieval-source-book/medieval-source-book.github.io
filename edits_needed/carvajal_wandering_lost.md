@@ -23,7 +23,7 @@ web_prep: Nino Martin
 languages: [spanish]
 periods: [15th_century]
 textcollections: [gender-sex-sensuality]
-sdr: https://purl.stanford.edu/qt817pd5373
+sdr:
 image: /assets/img/text/carvajal_wandering_lost.jpg
 thumb: /assets/img/text/carvajal_wandering_lost-thumb.jpg
 imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.138r [Public domain]"

@@ -17,7 +17,7 @@ textauthor: von Schondoch
 languages: [german]
 periods: [14th_century, 15th_century]
 textcollections: [gender-sex-sensuality]
-sdr: https://purl.stanford.edu/xj532hp6852
+sdr:
 image: /assets/img/text/von_schondoch_queen_france.jpg
 thumb: /assets/img/text/von_schondoch_queen_france-thumb.jpg
 imagesource: "Heidelberg Hs. 1012 (olim Ashburnham Place, Cod. 486) ff. 249r [Public Domain]"

@@ -22,7 +22,7 @@ web_prep: Nino Martin
 languages: [hungarian]
 periods: [16th_century]
 textcollections: [making-history]
-sdr: https://purl.stanford.edu/sy398fg1914
+sdr:
 image: /assets/img/text/tinodi_captivity_peter_pereny.png
 thumb: /assets/img/text/tinodi_captivity_peter_pereny-thumb.png
 imagesource: "Detail from \"Buda, Vulgo Ofen, Prima et Regia Ungarici\" (1572). David Rumsey Map Collection, David Rumsey Map Center, Stanford Libraries."

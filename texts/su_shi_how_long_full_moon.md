@@ -21,7 +21,7 @@ tei_prep: Manya Bansal and Dante Zhu
 languages: [chinese]
 periods: [11th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/jk737cs8633
+sdr:
 image: /assets/img/text/su_shi_how_long_full_moon.jpg
 thumb: /assets/img/text/su_shi_how_long_full_moon-thumb.jpg
 imagesource: "“Detail from 宋馬遠舉杯玩月軸 (moon)”, 馬遠;鍾禮, National Palace Museum, Accession Number: K2A000844N000000000PAA [Public Domain]"

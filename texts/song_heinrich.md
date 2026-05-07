@@ -23,7 +23,7 @@ web_prep: Nino Martin
 languages: [german, latin]
 periods: [9th_century]
 textcollections: [hymns-and-histories, making-history]
-sdr: https://purl.stanford.edu/bx905jp3191
+sdr:
 image: /assets/img/text/song_heinrich.png
 thumb: /assets/img/text/song_heinrich-thumb.png
 imagesource: "British Library MS Additional 24199 f.12 [Public Domain]"

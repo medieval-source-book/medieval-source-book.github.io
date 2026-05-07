@@ -21,7 +21,7 @@ tei_prep: Manya Bansal and Dante Zhu
 languages: [chinese]
 periods: [11th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/fv661pm0223
+sdr:
 image: /assets/img/text/su_shi_returning_night_linggao.jpg
 thumb: /assets/img/text/su_shi_returning_night_linggao-thumb.jpg
 imagesource: "“Detail from 宋李公麟畫歸去來辭卷 (boat)”, 李公麟, National Palace Museum, Accession Number: K2A001412N000000000PAE [Public Domain]"

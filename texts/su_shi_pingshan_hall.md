@@ -21,7 +21,7 @@ tei_prep: Manya Bansal and Dante Zhu
 languages: [chinese]
 periods: [11th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/rd143dn5675
+sdr:
 image: /assets/img/text/su_shi_pingshan_hall.jpg
 thumb: /assets/img/text/su_shi_pingshan_hall-thumb.jpg
 imagesource: "“Detail from 宋人拜月圖軸 (house)”, Anonymous, National Palace Museum, Accession Number: K2A000186N000000000PAA [Public Domain]"

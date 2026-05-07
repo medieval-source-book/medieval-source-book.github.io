@@ -23,7 +23,7 @@ web_prep: Nino Martin
 languages: [chinese]
 periods: [12th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/qc837wf3993
+sdr:
 image: /assets/img/text/li_qingzhao_outside_window_spring_color.png
 thumb: /assets/img/text/li_qingzhao_outside_window_spring_color-thumb.png
 imagesource: "Detail from 宋人西園雅集(Garden) 卷, Anonymous, National Palace Museum, Accession Number: K2A003661N000000000PAC [Public Domain]"

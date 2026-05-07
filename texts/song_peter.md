@@ -22,7 +22,7 @@ web_prep: Mae Velloso-Lyons
 languages: [german]
 periods: [9th_century]
 textcollections: [hymns-and-histories, prayer-spirituality]
-sdr: https://purl.stanford.edu/vy286tx3965
+sdr:
 image: /assets/img/text/song_peter.png
 thumb: /assets/img/text/song_peter-thumb.png
 imagesource: "Detail from BSB MS Clm 6260, fol.158v"

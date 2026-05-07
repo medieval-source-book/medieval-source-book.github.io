@@ -22,7 +22,7 @@ web_prep: Nino Martin
 languages: [arabic]
 periods: [8th_century, 9th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/sx790tj7500
+sdr:
 image: /assets/img/text/al_shafii_your_friend_contests.png
 thumb: /assets/img/text/al_shafii_your_friend_contests-thumb.png
 imagesource: "Page from a manuscript on horsemanship, Hegira 9th century / AD 15th century, Paper with watercolour painting and writing in black and red ink. Museum of Islamic Art, Cairo [Image in Public Domain]"

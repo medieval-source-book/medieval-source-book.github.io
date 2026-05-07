@@ -21,7 +21,7 @@ tei_prep: Manya Bansal and Dante Zhu
 languages: [chinese]
 periods: [11th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/vf894dc1453
+sdr:
 image: /assets/img/text/su_shi_hunting_mizhou.jpg
 thumb: /assets/img/text/su_shi_hunting_mizhou-thumb.jpg
 imagesource: "“Detail from 宋人卞莊子刺虎圖卷 (tiger)”, Anonymous, National Palace Museum, Accession Number: K2A001006N000000000PAB [Public Domain]"

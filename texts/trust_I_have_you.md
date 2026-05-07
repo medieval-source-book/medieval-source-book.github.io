@@ -22,7 +22,7 @@ web_prep: Nino Martin
 languages: [french]
 periods: [15th_century]
 textcollections: [love-songs]
-sdr: https://purl.stanford.edu/tx336wj4685
+sdr:
 image: /assets/img/text/trust_I_have_you.png
 thumb: /assets/img/text/trust_I_have_you-thumb.png
 imagesource: "British Library MS Burney 275 f.120 [Public Domain]"

@@ -17,7 +17,7 @@ textauthor: Sanā’ī of Ghazna
 languages: [persian]
 periods: [12th_century]
 textcollections: [prayer-spirituality]
-sdr: https://purl.stanford.edu/cy571vv8193
+sdr:
 image: /assets/img/text/sanai_on_merciful_god.jpg
 thumb: /assets/img/text/sanai_on_merciful_god-thumb.jpg
 imagesource: "Sanā’ī al-Ghaznavī, Abū al-Majd Majdūd ibn Ādam. Huva kitāb-i mustaṭāb-i kullīyāt. Bombay: Khan Sahib M.M. Shirazi, 1328 [1910]. Library of Congress [Public Domain]]"

@@ -17,7 +17,7 @@ textauthor: Jakob Twinger von Königshofen
 languages: [german]
 periods: [14th_century]
 textcollections: [making-history]
-sdr: https://purl.stanford.edu/mw070hg9070
+sdr:
 image: /assets/img/text/twinger_chronicle.jpeg
 thumb: /assets/img/text/twinger_chronicle-thumb.jpeg
 imagesource: "Stanford University Library MS CODEX 1061, f.1 [Copyright Stanford University]"

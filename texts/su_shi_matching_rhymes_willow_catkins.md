@@ -21,7 +21,7 @@ tei_prep: Manya Bansal and Dante Zhu
 languages: [chinese]
 periods: [11th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/dh674wg3267
+sdr:
 image: /assets/img/text/su_shi_matching_rhymes_willow_catkins.jpg
 thumb: /assets/img/text/su_shi_matching_rhymes_willow_catkins-thumb.jpg
 imagesource: "“Detail from 宋人柳陰高士圖軸 (beneath the willow)”, Anonymous, National Palace Museum, Accession Number: K2A000177N000000000PAA [Public Domain]"

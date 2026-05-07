@@ -21,7 +21,7 @@ tei_prep: Manya Bansal and Dante Zhu
 languages: [chinese]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
-sdr: https://purl.stanford.edu/zs419qg6099
+sdr:
 image: /assets/img/text/su_shi_plum_blossom.jpg
 thumb: /assets/img/text/su_shi_plum_blossom-thumb.jpg
 imagesource: "“Detail from 宋人歲朝圖軸 (plum blossom)”, Anonymous, National Palace Museum, Accession Number: K2A000201N000000000PAA [Public Domain]"

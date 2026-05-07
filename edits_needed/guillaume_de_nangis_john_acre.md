@@ -22,7 +22,7 @@ web_prep: Nino Martin
 languages: [french]
 periods: [13th_century, 14th_century]
 textcollections: [cross-cultural-encounters, making-history]
-sdr: https://purl.stanford.edu/sv479nc2574
+sdr:
 image: /assets/img/text/guillaume_de_nangis_john_acre.jpg
 thumb: /assets/img/text/guillaume_de_nangis_john_acre-thumb.jpg
 imagesource: "London, British Library Royal MS 16 G VI, f.442r"

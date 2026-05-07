@@ -19,7 +19,7 @@ tei_prep: Danny Smith
 languages: [spanish]
 periods: [16th_century]
 textcollections: [prayer-spirituality]
-sdr: https://purl.stanford.edu/gz309sy7324
+sdr:
 image: /assets/img/text/perez_de_pineda_brief_treatise_doctrine.jpg
 thumb: /assets/img/text/perez_de_pineda_brief_treatise_doctrine.jpg
 imagesource: "Luis de Vargas, “Saint John the Evangelist,” ca. 1561; Pen and ink and wash on paper; Collection of the Hispanic Society of America"
