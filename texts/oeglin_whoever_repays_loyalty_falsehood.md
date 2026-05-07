@@ -22,7 +22,7 @@ web_prep: Nino Martin
 languages: [german]
 periods: [16th_century]
 textcollections: [love-songs]
-sdr: https://purl.stanford.edu/nn657ch3003
+sdr: https://doi.org/10.25740/rq861mv7006
 image: /assets/img/text/oeglin_whoever_repays_loyalty_falsehood.jpg
 thumb: /assets/img/text/oeglin_whoever_repays_loyalty_falsehood-thumb.jpg
 imagesource: "Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.45v [Public Domain]"

@@ -22,7 +22,7 @@ web_prep: Nino Martin
 languages: [german]
 periods: [16th_century]
 textcollections: [love-songs]
-sdr: https://purl.stanford.edu/vh985kp6671
+sdr:   https://doi.org/10.25740/jg758yy6519s
 image: /assets/img/text/oeglin_our_vicar_away.jpg
 thumb: /assets/img/text/oeglin_our_vicar_away-thumb.jpg
 imagesource: "Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.46v [Public Domain]"

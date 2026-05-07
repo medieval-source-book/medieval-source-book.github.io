@@ -22,7 +22,7 @@ web_prep: Nino Martin
 languages: [german]
 periods: [16th_century]
 textcollections: [love-songs]
-sdr: https://purl.stanford.edu/pn881hj0057
+sdr: https://doi.org/10.25740/jn415rc2818
 image: /assets/img/text/oeglin_help_our_lady_aachen.jpg
 thumb: /assets/img/text/oeglin_help_our_lady_aachen-thumb.jpg
 imagesource: "Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.5v [http://stimmbuecher.digitale-sammlungen.de/view?id=bsb00082229]"

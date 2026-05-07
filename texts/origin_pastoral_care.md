@@ -22,7 +22,7 @@ web_prep: Nino Martin
 languages: [latin]
 periods: [7th_century, 8th_century, 9th_century]
 textcollections: [making-history, prayer-spirituality]
-sdr: https://purl.stanford.edu/pd724hc5620
+sdr: https://doi.org/10.25740/dj903jc7326
 image: /assets/img/text/origin_pastoral_care.jpg
 thumb: /assets/img/text/origin_pastoral_care-thumb.jpg
 imagesource: "Oxford, St John’s College, MS 28, fol. 6v [By permission of the President and Fellows of St John’s College Oxford]"

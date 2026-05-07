@@ -22,7 +22,7 @@ web_prep: Nino Martin
 languages: [german]
 periods: [16th_century]
 textcollections: [love-songs]
-sdr: https://purl.stanford.edu/jw133pk7685
+sdr: https://doi.org/10.25740/vf254fv1062
 image: /assets/img/text/oeglin_between_hill_valley_deep.jpeg
 thumb: /assets/img/text/oeglin_between_hill_valley_deep-thumb.jpeg
 imagesource: "Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.6v [Public Domain]"

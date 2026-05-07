@@ -22,7 +22,7 @@ web_prep: Nino Martin
 languages: [german]
 periods: [16th_century]
 textcollections: [love-songs]
-sdr: https://purl.stanford.edu/fb851cq8408
+sdr: https://doi.org/10.25740/xj889wf0031
 image: /assets/img/text/oeglin_my_heart_pact_love.jpg
 thumb: /assets/img/text/oeglin_my_heart_pact_love-thumb.jpg
 imagesource: "Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.24r [Public Domain]"

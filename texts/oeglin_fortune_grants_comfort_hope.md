@@ -22,7 +22,7 @@ web_prep: Nino Martin
 languages: [german]
 periods: [16th_century]
 textcollections: [love-songs]
-sdr: https://purl.stanford.edu/hq258fm6268
+sdr: https://doi.org/10.25740/fd674sf6311
 image: /assets/img/text/oeglin_fortune_grants_comfort_hope.jpg
 thumb: /assets/img/text/oeglin_fortune_grants_comfort_hope-thumb.jpg
 imagesource: "Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.15r"

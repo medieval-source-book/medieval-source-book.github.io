@@ -22,7 +22,7 @@ web_prep: Nino Martin
 languages: [german]
 periods: [16th_century]
 textcollections: [love-songs]
-sdr: https://purl.stanford.edu/st282wx0077
+sdr:   https://doi.org/10.25740/wd169dk9587
 image: /assets/img/text/oeglin_grace_honor_praise.jpg
 thumb: /assets/img/text/oeglin_grace_honor_praise-thumb.jpg
 imagesource: "Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.42v [Public Domain]"
