@@ -21,8 +21,3 @@ This repository is the result of seven years of collaborative work and has under
  
 
 
-
-
-<!--Cite the DHLG as:
-
-Weingart, Scott B., Susan Grunewald, Matthew Lincoln et al. (eds.). <i>The Digital Humanities Literacy Guidebook</i>. Carnegie Mellon University, Updated {{ site.time | date: '%B %d, %Y' }}. https://cmu-lib.github.io/dhlg/.-->

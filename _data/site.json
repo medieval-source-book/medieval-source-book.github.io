@@ -2,9 +2,9 @@
   "title": "Global Medieval Sourcebook",
   "sitetitle": "Global Medieval Sourcebook",
   "slogan": "A Digital Repository of Medieval Texts",
-  "url": "https://medieval-source-book.github.io/",
+  "url": "https://sourcebook.stanford.edu/",
   "baseurl": "",
-  "credits": "A Jekyll site designed by Agile Humanities",
+  "credits": "Created by Kathryn Starkey, Mae Velloso-Lyons, and Quinn Daedal",
   "language": "en",
   "asciidoctor_enabled": false
 }

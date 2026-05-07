@@ -8,7 +8,7 @@ engtitle: |
 origtitle: |
   武陵春 · 風住塵香花已盡
 breadcrumb: true
-permalink: "text/li_qingzhao_wind_stops_dust_fragrant"
+permalink: "/text/li_qingzhao_wind_stops_dust_fragrant"
 redirect_from: /text/tune-%E2%80%9Cspring-wuling%E2%80%9D%E2%80%94-wind-stops-dust-fragrant-and-flowers-are-all-gone
 identifier: li_qingzhao_wind_stops_dust_fragrant.md
 tei: /assets/tei/li_qingzhao_wind_stops_dust_fragrant.xml

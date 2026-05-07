@@ -11,9 +11,9 @@ module.exports = {
   title: "Global Medieval Sourcebook",
   sitetitle: "Global Medieval Sourcebook",
   slogan: "A Digital Repository of Medieval Texts",
-  url: "https://medieval-source-book.github.io",
+  url: "https://sourcebook.stanford.edu",
   baseurl: "",
-  credits: "Design by Mae Velloso-Lyons, courtesy of Digital Humanities Literacy Guidebook, University of Texas at Austin",
+  credits: "Created by Kathryn Starkey, Mae Velloso-Lyons, and Quinn Daedal",
   language: "en",
   data: {
     navigation: navigation
