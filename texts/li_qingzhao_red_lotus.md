@@ -23,7 +23,7 @@ web_prep: Nino Martin
 languages: [chinese]
 periods: [12th_century]
 textcollections: [love-lust-longing, love-songs]
-sdr: https://purl.stanford.edu/cb341rv4908
+sdr: https://doi.org/10.25740/hz199nr7062
 image: /assets/img/text/li_qingzhao_red_lotus.png
 thumb: /assets/img/text/li_qingzhao_red_lotus-thumb.png
 imagesource: "Detail from 宋徽宗池塘秋晚圖 (Lotus)卷, 赵佶, National Palace Museum, Accession Number: K2A000986N000000000PAD [Public Domain]"

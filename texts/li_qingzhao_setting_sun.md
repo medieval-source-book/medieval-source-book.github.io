@@ -23,7 +23,7 @@ web_prep: Nino Martin
 languages: [chinese]
 periods: [12th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/jm681pd5529
+sdr: https://doi.org/10.25740/yv626fb5491
 image: /assets/img/text/li_qingzhao_setting_sun.png
 thumb: /assets/img/text/li_qingzhao_setting_sun-thumb.png
 imagesource: "Detail from 元人畫梅花仕女(Woman by Plum Blossom) 軸, Anonymous, National Palace Museum, Accession Number: K2A000362N000000000PAA [Public Domain]"

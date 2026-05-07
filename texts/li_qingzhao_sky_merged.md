@@ -23,7 +23,7 @@ web_prep: Nino Martin
 languages: [chinese]
 periods: [12th_century]
 textcollections: [prayer-spirituality]
-sdr: https://purl.stanford.edu/mm905xh2894
+sdr: https://doi.org/10.25740/cd807vm6795
 image: /assets/img/text/li_qingzhao_sky_merged.png
 thumb: /assets/img/text/li_qingzhao_sky_merged-thumb.png
 imagesource: "Detail from 宋人布畫山水(Mountain and Water) 軸, Anonymous, National Palace Museum, Accession Number: K2A000903N000000000PAA [Public Domain]"

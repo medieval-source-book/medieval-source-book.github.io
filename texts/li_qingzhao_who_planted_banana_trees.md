@@ -23,7 +23,7 @@ web_prep: Nino Martin
 languages: [chinese]
 periods: [12th_century]
 textcollections: [love-lust-longing, love-songs]
-sdr: https://purl.stanford.edu/tr778bf0689
+sdr: https://doi.org/10.25740/yj035kd4652
 image: /assets/img/text/li_qingzhao_who_planted_banana_trees.png
 thumb: /assets/img/text/li_qingzhao_who_planted_banana_trees-thumb.png
 imagesource: "Detail from 明文徵明蕉陰仕女圖(Banana Tree) 軸, 文徵明, National Palace Museum, Accession Number: K2A001339N000000000PAA [Public Domian]"

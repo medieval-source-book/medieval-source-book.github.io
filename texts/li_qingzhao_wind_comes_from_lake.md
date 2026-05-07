@@ -23,7 +23,7 @@ web_prep: Nino Martin
 languages: [chinese]
 periods: [12th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/vg128jw3308
+sdr: https://doi.org/10.25740/jp460wm4516
 image: /assets/img/text/li_qingzhao_wind_comes_from_lake.png
 thumb: /assets/img/text/li_qingzhao_wind_comes_from_lake-thumb.png
 imagesource: "Detail from 宋夏珪溪山清遠(Open Water) 卷, National Palace Museum, Accession Number: C2A000009N000000000PAG [Public Domain]"
