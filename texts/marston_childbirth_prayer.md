@@ -22,7 +22,7 @@ web_prep: Nino Martin
 languages: [latin]
 periods: [14th_century]
 textcollections: [prayer-spirituality]
-sdr: https://purl.stanford.edu/vs096hk1625
+sdr: https://doi.org/10.25740/xx800qc5472
 image: /assets/img/text/marston_childbirth_prayer.png
 thumb: /assets/img/text/marston_childbirth_prayer-thumb.png
 imagesource: "New Haven, Beinecke Rarebook Library, Marston MS 22, ff. 91v-92r [Public Domain]"

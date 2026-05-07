@@ -23,7 +23,7 @@ web_prep: Nino Martin
 languages: [german]
 periods: [9th_century]
 textcollections: [hymns-and-histories, prayer-spirituality]
-sdr: https://purl.stanford.edu/cy204cd5992
+sdr: https://doi.org/10.25740/yb515mq4990
 image: /assets/img/text/muspilli.png
 thumb: /assets/img/text/muspilli-thumb.png
 imagesource: "Detail from Munich, Bayerische Staatbibliothek, Clm 14098, f.120r [Public Domain]"

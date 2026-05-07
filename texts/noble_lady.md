@@ -22,7 +22,7 @@ web_prep: Nino Martin
 languages: [quechua]
 periods: [17th_century]
 textcollections: [prayer-spirituality]
-sdr: https://purl.stanford.edu/sk280rv9745
+sdr: https://doi.org/10.25740/cq297yh3722
 image: /assets/img/text/noble_lady.jpg
 thumb: /assets/img/text/noble_lady.jpg
 imagesource: "The Shapa Inka and his wife traveling the Qhapaq Ñan, 1615"
