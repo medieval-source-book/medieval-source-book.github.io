@@ -3,6 +3,20 @@
 
 {% capture title %}{% if page.meta_title %}{{ page.meta_title}}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title | strip_html | strip }}{% endif %}{% endcapture %}
 {% assign title = title | strip_html | escape | strip_newlines %}
+{% assign page_path = page.url | default: '/' %}
+{% capture canonical_url %}{{ site.url }}{{ page_path }}{% endcapture %}
+{% assign social_image_path = '/assets/img/LogoPrint_trans.png' %}
+{% assign social_image_alt = 'Global Medieval Sourcebook logo' %}
+{% if page.inputPath and page.inputPath contains 'texts/' and image %}
+	{% assign social_image_path = image %}
+	{% capture social_image_alt %}Representative image for {{ title }}{% endcapture %}
+	{% assign social_image_alt = social_image_alt | strip_html | escape | strip %}
+{% endif %}
+{% if social_image_path contains '://' %}
+	{% assign social_image_url = social_image_path %}
+{% else %}
+	{% capture social_image_url %}{{ site.url }}{{ social_image_path }}{% endcapture %}
+{% endif %}
 
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -14,5 +28,18 @@
 <script src="{{ '/assets/js/modernizr.min.js' | relative_url}} "></script>
 <script defer src="https://webstats.yaffle.xyz/visit.js" data-website-id="01506f9d-696b-48ef-bb95-93285d875348"></script>
 <meta name="description" content="{{ description }}">
+<link rel="canonical" href="{{ canonical_url }}">
+<meta property="og:site_name" content="{{ site.title | strip_html | escape | strip }}">
+<meta property="og:type" content="website">
+<meta property="og:title" content="{{ title }}">
+<meta property="og:description" content="{{ description }}">
+<meta property="og:url" content="{{ canonical_url }}">
+<meta property="og:image" content="{{ social_image_url }}">
+<meta property="og:image:alt" content="{{ social_image_alt }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ title }}">
+<meta name="twitter:description" content="{{ description }}">
+<meta name="twitter:image" content="{{ social_image_url }}">
+<meta name="twitter:image:alt" content="{{ social_image_alt }}">
 {% include "_favicon.html" %}
 {% comment %} Head include cleaned: single charset/viewport/title block above {% endcomment %}

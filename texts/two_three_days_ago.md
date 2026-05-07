@@ -14,6 +14,11 @@ identifier: two_three_days_ago.md
 tei: /assets/tei/two_three_days_ago.xml
 pdf: /assets/pdf/two_three_days_ago.pdf
 textauthor: Anonymous
+transcription: Mae Velloso-Lyons
+translator: Mae Velloso-Lyons
+tei_prep: Mae Velloso-Lyons
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [french]
 periods: [15th_century]
 textcollections: [love-songs]
