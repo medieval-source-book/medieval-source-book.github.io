@@ -14,6 +14,11 @@ identifier: riddle_temple_saturn.md
 tei: /assets/tei/riddle_temple_saturn.xml
 pdf: /assets/pdf/riddle_temple_saturn.pdf
 textauthor: Anonymous, Ḥunayn ibn Isḥāq [att.]
+transcription: Joshua Mugler
+translator: Joshua Mugler
+tei_prep: Danny Smith
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [arabic]
 periods: [9th_century, 10th_century, 11th_century]
 textcollections: [prayer-spirituality]

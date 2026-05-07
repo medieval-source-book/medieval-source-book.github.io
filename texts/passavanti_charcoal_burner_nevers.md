@@ -14,6 +14,8 @@ identifier: passavanti_charcoal_burner_nevers.md
 tei: /assets/tei/passavanti_charcoal_burner_nevers.xml
 pdf: /assets/pdf/passavanti_charcoal_burner_nevers.pdf
 textauthor: Jacopo Passavanti
+translator: Daniele Biffanti
+tei_prep: Jordan Rosen-Kaplan
 languages: [italian]
 periods: [14th_century]
 textcollections: [gender-sex-sensuality, prayer-spirituality]

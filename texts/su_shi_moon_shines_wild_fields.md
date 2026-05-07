@@ -14,6 +14,10 @@ identifier: su_shi_moon_shines_wild_fields.md
 tei: /assets/tei/su_shi_moon_shines_wild_fields.xml
 pdf: /assets/pdf/su_shi_moon_shines_wild_fields.pdf
 textauthor: Su Shi 蘇軾
+transcription: "Tang, Guizhang 唐圭璋 (ed.). Quan Song Ci 全宋詞. Vol 1. Beijing: Zhonghua shu ju, 1965, 284."
+translator: Qian Jia
+notesauthor: Nina Du, Runqi Zhang, and Dante Zhu
+tei_prep: Manya Bansal and Dante Zhu
 languages: [chinese]
 periods: [11th_century]
 textcollections: [good-life]

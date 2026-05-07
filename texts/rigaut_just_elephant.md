@@ -14,6 +14,10 @@ identifier: rigaut_just_elephant.md
 tei: /assets/tei/rigaut_just_elephant.xml
 pdf: /assets/pdf/rigaut_just_elephant.pdf
 textauthor: Rigaut de Berbezilh
+translator: Johannes Junge Ruhland
+tei_prep: Danny Smith
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [occitan]
 periods: [12th_century]
 textcollections: [love-songs]

@@ -14,6 +14,11 @@ identifier: regarding_sister_agnes_waller.md
 tei: /assets/tei/regarding_sister_agnes_waller.xml
 pdf: /assets/pdf/regarding_sister_agnes_waller.pdf
 textauthor: Various
+transcription: "“Les ‘Vitae sororum’ d’Unterlinden: Édition critique du manuscrit 508 de la bibliothèque de Colmar”. Ed. Jeanne Ancelet-Hustache. Archives d’histoire doctrinale et littèraire du Moyen Âge vol. 5 (1930): 317–513."
+translator: Laura Moncion
+tei_prep: Danny Smith
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [latin]
 periods: [13th_century, 14th_century]
 textcollections: [prayer-spirituality]

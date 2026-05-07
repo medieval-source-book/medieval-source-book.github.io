@@ -14,6 +14,11 @@ identifier: trust_I_have_you.md
 tei: /assets/tei/trust_I_have_you.xml
 pdf: /assets/pdf/trust_I_have_you.pdf
 textauthor: Anonymous
+transcription: Mae Velloso-Lyons
+translator: Mae Velloso-Lyons
+tei_prep: Jordan Rosen-Kaplan
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [french]
 periods: [15th_century]
 textcollections: [love-songs]

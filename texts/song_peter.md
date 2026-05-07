@@ -14,6 +14,11 @@ identifier: song_peter.md
 tei: /assets/tei/song_peter.xml
 pdf: /assets/pdf/song_peter.pdf
 textauthor: Anonymous
+transcription: Robert Forke
+translator: Robert Forke
+tei_prep: Mae Velloso-Lyons
+pdf_prep: Mae Velloso-Lyons
+web_prep: Mae Velloso-Lyons
 languages: [german]
 periods: [9th_century]
 textcollections: [hymns-and-histories, prayer-spirituality]

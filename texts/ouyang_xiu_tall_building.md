@@ -14,6 +14,12 @@ identifier: ouyang_xiu_tall_building.md
 tei: /assets/tei/ouyang_xiu_tall_building.xml
 pdf: /assets/pdf/ouyang_xiu_tall_building.pdf
 textauthor: Ouyang Xiu 歐陽修
+transcription: "Tang, Guizhang 唐圭璋 (ed.). Quan Song Ci 全宋詞. Vol 1. Beijing: Zhonghua shu ju, 1965, 135."
+translator: Qian Jia
+notesauthor: Nina Du and Runqi Zhang
+tei_prep: Nina Du, Manya Bansal, and Danny Smith
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [chinese]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]

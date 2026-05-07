@@ -14,6 +14,10 @@ identifier: su_shi_how_long_full_moon.md
 tei: /assets/tei/su_shi_how_long_full_moon.xml
 pdf: /assets/pdf/su_shi_how_long_full_moon.pdf
 textauthor: Su Shi 蘇軾
+transcription: "Tang, Guizhang 唐圭璋 (ed.). Quan Song Ci 全宋詞. Vol 1. Beijing: Zhonghua shu ju, 1965, 279."
+translator: Qian Jia
+notesauthor: Nina Du, Runqi Zhang, and Dante Zhu
+tei_prep: Manya Bansal and Dante Zhu
 languages: [chinese]
 periods: [11th_century]
 textcollections: [good-life]

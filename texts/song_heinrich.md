@@ -14,6 +14,12 @@ identifier: song_heinrich.md
 tei: /assets/tei/song_heinrich.xml
 pdf: /assets/pdf/song_heinrich.pdf
 textauthor: Anonymous
+transcription: Hannah Frakes
+translator: Hannah Frakes
+editor: Björn Buschbeck
+tei_prep: Hannah Frakes and Danny Smith
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [german, latin]
 periods: [9th_century]
 textcollections: [hymns-and-histories, making-history]

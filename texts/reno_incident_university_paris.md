@@ -14,6 +14,11 @@ identifier: reno_incident_university_paris.md
 tei: /assets/tei/reno_incident_university_paris.xml
 pdf: /assets/pdf/reno_incident_university_paris.pdf
 textauthor: Johannes de Reno
+transcription: H. S. Denifle and E. L. M. Chatelain
+translator: Teresa Barucci
+tei_prep: Runqi Zhang
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [latin]
 periods: [15th_century]
 textcollections: [making-history]

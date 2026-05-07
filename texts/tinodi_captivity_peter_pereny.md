@@ -14,6 +14,11 @@ identifier: tinodi_captivity_peter_pereny.md
 tei: /assets/tei/tinodi_captivity_peter_pereny.xml
 pdf: /assets/pdf/tinodi_captivity_peter_pereny.pdf
 textauthor: Sebastian Tinódi
+transcription: Tinódi Sebestyén összes költeménye in the Hungarian Electronic Library
+translator: Maria Dobozy
+tei_prep: Danny Smith
+pdf_prep: Mae Velloso-Lyons
+web_prep: Nino Martin
 languages: [hungarian]
 periods: [16th_century]
 textcollections: [making-history]
