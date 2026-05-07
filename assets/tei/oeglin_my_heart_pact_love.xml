@@ -1,0 +1,361 @@
+<?xml-stylesheet href="../src/vmachine.xsl" type="text/xsl" ?><?xml-model href="../schema/vmachine.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../schema/vmachine.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!DOCTYPE TEI
+[
+<!ENTITY % Menota_entities SYSTEM
+'../menota/menota-entities.txt'   >
+%Menota_entities; ]
+>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>"My heart has made a pact with love"</title>
+				<author>Erhard Oeglin</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name>Christopher Hutchinson</name>
+				</respStmt>
+				<respStmt>
+					<resp>Translation by</resp>
+					<name>Christopher Hutchinson</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoded in TEI P5 XML by</resp>
+					<name>Hannah Frakes</name><name>Mae Velloso-Lyons</name><name>Jordan Rosen-Kaplan</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Global Medieval Sourcebook</publisher>
+				<availability>
+					<p><hi rend="italic">The Global Medieval Sourcebook</hi> is licensed under a Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International License.</p>
+				</availability>
+			</publicationStmt>
+			<notesStmt>
+				<p>The first printed songbook with songs primarily in German was printed in July 1512 by the Augsburg printer Erhard Oeglin (ca.1470-1520). The songbook consists of four partbooks – it is also the first German song collection with four voices throughout - and contains 49 songs with a mixture of spiritual and secular content, 43 of which are in German and 6 in Latin. Oeglin was an innovative printer, credited as one of the first printers to print musical notation using movable type and as one of the first printers of “Zeitungen” – news-sheets. Oeglin does not attribute any of the songs to particular composers but some of these songs do appear in other songbooks of this period where they are attributed to various composers active at the Imperial court, including Ludwig Senfl, Paul Hofhaimer and Heinrich Isaac. These songs are collectively known as tenor lieder, as the melody is usually carried by the tenor line. This was the prototypical song type in Germany at the turn of the sixteenth century and enjoyed particular prominence at the court of the Emperor Maximilian (1459-1519).</p>
+				<p>Digitized copies of these partbooks from the Bayerische Staatsbibliothek in Munich are available online here: https://stimmbuecher.digitale-sammlungen.de//view?id=bsb00082229</p>
+				<p>Saunders, Steven. “Music in Early Modern Germany.” Early Modern German Literature 1350-1700, edited by Max Reinhart, Camden House, 2007, pp. 653-698.</p>
+				<p>Keyl, Stephen. “Tenorlied, Discantlied, Polyphonic lied: Voices and instruments in German secular polyphony of the Renaissance.” Early Music, vol. 20, no. 3, 1992, pp. 434–445.</p>
+			</notesStmt>
+			<sourceDesc>
+				<p>Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.24r</p>
+				<p></p>
+				<listWit>
+					<witness xml:id="Transcription">"Mein hertz hat sich mit lieb verpflicht"</witness>
+					<witness xml:id="Translation">"My heart has made a pact with love"</witness>
+				</listWit>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+            	<p>"My heart has made a pact with love" is published by <hi rend="italic">The Global Medieval Sourcebook (GMS)</hi>, a free, open access, and open source compendium of medieval texts in their original languages and in English translation. <hi rend="italic">GMS</hi> comprises computer-readable transcriptions or editions alongside new translations of texts dating from the ninth to the sixteenth century and originating in Europe, North Africa, the Middle East, and Asia. The <hi rend="italic">GMS</hi> platform includes critical introductions as well as sources for further reading.</p>
+         	</projectDesc>
+			<editorialDecl>
+	        	<p>Transcriptions and translations are encoded in XML conforming to TEI (P5) guidelines. The original-language text is contained within &lt;lem&gt; tags and translations within &lt;rdg&gt; tags.</p>
+        		<interpretation>
+        			<p>Texts are translated into modern American English with maximum fidelity to the original text, except where it would impair comprehension or good style. Archaisms are preserved where they do not conflict with the aesthetic of the original text. Scribal errors and creative translation choices are marked and discussed in the critical notes.</p>
+        			<p>Abbreviations in the Old High German text are expanded, spelling and punctuation otherwise follow the manuscript.</p>
+				</interpretation>
+				<segmentation>
+				</segmentation>
+			</editorialDecl>
+			<variantEncoding method="parallel-segmentation" location="internal"/>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic url="oeglin_20.jpg" xml:id="oeglin_20"/>
+		<graphic url="oeglin_20_notes.jpg" xml:id="oeglin_20_notes"/>
+	</facsimile>
+	<text>
+		<front>
+			<head>
+				<title>
+					<app>
+						<lem wit="#Transcription">Mein hertz hat sich mit lieb verpflicht</lem>
+						<rdg wit="#Translation">My heart has made a pact with love</rdg>
+					</app>
+				</title>
+			</head>
+		</front>
+		<body>
+			<pb ed="#Transcription" facs="#oeglin_20"/>
+			<pb ed="#Transcription" facs="#oeglin_20_notes"/>
+			<fw facs="#oeglin_20" type="header" place="margin-topright"></fw>
+			<fw facs="#oeglin_20_notes" type="header" place="margin-topright"></fw>
+			<pb ed="#Translation" facs="#oeglin_20"/>
+			<pb ed="#Translation" facs="#oeglin_20_notes"/>
+			<fw facs="#oeglin_20" type="header" place="margin-topright"></fw>
+			<fw facs="#oeglin_20_notes" type="header" place="margin-topright"></fw>
+			<s n="1">	
+				<app loc="clause1">
+					<lem wit="#Transcription">
+						Mein hertz hat sich mit lieb verpflicht / zů dir 
+					</lem>
+				</app>
+				<app loc="clause2">
+					<lem wit="#Transcription">
+						mich irrt auch nicht / des klaffers dicht / 
+					</lem>
+				</app>
+				<app loc="clause3">
+					<lem wit="#Transcription">
+						ob jm sein hals zerpricht / durch falschen has 
+					</lem>
+				</app>
+				<app loc="clause4">
+					<lem wit="#Transcription">
+						auch bösen neyd / sein gifftig schneyd /
+					</lem>
+				</app>
+				<app loc="clause5">
+					<lem wit="#Transcription">
+						glaub das jch dich darumb nit meyd / 
+					</lem>
+				</app>
+				<app loc="clause6">
+					<lem wit="#Transcription">
+						kayn unmůt leid / 
+					</lem>
+				</app>
+				<app loc="clause7">
+					<lem wit="#Transcription">
+						und wer er noch so gescheyd.
+					</lem>
+				</app>
+				<app loc="clause1">
+					<rdg wit="#Translation">
+						My heart has made a pact with love for you.
+					</rdg>
+				</app>
+				<app loc="clause2">
+					<rdg wit="#Translation">
+						The slanderer’s lies won’t lead me astray;
+					</rdg>
+				</app>
+				<app loc="clause3">
+					<rdg wit="#Translation">
+						even if he broke his neck because of his false hate 
+					</rdg>
+				</app>
+				<app loc="clause4">
+					<rdg wit="#Translation">
+						 and the poisoned blade of his base envy:
+					</rdg>
+				</app>
+				<app loc="clause5">
+					<rdg wit="#Translation">
+						Believe me, I will not avoid you because of this
+					</rdg>
+				</app>
+				<app loc="clause6">
+					<rdg wit="#Translation">
+						and won’t tolerate any trouble
+					</rdg>
+				</app>
+				<app loc="clause7">
+					<rdg wit="#Translation">
+						however sly he may be.
+					</rdg>
+				</app>
+			</s>
+			<s n="2">
+				<app loc="clause8">
+					<lem wit="#Transcription">
+						Du bist meins gfallens uberal / 
+					</lem>
+				</app>
+				<app loc="clause9">
+					<lem wit="#Transcription">
+						nach wunsch unnd rechter wal / 
+					</lem>
+				</app>
+				<app loc="clause10">
+					<lem wit="#Transcription">
+						frewd one zal / han ich von dir zumal / 
+					</lem>
+				</app>
+				<app loc="clause11">
+					<lem wit="#Transcription">
+						an die doch gar kayn mangel ist / 
+					</lem>
+				</app>
+				<app loc="clause12">
+					<lem wit="#Transcription">
+						falsch red ist mist / 
+					</lem>
+				</app>
+				<app loc="clause13">
+					<lem wit="#Transcription">
+						deshalb nicht schafft des klaffers list / zů kayner frist /
+					</lem>
+				</app>
+				<app loc="clause14">
+					<lem wit="#Transcription">
+						man ways wol wer er ist.
+					</lem>
+				</app>
+				<app loc="clause8">
+					<rdg wit="#Translation">
+						I’ve fallen for you above all things
+					</rdg>
+				</app>
+				<app loc="clause9">
+					<rdg wit="#Translation">
+						following my desire and true choice
+					</rdg>
+				</app>
+				<app loc="clause10">
+					<rdg wit="#Translation">
+						You above all bring me infinite joy.
+					</rdg>
+				</app>
+				<app loc="clause11">
+					<rdg wit="#Translation">
+						You are completely flawless,
+					</rdg>
+				</app>
+				<app loc="clause12">
+					<rdg wit="#Translation">
+						the deceitful talk is garbage,
+					</rdg>
+				</app>
+				<app loc="clause13">
+					<rdg wit="#Translation">
+						that’s why the trickery of a slanderer never achieves anything;
+					</rdg>
+				</app>
+				<app loc="clause14">
+					<rdg wit="#Translation">
+						his ways are well known to everybody.
+					</rdg>
+				</app>
+			</s>
+			<s n="3">
+				<app loc="clause15">
+					<lem wit="#Transcription">
+						Was glücks ich im wünsch und gan / 
+					</lem>
+				</app>
+				<app loc="clause16">
+					<lem wit="#Transcription">
+						das gee den schwetzer an / 
+					</lem>
+				</app>
+				<app loc="clause17">
+					<lem wit="#Transcription">
+						sein untrew kann / nit unvergolten stan / 
+					</lem>
+				</app>
+				<app loc="clause18">
+					<lem wit="#Transcription">
+						erscheinen wird in kurtzer zeit / 
+					</lem>
+				</app>
+				<app loc="clause19">
+					<lem wit="#Transcription">
+						  
+					</lem>
+				</app>
+				<app loc="clause20">
+					<lem wit="#Transcription">
+						an seinem plerr mir gar nichtz leyt / 
+					</lem>
+				</app>
+				<app loc="clause21">
+					<lem wit="#Transcription">
+						es felt im weit / 
+					</lem>
+				</app>
+				<app loc="clause22">
+					<lem wit="#Transcription">
+						mein hertz sich dir ergeit./ 
+					</lem>
+				</app>
+				<app loc="clause15">
+					<rdg wit="#Translation">
+						However much fortune I wish and grant him,
+					</rdg>
+				</app>
+				<app loc="clause16">
+					<rdg wit="#Translation">
+						the windbag may enjoy,
+					</rdg>
+				</app>
+				<app loc="clause17">
+					<rdg wit="#Translation">
+						his faithlessness cannot go unrepaid.
+					</rdg>
+				</app>
+				<app loc="clause18">
+					<rdg wit="#Translation">
+						We’ll find out soon 
+					</rdg>
+				</app>
+				<app loc="clause19">
+					<rdg wit="#Translation">
+						how loud he screams,
+					</rdg>
+				</app>
+				<app loc="clause20">
+					<rdg wit="#Translation">
+						none of his blabbering will distract me;
+					</rdg>
+				</app>
+				<app loc="clause21">
+					<rdg wit="#Translation">
+						he’s way off the mark.
+					</rdg>
+				</app>
+				<app loc="clause22">
+					<rdg wit="#Translation">
+						I commend my heart to you.
+					</rdg>
+				</app>
+			</s>
+		</body>
+	</text>
+</TEI>
+
+
+<!--
+
+	Oeglin 20
+
+		TEI Encoding Specifications:
+
+			<lem> = transcription
+
+			<rdg> = translation
+
+			Tag numbering:
+				(<X> for example)
+				<X n="1"> 
+			
+			Stanza break:
+				<app>
+					<lem wit="#Transcription"><milestone unit="stanza"/></lem>
+					<rdg wit="#Translation"><milestone unit="stanza"/></rdg>
+				</app>
+
+			Special Characters:
+				Visit: http://folk.uib.no/hnooh/mufi/specs/MUFI-CodeChart-4-0.pdf
+				This chart is of the Medieval Unicode Font Initiative. In order to 
+				include one of these characters, enter the ampersand and following
+				letters followed by a semicolon (e.g. &odot;).
+
+			Language change: 
+				When the text changes language, use an extra modifier in your tag. 
+
+				For example: (a text changes to Latin)
+					<l lang="la" n="4">
+						<app>
+							<lem wit="#Transcription"></lem>
+							<rdg wit="#Translation"></rdg>
+						</app>
+					</l>
+
+				The modifier (xml:lang="?") is the critical insertion. 
+
+				Find the two letter identifier for the language you wish to specify 
+				@ http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
+				in the subtag category
+-->

@@ -1,0 +1,1079 @@
+---
+# Only the main Sass file needs front matter, rest is included from site.sass.sass_dir
+sitemap:
+  exclude: true
+---
+@charset "utf-8";
+
+$baseurl: "{{ site.baseurl }}";
+$splashimageurl: "{{ site.splashimage | relative_url }}";
+$modulesplashimageurl: "{{ site.modulesplashimage | relative_url }}";
+
+@import "functions.scss";
+
+$fontsfolder: '../fonts';
+
+@mixin font-face($style-name, $file, $folder, $category:"",$weight:"") {
+  $filepath: $fontsfolder + "/" + $folder + "/" + $file;
+  @font-face {
+      font-family: "#{$style-name}";
+      src: url($filepath + $weight+"-webfont.eot");
+      src: url($filepath + $weight+"-webfont.eot?#iefix") format('embedded-opentype'), url($filepath + $weight+"-webfont.woff") format('woff'), url($filepath + $weight+".ttf")  format('truetype'), url($filepath + $weight+"-webfont.svg#" + $style-name + "") format('svg');
+      @if($weight == 'bold') {
+          font-weight: 700;
+      }
+      @else {
+          font-weight: normal;
+      }
+  }
+  %#{$style-name} {
+      font: {
+          @if $category != "" {
+              family: "#{$style-name}", #{$category};
+          }
+          @else {
+              family: "#{$style-name}";
+          }
+      }
+  }
+}
+
+@include font-face("Noto Serif Condensed", "noto-serif-condensed", "noto-serif-condensed", "serif");
+@include font-face("Noto Serif Condensed Bold", "noto-serif-condensed", "noto-serif-condensed", "serif","bold");
+@include font-face("Noto Sans Light", "noto-sans-light", "noto-sans-light", "sans-serif");
+@include font-face("Noto Sans Light Italic", "noto-sans-light", "noto-sans-light", "sans-serif","italic");
+@include font-face("Noto Mono", "noto-mono", "noto-mono", "sans-serif");
+
+@import "01_settings_colors.scss";
+@import "02_settings_typography.scss";
+@import "03_settings_mixins_media_queries.scss";
+@import "04_settings_global.scss";
+@import "05_normalize.scss"; // normalize.css v3.0.2
+
+@import "foundation-components/top-bar";
+@import "foundation-components/accordion";
+@import "foundation-components/alert-boxes";
+@import "foundation-components/breadcrumbs";
+@import "foundation-components/block-grid";
+@import "foundation-components/button-groups";
+@import "foundation-components/buttons";
+@import "foundation-components/clearing";
+@import "foundation-components/dropdown";
+@import "foundation-components/dropdown-buttons";
+@import "foundation-components/flex-video";
+@import "foundation-components/forms";
+@import "foundation-components/grid";
+
+@include exports("grid") {
+  @if $include-html-grid-classes {
+    @media #{$middlebar-up} {
+      @include grid-html-classes($size:medium);
+      // Old push and pull classes
+      @for $i from 0 through $total-columns - 1 {
+        .push-#{$i} {
+          @include grid-column($push:$i, $collapse:null, $float:false);
+        }
+        .pull-#{$i} {
+          @include grid-column($pull:$i, $collapse:null, $float:false);
+        }
+      }
+    }
+  }
+}
+
+@import "foundation-components/inline-lists";
+@import "foundation-components/keystrokes";
+@import "foundation-components/panels";
+@import "foundation-components/reveal";
+@import "foundation-components/side-nav";
+@import "foundation-components/sub-nav";
+@import "foundation-components/tables";
+@import "foundation-components/thumbs";
+@import "foundation-components/top-bar";
+@import "foundation-components/type";
+@import "foundation-components/visibility";
+
+@import "06_typography.scss";
+@import "07_layout.scss";
+@import "foundation-components/grid";
+@import "09_elements.scss";
+
+{% if site.asciidoctor-enabled == true %}
+@import "10_asciidoc.scss";
+{% endif %}
+
+@import "11_syntax-highlighting.scss";
+
+@function headings($from:1, $to:6) {
+  @if $from == $to {
+      @return 'h#{$from}';
+  } @else {
+      @return 'h#{$from},' + headings($from+1, $to);
+  }
+}
+
+p a,
+article a {
+  font-weight: normal;
+  &:hover{
+    color: $red;
+    text-decoration: underline;
+  }
+}
+#{headings(1,6)} {
+  margin-top: 1em;
+  &+h1{
+    margin-top: 0.25em;
+  }
+  &+h2{
+    margin-top: 0.25em;
+  }
+  &+h3{
+    margin-top: 0.25em;
+  }
+  &+h4{
+    margin-top: 0.25em;
+  }
+  &+h5{
+    margin-top: 0.25em;
+  }
+  &+h6{
+    margin-top: 0.25em;
+  }
+}
+
+.hide{
+  display: none;
+}
+#frontsplash{
+  #sitetitle {
+    max-width:10em;
+  }
+}
+
+p{
+  line-height: 1.8rem;
+  padding: 0.5em 0;
+  margin-bottom: 0.25rem;
+}
+code{
+  background-color: unset;
+  background: unset;
+  border: none;
+}
+.panel {
+  margin-bottom: 2rem;
+}
+#lunrsearchresults {
+  width: 100%;
+  p{
+    margin: $topbar-height/2 0 0;
+  }
+  ul {
+    list-style: none;
+    margin: $topbar-height/2 0;
+    li {
+      width: 100%;
+      padding: 1rem 0;
+      font-weight: normal;
+      span{
+        display:block;
+        width:100%;
+      }
+      .title{
+        font-size: 1.3rem;
+      }
+      a{
+        color: $red;
+        font-weight: bold;
+        &:hover{
+
+        }
+      }
+    }
+  }
+}
+*:target{
+  padding-top:6rem;
+  transition: padding-top 1s ease-out;
+}
+.top-bar-section{
+  z-index: 4;
+  width: 100%;
+  a{
+    text-decoration: underline;
+    text-transform: none;
+    &:hover{
+      color: $red;
+    }
+  }
+  ul{
+    background-color: $white;
+    li{
+      background-color: $white;
+      &.divider:last-of-type {
+        width: 0!important;
+      }
+      & > a{
+        font-size: 1.2rem;
+      }
+      &:not(.has-dropdown):not(.logo):not(.alternateprefix){
+        & > a {
+          &:before {
+            left: 0.3rem;
+            top: 0.7rem;
+          }
+        }
+      }
+      &.alternateprefix{
+        & > a{
+          &:before{
+            left: 0.2rem;
+            top: 0.95rem;
+          }
+        }
+      }
+    }
+  }
+  .dropdown{
+    li{
+      background-color: $white;
+      a{
+        padding: 15px 0 15px 1.0416666667rem;
+      }
+      &.back{
+        padding: 5px 0 5px 0;
+        font-family: iconfont;
+        font-size: 2rem;
+        font-weight: bold;
+        a{
+          font-family: iconfont;
+          text-decoration: none;
+          font-size: 2rem;
+          font-weight: bold;
+          &:before{
+            content: unset!important;
+          }
+        }
+      }
+    }
+  }
+  .has-dropdown {
+    & > a {
+      &:before {
+        left: 0;
+        top: 1rem;
+      }
+    }
+  }
+}
+
+#footer{
+  color: $white;
+  a {
+    color: $white;
+    text-decoration: underline;
+    &:hover{
+      color: $grey;
+    }
+  }
+  h5{
+    font-family: $font-family-monospace;
+    text-transform: capitalize;
+    font-size: 1.1rem;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    text-decoration: none;
+  }
+  #dhlogobox {
+    float: right;
+  }
+}
+#subfooter {
+  border-top: 2px $white solid;
+  padding: 1.25rem 0;
+  font-family: $font-family-sans-serif;
+  a {
+    color: $white;
+    text-decoration: underline;
+    &:hover{
+      color: $grey;
+    }
+  }
+  ul{
+    margin: 0;
+    li {
+      margin-left: 0;
+      margin-right: 0.5rem;
+      height: 2rem;
+      line-height: 2rem;
+    }
+  }
+}
+
+.breadcrumbs {
+  margin-bottom: 2rem;
+  &>*{
+    text-transform: capitalize;
+    &:before{
+      content: unset;
+    }
+    &:first-child:before{
+      content: unset;
+    }
+  }
+}
+
+[aria-label="breadcrumbs"] [aria-hidden="true"]:after {
+  content: "";
+}
+#page-meta, #page-meta a {
+  color: $black;
+}
+#dhlg-logo {
+  display: inline-block;
+  margin: auto;
+  max-width: 200px;
+}
+.dhlg-menu-logo {
+  height: 100%;
+  padding: 0.5em 1em;
+}
+.show-for-small-only {
+  width: 70%;
+  float: left;
+}
+.logo{
+  width: 13rem;
+  display: none;
+}
+#cmu-logo{
+  margin-top: 1rem;
+}
+.morse{
+  font-size: 2.7rem;
+  font-family: "Raleway";
+  color: $white !important;
+  margin-top: 0;
+  line-height: 2.6rem;
+  margin-bottom: 4rem;
+}
+#sidemorse{
+  display: none;
+}
+
+#sidenav{
+  z-index: 4;
+  
+  #tocheader{
+    margin-bottom: 0;
+    margin-top: 0;
+    font-family: $font-family-sans-serif;
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    font-weight: 900;
+    pointer-events: auto;
+    &:after {
+      content: "\f107";
+      float: right;
+      cursor: pointer;
+      font-family: iconfont;
+    }
+    &.opentoc{
+      &:after {
+        transform: rotate(90deg);
+      }
+    }
+  }
+  ul#toc{
+    margin:1rem 0 0 0;
+    overflow-y: auto;
+    display: none;
+  }
+  li{
+    font-family: $font-family-monospace;
+    list-style: none;
+    font-size: rem-calc(14);
+    cursor: pointer;
+    &:before {
+      content: "\2014";
+      display: inline-block;
+      width: 1rem;
+      font-family: $font-family-monospace;
+      top:0;
+      cursor: pointer;
+      pointer-events: none;
+    }
+    &:hover{
+      color: $red;
+    }
+  }
+  .morse{
+    display: none;
+  }
+}
+.projectbox{
+  float: left!important;
+  .videothumbnail {
+    display: block;
+    margin: auto;
+  }
+  p{
+    font-size: 0.9rem;
+    line-height: 1.6rem;
+    letter-spacing: 0.03rem;
+    margin: 1rem 0;
+    &.source_disciplines{
+      font-family: $font-family-monospace;
+      #text-transform: uppercase;
+      font-size: 0.75rem;
+      img {
+        height: 18px;
+      }
+    }
+    &+p{
+      margin-top: 0;
+    }
+    &.strong{
+      margin: 0;
+    }
+  }
+  h4{
+    font-family: $font-family-sans-serif;
+    text-transform: uppercase;
+    line-height: 1.4rem;
+    font-size: 1.1rem;
+    margin: 1rem 0 0;
+    font-weight: bold;
+    font-style: normal;
+  }
+  >a{
+    margin: 1rem 0;
+  }
+}
+.button{
+  color: $black!important;
+  background-color: $white!important;
+  border: solid 1px $black!important;
+  font-size: 0.9rem;
+  padding: 0.75rem 1rem;
+  font-weight: normal;
+  font-family: $font-family-sans-light;
+  &:hover{
+    color: $white!important;
+    background-color: $black!important;
+  }
+}
+
+#pagetitle {
+  font-size: 3em;
+  font-weight: bold;
+  &.landing{
+    margin-top: 4rem;
+  }
+}
+
+.circlebg{
+  &.contribution{
+  }
+}
+
+h1.title {
+  font-size: 3em;
+  font-weight: bold;
+}
+#main {
+  min-height: 300px;
+  h2{
+    font-family: $font-family-sans-serif;
+  }
+}
+
+#pagebottom{
+  padding: 60px 0 10px 0;
+}
+.selectedtocitem{
+  color: $red !important;
+}
+#contributor{
+  margin-bottom: 5rem;
+  a{
+    font-weight:bold;
+    color: $red;
+    font-style: unset;
+  }
+  p{
+    margin-bottom: 0.5em;
+    padding: 0;
+  }
+  .sourceinfo{
+    text-transform: uppercase;
+    font-family: $font-family-monospace;
+    color: $black;
+    margin-bottom: 2rem;
+    img{
+      height: 1.5rem;
+      width: 1.5rem;
+      vertical-align: middle;
+    }
+    a{
+      font-weight:normal;
+      text-decoration: underline;
+      color: $black;
+    }
+  }
+  .authorbio{
+
+  }
+}
+
+#pagemetadata{
+  font-family: $font-family-monospace;
+  font-size: 0.7rem;
+  color: $grey-6;
+  font-weight: normal;
+  .githuburl{
+    color: $grey-6;
+    padding: 5px 0;
+    display: block;
+    &:hover{
+      background: transparent;
+      color: $black;
+      text-decoration: underline;
+    }
+  }
+}
+
+#frontpage{
+  margin-top: 4rem;
+  #frontcontents{
+    p{
+      font-size: 0.9rem;
+    }
+    a.visited{
+      border-bottom: unset;
+    }
+  }
+}
+#navigation{
+  margin-top:0;
+}
+
+#frontpage_logo {
+  display: block;
+  margin-bottom: 5em;
+  max-height: 25em;
+}
+
+#frontpage_cmu_logo {
+  display: block;
+  width: 125px;
+}
+
+@media #{$large-up} {
+  #frontpage_cmu_logo {
+    position: fixed;
+    top: 50px;
+    right: 50px;
+  }
+}
+
+#frontmenu{
+  display: none;
+}
+
+blockquote {
+  margin: 0.5em 0;
+  padding: 1.5em 0;
+  background-color: $white;
+  border: none;
+  &:before{
+    content: unset;
+  }
+  &:after{
+    content: unset;
+  }
+  p {
+    border-bottom: solid 2px $cobalt;
+    border-top: solid 2px $cobalt;
+    margin: 2em 0;
+    font-family: $font-family-monospace;
+    font-style: normal;
+    text-transform: uppercase;
+    padding: 2em;
+    line-height: 2rem;
+    letter-spacing: 0.03em;
+    color: $cobalt;
+    font-size: 1rem;
+    &:before{
+      display:inline;
+      content:"\201C";
+      color: $cobalt;
+    }
+    &:after{
+      display:inline;
+      content:"\201D";
+      color: $cobalt;
+    }
+  }
+}
+blockquote.tip {
+  background-color: $white;
+  margin: 1rem;
+  padding: 2rem 1.5rem;
+  >*:first-child{
+    font-family: "Noto Serif Condensed", Georgia, Times, serif!important;
+    font-weight: bold;
+    font-size: 2.6rem;
+    text-align: center;
+    color: $black;
+    width: 100%;
+  }
+  p {
+    border: none;
+    text-align: center;
+    padding: 0;
+    margin: 1rem 0;
+    &.morse{
+      width: 100%;
+      color: $white;
+      font-size: 2rem;
+      line-height: 2rem;
+    }
+    &.tiptext{
+      width: 100%;
+      font-size: 0.9rem;
+      letter-spacing: unset;
+      line-height: 1.3rem;
+      color: $black;
+      padding: 0;
+      text-transform: unset;
+    }
+    &:after{
+      content: unset;
+    }
+    &:before{
+      content: unset;
+    }
+  }
+}
+
+body.frontpage{
+	.dhlg-menu-logo{
+		display:none;
+	}
+	#navigation{
+		margin-top:0;
+		.top-bar{
+			visibility:hidden;
+		}
+	}
+}
+#topics{
+  .content{
+    &.circlebg{
+      background: unset;
+      &:before {
+        content: '';
+        position: absolute;
+        background-position: -140px;
+        height: 140px;
+        width: 140px;
+        left: -35px;
+        z-index:-2;
+      }
+      &.contribution{
+        background: unset;
+        &:before {
+          background-image: url(#{$baseurl}/assets/img/circle-cobalt-large.svg);
+        }
+      }
+    }
+    h3{
+      padding-top: 40px;
+      position: relative;
+      &:before {
+        visibility: hidden;
+        content: "\002A";
+        display:inline;
+        color: $red;
+        font-weight: bold;
+        font-size: 3rem;
+        line-height: 1em;
+        font-family: $font-family-sans-serif;
+        left: 0px;
+        top: 8px;
+        position: absolute;
+      }
+    }
+    &.selectedtopic{
+      h3{
+        &:before {
+          visibility: visible;
+        }
+      }
+    }
+  }
+}
+
+@media #{$small-only} {
+
+}
+
+@media #{$medium-up} {
+  #dhlg-logo {
+    width: 60%;
+    max-height: 7rem;
+  }
+  #cmu-logo {
+    margin-top: 0;
+  }
+  h1.title {
+    margin-top: 2rem;
+    margin-bottom: 0;
+  }
+  #main {
+    min-height: 340px;
+  }
+  #frontmenu {
+    #{$default-float}: 0;
+    position: relative;
+    width: auto;
+    @include single-transition($default-float, $topbar-transition-speed);
+
+    padding: 6em 0 0;
+    height: auto;
+    display: block;
+    font-size: $rem-base;
+    margin: 0;
+    list-style: none;
+    &>li{
+      padding-left: 1rem;
+      &:hover{
+        transition: none;
+        line-height: 1rem;
+      }
+      & > a {
+        &:before {
+          content: "\2014";
+          display: block;
+          width: 0;
+          height: 0;
+          position: absolute;
+          font-family: $font-family-monospace;
+          left: 1.2rem;
+          top: 0.9rem;
+          line-height: 1rem;
+        }
+      }
+      &.has-dropdown{
+        & > a {
+          &:before {
+            //content: "\FF0B";
+            top: 1rem;
+            line-height: 1rem;
+          }
+        }
+      }
+    }
+    li {
+      position: relative;
+      & > a {
+        display: block;
+        color: $topbar-link-color;
+        padding: 1rem 0 1rem 0;
+        padding-#{$default-float}: $topbar-link-padding;
+        font-family: $topbar-link-font-family;
+        font-size: 1rem;
+        font-weight: $topbar-link-weight;
+        text-transform: $topbar-link-text-transform;
+        text-decoration: underline;
+      }
+
+      // Apply the hover link color when it has that class
+      &:hover:not(.has-form) > a {
+        color: $topbar-link-color-hover;
+      }
+      // Apply the active link color when it has that class
+      &.active > a {
+        color: $topbar-link-color-active;
+        &:hover:not(.logo) {
+          color: $topbar-link-color-active-hover;
+        }
+      }
+
+      &.alternateprefix {
+        & > a {
+          &:before {
+            //content: "\003F" !important;
+            top: 1rem!important;
+          }
+        }
+      }
+    }
+
+    // Styling for list items that have a dropdown within them.
+    .has-dropdown {
+      position: relative;
+    }
+
+    // Styling elements inside of dropdowns
+    .dropdown {
+      padding: 0;
+      line-height: 1rem;
+      list-style: none;
+      display: none;
+      @include single-transition($default-float, $topbar-transition-speed);
+      li {
+        width: 100%;
+        height: auto;
+        line-height: 1rem;
+        position: relative;
+        a {
+          padding: 0.75rem 1rem;
+        }
+        & > a {
+          &:before {
+            content: "\2014";
+            display: block;
+            width: 0;
+            height: 0;
+            position: absolute;
+            font-family: $font-family-monospace;
+            left: 0.3rem;
+            top: 0.7rem;
+            line-height: 1rem;
+          }
+        }
+        &.has-dropdown{
+          & > a {
+            &:before {
+              //content: "\FF0B";
+              top: 0.8rem;
+              left: 0.2rem;
+              line-height: 1rem;
+            }
+          }
+        }
+      }
+      .dropdown{
+        li{
+          &>a{
+            background-color: transparent;
+          }
+        }
+      }
+    }
+  }
+  .projectbox {
+    min-height: 28rem;
+    >a{
+      margin: unset;
+    }
+  }
+  .similarprojects {
+    margin-bottom: 4rem;
+    .projectbox {
+      min-height: 23rem;
+      h4 {
+        margin: 1rem 0 0;
+      }
+      p {
+        margin: 1rem 0;
+        &+p{
+          margin-top: 0;
+        }
+        &.strong{
+          margin: 0;
+        }
+      }
+    }
+  }
+  .breadcrumbs{
+    margin-bottom: 2rem;
+  }
+  blockquote {
+    p {
+      padding: 2em 4em;
+    }
+  }
+  blockquote.tip {
+    margin: 1rem 8rem;
+    p {
+      display: inline-block;
+      &.morse{
+        width: 24%;
+      }
+      &.tiptext{
+        width: 74%;
+        padding: 0 2rem;
+      }
+    }
+  }
+  #sidenav{
+    transition: all 0.5s ease 0s;
+  }
+}
+
+@media #{$large-up} {
+  .circlebg{
+    background: url(#{$baseurl}/assets/img/circle-pale-amber.svg) no-repeat 80px 10px;
+    background-size: 320px 320px;
+    &.contribution{
+      background: url(#{$baseurl}/assets/img/circle-cobalt-large.svg) no-repeat 80px 10px;
+      background-size: 320px 320px;
+    }
+  }
+  #sidemorse{
+    overflow: hidden;
+    display: block;
+    .morse{
+      color: $white !important;
+      text-align: right;
+      width: 55%;
+      float: right;
+      opacity: 0.5;
+      font-size: 2.7rem;
+      line-height: 3rem;
+      opacity: 0.5;
+      margin-top: 600px;
+    }
+  }
+  #main {
+    margin-top: 2rem;
+  }
+  #footer{
+    #dhlogobox {
+      float: left;
+    }
+  }
+  #dhlg-logo {
+    max-height: unset;
+    max-width: unset;
+  }
+  body.frontpage{
+    #navigation{
+      display:none;
+    }
+  }
+  #frontpage{
+    margin-top: 6rem;
+  }
+  #sidenav{
+    z-index: unset;
+    #tocheader{
+      pointer-events: none;
+      &:after {
+        visibility: hidden;
+      }
+    }
+    .morse{
+      display: block;
+      padding-top: 0;
+      margin-bottom: 1rem;
+    }
+    ul#toc{
+      display: block;
+    }
+  }
+  #pagetitle{
+    &.landing{
+      margin-top: 0;
+    }
+  }
+  .logo{
+    display:inline-block;
+  }
+  #navigation {
+    &.fixed {
+      border-bottom: solid 2px $grey-5;
+    }
+  }
+  .top-bar-section {
+    ul{
+      &.right{
+        margin-right: 0.75rem;
+      }
+      &.left{
+        margin-left: 0.75rem;
+      }
+      li{
+        & >a{
+          font-size: $topbar-link-font-size;
+        }
+      }
+    }
+    ul li{
+      &:not(.has-dropdown):not(.logo):not(.alternateprefix){
+        & > a {
+          &:before {
+            top:0;
+          }
+        }
+      }
+      & > a{
+        padding: 12px 0 12px 0;
+      }
+      &.alternateprefix{
+        & > a{
+          &:before{
+            left: 0.3rem;
+            top: 0;
+          }
+        }
+      }
+    }
+    & > ul{
+      & > li:not(.logo):not(.divider){
+      }
+      &.right{
+        &>li.logo{
+          width: 230px;
+          &>a{
+            padding:0!important;
+          }
+        }
+      }
+    }
+    .has-dropdown{
+      & > a{
+        &:before{
+          left: 0.3em;
+          top: 0.1em;
+        }
+      }
+    }
+  }
+  #topics{
+    .content{
+      &.selectedtopic{
+        h3{
+          &:before {
+            top: unset;
+            left: -30px;
+            visibility: visible;
+          }
+        }
+      }
+    }
+  }
+  #pagebottom{
+    padding: 160px 0 10px 0;
+  }
+  .similarprojects{
+    .projectbox{
+      >a{
+        margin: unset;
+      }
+    }
+  }
+}
+@media #{$middlebar-up} {
+
+}
+
+@media #{$xlarge-up} {
+
+}
+
+@import "main.scss";

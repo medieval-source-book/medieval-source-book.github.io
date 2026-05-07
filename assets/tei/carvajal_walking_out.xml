@@ -1,0 +1,276 @@
+<?xml-stylesheet href="../src/vmachine.xsl" type="text/xsl" ?><?xml-model href="../schema/vmachine.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../schema/vmachine.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!DOCTYPE TEI
+[
+<!ENTITY % Menota_entities SYSTEM
+'../menota/menota-entities.txt'   >
+%Menota_entities;]
+>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Walking out of an olive grove</title>
+				<author>Carvajal</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name>Simón Andrés Villegas</name>
+				</respStmt>
+				<respStmt>
+					<resp>Translation by</resp>
+					<name>Simón Andrés Villegas</name>
+				</respStmt>
+				<respStmt>
+					<resp>Introduction by</resp>
+					<name>Albert Lloret</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoded in TEI P5 XML by</resp>
+					<name>Danny Smith</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher><hi rend="italic">The Global Medieval Sourcebook</hi></publisher>
+				<availability>
+					<p><hi rend="italic">The Global Medieval Sourcebook</hi> is licensed under a Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International License.</p>
+				</availability>
+			</publicationStmt>
+			<notesStmt>
+					<p>This poem is a <hi rend="italic">serranilla</hi>, an evolution of the Provençal <hi rend="italic">pastorela</hi>. Written in short verse (<hi rend="italic">arte menor</hi>), <hi rend="italic">serranillas</hi> narrate a courtly poet’s encounter with a mountain woman. This is one of six compositions in the genre by fifteenth-century author Carvajal (or Carvajales). Very little is known about Carvajal’s life. His poetry is linked to the court of Alfonso the Magnanimous in Naples (r. 1442-1458) and to that of Alfonso’s son Ferrante (r. 1459-1494). In addition to his famous <hi rend="italic">serranillas</hi>, Carvajal is also known for his literary epistles and ballads.</p>
+
+				<p>In this piece the poet clearly followed in the footsteps of the Marquis of Santillana, Íñigo López de Mendoza, who also composed <hi rend="italic">serranillas</hi>. As the courtier tries to seduce a most beautiful mountain woman, his interest is met by her resistance and his own reawakened loyalty to his noble beloved back at court.</p>
+
+				<p>The poem is copied in Madrid, Biblioteca Nacional de España, VITR/17/7, fol. 136v-137r. This manuscript is a copy of the poetry collection known as the Cancionero de Estúñiga, ca. 1465. It has been digitized: http://bdh-rd.bne.es/viewer.vm?id=0000051837. It contains a compilation of mostly Castilian poems, including ballads, as well as a few Italian compositions. Their authors accompanied the King of Aragon, Alfonso the Magnanimous, in Naples in the mid-fifteenth century.</p>
+
+				<p>Carvajal. <hi rend="italic">Poesie</hi>. Edited by Emma Scoles. Edizioni dell’Ateneo, 1967.
+					Critical edition of Carvajal’s poetry.</p>
+
+				<p>Gerli, E. Michael. “Chapter 6. The Libro in the Cancioneros.” <hi rend="italic">Reading, Performing, and Imagining the ‘Libro del Arcipreste’</hi>. University of North Carolina Press, 2016. esp. pp. 194-203.
+				Reassessment of Caravajal’s <hi rend="italic">serranilla</hi> in view of their intertextual relationship with the <hi rend="italic">Libro de buen amor</hi>.</p>
+
+				<p>Marino, Nancy F. <hi rend="italic">La serranilla española: notes para su historia e interpretación</hi>. Scripta Humanistica, 1987.
+				Study of the <hi rend="italic">serranilla</hi> genre, with attention to Carvajal’s poems in chapter 5.</p>
+
+
+				<note anchored="true"></note>
+			</notesStmt>
+			<sourceDesc>
+				 <p><ref target="http://bdh-rd.bne.es/viewer.vm?id=0000051837">Madrid, Biblioteca Nacional de España, VITR/17/7, fol. 130v-131r.</ref></p>
+				<listWit>
+					<witness xml:id="Transcription">Saliendo de un oliuar</witness>
+					<witness xml:id="Translation">Walking out of an olive grove</witness>
+				</listWit>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+            	<p>"Wandering lost, it was already night" is published by <hi rend="italic">The Global Medieval Sourcebook (GMS)</hi>, a free, open access, and open source compendium of medieval texts in their original languages and in English translation. <hi rend="italic">GMS</hi> comprises computer-readable transcriptions or editions alongside new translations of texts dating from the ninth to the sixteenth century and originating in Europe, North Africa, the Middle East, and Asia. The <hi rend="italic">GMS</hi> platform includes critical introductions as well as sources for further reading.  
+            </p> 
+         	</projectDesc>
+			<editorialDecl>
+	        	<p>Transcriptions and translations are encoded in XML conforming to TEI (P5) guidelines. The original-language text is contained within &lt;lem&gt; tags and translations within &lt;rdg&gt; tags.</p>
+        		<interpretation>
+        			<p>Texts are translated into modern American English with maximum fidelity to the original text, except where it would impair comprehension or good style. Archaisms are preserved where they do not conflict with the aesthetic of the original text. Scribal errors and creative translation choices are marked and discussed in the critical notes.</p>
+				</interpretation>
+				<segmentation>
+				</segmentation>
+			</editorialDecl>
+			<variantEncoding method="parallel-segmentation" location="internal"/>
+		</encodingDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<head>
+				<title type="main">
+					<app>
+						<lem wit="#Transcription"><!--Title as should be displayed above text. Put nothing here if the title in the text matches the title used elsewhwere--></lem>
+						<rdg wit="#Translation"><!--Title as should be displayed above text. Put nothing here if the title in the text matches the title used elsewhwere--></rdg>
+					</app>
+				</title>
+				<title type="sub">
+					<app>
+						<lem wit="#Transcription"><!--Subtitle in original language--></lem>
+						<rdg wit="#Translation"><!--Subtitle in English--></rdg>
+					</app>
+				</title>
+			</head>
+		</front>
+		<body>
+			<lg n="1" type="stanza">
+				<l n="1">
+					<app>
+						<lem wit="#Transcription">Saliendo de un oliuar,</lem>
+						<rdg wit="#Translation">Walking out of an olive grove,</rdg>
+					</app>
+				</l>
+				<l n="2">
+					<app>
+						<lem wit="#Transcription">mas fermosa que arreada,</lem>
+						<rdg wit="#Translation">Much prettier than dressed up,</rdg>
+					</app>
+				</l>
+				<l n="3">
+					<app>
+						<lem wit="#Transcription">vi serrana que tornar</lem>
+						<rdg wit="#Translation">I saw a mountain girl who</rdg>
+					</app>
+				</l>
+				<l n="4">
+					<app>
+						<lem wit="#Transcription">me fiso de mi iornada.</lem>
+						<rdg wit="#Translation">Made me come back from my travel.</rdg>
+					</app>
+				</l>
+			</lg>
+			<lg n="2" type="stanza">
+				<l n="5">
+					<app>
+						<lem wit="#Transcription">Torneme en su compannia</lem>
+						<rdg wit="#Translation">I went back to her company</rdg>
+					</app>
+				</l>
+				<l n="6">
+					<app>
+						<lem wit="#Transcription">por faldas de una montanna,</lem>
+						<rdg wit="#Translation">By the slopes of a mountain,</rdg>
+					</app>
+				</l>
+				<l n="7">
+					<app>
+						<lem wit="#Transcription">supplicando si’l plasia</lem>
+						<rdg wit="#Translation">And I begged if it would please her</rdg>
+					</app>
+				</l>
+				<l n="8">
+					<app>
+						<lem wit="#Transcription">de mostrarme su cabanna.</lem>
+						<rdg wit="#Translation">To show me her hut.</rdg>
+					</app>
+				</l>
+				<l n="9">
+					<app>
+						<lem wit="#Transcription">Dixo: “Non podeys librar,</lem>
+						<rdg wit="#Translation">She said, “You will not succeed,</rdg>
+					</app>
+				</l>
+				<l n="10">
+					<app>
+						<lem wit="#Transcription">sennor, aquesta uegada,</lem>
+						<rdg wit="#Translation">Sir, this time around,</rdg>
+					</app>
+				</l>
+				<l n="11">
+					<app>
+						<lem wit="#Transcription">que superfluo es demandar</lem>
+						<rdg wit="#Translation">For it is useless to demand</rdg>
+					</app>
+				</l>
+				<l n="12">
+					<app>
+						<lem wit="#Transcription">quien non suele dar nada”.</lem>
+						<rdg wit="#Translation">To her who never gives anything.”</rdg>
+					</app>
+				</l>
+			</lg>
+			<lg n="3" type="stanza">
+				<l n="13">
+					<app>
+						<lem wit="#Transcription">Si lealtad non me acordara</lem>
+						<rdg wit="#Translation">Had loyalty not awoken me,</rdg>
+					</app>
+				</l>
+				<l n="14">
+					<app>
+						<lem wit="#Transcription">de la mas lynda figura,</lem>
+						<rdg wit="#Translation">With her most beautiful face</rdg>
+					</app>
+				</l>
+				<l n="15">
+					<app>
+						<lem wit="#Transcription">del todo me enamorara</lem>
+						<rdg wit="#Translation">I would have completely fallen in love,</rdg>
+					</app>
+				</l>
+				<l n="16">
+					<app>
+						<lem wit="#Transcription">tanta ui su fermosura.</lem>
+						<rdg wit="#Translation">Such was the beauty I saw in her.</rdg>
+					</app>
+				</l>
+				<l n="17">
+					<app>
+						<lem wit="#Transcription">Dixe: “¿Que quereys mandar,</lem>
+						<rdg wit="#Translation">I said, “What can I do for you,</rdg>
+					</app>
+				</l>
+				<l n="18">
+					<app>
+						<lem wit="#Transcription">sennora, pues soys casada?</lem>
+						<rdg wit="#Translation">My lady, since you are married?</rdg>
+					</app>
+				</l>
+				<l n="19">
+					<app>
+						<lem wit="#Transcription">Que uos non quiero enoiar</lem>
+						<rdg wit="#Translation">I do not want to bother you</rdg>
+					</app>
+				</l>
+				<l n="20">
+					<app>
+						<lem wit="#Transcription">nin offender mi enamorada”.</lem>
+						<rdg wit="#Translation">Nor offend my beloved”.</rdg>
+					</app>
+				</l>
+			</lg>
+			<lg n="4" type="stanza">
+				<l n="21">
+					<app>
+						<lem wit="#Transcription">Replico: “Yd en buen hora,</lem>
+						<rdg wit="#Translation">She replied, “May you farewell;</rdg>
+					</app>
+				</l>
+				<l n="22">
+					<app>
+						<lem wit="#Transcription">non cures de amar uillana</lem>
+						<rdg wit="#Translation">Do not try to love a peasant,</rdg>
+					</app>
+				</l>
+				<l n="23">
+					<app>
+						<lem wit="#Transcription">pues seruis a tal sennora,</lem>
+						<rdg wit="#Translation">For you love such a lady,</rdg>
+					</app>
+				</l>
+				<l n="24">
+					<app>
+						<lem wit="#Transcription">non troques seda por lana,</lem>
+						<rdg wit="#Translation">You should not swap silk for wool,</rdg>
+					</app>
+				</l>
+				<l n="25">
+					<app>
+						<lem wit="#Transcription">njn querays de mi burlar</lem>
+						<rdg wit="#Translation">Or try to fool me,</rdg>
+					</app>
+				</l>
+				<l n="26">
+					<app>
+						<lem wit="#Transcription">pues sabeys que so enaienada”.</lem>
+						<rdg wit="#Translation">For you know well that I am not yours.”</rdg>
+					</app>
+				</l>
+				<l n="27">
+					<app>
+						<lem wit="#Transcription">Vi serrana que tornar</lem>
+						<rdg wit="#Translation">I saw a mountain girl who</rdg>
+					</app>
+				</l>
+				<l n="28">
+					<app>
+						<lem wit="#Transcription">me fiso de mi iornada.</lem>
+						<rdg wit="#Translation">Made me come back from my travel.</rdg>
+					</app>
+				</l>
+			</lg>
+		</body>
+	</text>
+</TEI>

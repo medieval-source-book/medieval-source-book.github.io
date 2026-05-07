@@ -1,0 +1,259 @@
+<?xml-stylesheet href="../src/vmachine.xsl" type="text/xsl" ?><?xml-model href="../schema/vmachine.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!DOCTYPE TEI SYSTEM "http://www.menota.org/menotaP5.dtd"
+[
+<!ENTITY % Menota_entities SYSTEM
+'http://www.menota.org/menota-entities.txt'   >
+%Menota_entities;]
+>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>The Song of Heinrich</title>
+				<author>Anonymous</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name>Hannah Frakes</name>
+				</respStmt>
+				<respStmt>
+					<resp>Translation by</resp>
+					<name>Hannah Frakes</name>
+				</respStmt>
+				<respStmt>
+					<resp>Edited by</resp>
+					<name>Björn Buschbeck</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoded in TEI P5 XML by</resp>
+					<name>Hannah Frakes and Danny Smith</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Global Medieval Sourcebook</publisher>
+				<availability>
+					<p><hi rend="italic">The Global Medieval Sourcebook</hi> is licensed under a Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International License.</p>
+				</availability>
+			</publicationStmt>
+			<notesStmt>
+				<p>De Heinrico (literally “of Heinrich,” and here translated as “The Song of Heinrich”) is a tenth-century historical narrative poem which gives an account of an Emperor called Otto greeting a Duke called Heinrich and handing over most of his power to him, though retaining his title. There has been considerable scholarly debate over who exactly Otto and Heinrich are, given that there are so many noblemen of those names in this period in Germany. The most popular explanations are that the poem is about either (1) Otto I the Great and his brother Heinrich, who were reconciled in 941 CE, or (2) Otto III, who was a small child when Heinrich the Quarrelsome was reconciled with the court and became regent in 991 CE. A further puzzle presents itself in line 14, where Otto greets Heinrich saying “Welcome Heinrich, both of you with the same name.” There is little scholarly consensus as to who the second Heinrich with the same name could be, with some scholars even suggesting this accepted translation is completely wrong. Both Otto and Heinrich are portrayed as humble Christians who do not covet power. The poem consists of eight stanzas, each with either three or four lines. The first half of each line is in Latin and the second half is in Old High German.</p>
+				<p>The poem survives in only one source, commonly referred to as the Cambridge Songs Manuscript (Carmina Cantabrigiensia), which contains many examples of Goliardic Medieval poetry that is mostly in Latin but includes some French and German vernacular poems as well. The Goliards were young clergymen and university students who became poets and writers and were often critical of the church. Scholars have speculated that the Cambridge Songs Manuscript may have been a songbook for wandering minstrels, though it is more likely to have belonged to a court. The original was probably compiled in France before the Norman Conquest in 1066 CE and was copied before being lost or destroyed, with the surviving copy making its way to the church of St. Augustine at Canterbury and eventually to Cambridge University. A number of the songs and poems in the manuscript were set to music by Carl Orff (1895-1982) in his famous cantata Carmina Burana.</p>
+				<p>Bostock, John Knight, Kenneth Charles King, and D. R. McLintock. A Handbook on Old High German Literature. Clarendon Press, 1976.</p>
+				<p>Murdoch, Brian. Old High German Literature. Twayne Publishers, 1983.</p>
+			</notesStmt>
+			<sourceDesc>
+				 <p>Cambridge University Library, <hi rend="italic">Codex Cantabrigiensis</hi>, C, MS Gg. 5.35</p>
+				<listWit>
+					<witness xml:id="Transcription">De Heinrico</witness>
+					<witness xml:id="Translation">The Song of Heinrich</witness>
+				</listWit>
+			</sourceDesc>
+		</fileDesc>
+		<projectDesc>
+            	<p>"The Song of Heinrich" is published by <hi rend="italic">The Global Medieval Sourcebook (GMS)</hi>, a free, open access, and open source compendium of medieval texts in their original languages and in English translation. <hi rend="italic">GMS</hi> comprises computer-readable transcriptions or editions alongside new translations of texts dating from the ninth to the sixteenth century and originating in Europe, North Africa, the Middle East, and Asia. The <hi rend="italic">GMS</hi> platform includes critical introductions as well as sources for further reading.</p>
+         	</projectDesc>
+         	<encodingDesc>
+			<editorialDecl>
+	        	<p>Transcriptions and translations are encoded in XML conforming to TEI (P5) guidelines. The original-language text is contained within &lt;lem&gt; tags and translations within &lt;rdg&gt; tags.</p>
+        		<interpretation>
+        			<p>Texts are translated into modern American English with maximum fidelity to the original text, except where it would impair comprehension or good style. Archaisms are preserved where they do not conflict with the aesthetic of the original text. Scribal errors and creative translation choices are marked and discussed in the critical notes.</p>
+        			<p>Abbreviations in the Old High German text are expanded, spelling and punctuation otherwise follow the manuscript.</p>
+			</interpretation>
+			<segmentation>
+			</segmentation>
+			</editorialDecl>
+			<variantEncoding method="parallel-segmentation" location="internal"/>
+		</encodingDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<head>
+				<title>
+					<app>
+						<lem wit="#Transcription">De Heinrico</lem>
+						<rdg wit="#Translation">The Song of Heinrich</rdg>
+					</app>
+				</title>
+			</head>
+		</front>
+		<body>
+			<lg type ="stanza">
+				<l n="1">
+					<app>
+						<lem wit="#Transcription">Nunc almus assis filius thero euuigero thiernun</lem>
+						<rdg wit="#Translation">Now help, kind son of the eternal Virgin,</rdg>
+					</app>
+				</l>
+				<l n="2">
+					<app>
+						<lem wit="#Transcription">benignus fautor mihi, thaz ig iz cosan muozi</lem>
+						<rdg wit="#Translation">my benevolent protector, so that I may tell</rdg>
+					</app>
+				</l>
+				<l n="3"><space quantity="10" unit="chars"></space>
+					<app>
+						<lem wit="#Transcription">de quodam duce, themo heron Heinriche,</lem>
+						<rdg wit="#Translation">of a certain duke, of Lord Heinrich,</rdg>
+					</app>
+				</l>
+				<l n="4">
+					<app>
+						<lem wit="#Transcription">qui cum dignitate thero Beiaro riche beuuarode.</lem>
+						<rdg wit="#Translation">who governed the realm of Bavaria with honor.</rdg>
+					</app>
+				</l>
+			</lg>
+			<lg type="stanza">
+				<l n="5">
+					<app>
+						<lem wit="#Transcription">Intrans nempe nuntius, then keisar namoda her thus:</lem>
+						<rdg wit="#Translation">Once there came a herald, who addressed the emperor thus:</rdg>
+					</app>
+				</l>
+				<l n="6">
+					<app>
+						<lem wit="#Transcription">›cur sedes‹ infit ›Otdo. ther unsar keisar guodo</lem>
+						<rdg wit="#Translation">“Why are you, our good emperor Otto, still sitting?” he asked.</rdg>
+					</app>
+				</l>
+				<l n="7">
+					<app>
+						<lem wit="#Transcription">hic adest Heinrich bringit her hera kuniglich.</lem>
+						<rdg wit="#Translation">“Heinrich is here, he brings a kingly entourage</rdg>
+					</app>
+				</l>
+				<l n="8">
+					<app>
+						<lem wit="#Transcription">dignum tibi fore thir seluemo ze sine.‹</lem>
+						<rdg wit="#Translation">that would be worthy of being your own.”</rdg>
+					</app>
+				</l>
+			</lg>
+			<lg type="stanza">
+				<l n="9">
+					<app>
+						<lem wit="#Transcription">Tunc surrexit Otdo, ther unsar keisar guodo,</lem>
+						<rdg wit="#Translation">Then Otto stood up, our good emperor,</rdg>
+					</app>
+				</l>
+				<l n="10">
+					<app>
+						<lem wit="#Transcription">perrexit illi obuiam inde uilo manig man.</lem>
+						<rdg wit="#Translation">and went towards him [Heinrich] together with many men</rdg>
+					</app>
+				</l>
+				<l n="11">
+					<app>
+						<lem wit="#Transcription">et excepit illum mid mihilon eron.</lem>
+						<rdg wit="#Translation">And he greeted him [Heinrich] with great honor</rdg>
+					</app>
+				</l>
+			</lg>
+			<lg type="stanza">
+				<l n="12">
+					<app>
+						<lem wit="#Transcription">Primitus quoque dixit: ›uuillicumo Heinrich,</lem>
+						<rdg wit="#Translation">First he said:  “Welcome, Heinrich,</rdg>
+					</app>
+				</l>
+				<l n="13">
+					<app>
+						<lem wit="#Transcription">ambo uos equiuoci, bethiu goda endi mi:</lem>
+						<rdg wit="#Translation">to both of you with the same name, from both God and me.</rdg>
+					</app>
+				</l>
+				<l n="14">
+					<app>
+						<lem wit="#Transcription">nec non et socii, uuillicumo sid gi mi.‹</lem>
+						<rdg wit="#Translation">And to your companions, too: you are welcome here.”<note type="critical" anchored="true">Literally: 'you are welcome to me'.</note></rdg>
+					</app>
+				</l>
+			</lg>
+			<lg type="stanza">
+				<l n="15">
+					<app>
+						<lem wit="#Transcription">Dato responso fane Heinriche so scono</lem>
+						<rdg wit="#Translation">After the greeting was returned in kind by Heinrich,</rdg>
+					</app>
+				</l>
+				<l n="16">
+					<app>
+						<lem wit="#Transcription">coniunxere manus. her leida ina in thaz godes hus:</lem>
+						<rdg wit="#Translation">they took each other by the hand. He [Otto] lead him to the church:</rdg>
+					</app>
+				</l>
+				<l n="17">
+					<app>
+						<lem wit="#Transcription">petierunt ambo thero godes genatheno.</lem>
+						<rdg wit="#Translation">both sought the grace of God.</rdg>
+					</app>
+				</l>
+			</lg>
+			<lg type="stanza">
+				<l n="18">
+					<app>
+						<lem wit="#Transcription">Oramine facto intfieng ina auer Otdo,</lem>
+						<rdg wit="#Translation">After the prayer Otto took him again [by the hand?]</rdg>
+					</app>
+				</l>
+				<l n="19">
+					<app>
+						<lem wit="#Transcription">duxit in concilium mit michelon eron</lem>
+						<rdg wit="#Translation">And lead him with great honor to the council</rdg>
+					</app>
+				</l>
+				<l n="20">
+					<app>
+						<lem wit="#Transcription">et admisit illi so uuaz so her þar hafode,</lem>
+						<rdg wit="#Translation">And granted him everything that he had at his disposal,</rdg>
+					</app>
+				</l>
+				<l n="21">
+					<app>
+						<lem wit="#Transcription">preter quod regale, thes thir Heinrih ni gerade.</lem>
+						<rdg wit="#Translation">except royal prerogative, which Heinrich never coveted.</rdg>
+					</app>
+				</l>
+			</lg>
+			<lg type="stanza">
+				<l n="22">
+					<app>
+						<lem wit="#Transcription">Tunc stetit al thiu sprakha sub firmo Heinriche:</lem>
+						<rdg wit="#Translation">So thereafter all counseling was under Heinrich’s stewardship.</rdg>
+					</app>
+				</l>
+				<l n="23">
+					<app>
+						<lem wit="#Transcription">quicquid Otdo fecit, al geried iz Heinrih:</lem>
+						<rdg wit="#Translation">Whatever Otto did, Heinrich advised him so.</rdg>
+					</app>
+				</l>
+				<l n="24">
+					<app>
+						<lem wit="#Transcription">quicquid ac omisit, ouch geried iz Heinrihc.</lem>
+						<rdg wit="#Translation">And whatever Otto did not do, Heinrich advised him so, too.</rdg>
+					</app>
+				</l>
+			</lg>
+			<lg type="stanza">
+				<l n="25">
+					<app>
+						<lem wit="#Transcription">Hic non fuit ullus – thes hafon ig guoda fulleist</lem>
+						<rdg wit="#Translation">There was nobody – this has been confirmed</rdg>
+					</app>
+				</l>
+				<l n="26">
+					<app>
+						<lem wit="#Transcription">nobilibus ac liberis, thaz thid allaz uuar is –</lem>
+						<rdg wit="#Translation">to me to be true by both noblemen and freemen –</rdg>
+					</app>
+				</l>
+				<l n="27">
+					<app>
+						<lem wit="#Transcription">cui non fecisset Heinrich allero rehto gilich.</lem>
+						<rdg wit="#Translation">to whom Heinrich would not have served complete justice.</rdg>
+					</app>
+				</l>
+			</lg>
+		</body>
+	</text>
+</TEI>
