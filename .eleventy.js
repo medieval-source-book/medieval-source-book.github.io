@@ -1,3 +1,4 @@
+const siteURL = "https://sourcebook.stanford.edu"; // don't include trailing slash as the arguments passed to absoluteUrl function start with a slash
 const { DateTime } = require("luxon");
 const MarkdownIt = require("markdown-it");
 const yaml = require("js-yaml");
