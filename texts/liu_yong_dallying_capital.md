@@ -9,7 +9,6 @@ origtitle: |
   如魚水 · 帝里疏散
 breadcrumb: true
 permalink: "text/liu_yong_dallying_capital"
-redirect_from: 
 identifier: liu_yong_dallying_capital.md
 tei: /assets/tei/liu_yong_dallying_capital.xml
 pdf: /assets/pdf/liu_yong_dallying_capital.pdf
@@ -23,7 +22,7 @@ web_prep: Nino Martin
 languages: [chinese]
 periods: [11th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/tv766rn9869
+sdr: https://doi.org/10.25740/zt374dd7866
 image: /assets/img/text/liu_yong.jpg
 thumb: /assets/img/text/liu_yong-thumb.jpg
 ---

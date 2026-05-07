@@ -40,6 +40,64 @@ function toRedirectOutputPath(urlPath) {
   return `${urlPath}/index.html`;
 }
 
+function readFrontMatterData(filePath) {
+  let contents;
+
+  try {
+    contents = fs.readFileSync(filePath, "utf8");
+  } catch {
+    return {};
+  }
+
+  const frontMatterMatch = contents.match(/^---\s*\n([\s\S]*?)\n---\s*(?:\n|$)/);
+  if (!frontMatterMatch) {
+    return {};
+  }
+
+  try {
+    const parsed = yaml.load(frontMatterMatch[1]);
+    return parsed && typeof parsed === "object" ? parsed : {};
+  } catch {
+    return {};
+  }
+}
+
+function readCsvRedirectRows(filePath) {
+  let contents;
+
+  try {
+    contents = fs.readFileSync(filePath, "utf8");
+  } catch {
+    return [];
+  }
+
+  const lines = contents.split(/\r?\n/).map((line) => line.trim()).filter(Boolean);
+  if (lines.length < 2) {
+    return [];
+  }
+
+  const header = lines[0].toLowerCase();
+  if (header !== "url,redirect") {
+    return [];
+  }
+
+  const rows = [];
+
+  for (const line of lines.slice(1)) {
+    const commaIndex = line.indexOf(",");
+    if (commaIndex === -1) {
+      continue;
+    }
+
+    rows.push({
+      url: line.slice(0, commaIndex).trim(),
+      redirect: line.slice(commaIndex + 1).trim(),
+    });
+  }
+
+  return rows;
+}
+
 module.exports = function(eleventyConfig) {
   // Enable YAML global data files (e.g., 11ty/_data/*.yml)
   eleventyConfig.addDataExtension("yml", contents => yaml.load(contents));
@@ -192,6 +250,192 @@ module.exports = function(eleventyConfig) {
           source: item.inputPath,
         });
       }
+    }
+
+    return redirectPages;
+  });
+  eleventyConfig.addCollection("editsNeededRedirects", function(collectionApi) {
+    const redirectPages = [];
+    const usedPermalinks = new Set();
+    const usedRedirects = new Set();
+    const targetUrl = "/text-under-development/";
+
+    for (const item of collectionApi.getFilteredByGlob(["texts/**/*.md", "texts/**/*.html"])) {
+      const existingUrl = normalizeUrlPath(item.url || item.data.permalink);
+      if (!existingUrl) {
+        continue;
+      }
+
+      usedPermalinks.add(existingUrl);
+      usedPermalinks.add(toRedirectOutputPath(existingUrl));
+
+      const existingRedirects = Array.isArray(item.data.redirect_from)
+        ? item.data.redirect_from
+        : [item.data.redirect_from];
+
+      for (const redirectValue of existingRedirects) {
+        const redirectFrom = normalizeUrlPath(redirectValue);
+        const redirectOutputPath = toRedirectOutputPath(redirectFrom);
+
+        if (!redirectFrom || !redirectOutputPath) {
+          continue;
+        }
+
+        usedPermalinks.add(redirectFrom);
+        usedPermalinks.add(redirectOutputPath);
+      }
+    }
+
+    usedPermalinks.add(targetUrl);
+    usedPermalinks.add(toRedirectOutputPath(targetUrl));
+
+    const editsNeededDir = path.join(__dirname, "edits_needed");
+    let files = [];
+
+    try {
+      files = fs
+        .readdirSync(editsNeededDir)
+        .filter((entry) => entry.toLowerCase().endsWith(".md"));
+    } catch {
+      return redirectPages;
+    }
+
+    for (const filename of files) {
+      const inputPath = path.join(editsNeededDir, filename);
+      const data = readFrontMatterData(inputPath);
+      const redirectValues = [];
+
+      if (Array.isArray(data.redirect_from)) {
+        redirectValues.push(...data.redirect_from);
+      } else {
+        redirectValues.push(data.redirect_from);
+      }
+
+      redirectValues.push(data.permalink);
+
+      for (const value of redirectValues) {
+        const redirectFrom = normalizeUrlPath(value);
+        const redirectOutputPath = toRedirectOutputPath(redirectFrom);
+
+        if (!redirectFrom || !redirectOutputPath) {
+          continue;
+        }
+
+        if (
+          redirectFrom === targetUrl ||
+          redirectOutputPath === toRedirectOutputPath(targetUrl) ||
+          usedPermalinks.has(redirectFrom) ||
+          usedPermalinks.has(redirectOutputPath) ||
+          usedRedirects.has(redirectOutputPath)
+        ) {
+          continue;
+        }
+
+        usedRedirects.add(redirectOutputPath);
+        redirectPages.push({
+          permalink: redirectOutputPath,
+          target: targetUrl,
+          source: inputPath,
+        });
+      }
+    }
+
+    return redirectPages;
+  });
+  eleventyConfig.addCollection("csvRedirects", function(collectionApi) {
+    const redirectPages = [];
+    const usedPermalinks = new Set();
+    const usedRedirects = new Set();
+
+    for (const item of collectionApi.getFilteredByGlob(["texts/**/*.md", "texts/**/*.html"])) {
+      const existingUrl = normalizeUrlPath(item.url || item.data.permalink);
+      if (!existingUrl) {
+        continue;
+      }
+
+      usedPermalinks.add(existingUrl);
+      usedPermalinks.add(toRedirectOutputPath(existingUrl));
+
+      const existingRedirects = Array.isArray(item.data.redirect_from)
+        ? item.data.redirect_from
+        : [item.data.redirect_from];
+
+      for (const redirectValue of existingRedirects) {
+        const redirectFrom = normalizeUrlPath(redirectValue);
+        const redirectOutputPath = toRedirectOutputPath(redirectFrom);
+
+        if (!redirectFrom || !redirectOutputPath) {
+          continue;
+        }
+
+        usedPermalinks.add(redirectFrom);
+        usedPermalinks.add(redirectOutputPath);
+      }
+    }
+
+    const editsNeededDir = path.join(__dirname, "edits_needed");
+    let editsNeededFiles = [];
+
+    try {
+      editsNeededFiles = fs
+        .readdirSync(editsNeededDir)
+        .filter((entry) => entry.toLowerCase().endsWith(".md"));
+    } catch {
+      editsNeededFiles = [];
+    }
+
+    for (const filename of editsNeededFiles) {
+      const inputPath = path.join(editsNeededDir, filename);
+      const data = readFrontMatterData(inputPath);
+      const redirectValues = [];
+
+      if (Array.isArray(data.redirect_from)) {
+        redirectValues.push(...data.redirect_from);
+      } else {
+        redirectValues.push(data.redirect_from);
+      }
+
+      redirectValues.push(data.permalink);
+
+      for (const value of redirectValues) {
+        const redirectFrom = normalizeUrlPath(value);
+        const redirectOutputPath = toRedirectOutputPath(redirectFrom);
+
+        if (!redirectFrom || !redirectOutputPath) {
+          continue;
+        }
+
+        usedPermalinks.add(redirectFrom);
+        usedPermalinks.add(redirectOutputPath);
+      }
+    }
+
+    const csvPath = path.join(__dirname, "_data", "redirects.csv");
+    for (const row of readCsvRedirectRows(csvPath)) {
+      const redirectFrom = normalizeUrlPath(row.url);
+      const targetUrl = normalizeUrlPath(row.redirect);
+      const redirectOutputPath = toRedirectOutputPath(redirectFrom);
+
+      if (!redirectFrom || !targetUrl || !redirectOutputPath) {
+        continue;
+      }
+
+      if (
+        redirectFrom === targetUrl ||
+        redirectOutputPath === toRedirectOutputPath(targetUrl) ||
+        usedPermalinks.has(redirectFrom) ||
+        usedPermalinks.has(redirectOutputPath) ||
+        usedRedirects.has(redirectOutputPath)
+      ) {
+        continue;
+      }
+
+      usedRedirects.add(redirectOutputPath);
+      redirectPages.push({
+        permalink: redirectOutputPath,
+        target: targetUrl,
+        source: csvPath,
+      });
     }
 
     return redirectPages;

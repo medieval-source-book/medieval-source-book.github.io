@@ -23,7 +23,7 @@ web_prep: Nino Martin
 languages: [chinese]
 periods: [12th_century]
 textcollections: [good-life]
-sdr: https://purl.stanford.edu/cs902ps8424
+sdr: https://doi.org/10.25740/xd762kk7089
 image: /assets/img/text/li_qingzhao_wind_stops_dust_fragrant.png
 thumb: /assets/img/text/li_qingzhao_wind_stops_dust_fragrant-thumb.png
 imagesource: "Detail from 宋人畫調鶴采花仙(Woman Outside) 軸, Anonymous, National Palace Museum, Accession Number: K2A000169N000000000PAA [Public Domain]"
