@@ -22,7 +22,7 @@ web_prep: Nino Martin
 languages: [latin]
 periods: [15th_century]
 textcollections: [making-history]
-sdr:
+sdr: https://doi.org/10.25740/yx655bd5684
 image: /assets/img/text/reno_incident_university_paris.jpg
 thumb: /assets/img/text/reno_incident_university_paris-thumb.jpg
 imagesource: "“Conclusions de la Nation d’Angleterre. « Anno Mo CCCCo sexto, die quinta mensis maii — Mo CCCCo XXIIII, die septima mensis martii »”, NuBIS (Bibliothèque interuniversitaire de la Sorbonne)"
