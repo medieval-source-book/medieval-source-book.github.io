@@ -19,7 +19,7 @@ tei_prep: Jordan Rosen-Kaplan
 languages: [italian]
 periods: [14th_century]
 textcollections: [gender-sex-sensuality, prayer-spirituality]
-sdr:
+sdr: https://doi.org/10.25740/rz076pk8868
 image: /assets/img/text/passavanti_charcoal_burner_nevers.png
 thumb: /assets/img/text/passavanti_charcoal_burner_nevers.png
 imagesource: "British Library MS Royal 15 E II f.38 [Public Domain]"

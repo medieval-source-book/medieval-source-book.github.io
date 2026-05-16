@@ -23,7 +23,7 @@ web_prep: Nino Martin
 languages: [chinese]
 periods: [11th_century]
 textcollections: [good-life]
-sdr:
+sdr: https://doi.org/10.25740/nz373zn0028
 image: /assets/img/text/ouyang_xiu_i_hold_wine.jpg
 thumb: /assets/img/text/ouyang_xiu_i_hold_wine-thumb.jpg
 imagesource: "Detail from 宋人洛陽耆英會圖(Wise Men Talking Together) 軸 , Anonymous,  National Palace Museum, Accession Number: K2A000173N000000000PAA [Public Domain]]"

@@ -23,7 +23,7 @@ web_prep: Nino Martin
 languages: [chinese]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
-sdr:
+sdr: https://doi.org/10.25740/kk974jt3293
 image: /assets/img/text/ouyang_xiu_beyond_willows.jpg
 thumb: /assets/img/text/ouyang_xiu_beyond_willows-thumb.jpg
 imagesource: "Detail from 宋元集繪 冊 宋緙絲翠羽秋荷(Lotuses) , Anonymous,  National Palace Museum, Accession Number: K2A001246N000000001PAA [Public Domain]"
